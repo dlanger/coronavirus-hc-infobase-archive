@@ -15,9 +15,11 @@ jobs:
     env:
       TABLE_NUMBER: ${{ matrix.table }}
     steps:
-    - name: Download table
+    - name: Create temp directory
+      run: |
+        mkdir ./temp
+    - name: Download table to temp directory
       run: |-
-        echo "HELLO $TABLE_NUMBER"
         curl https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip > ./temp/table-$TABLE_NUMBER.zip
             
 
