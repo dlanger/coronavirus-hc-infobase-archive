@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        table: ["13100781","13100775"]
+        table: ["13100781","13100775"] # Don't forget to add LFS files into .gitattributes
     env:
       TABLE_NUMBER: ${{ matrix.table }}
     steps:
@@ -46,6 +46,7 @@ jobs:
         cd repo
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
+        git pull --no-ff
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
@@ -110,6 +111,7 @@ jobs:
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
+        git pull --no-ff
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
