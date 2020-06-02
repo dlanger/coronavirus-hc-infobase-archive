@@ -20,18 +20,21 @@ jobs:
         mkdir -p ./temp/cache
     - name: Download table to temp directory
       run: |
-        curl "https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip" > "./temp/table-$TABLE_NUMBER.zip"
+        curl "https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip" > "table-$TABLE_NUMBER.zip"
     - name: Check cache
       uses: actions/cache@v2
       id: cache-check
       with:
         path: ./temp/cache
-        key: statscan-table-${{ env. TABLE_NUMBER }}--${{ hashFiles('./temp/table-$TABLE_NUMBER.zip')}}-999
-    - name: Update files
-      if: steps.cache-check.output.cache-hit == 'true'
+        key: statscan-table-${{ env. TABLE_NUMBER }}--${{ hashFiles('table-$TABLE_NUMBER.zip')}}-999
+    - name: Move table zip out of the way
       run: |
-        echo "CACHE HIT"
-            
+        mv "table-$TABLE_NUMBER.zip" "/temp/table-$TABLE_NUMBER.zip"
+    - name: Check out this repo
+      if: steps.cache-check.output.cache-hit == 'true'
+      uses: actions/checkout@v2
+      with:
+        lfs: true
 
 
 
