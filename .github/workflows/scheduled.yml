@@ -11,29 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        tables: ["13100781"]
+        table: ["13100781"]
+    env:
+      TABLE_NUMBER: ${{ matrix.table }}
     steps:
-    - name: Check out this repo
-      uses: actions/checkout@v2
-      with:
-        lfs: false
-    - name: Set up Python
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.8
-    - uses: actions/cache@v2
-      name: Configure pip caching
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
-    - name: Install Python dependencies
-      run: |
-        pip install -r requirements.txt
     - name: Download table
-      run: |
-        conditional-get -v https://www150.statcan.gc.ca/n1/tbl/csv/${{ matrix.table }}-eng.zip -o ./temp/table-${{ matrix.table }}.zip
+      run: |-
+        echo "HELLO $TABLE_NUMBER"
+        curl https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip > ./temp/table-$TABLE_NUMBER.zip
             
 
 
