@@ -971,8 +971,8 @@
     {
       "attributes" : {
         "Date" : 1591160400000, 
-        "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 298, 
+        "Daily_Cases" : 2, 
+        "Cumulative_Cases" : 300, 
         "Active_Cases" : 9, 
         "Recoveries" : 282, 
         "Deaths" : 7, 
@@ -983,11 +983,22 @@
       "attributes" : {
         "Date" : 1591246800000, 
         "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 298, 
+        "Cumulative_Cases" : 300, 
         "Active_Cases" : 7, 
         "Recoveries" : 284, 
         "Deaths" : 7, 
         "ObjectId" : 84
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1591333200000, 
+        "Daily_Cases" : 0, 
+        "Cumulative_Cases" : 300, 
+        "Active_Cases" : 9, 
+        "Recoveries" : 284, 
+        "Deaths" : 7, 
+        "ObjectId" : 85
       }
     }
   ]
