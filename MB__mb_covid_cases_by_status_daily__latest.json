@@ -1000,6 +1000,39 @@
         "Deaths" : 7, 
         "ObjectId" : 85
       }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1591419600000, 
+        "Daily_Cases" : 0, 
+        "Cumulative_Cases" : 300, 
+        "Active_Cases" : null, 
+        "Recoveries" : null, 
+        "Deaths" : null, 
+        "ObjectId" : 86
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1591506000000, 
+        "Daily_Cases" : 0, 
+        "Cumulative_Cases" : 300, 
+        "Active_Cases" : null, 
+        "Recoveries" : null, 
+        "Deaths" : null, 
+        "ObjectId" : 87
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1591592400000, 
+        "Daily_Cases" : 0, 
+        "Cumulative_Cases" : 300, 
+        "Active_Cases" : 9, 
+        "Recoveries" : 284, 
+        "Deaths" : 7, 
+        "ObjectId" : 88
+      }
     }
   ]
 }
