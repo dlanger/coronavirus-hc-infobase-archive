@@ -1059,12 +1059,23 @@
     {
       "attributes" : {
         "Date" : 1591851600000, 
-        "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 300, 
+        "Daily_Cases" : 1, 
+        "Cumulative_Cases" : 301, 
         "Active_Cases" : 7, 
         "Recoveries" : 286, 
         "Deaths" : 7, 
         "ObjectId" : 91
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1591938000000, 
+        "Daily_Cases" : 0, 
+        "Cumulative_Cases" : 301, 
+        "Active_Cases" : 5, 
+        "Recoveries" : 289, 
+        "Deaths" : 7, 
+        "ObjectId" : 92
       }
     }
   ]
