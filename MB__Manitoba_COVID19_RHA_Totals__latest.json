@@ -60,9 +60,9 @@
       "attributes" : {
         "RHACODE" : "01", 
         "RHAName" : "Winnipeg", 
-        "Lab_Confirmed" : 227, 
+        "Lab_Confirmed" : 231, 
         "Probable" : 4, 
-        "Total_Cases" : 231
+        "Total_Cases" : 235
       }
     }, 
     {
@@ -87,9 +87,9 @@
       "attributes" : {
         "RHACODE" : "05", 
         "RHAName" : "Southern Health-Santé Sud", 
-        "Lab_Confirmed" : 33, 
+        "Lab_Confirmed" : 35, 
         "Probable" : 5, 
-        "Total_Cases" : 38
+        "Total_Cases" : 40
       }
     }, 
     {
