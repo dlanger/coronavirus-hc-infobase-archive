@@ -7,51 +7,6 @@ on:
     - cron:  '25 * * * *'
 
 jobs:
-  scheduled-statscan:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        table: ["13100781","13100775"] # Don't forget to add LFS files into .gitattributes
-    env:
-      TABLE_NUMBER: ${{ matrix.table }}
-    steps:
-    - name: Create temp directory
-      run: |
-        mkdir -p tmp/cache
-    - name: Download table to temp directory
-      run: |
-        curl "https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip" > "tmp/table-$TABLE_NUMBER.zip"
-        echo "::set-env name=TABLE_HASH::$(md5sum tmp/table-$TABLE_NUMBER.zip | cut -d" " -f1)"
-    - name: Check cache
-      uses: actions/cache@v2
-      id: table-cache-check
-      with:
-        path: tmp/cache
-        key: statscan-table-${{ env.TABLE_NUMBER }}--${{ env.TABLE_HASH }}
-    - name: Check out this repo if hash of zip file isn't known
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      uses: actions/checkout@v2
-      with:
-        lfs: true
-        path: repo
-    - name: Unzip data tables
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      run: |-
-        unzip "tmp/table-$TABLE_NUMBER.zip"
-        mv "${TABLE_NUMBER}.csv" "repo/CA__${TABLE_NUMBER}__latest.csv"
-        mv "${TABLE_NUMBER}_MetaData.csv" "repo/CA__${TABLE_NUMBER}_MetaData__latest.csv"
-    - name: Commit and push if it changed
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      run: |-
-        cd repo
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        git pull --rebase
-        git push
-
   scheduled-files:
     runs-on: ubuntu-latest
     steps:
