@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        table: ["13100781","13100775"] # Don't forget to add LFS files into .gitattributes
+        table: ["13100781","13100775","13100774"] # Don't forget to add LFS files into .gitattributes
     env:
       TABLE_NUMBER: ${{ matrix.table }}
     steps:
