@@ -1,4 +1,4 @@
-﻿Reporting,Confirmed Cases,,Currently hospitalized,,New,Total neg.,Cumulative Case Numbers by Zone,,,,Gender %,,Age Demographics %,,,,
+Reporting,Confirmed Cases,,Currently hospitalized,,New,Total neg.,Cumulative Case Numbers by Zone,,,,Gender %,,Age Demographics %,,,,
 Date,New,Resolved,non-ICU,ICU,Deaths,Tests,Western,Northern,Eastern,Central,Female,Male,0 -> 19,20 -> 39,40 -> 59,60 -> 79,80+
 2020-03-15,3,0,,,0,415,,,,,,,,,,,
 2020-03-16,2,0,,,0,671,,,,,,,,,,,
@@ -125,3 +125,4 @@ Date,New,Resolved,non-ICU,ICU,Deaths,Tests,Western,Northern,Eastern,Central,Fema
 2020-07-15,1,1002,1,0,0,58315,54,57,53,903,61%,39%,10%,26%,27%,23%,17%
 2020-07-16,0,1002,0,0,0,58728,54,57,53,903,61%,39%,10%,26%,27%,23%,17%
 2020-07-17,0,1002,0,0,0,59124,54,57,53,903,61%,39%,10%,26%,27%,23%,17%
+2020-07-18,0,1002,0,0,0,59420,54,57,53,903,61%,39%,10%,26%,27%,23%,17%
