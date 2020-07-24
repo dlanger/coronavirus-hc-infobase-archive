@@ -60,36 +60,36 @@
       "attributes" : {
         "RHACODE" : "01", 
         "RHAName" : "Winnipeg", 
-        "Lab_Confirmed" : 240, 
+        "Lab_Confirmed" : 241, 
         "Probable" : 4, 
-        "Total_Cases" : 244
+        "Total_Cases" : 245
       }
     }, 
     {
       "attributes" : {
         "RHACODE" : "02", 
         "RHAName" : "Prairie Mountain Health", 
-        "Lab_Confirmed" : 33, 
+        "Lab_Confirmed" : 34, 
         "Probable" : 0, 
-        "Total_Cases" : 33
+        "Total_Cases" : 34
       }
     }, 
     {
       "attributes" : {
         "RHACODE" : "03", 
         "RHAName" : "Interlake-Eastern", 
-        "Lab_Confirmed" : 43, 
+        "Lab_Confirmed" : 45, 
         "Probable" : 4, 
-        "Total_Cases" : 47
+        "Total_Cases" : 49
       }
     }, 
     {
       "attributes" : {
         "RHACODE" : "05", 
         "RHAName" : "Southern Health-Santé Sud", 
-        "Lab_Confirmed" : 43, 
+        "Lab_Confirmed" : 48, 
         "Probable" : 5, 
-        "Total_Cases" : 48
+        "Total_Cases" : 53
       }
     }, 
     {
