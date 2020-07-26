@@ -2113,6 +2113,21 @@
         "active_cases" : 3, 
         "total_tests_delivered" : 23361
       }
+    }, 
+    {
+      "attributes" : {
+        "objectid" : 136, 
+        "globalid" : "8f9b44ce-5459-4afc-b2db-bfd233555233", 
+        "date_of_update" : 1595773800000, 
+        "total_cases" : 266, 
+        "new_provincial_cases" : 1, 
+        "total_recovered" : 259, 
+        "currently_hospitalized" : 0, 
+        "currently_in_icu" : 0, 
+        "total_deaths" : 3, 
+        "active_cases" : 4, 
+        "total_tests_delivered" : 23657
+      }
     }
   ]
 }
