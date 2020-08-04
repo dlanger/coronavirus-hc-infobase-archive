@@ -1,4 +1,4 @@
-pruid,prname,prnameFR,date,numconf,numprob,numdeaths,numtotal,numtested,numrecover,percentrecover,ratetested,numtoday,percentoday,ratetotal,ratedeaths,numdeathstoday,percentdeath,numtestedtoday,numrecoveredtoday,percentactive,numactive,rateactive,numtotal_last14,ratetotal_last14,numdeaths_last14,ratedeaths_last14
+pruid,prname,prnameFR,date,numconf,numprob,numdeaths,numtotal,numtested,numrecover,percentrecover,ratetested,numtoday,percentoday,ratetotal,ratedeaths,deathstoday,percentdeath,testedtoday,numrecoveredtoday,percentactive,numactive,rateactive,numtotal_last14,ratetotal_last14,numdeaths_last14,ratedeaths_last14
 35,Ontario,Ontario,31-01-2020,3,0,0,3,,,,,3,300.00,0.02,0.00,0,0.00,,,100.00,3,0.02,,,,
 59,British Columbia,Colombie-Britannique,31-01-2020,1,0,0,1,,,,,1,100.00,0.02,0.00,0,0.00,,,100.00,1,0.02,,,,
 1,Canada,Canada,31-01-2020,4,0,0,4,,,,,4,400.00,0.01,0.00,0,0.00,,,100.00,4,0.01,,,,
