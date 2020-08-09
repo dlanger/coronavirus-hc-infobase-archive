@@ -14,7 +14,7 @@ Backing up data from [Health Canada Infobase](https://www.canada.ca/en/public-he
 
 ## Provincial data
 * BC: http://www.bccdc.ca/health-info/diseases-conditions/covid-19/data
-* ON: https://covid-19.ontario.ca/#section-0
+* ON: https://data.ontario.ca/dataset?keywords_en=COVID-19
 * NS: https://novascotia.ca/coronavirus/data/
 * MB: https://experience.arcgis.com/experience/f55693e56018406ebbd08b3492e99771
 * NL: https://covid-19-newfoundland-and-labrador-gnl.hub.arcgis.com/
