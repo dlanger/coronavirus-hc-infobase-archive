@@ -60,18 +60,18 @@
       "attributes" : {
         "RHACODE" : "01", 
         "RHAName" : "Winnipeg", 
-        "Lab_Confirmed" : 262, 
+        "Lab_Confirmed" : 263, 
         "Probable" : 4, 
-        "Total_Cases" : 266
+        "Total_Cases" : 267
       }
     }, 
     {
       "attributes" : {
         "RHACODE" : "02", 
         "RHAName" : "Prairie Mountain Health", 
-        "Lab_Confirmed" : 124, 
+        "Lab_Confirmed" : 127, 
         "Probable" : 0, 
-        "Total_Cases" : 124
+        "Total_Cases" : 127
       }
     }, 
     {
