@@ -1,6 +1,6 @@
 {
     "https://health-infobase.canada.ca/src/data/covidLive/covid19.csv": "\"0cace10fe70d61:0\"",
-    "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-casesovertime.csv": "\"a9116211fe70d61:0\"",
+    "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-casesovertime.csv": "\"0cace10fe70d61:0\"",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-agegroups2.csv": "\"2e24bb11fe70d61:0\"",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-probableexposure.csv": "\"bc1b1112fe70d61:0\"",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-symptoms.csv": "\"3507f12fe70d61:0\"",
@@ -25,7 +25,7 @@
     "https://services8.arcgis.com/aCyQID5qQcyrJMm2/ArcGIS/rest/services/RHA_CurrentStats2_Public/FeatureServer/0/query?where=ObjectID%3E0&objectIds=&time=&geometry=&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&returnGeodetic=false&outFields=name%2CRHAShort%2Cregional_health_authority%2Cdate_updated%2Ctotal_number_of_cases%2Cnew_cases%2Ccurrently_hospitalized%2Ccurrent_in_icu%2Ctotal_number_recovered%2Ctotal_number_of_deaths%2Cactive_cases%2Ctotal_people_tested&returnGeometry=false&returnCentroid=false&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pjson&token=": "sd2814_-2113684008",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-data-dictionary.csv": "\"07e8156d15ad61:0\"",
     "https://data.ontario.ca/dataset/f4f86e54-872d-43f8-8a86-3892fd3cb5e6/resource/7be0a14c-bf50-4340-9304-2b189d507541/download/covidtesting_data_dictionary.xlsx": "\"1593460302.4-19387\"",
-    "https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/0f8b343e-fc28-4ca5-9aab-c3a1d2c919f1/download/ltccovidsummary.csv": "\"1597068911.65-3909\"",
+    "https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/0f8b343e-fc28-4ca5-9aab-c3a1d2c919f1/download/ltccovidsummary.csv": "\"1597344093.3-4002\"",
     "https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/4b64488a-0523-4ebb-811a-fac2f07e6d59/download/activeltcoutbreak.csv": "\"1597327943.04-532264\"",
     "https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/0cf2f01e-d4e1-48ed-8027-2133d059ec8b/download/resolvedltc.csv": "\"1597328074.48-1207731\"",
     "https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/adbcf9f8-e473-4f27-b85f-0f05f686067b/download/ltc_dictionary.xlsx": "\"1594404242.43-13497\"",
