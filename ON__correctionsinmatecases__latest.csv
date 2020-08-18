@@ -1,4 +1,4 @@
-"Reporting_Date","Region","Institution","Total_Ongoing_Active_Inmate_Cases_as_of_Reporting_Date","Cumulative_Number_of_Resolved_Inmate_Cases_as_of_Reporting_Date","Cumulative_Number_of_Positive_Inmate_Cases_Released_from_Custody_as_of_Reporting_Date"
+"Reported_Date","Region","Institution","Total_Active_Inmate_Cases_As_Of_Reported_Date","Cumul_Nr_Resolved_Inmate_Cases_As_Of_Reported_Date","Cumul_Nr_Positive_Released_Inmate_Cases_As_Of_Reported_Date"
 "2020-05-08","Central","Hamilton Wentworth Det Centre",1,,
 "2020-05-08","Central","Maplehurst Correctional Complex",,1,1
 "2020-05-08","Central","Ontario Correctional Institute",71,15,2
@@ -683,3 +683,15 @@
 "2020-08-16","Western","Central North Correctional Centre",,1,1
 "2020-08-16","Northern","Kenora Jail",,2,
 "2020-08-16","Western","Elgin-Middlesex Det. Centre",,1,
+"2020-08-17","Northern","Monteith Correctional Centre",,1,
+"2020-08-17","Central","Maplehurst Correctional Complex",,6,3
+"2020-08-17","Central","Ontario Correctional Institute",,89,2
+"2020-08-17","Toronto","Toronto South Detention Centre",,11,7
+"2020-08-17","Central","Milton-Vanier Centre For Women",,1,3
+"2020-08-17","Central","Hamilton Wentworth Det Centre",,1,
+"2020-08-17","Eastern","Central East Correctional Centre",,1,2
+"2020-08-17","Central","Niagara Detention Centre",,1,1
+"2020-08-17","Western","Central North Correctional Centre",,1,1
+"2020-08-17","Northern","Kenora Jail",,2,
+"2020-08-17","Western","Elgin-Middlesex Det. Centre",,1,
+"2020-08-17","Western","Ottawa Carleton Detention Centre",1,,
