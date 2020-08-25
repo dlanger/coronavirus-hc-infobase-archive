@@ -19,7 +19,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/4/2020,Out of Canada,F,50-59,Lab-diagnosed
 3/4/2020,Out of Canada,F,50-59,Lab-diagnosed
 3/5/2020,Out of Canada,F,50-59,Lab-diagnosed
-3/5/2020,Fraser,M,19-Oct,Lab-diagnosed
+3/5/2020,Fraser,M,10-19,Lab-diagnosed
 3/5/2020,Fraser,M,50-59,Lab-diagnosed
 3/5/2020,Fraser,F,50-59,Lab-diagnosed
 3/6/2020,Fraser,F,60-69,Lab-diagnosed
@@ -75,7 +75,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/12/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 3/12/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 3/12/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
-3/12/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+3/12/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 3/12/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 3/12/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 3/12/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -250,13 +250,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/18/2020,Fraser,M,40-49,Lab-diagnosed
 3/18/2020,Fraser,M,40-49,Lab-diagnosed
 3/18/2020,Fraser,F,40-49,Lab-diagnosed
-3/18/2020,Fraser,M,19-Oct,Lab-diagnosed
+3/18/2020,Fraser,M,10-19,Lab-diagnosed
 3/18/2020,Fraser,F,30-39,Lab-diagnosed
 3/18/2020,Fraser,F,40-49,Lab-diagnosed
 3/18/2020,Fraser,F,20-29,Lab-diagnosed
 3/18/2020,Interior,M,30-39,Lab-diagnosed
 3/18/2020,Vancouver Island,F,40-49,Lab-diagnosed
-3/18/2020,Vancouver Island,M,19-Oct,Lab-diagnosed
+3/18/2020,Vancouver Island,M,10-19,Lab-diagnosed
 3/18/2020,Vancouver Island,M,50-59,Lab-diagnosed
 3/18/2020,Vancouver Island,F,20-29,Lab-diagnosed
 3/18/2020,Vancouver Island,F,40-49,Lab-diagnosed
@@ -299,7 +299,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/19/2020,Fraser,F,60-69,Lab-diagnosed
 3/19/2020,Fraser,F,20-29,Lab-diagnosed
 3/19/2020,Fraser,F,30-39,Lab-diagnosed
-3/19/2020,Fraser,F,19-Oct,Lab-diagnosed
+3/19/2020,Fraser,F,10-19,Lab-diagnosed
 3/19/2020,Fraser,F,50-59,Lab-diagnosed
 3/19/2020,Fraser,M,60-69,Lab-diagnosed
 3/19/2020,Fraser,F,40-49,Lab-diagnosed
@@ -404,7 +404,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/21/2020,Fraser,F,50-59,Lab-diagnosed
 3/21/2020,Fraser,F,30-39,Lab-diagnosed
 3/21/2020,Interior,F,70-79,Lab-diagnosed
-3/21/2020,Interior,F,19-Oct,Lab-diagnosed
+3/21/2020,Interior,F,10-19,Lab-diagnosed
 3/21/2020,Interior,F,40-49,Lab-diagnosed
 3/21/2020,Interior,M,30-39,Lab-diagnosed
 3/21/2020,Interior,M,30-39,Lab-diagnosed
@@ -716,7 +716,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/25/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 3/25/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 3/25/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-3/25/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+3/25/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 3/25/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 3/25/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 3/25/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
@@ -862,9 +862,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/28/2020,Interior,F,50-59,Lab-diagnosed
 3/28/2020,Vancouver Island,M,60-69,Lab-diagnosed
 3/28/2020,Vancouver Island,F,40-49,Lab-diagnosed
-3/28/2020,Vancouver Island,M,19-Oct,Lab-diagnosed
+3/28/2020,Vancouver Island,M,10-19,Lab-diagnosed
 3/28/2020,Vancouver Island,F,20-29,Lab-diagnosed
-3/28/2020,Vancouver Island,F,19-Oct,Lab-diagnosed
+3/28/2020,Vancouver Island,F,10-19,Lab-diagnosed
 3/28/2020,Vancouver Island,M,80-89,Lab-diagnosed
 3/28/2020,Northern,F,50-59,Lab-diagnosed
 3/28/2020,Northern,F,70-79,Lab-diagnosed
@@ -962,7 +962,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 3/30/2020,Fraser,F,30-39,Lab-diagnosed
 3/30/2020,Fraser,F,50-59,Lab-diagnosed
 3/30/2020,Fraser,F,50-59,Lab-diagnosed
-3/30/2020,Fraser,M,19-Oct,Lab-diagnosed
+3/30/2020,Fraser,M,10-19,Lab-diagnosed
 3/30/2020,Fraser,M,40-49,Lab-diagnosed
 3/30/2020,Fraser,F,60-69,Lab-diagnosed
 3/30/2020,Fraser,F,20-29,Lab-diagnosed
@@ -1413,7 +1413,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/10/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
 4/10/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 4/10/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-4/10/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/10/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/10/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 4/10/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 4/10/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
@@ -1460,7 +1460,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/12/2020,Fraser,M,30-39,Lab-diagnosed
 4/12/2020,Fraser,M,40-49,Lab-diagnosed
 4/12/2020,Fraser,F,40-49,Lab-diagnosed
-4/12/2020,Fraser,M,19-Oct,Lab-diagnosed
+4/12/2020,Fraser,M,10-19,Lab-diagnosed
 4/12/2020,Vancouver Island,M,60-69,Lab-diagnosed
 4/12/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 4/12/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
@@ -1491,7 +1491,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/13/2020,Vancouver Coastal,M,80-89,Lab-diagnosed
 4/13/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 4/13/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
-4/13/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/13/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/13/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 4/13/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 4/13/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
@@ -1648,7 +1648,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/18/2020,Vancouver Island,M,20-29,Lab-diagnosed
 4/18/2020,Northern,F,30-39,Lab-diagnosed
 4/18/2020,Northern,F,30-39,Lab-diagnosed
-4/18/2020,Northern,F,19-Oct,Lab-diagnosed
+4/18/2020,Northern,F,10-19,Lab-diagnosed
 4/18/2020,Northern,M,40-49,Lab-diagnosed
 4/18/2020,Northern,F,50-59,Lab-diagnosed
 4/18/2020,Vancouver Coastal,F,90+,Lab-diagnosed
@@ -1670,8 +1670,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/19/2020,Interior,M,50-59,Lab-diagnosed
 4/19/2020,Interior,M,50-59,Lab-diagnosed
 4/19/2020,Vancouver Island,M,40-49,Lab-diagnosed
-4/19/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
-4/19/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/19/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
+4/19/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/19/2020,Vancouver Coastal,M,90+,Lab-diagnosed
 4/19/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 4/20/2020,Fraser,M,60-69,Lab-diagnosed
@@ -1699,7 +1699,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/20/2020,Vancouver Island,F,20-29,Lab-diagnosed
 4/20/2020,Vancouver Island,F,20-29,Lab-diagnosed
 4/20/2020,Vancouver Island,F,20-29,Lab-diagnosed
-4/20/2020,Vancouver Island,F,19-Oct,Lab-diagnosed
+4/20/2020,Vancouver Island,F,10-19,Lab-diagnosed
 4/20/2020,Northern,M,30-39,Lab-diagnosed
 4/20/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 4/20/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
@@ -1782,15 +1782,15 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/22/2020,Fraser,F,30-39,Lab-diagnosed
 4/22/2020,Fraser,M,30-39,Lab-diagnosed
 4/22/2020,Fraser,M,20-29,Lab-diagnosed
-4/22/2020,Fraser,M,19-Oct,Lab-diagnosed
+4/22/2020,Fraser,M,10-19,Lab-diagnosed
 4/22/2020,Fraser,F,30-39,Lab-diagnosed
 4/22/2020,Interior,F,40-49,Lab-diagnosed
 4/22/2020,Interior,M,40-49,Lab-diagnosed
 4/22/2020,Interior,F,50-59,Lab-diagnosed
 4/22/2020,Interior,F,40-49,Lab-diagnosed
 4/22/2020,Interior,M,30-39,Lab-diagnosed
-4/22/2020,Vancouver Island,F,19-Oct,Lab-diagnosed
-4/22/2020,Vancouver Island,M,19-Oct,Lab-diagnosed
+4/22/2020,Vancouver Island,F,10-19,Lab-diagnosed
+4/22/2020,Vancouver Island,M,10-19,Lab-diagnosed
 4/22/2020,Northern,F,60-69,Lab-diagnosed
 4/22/2020,Northern,M,<10,Lab-diagnosed
 4/22/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
@@ -1905,9 +1905,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/24/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 4/24/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 4/24/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
-4/24/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/24/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/24/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
-4/24/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/24/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/24/2020,Vancouver Coastal,F,70-79,Lab-diagnosed
 4/24/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 4/24/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
@@ -1939,7 +1939,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/25/2020,Fraser,M,30-39,Lab-diagnosed
 4/25/2020,Fraser,M,30-39,Lab-diagnosed
 4/25/2020,Fraser,F,30-39,Lab-diagnosed
-4/25/2020,Fraser,F,19-Oct,Lab-diagnosed
+4/25/2020,Fraser,F,10-19,Lab-diagnosed
 4/25/2020,Fraser,M,50-59,Lab-diagnosed
 4/25/2020,Fraser,F,40-49,Lab-diagnosed
 4/25/2020,Fraser,F,40-49,Lab-diagnosed
@@ -1969,8 +1969,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/25/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 4/25/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 4/25/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
-4/25/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
-4/25/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/25/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
+4/25/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/25/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 4/25/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 4/25/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
@@ -2006,8 +2006,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/27/2020,Fraser,F,20-29,Lab-diagnosed
 4/27/2020,Fraser,F,30-39,Lab-diagnosed
 4/27/2020,Fraser,F,20-29,Lab-diagnosed
-4/27/2020,Fraser,M,19-Oct,Lab-diagnosed
-4/27/2020,Fraser,M,19-Oct,Lab-diagnosed
+4/27/2020,Fraser,M,10-19,Lab-diagnosed
+4/27/2020,Fraser,M,10-19,Lab-diagnosed
 4/27/2020,Fraser,F,40-49,Lab-diagnosed
 4/27/2020,Fraser,M,30-39,Lab-diagnosed
 4/27/2020,Fraser,F,70-79,Lab-diagnosed
@@ -2025,26 +2025,26 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 4/27/2020,Fraser,F,30-39,Lab-diagnosed
 4/27/2020,Fraser,M,40-49,Lab-diagnosed
 4/27/2020,Fraser,F,40-49,Lab-diagnosed
-4/27/2020,Fraser,M,19-Oct,Lab-diagnosed
-4/27/2020,Fraser,M,19-Oct,Lab-diagnosed
+4/27/2020,Fraser,M,10-19,Lab-diagnosed
+4/27/2020,Fraser,M,10-19,Lab-diagnosed
 4/27/2020,Fraser,F,50-59,Lab-diagnosed
 4/27/2020,Fraser,M,70-79,Lab-diagnosed
 4/27/2020,Fraser,M,50-59,Lab-diagnosed
 4/27/2020,Interior,M,20-29,Lab-diagnosed
 4/27/2020,Vancouver Island,M,30-39,Lab-diagnosed
-4/27/2020,Vancouver Island,M,19-Oct,Lab-diagnosed
+4/27/2020,Vancouver Island,M,10-19,Lab-diagnosed
 4/27/2020,Vancouver Island,M,30-39,Lab-diagnosed
 4/27/2020,Northern,M,60-69,Lab-diagnosed
 4/27/2020,Northern,F,20-29,Lab-diagnosed
-4/27/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+4/27/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 4/27/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 4/27/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-4/27/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+4/27/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 4/27/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 4/27/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 4/27/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 4/27/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
-4/27/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+4/27/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 4/27/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 4/27/2020,Out of Canada,M,50-59,Lab-diagnosed
 4/28/2020,Fraser,M,60-69,Lab-diagnosed
@@ -2178,7 +2178,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/2/2020,Fraser,F,20-29,Lab-diagnosed
 5/2/2020,Fraser,M,20-29,Lab-diagnosed
 5/2/2020,Fraser,M,30-39,Lab-diagnosed
-5/2/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/2/2020,Fraser,F,10-19,Lab-diagnosed
 5/2/2020,Fraser,F,20-29,Lab-diagnosed
 5/2/2020,Fraser,F,20-29,Lab-diagnosed
 5/2/2020,Fraser,M,<10,Lab-diagnosed
@@ -2196,7 +2196,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/2/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 5/2/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 5/2/2020,Vancouver Coastal,M,80-89,Lab-diagnosed
-5/2/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+5/2/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 5/2/2020,Vancouver Coastal,M,90+,Lab-diagnosed
 5/2/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 5/3/2020,Fraser,F,50-59,Lab-diagnosed
@@ -2206,13 +2206,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/3/2020,Fraser,F,40-49,Lab-diagnosed
 5/3/2020,Fraser,F,30-39,Lab-diagnosed
 5/3/2020,Fraser,M,60-69,Lab-diagnosed
-5/3/2020,Fraser,M,19-Oct,Lab-diagnosed
+5/3/2020,Fraser,M,10-19,Lab-diagnosed
 5/3/2020,Fraser,M,30-39,Lab-diagnosed
 5/3/2020,Fraser,F,60-69,Lab-diagnosed
 5/3/2020,Fraser,M,60-69,Lab-diagnosed
 5/3/2020,Fraser,F,20-29,Lab-diagnosed
 5/3/2020,Fraser,F,40-49,Lab-diagnosed
-5/3/2020,Interior,M,19-Oct,Lab-diagnosed
+5/3/2020,Interior,M,10-19,Lab-diagnosed
 5/3/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 5/3/2020,Vancouver Coastal,M,90+,Lab-diagnosed
 5/3/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
@@ -2271,8 +2271,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/6/2020,Fraser,M,50-59,Lab-diagnosed
 5/6/2020,Fraser,F,20-29,Lab-diagnosed
 5/6/2020,Fraser,F,<10,Lab-diagnosed
-5/6/2020,Fraser,M,19-Oct,Lab-diagnosed
-5/6/2020,Fraser,M,19-Oct,Lab-diagnosed
+5/6/2020,Fraser,M,10-19,Lab-diagnosed
+5/6/2020,Fraser,M,10-19,Lab-diagnosed
 5/6/2020,Fraser,M,20-29,Lab-diagnosed
 5/6/2020,Fraser,M,60-69,Lab-diagnosed
 5/6/2020,Fraser,F,30-39,Lab-diagnosed
@@ -2296,7 +2296,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/7/2020,Fraser,F,<10,Lab-diagnosed
 5/7/2020,Fraser,M,60-69,Lab-diagnosed
 5/7/2020,Fraser,F,30-39,Lab-diagnosed
-5/7/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/7/2020,Fraser,F,10-19,Lab-diagnosed
 5/7/2020,Fraser,M,40-49,Lab-diagnosed
 5/7/2020,Fraser,M,40-49,Lab-diagnosed
 5/7/2020,Interior,M,20-29,Lab-diagnosed
@@ -2318,10 +2318,10 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/8/2020,Fraser,M,30-39,Lab-diagnosed
 5/8/2020,Fraser,F,<10,Lab-diagnosed
 5/8/2020,Fraser,F,40-49,Lab-diagnosed
-5/8/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/8/2020,Fraser,F,10-19,Lab-diagnosed
 5/8/2020,Fraser,F,70-79,Lab-diagnosed
 5/8/2020,Fraser,M,70-79,Lab-diagnosed
-5/8/2020,Northern,F,19-Oct,Lab-diagnosed
+5/8/2020,Northern,F,10-19,Lab-diagnosed
 5/8/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 5/8/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 5/9/2020,Fraser,M,70-79,Lab-diagnosed
@@ -2339,7 +2339,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/10/2020,Fraser,M,80-89,Lab-diagnosed
 5/10/2020,Fraser,F,40-49,Lab-diagnosed
 5/10/2020,Fraser,F,40-49,Lab-diagnosed
-5/10/2020,Fraser,M,19-Oct,Lab-diagnosed
+5/10/2020,Fraser,M,10-19,Lab-diagnosed
 5/10/2020,Fraser,M,50-59,Lab-diagnosed
 5/10/2020,Fraser,M,80-89,Lab-diagnosed
 5/10/2020,Fraser,M,50-59,Lab-diagnosed
@@ -2367,7 +2367,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/12/2020,Fraser,F,20-29,Lab-diagnosed
 5/12/2020,Fraser,F,40-49,Lab-diagnosed
 5/12/2020,Fraser,F,40-49,Lab-diagnosed
-5/12/2020,Fraser,M,19-Oct,Lab-diagnosed
+5/12/2020,Fraser,M,10-19,Lab-diagnosed
 5/12/2020,Interior,M,30-39,Lab-diagnosed
 5/12/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 5/12/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
@@ -2419,7 +2419,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/15/2020,Fraser,M,50-59,Lab-diagnosed
 5/15/2020,Fraser,M,<10,Lab-diagnosed
 5/15/2020,Fraser,M,20-29,Lab-diagnosed
-5/15/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/15/2020,Fraser,F,10-19,Lab-diagnosed
 5/15/2020,Fraser,F,40-49,Lab-diagnosed
 5/15/2020,Fraser,F,30-39,Lab-diagnosed
 5/15/2020,Northern,F,40-49,Lab-diagnosed
@@ -2456,7 +2456,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/19/2020,Fraser,M,20-29,Lab-diagnosed
 5/19/2020,Fraser,M,30-39,Lab-diagnosed
 5/19/2020,Fraser,M,20-29,Lab-diagnosed
-5/19/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/19/2020,Fraser,F,10-19,Lab-diagnosed
 5/19/2020,Fraser,M,20-29,Lab-diagnosed
 5/19/2020,Fraser,M,30-39,Lab-diagnosed
 5/19/2020,Fraser,M,40-49,Lab-diagnosed
@@ -2499,14 +2499,14 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/21/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 5/21/2020,Vancouver Island,M,40-49,Epi-linked
 5/21/2020,Vancouver Island,F,30-39,Epi-linked
-5/22/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/22/2020,Fraser,F,10-19,Lab-diagnosed
 5/22/2020,Fraser,M,30-39,Lab-diagnosed
 5/22/2020,Fraser,M,20-29,Lab-diagnosed
 5/22/2020,Fraser,M,20-29,Lab-diagnosed
 5/22/2020,Fraser,F,40-49,Lab-diagnosed
 5/22/2020,Fraser,F,40-49,Lab-diagnosed
 5/22/2020,Fraser,M,40-49,Lab-diagnosed
-5/22/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/22/2020,Fraser,F,10-19,Lab-diagnosed
 5/22/2020,Fraser,F,20-29,Lab-diagnosed
 5/22/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 5/22/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
@@ -2518,8 +2518,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/24/2020,Fraser,M,30-39,Lab-diagnosed
 5/24/2020,Fraser,M,40-49,Lab-diagnosed
 5/24/2020,Fraser,F,40-49,Lab-diagnosed
-5/24/2020,Fraser,M,19-Oct,Lab-diagnosed
-5/24/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/24/2020,Fraser,M,10-19,Lab-diagnosed
+5/24/2020,Fraser,F,10-19,Lab-diagnosed
 5/24/2020,Fraser,F,40-49,Lab-diagnosed
 5/24/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 5/24/2020,Out of Canada,U,Unknown,Lab-diagnosed
@@ -2583,7 +2583,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 5/31/2020,Fraser,F,20-29,Lab-diagnosed
 5/31/2020,Fraser,F,30-39,Lab-diagnosed
 5/31/2020,Fraser,M,20-29,Lab-diagnosed
-5/31/2020,Fraser,F,19-Oct,Lab-diagnosed
+5/31/2020,Fraser,F,10-19,Lab-diagnosed
 5/31/2020,Fraser,M,40-49,Lab-diagnosed
 5/31/2020,Fraser,M,20-29,Lab-diagnosed
 5/31/2020,Fraser,F,40-49,Lab-diagnosed
@@ -2616,9 +2616,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/2/2020,Fraser,F,40-49,Lab-diagnosed
 6/2/2020,Fraser,M,70-79,Lab-diagnosed
 6/2/2020,Fraser,M,20-29,Lab-diagnosed
-6/2/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+6/2/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 6/3/2020,Fraser,M,20-29,Lab-diagnosed
-6/3/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/3/2020,Fraser,M,10-19,Lab-diagnosed
 6/4/2020,Fraser,F,50-59,Lab-diagnosed
 6/4/2020,Fraser,M,50-59,Lab-diagnosed
 6/4/2020,Fraser,M,50-59,Lab-diagnosed
@@ -2629,11 +2629,11 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/5/2020,Fraser,M,20-29,Lab-diagnosed
 6/5/2020,Fraser,F,50-59,Lab-diagnosed
 6/5/2020,Fraser,M,<10,Lab-diagnosed
-6/5/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/5/2020,Fraser,M,10-19,Lab-diagnosed
 6/5/2020,Fraser,F,50-59,Lab-diagnosed
 6/5/2020,Fraser,M,30-39,Lab-diagnosed
 6/5/2020,Fraser,F,30-39,Lab-diagnosed
-6/5/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/5/2020,Fraser,M,10-19,Lab-diagnosed
 6/5/2020,Fraser,F,30-39,Lab-diagnosed
 6/6/2020,Fraser,M,70-79,Lab-diagnosed
 6/6/2020,Fraser,F,80-89,Lab-diagnosed
@@ -2664,12 +2664,12 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/9/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 6/9/2020,Fraser,F,20-29,Lab-diagnosed
 6/9/2020,Fraser,F,40-49,Lab-diagnosed
-6/9/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/9/2020,Fraser,M,10-19,Lab-diagnosed
 6/9/2020,Fraser,M,20-29,Lab-diagnosed
 6/9/2020,Fraser,F,60-69,Lab-diagnosed
 6/9/2020,Fraser,M,50-59,Lab-diagnosed
 6/9/2020,Fraser,F,<10,Lab-diagnosed
-6/9/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/9/2020,Fraser,F,10-19,Lab-diagnosed
 6/9/2020,Fraser,F,60-69,Lab-diagnosed
 6/9/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
 6/9/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
@@ -2678,7 +2678,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/10/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 6/10/2020,Fraser,F,50-59,Lab-diagnosed
 6/10/2020,Out of Canada,F,50-59,Lab-diagnosed
-6/10/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/10/2020,Fraser,M,10-19,Lab-diagnosed
 6/10/2020,Fraser,M,20-29,Lab-diagnosed
 6/10/2020,Fraser,M,60-69,Lab-diagnosed
 6/10/2020,Fraser,F,20-29,Lab-diagnosed
@@ -2710,8 +2710,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/12/2020,Fraser,F,40-49,Lab-diagnosed
 6/12/2020,Fraser,F,20-29,Lab-diagnosed
 6/12/2020,Fraser,F,30-39,Lab-diagnosed
-6/12/2020,Fraser,M,19-Oct,Lab-diagnosed
-6/12/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/12/2020,Fraser,M,10-19,Lab-diagnosed
+6/12/2020,Fraser,F,10-19,Lab-diagnosed
 6/12/2020,Fraser,F,20-29,Lab-diagnosed
 6/12/2020,Fraser,F,20-29,Lab-diagnosed
 6/12/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
@@ -2732,7 +2732,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/13/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 6/13/2020,Vancouver Coastal,M,80-89,Lab-diagnosed
 6/13/2020,Out of Canada,M,50-59,Lab-diagnosed
-6/14/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/14/2020,Fraser,M,10-19,Lab-diagnosed
 6/14/2020,Fraser,M,30-39,Lab-diagnosed
 6/14/2020,Fraser,F,20-29,Lab-diagnosed
 6/14/2020,Fraser,F,40-49,Lab-diagnosed
@@ -2760,14 +2760,14 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/16/2020,Fraser,M,70-79,Lab-diagnosed
 6/16/2020,Fraser,F,50-59,Lab-diagnosed
 6/16/2020,Fraser,F,30-39,Lab-diagnosed
-6/16/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/16/2020,Fraser,M,10-19,Lab-diagnosed
 6/16/2020,Fraser,M,50-59,Lab-diagnosed
 6/16/2020,Fraser,M,20-29,Lab-diagnosed
 6/16/2020,Fraser,M,20-29,Lab-diagnosed
 6/16/2020,Fraser,F,20-29,Lab-diagnosed
 6/16/2020,Fraser,M,30-39,Lab-diagnosed
 6/16/2020,Fraser,M,<10,Lab-diagnosed
-6/16/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/16/2020,Fraser,M,10-19,Lab-diagnosed
 6/16/2020,Out of Canada,M,30-39,Lab-diagnosed
 6/16/2020,Out of Canada,M,40-49,Lab-diagnosed
 6/16/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
@@ -2786,7 +2786,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/18/2020,Fraser,F,30-39,Lab-diagnosed
 6/18/2020,Fraser,M,20-29,Lab-diagnosed
 6/19/2020,Fraser,M,20-29,Lab-diagnosed
-6/19/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/19/2020,Fraser,M,10-19,Lab-diagnosed
 6/19/2020,Fraser,F,30-39,Lab-diagnosed
 6/19/2020,Fraser,M,40-49,Lab-diagnosed
 6/19/2020,Fraser,F,40-49,Lab-diagnosed
@@ -2798,7 +2798,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/20/2020,Fraser,F,50-59,Lab-diagnosed
 6/20/2020,Fraser,M,40-49,Lab-diagnosed
 6/20/2020,Fraser,M,20-29,Lab-diagnosed
-6/20/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/20/2020,Fraser,F,10-19,Lab-diagnosed
 6/20/2020,Fraser,M,30-39,Lab-diagnosed
 6/21/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 6/21/2020,Fraser,M,80-89,Lab-diagnosed
@@ -2812,10 +2812,10 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/21/2020,Fraser,M,30-39,Lab-diagnosed
 6/21/2020,Fraser,M,50-59,Lab-diagnosed
 6/21/2020,Fraser,M,<10,Lab-diagnosed
-6/21/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/21/2020,Fraser,M,10-19,Lab-diagnosed
 6/21/2020,Fraser,M,50-59,Lab-diagnosed
-6/21/2020,Fraser,M,19-Oct,Lab-diagnosed
-6/21/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/21/2020,Fraser,M,10-19,Lab-diagnosed
+6/21/2020,Fraser,M,10-19,Lab-diagnosed
 6/21/2020,Out of Canada,M,50-59,Lab-diagnosed
 6/22/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 6/22/2020,Vancouver Coastal,F,90+,Lab-diagnosed
@@ -2833,7 +2833,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/23/2020,Fraser,M,40-49,Lab-diagnosed
 6/23/2020,Fraser,F,90+,Lab-diagnosed
 6/23/2020,Fraser,F,20-29,Lab-diagnosed
-6/23/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/23/2020,Fraser,M,10-19,Lab-diagnosed
 6/23/2020,Fraser,M,20-29,Epi-linked
 6/23/2020,Fraser,M,40-49,Lab-diagnosed
 6/23/2020,Fraser,F,70-79,Lab-diagnosed
@@ -2851,13 +2851,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/24/2020,Fraser,F,30-39,Lab-diagnosed
 6/24/2020,Fraser,M,20-29,Lab-diagnosed
 6/24/2020,Fraser,F,50-59,Lab-diagnosed
-6/24/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/24/2020,Fraser,F,10-19,Lab-diagnosed
 6/24/2020,Fraser,F,30-39,Lab-diagnosed
 6/24/2020,Fraser,M,20-29,Lab-diagnosed
 6/24/2020,Fraser,M,20-29,Lab-diagnosed
 6/24/2020,Fraser,M,30-39,Lab-diagnosed
 6/24/2020,Fraser,F,50-59,Lab-diagnosed
-6/24/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/24/2020,Fraser,F,10-19,Lab-diagnosed
 6/24/2020,Fraser,F,30-39,Lab-diagnosed
 6/24/2020,Vancouver Coastal,F,60-69,Epi-linked
 6/24/2020,Out of Canada,F,30-39,Lab-diagnosed
@@ -2894,7 +2894,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/27/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 6/27/2020,Vancouver Coastal,F,90+,Lab-diagnosed
 6/27/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
-6/27/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/27/2020,Fraser,F,10-19,Lab-diagnosed
 6/28/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 6/28/2020,Fraser,M,30-39,Lab-diagnosed
 6/28/2020,Fraser,M,40-49,Lab-diagnosed
@@ -2902,14 +2902,14 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/29/2020,Fraser,F,40-49,Lab-diagnosed
 6/29/2020,Fraser,F,20-29,Lab-diagnosed
 6/29/2020,Fraser,M,30-39,Lab-diagnosed
-6/29/2020,Fraser,F,19-Oct,Lab-diagnosed
+6/29/2020,Fraser,F,10-19,Lab-diagnosed
 6/29/2020,Fraser,F,40-49,Lab-diagnosed
 6/29/2020,Fraser,M,40-49,Lab-diagnosed
 6/29/2020,Fraser,F,30-39,Lab-diagnosed
 6/29/2020,Fraser,M,20-29,Lab-diagnosed
 6/29/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 6/29/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
-6/29/2020,Vancouver Island,M,19-Oct,Epi-linked
+6/29/2020,Vancouver Island,M,10-19,Epi-linked
 6/30/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 6/30/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 6/30/2020,Vancouver Coastal,F,90+,Lab-diagnosed
@@ -2918,10 +2918,10 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 6/30/2020,Fraser,M,20-29,Lab-diagnosed
 6/30/2020,Fraser,M,30-39,Lab-diagnosed
 6/30/2020,Fraser,F,<10,Lab-diagnosed
-6/30/2020,Fraser,M,19-Oct,Lab-diagnosed
+6/30/2020,Fraser,M,10-19,Lab-diagnosed
 6/30/2020,Fraser,F,30-39,Lab-diagnosed
 6/30/2020,Fraser,F,40-49,Lab-diagnosed
-6/30/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+6/30/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 6/30/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 6/30/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
 6/30/2020,Interior,F,20-29,Lab-diagnosed
@@ -2942,7 +2942,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/2/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 7/2/2020,Fraser,M,20-29,Lab-diagnosed
 7/2/2020,Fraser,M,20-29,Lab-diagnosed
-7/2/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/2/2020,Fraser,M,10-19,Lab-diagnosed
 7/2/2020,Vancouver Coastal,F,80-89,Epi-linked
 7/2/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 7/2/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -2951,13 +2951,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/3/2020,Fraser,M,20-29,Lab-diagnosed
 7/3/2020,Fraser,M,<10,Lab-diagnosed
 7/3/2020,Fraser,F,70-79,Lab-diagnosed
-7/3/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/3/2020,Fraser,M,10-19,Lab-diagnosed
 7/3/2020,Fraser,M,20-29,Lab-diagnosed
 7/3/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 7/3/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
 7/3/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 7/3/2020,Out of Canada,M,30-39,Lab-diagnosed
-7/3/2020,Interior,F,19-Oct,Lab-diagnosed
+7/3/2020,Interior,F,10-19,Lab-diagnosed
 7/4/2020,Fraser,F,50-59,Lab-diagnosed
 7/4/2020,Fraser,F,20-29,Lab-diagnosed
 7/4/2020,Fraser,F,40-49,Lab-diagnosed
@@ -2975,9 +2975,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/4/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 7/4/2020,Out of Canada,M,40-49,Lab-diagnosed
 7/5/2020,Vancouver Coastal,F,90+,Lab-diagnosed
-7/5/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+7/5/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 7/5/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-7/5/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+7/5/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 7/5/2020,Fraser,M,20-29,Lab-diagnosed
 7/5/2020,Fraser,F,30-39,Lab-diagnosed
 7/5/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -2987,7 +2987,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/6/2020,Fraser,F,20-29,Lab-diagnosed
 7/6/2020,Fraser,F,20-29,Lab-diagnosed
 7/6/2020,Fraser,M,60-69,Lab-diagnosed
-7/6/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/6/2020,Fraser,F,10-19,Lab-diagnosed
 7/6/2020,Fraser,F,40-49,Lab-diagnosed
 7/6/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 7/6/2020,Out of Canada,M,50-59,Lab-diagnosed
@@ -2997,9 +2997,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/7/2020,Vancouver Coastal,M,80-89,Lab-diagnosed
 7/7/2020,Fraser,F,50-59,Lab-diagnosed
 7/7/2020,Fraser,M,20-29,Lab-diagnosed
-7/7/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/7/2020,Fraser,M,10-19,Lab-diagnosed
 7/7/2020,Fraser,M,20-29,Lab-diagnosed
-7/7/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/7/2020,Fraser,M,10-19,Lab-diagnosed
 7/7/2020,Fraser,F,30-39,Lab-diagnosed
 7/7/2020,Fraser,M,60-69,Lab-diagnosed
 7/7/2020,Fraser,F,40-49,Lab-diagnosed
@@ -3011,7 +3011,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/7/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 7/7/2020,Interior,M,20-29,Lab-diagnosed
 7/8/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-7/8/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+7/8/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 7/8/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 7/8/2020,Fraser,F,30-39,Lab-diagnosed
 7/8/2020,Fraser,F,50-59,Lab-diagnosed
@@ -3036,15 +3036,15 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/9/2020,Fraser,F,20-29,Lab-diagnosed
 7/9/2020,Fraser,F,<10,Lab-diagnosed
 7/9/2020,Fraser,M,30-39,Lab-diagnosed
-7/9/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/9/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/9/2020,Fraser,M,19-Oct,Lab-diagnosed
-7/9/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/9/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/9/2020,Fraser,F,10-19,Lab-diagnosed
+7/9/2020,Fraser,F,10-19,Lab-diagnosed
+7/9/2020,Fraser,M,10-19,Lab-diagnosed
+7/9/2020,Fraser,F,10-19,Lab-diagnosed
+7/9/2020,Fraser,F,10-19,Lab-diagnosed
 7/9/2020,Fraser,F,60-69,Lab-diagnosed
 7/9/2020,Fraser,M,30-39,Lab-diagnosed
 7/9/2020,Fraser,F,50-59,Lab-diagnosed
-7/9/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/9/2020,Fraser,F,10-19,Lab-diagnosed
 7/9/2020,Interior,F,50-59,Lab-diagnosed
 7/9/2020,Vancouver Island,F,50-59,Lab-diagnosed
 7/9/2020,Vancouver Island,M,40-49,Lab-diagnosed
@@ -3054,7 +3054,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/10/2020,Fraser,M,70-79,Lab-diagnosed
 7/10/2020,Fraser,M,20-29,Lab-diagnosed
 7/10/2020,Fraser,F,30-39,Lab-diagnosed
-7/10/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/10/2020,Fraser,M,10-19,Lab-diagnosed
 7/10/2020,Fraser,M,50-59,Lab-diagnosed
 7/10/2020,Fraser,M,20-29,Lab-diagnosed
 7/10/2020,Fraser,M,20-29,Lab-diagnosed
@@ -3086,12 +3086,12 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/11/2020,Fraser,M,20-29,Lab-diagnosed
 7/11/2020,Fraser,F,40-49,Lab-diagnosed
 7/11/2020,Fraser,F,30-39,Lab-diagnosed
-7/11/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/11/2020,Fraser,F,10-19,Lab-diagnosed
 7/11/2020,Fraser,M,30-39,Lab-diagnosed
 7/11/2020,Fraser,F,30-39,Lab-diagnosed
 7/11/2020,Fraser,F,20-29,Lab-diagnosed
 7/11/2020,Interior,M,30-39,Lab-diagnosed
-7/11/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+7/11/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 7/11/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 7/11/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 7/11/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
@@ -3107,8 +3107,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/12/2020,Fraser,F,30-39,Lab-diagnosed
 7/12/2020,Fraser,F,40-49,Lab-diagnosed
 7/12/2020,Fraser,F,70-79,Lab-diagnosed
-7/12/2020,Fraser,M,19-Oct,Lab-diagnosed
-7/12/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/12/2020,Fraser,M,10-19,Lab-diagnosed
+7/12/2020,Fraser,F,10-19,Lab-diagnosed
 7/12/2020,Fraser,M,20-29,Lab-diagnosed
 7/12/2020,Interior,F,20-29,Lab-diagnosed
 7/12/2020,Interior,F,20-29,Lab-diagnosed
@@ -3141,7 +3141,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/14/2020,Fraser,M,30-39,Lab-diagnosed
 7/14/2020,Fraser,M,20-29,Lab-diagnosed
 7/14/2020,Interior,F,20-29,Lab-diagnosed
-7/14/2020,Interior,F,19-Oct,Epi-linked
+7/14/2020,Interior,F,10-19,Epi-linked
 7/14/2020,Interior,F,70-79,Epi-linked
 7/14/2020,Interior,M,50-59,Lab-diagnosed
 7/14/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
@@ -3151,7 +3151,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/14/2020,Interior,F,70-79,Lab-diagnosed
 7/14/2020,Interior,M,20-29,Lab-diagnosed
 7/15/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
-7/15/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+7/15/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 7/15/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 7/15/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 7/15/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
@@ -3162,10 +3162,10 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/15/2020,Fraser,F,20-29,Lab-diagnosed
 7/15/2020,Fraser,M,30-39,Lab-diagnosed
 7/15/2020,Fraser,M,30-39,Lab-diagnosed
-7/15/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/15/2020,Fraser,M,10-19,Lab-diagnosed
 7/15/2020,Fraser,M,60-69,Lab-diagnosed
 7/15/2020,Interior,F,20-29,Lab-diagnosed
-7/15/2020,Interior,F,19-Oct,Lab-diagnosed
+7/15/2020,Interior,F,10-19,Lab-diagnosed
 7/15/2020,Interior,F,20-29,Lab-diagnosed
 7/15/2020,Interior,M,20-29,Lab-diagnosed
 7/15/2020,Interior,M,20-29,Lab-diagnosed
@@ -3203,7 +3203,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/16/2020,Interior,M,20-29,Lab-diagnosed
 7/16/2020,Interior,F,20-29,Lab-diagnosed
 7/16/2020,Interior,M,20-29,Lab-diagnosed
-7/16/2020,Interior,F,19-Oct,Lab-diagnosed
+7/16/2020,Interior,F,10-19,Lab-diagnosed
 7/16/2020,Interior,M,30-39,Lab-diagnosed
 7/16/2020,Interior,M,50-59,Lab-diagnosed
 7/16/2020,Interior,F,20-29,Lab-diagnosed
@@ -3225,14 +3225,14 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/17/2020,Fraser,M,70-79,Lab-diagnosed
 7/17/2020,Fraser,F,30-39,Lab-diagnosed
 7/17/2020,Fraser,M,40-49,Lab-diagnosed
-7/17/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/17/2020,Fraser,M,10-19,Lab-diagnosed
 7/17/2020,Fraser,M,20-29,Lab-diagnosed
 7/17/2020,Fraser,M,20-29,Lab-diagnosed
 7/17/2020,Fraser,M,50-59,Lab-diagnosed
 7/17/2020,Interior,M,20-29,Lab-diagnosed
 7/17/2020,Interior,F,30-39,Lab-diagnosed
 7/17/2020,Interior,F,40-49,Lab-diagnosed
-7/17/2020,Interior,M,19-Oct,Lab-diagnosed
+7/17/2020,Interior,M,10-19,Lab-diagnosed
 7/17/2020,Interior,F,20-29,Lab-diagnosed
 7/17/2020,Interior,M,20-29,Lab-diagnosed
 7/17/2020,Interior,F,20-29,Lab-diagnosed
@@ -3261,12 +3261,12 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/18/2020,Fraser,F,70-79,Lab-diagnosed
 7/18/2020,Fraser,F,30-39,Lab-diagnosed
 7/18/2020,Fraser,F,20-29,Lab-diagnosed
-7/18/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/18/2020,Fraser,F,10-19,Lab-diagnosed
 7/18/2020,Fraser,F,20-29,Lab-diagnosed
-7/18/2020,Interior,F,19-Oct,Lab-diagnosed
-7/18/2020,Interior,F,19-Oct,Lab-diagnosed
+7/18/2020,Interior,F,10-19,Lab-diagnosed
+7/18/2020,Interior,F,10-19,Lab-diagnosed
 7/18/2020,Interior,F,20-29,Lab-diagnosed
-7/18/2020,Interior,F,19-Oct,Lab-diagnosed
+7/18/2020,Interior,F,10-19,Lab-diagnosed
 7/18/2020,Interior,F,30-39,Lab-diagnosed
 7/18/2020,Interior,M,20-29,Lab-diagnosed
 7/18/2020,Out of Canada,M,30-39,Lab-diagnosed
@@ -3308,7 +3308,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/20/2020,Fraser,M,50-59,Lab-diagnosed
 7/20/2020,Fraser,M,40-49,Lab-diagnosed
 7/20/2020,Fraser,M,40-49,Lab-diagnosed
-7/20/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/20/2020,Fraser,M,10-19,Lab-diagnosed
 7/20/2020,Fraser,F,30-39,Lab-diagnosed
 7/20/2020,Fraser,M,40-49,Lab-diagnosed
 7/20/2020,Fraser,M,50-59,Lab-diagnosed
@@ -3325,7 +3325,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/20/2020,Interior,F,80-89,Lab-diagnosed
 7/20/2020,Interior,M,30-39,Lab-diagnosed
 7/20/2020,Interior,M,20-29,Lab-diagnosed
-7/20/2020,Interior,F,19-Oct,Lab-diagnosed
+7/20/2020,Interior,F,10-19,Lab-diagnosed
 7/20/2020,Interior,F,20-29,Lab-diagnosed
 7/20/2020,Interior,M,30-39,Lab-diagnosed
 7/20/2020,Out of Canada,M,60-69,Lab-diagnosed
@@ -3353,7 +3353,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/21/2020,Fraser,M,70-79,Lab-diagnosed
 7/21/2020,Interior,M,20-29,Lab-diagnosed
 7/21/2020,Interior,F,90+,Lab-diagnosed
-7/21/2020,Interior,F,19-Oct,Lab-diagnosed
+7/21/2020,Interior,F,10-19,Lab-diagnosed
 7/21/2020,Interior,F,20-29,Lab-diagnosed
 7/21/2020,Interior,M,20-29,Lab-diagnosed
 7/21/2020,Interior,F,20-29,Lab-diagnosed
@@ -3371,12 +3371,12 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/22/2020,Fraser,M,30-39,Lab-diagnosed
 7/22/2020,Fraser,M,40-49,Lab-diagnosed
 7/22/2020,Fraser,F,30-39,Lab-diagnosed
-7/22/2020,Fraser,F,19-Oct,Epi-linked
+7/22/2020,Fraser,F,10-19,Epi-linked
 7/22/2020,Fraser,M,20-29,Lab-diagnosed
 7/22/2020,Fraser,M,20-29,Lab-diagnosed
 7/22/2020,Fraser,F,20-29,Lab-diagnosed
-7/22/2020,Interior,M,19-Oct,Lab-diagnosed
-7/22/2020,Interior,M,19-Oct,Lab-diagnosed
+7/22/2020,Interior,M,10-19,Lab-diagnosed
+7/22/2020,Interior,M,10-19,Lab-diagnosed
 7/22/2020,Interior,F,20-29,Lab-diagnosed
 7/22/2020,Interior,M,70-79,Lab-diagnosed
 7/22/2020,Interior,M,20-29,Lab-diagnosed
@@ -3388,9 +3388,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/22/2020,Northern,F,60-69,Lab-diagnosed
 7/22/2020,Northern,F,30-39,Lab-diagnosed
 7/22/2020,Northern,M,20-29,Lab-diagnosed
-7/22/2020,Northern,F,19-Oct,Lab-diagnosed
+7/22/2020,Northern,F,10-19,Lab-diagnosed
 7/22/2020,Northern,F,70-79,Lab-diagnosed
-7/22/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+7/22/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 7/22/2020,Interior,F,20-29,Epi-linked
 7/22/2020,Northern,M,50-59,Lab-diagnosed
 7/22/2020,Interior,M,80-89,Lab-diagnosed
@@ -3438,17 +3438,17 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/24/2020,Fraser,F,20-29,Lab-diagnosed
 7/24/2020,Fraser,M,20-29,Lab-diagnosed
 7/24/2020,Interior,M,20-29,Lab-diagnosed
-7/24/2020,Interior,F,19-Oct,Lab-diagnosed
+7/24/2020,Interior,F,10-19,Lab-diagnosed
 7/24/2020,Interior,M,20-29,Lab-diagnosed
-7/24/2020,Interior,M,19-Oct,Lab-diagnosed
+7/24/2020,Interior,M,10-19,Lab-diagnosed
 7/24/2020,Interior,F,20-29,Lab-diagnosed
-7/24/2020,Interior,M,19-Oct,Lab-diagnosed
-7/24/2020,Interior,M,19-Oct,Lab-diagnosed
+7/24/2020,Interior,M,10-19,Lab-diagnosed
+7/24/2020,Interior,M,10-19,Lab-diagnosed
 7/24/2020,Interior,M,50-59,Lab-diagnosed
 7/24/2020,Interior,M,<10,Epi-linked
 7/24/2020,Interior,F,20-29,Epi-linked
 7/24/2020,Interior,F,30-39,Epi-linked
-7/24/2020,Interior,M,19-Oct,Lab-diagnosed
+7/24/2020,Interior,M,10-19,Lab-diagnosed
 7/24/2020,Interior,M,30-39,Lab-diagnosed
 7/24/2020,Interior,M,<10,Epi-linked
 7/24/2020,Interior,M,60-69,Lab-diagnosed
@@ -3456,8 +3456,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/24/2020,Interior,F,30-39,Lab-diagnosed
 7/24/2020,Interior,F,20-29,Lab-diagnosed
 7/24/2020,Out of Canada,M,30-39,Lab-diagnosed
-7/24/2020,Interior,M,19-Oct,Epi-linked
-7/24/2020,Interior,F,19-Oct,Epi-linked
+7/24/2020,Interior,M,10-19,Epi-linked
+7/24/2020,Interior,F,10-19,Epi-linked
 7/25/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 7/25/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 7/25/2020,Vancouver Coastal,U,Unknown,Epi-linked
@@ -3468,10 +3468,10 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/25/2020,Fraser,M,20-29,Lab-diagnosed
 7/25/2020,Fraser,M,20-29,Lab-diagnosed
 7/25/2020,Fraser,F,20-29,Lab-diagnosed
-7/25/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/25/2020,Fraser,F,10-19,Lab-diagnosed
 7/25/2020,Fraser,M,20-29,Lab-diagnosed
 7/25/2020,Fraser,F,30-39,Lab-diagnosed
-7/25/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/25/2020,Fraser,F,10-19,Lab-diagnosed
 7/25/2020,Fraser,M,20-29,Lab-diagnosed
 7/25/2020,Interior,M,20-29,Lab-diagnosed
 7/25/2020,Interior,F,20-29,Lab-diagnosed
@@ -3485,11 +3485,11 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/26/2020,Fraser,M,50-59,Lab-diagnosed
 7/26/2020,Fraser,M,<10,Lab-diagnosed
 7/26/2020,Fraser,F,60-69,Lab-diagnosed
-7/26/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/26/2020,Fraser,F,10-19,Lab-diagnosed
 7/26/2020,Fraser,F,40-49,Lab-diagnosed
 7/26/2020,Fraser,F,50-59,Lab-diagnosed
-7/26/2020,Fraser,M,19-Oct,Lab-diagnosed
-7/26/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/26/2020,Fraser,M,10-19,Lab-diagnosed
+7/26/2020,Fraser,M,10-19,Lab-diagnosed
 7/26/2020,Fraser,F,40-49,Lab-diagnosed
 7/26/2020,Fraser,M,20-29,Lab-diagnosed
 7/26/2020,Fraser,F,40-49,Lab-diagnosed
@@ -3506,13 +3506,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/27/2020,Fraser,F,20-29,Lab-diagnosed
 7/27/2020,Fraser,F,40-49,Lab-diagnosed
 7/27/2020,Fraser,M,30-39,Lab-diagnosed
-7/27/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/27/2020,Fraser,M,10-19,Lab-diagnosed
 7/27/2020,Fraser,M,30-39,Lab-diagnosed
 7/27/2020,Fraser,F,30-39,Lab-diagnosed
 7/27/2020,Fraser,F,50-59,Lab-diagnosed
-7/27/2020,Fraser,M,19-Oct,Lab-diagnosed
-7/27/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/27/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/27/2020,Fraser,M,10-19,Lab-diagnosed
+7/27/2020,Fraser,F,10-19,Lab-diagnosed
+7/27/2020,Fraser,F,10-19,Lab-diagnosed
 7/27/2020,Fraser,F,40-49,Lab-diagnosed
 7/27/2020,Fraser,F,40-49,Lab-diagnosed
 7/27/2020,Fraser,F,40-49,Lab-diagnosed
@@ -3536,7 +3536,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/28/2020,Fraser,M,20-29,Lab-diagnosed
 7/28/2020,Fraser,F,20-29,Lab-diagnosed
 7/28/2020,Fraser,F,20-29,Lab-diagnosed
-7/28/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/28/2020,Fraser,F,10-19,Lab-diagnosed
 7/28/2020,Fraser,F,40-49,Lab-diagnosed
 7/28/2020,Fraser,F,20-29,Lab-diagnosed
 7/28/2020,Fraser,M,40-49,Lab-diagnosed
@@ -3552,32 +3552,32 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/28/2020,Fraser,M,60-69,Lab-diagnosed
 7/28/2020,Fraser,F,30-39,Lab-diagnosed
 7/28/2020,Fraser,M,70-79,Lab-diagnosed
-7/28/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/28/2020,Fraser,M,10-19,Lab-diagnosed
 7/28/2020,Fraser,F,30-39,Lab-diagnosed
 7/28/2020,Fraser,M,60-69,Lab-diagnosed
 7/28/2020,Fraser,F,60-69,Lab-diagnosed
-7/28/2020,Fraser,M,19-Oct,Lab-diagnosed
-7/28/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/28/2020,Fraser,M,10-19,Lab-diagnosed
+7/28/2020,Fraser,M,10-19,Lab-diagnosed
 7/28/2020,Fraser,M,20-29,Lab-diagnosed
 7/28/2020,Fraser,F,30-39,Lab-diagnosed
-7/28/2020,Northern,F,19-Oct,Lab-diagnosed
-7/28/2020,Northern,M,19-Oct,Lab-diagnosed
+7/28/2020,Northern,F,10-19,Lab-diagnosed
+7/28/2020,Northern,M,10-19,Lab-diagnosed
 7/28/2020,Northern,F,30-39,Epi-linked
-7/28/2020,Northern,M,19-Oct,Lab-diagnosed
+7/28/2020,Northern,M,10-19,Lab-diagnosed
 7/28/2020,Northern,F,<10,Lab-diagnosed
 7/28/2020,Northern,M,30-39,Lab-diagnosed
 7/28/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
 7/28/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 7/28/2020,Fraser,F,50-59,Lab-diagnosed
-7/28/2020,Interior,M,19-Oct,Lab-diagnosed
+7/28/2020,Interior,M,10-19,Lab-diagnosed
 7/28/2020,Interior,M,20-29,Lab-diagnosed
 7/29/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 7/29/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 7/29/2020,Fraser,F,20-29,Lab-diagnosed
-7/29/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/29/2020,Fraser,F,10-19,Lab-diagnosed
 7/29/2020,Out of Canada,F,30-39,Lab-diagnosed
 7/29/2020,Fraser,M,20-29,Lab-diagnosed
-7/29/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/29/2020,Fraser,F,10-19,Lab-diagnosed
 7/29/2020,Fraser,F,20-29,Lab-diagnosed
 7/29/2020,Fraser,F,20-29,Lab-diagnosed
 7/29/2020,Fraser,F,20-29,Lab-diagnosed
@@ -3590,9 +3590,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/29/2020,Fraser,F,40-49,Lab-diagnosed
 7/29/2020,Fraser,M,30-39,Lab-diagnosed
 7/29/2020,Fraser,F,40-49,Lab-diagnosed
-7/29/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/29/2020,Fraser,M,10-19,Lab-diagnosed
 7/29/2020,Fraser,F,40-49,Lab-diagnosed
-7/29/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/29/2020,Fraser,F,10-19,Lab-diagnosed
 7/29/2020,Fraser,M,60-69,Lab-diagnosed
 7/29/2020,Interior,F,60-69,Lab-diagnosed
 7/29/2020,Interior,M,40-49,Lab-diagnosed
@@ -3607,7 +3607,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/30/2020,Fraser,M,30-39,Lab-diagnosed
 7/30/2020,Fraser,F,20-29,Lab-diagnosed
 7/30/2020,Fraser,M,20-29,Lab-diagnosed
-7/30/2020,Fraser,M,19-Oct,Lab-diagnosed
+7/30/2020,Fraser,M,10-19,Lab-diagnosed
 7/30/2020,Fraser,M,20-29,Lab-diagnosed
 7/30/2020,Fraser,M,<10,Lab-diagnosed
 7/30/2020,Fraser,F,20-29,Lab-diagnosed
@@ -3663,15 +3663,15 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 7/31/2020,Fraser,F,20-29,Lab-diagnosed
 7/31/2020,Fraser,F,50-59,Lab-diagnosed
 7/31/2020,Fraser,F,<10,Lab-diagnosed
-7/31/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/31/2020,Fraser,F,10-19,Lab-diagnosed
 7/31/2020,Fraser,F,30-39,Lab-diagnosed
 7/31/2020,Fraser,F,30-39,Lab-diagnosed
 7/31/2020,Fraser,F,40-49,Lab-diagnosed
 7/31/2020,Fraser,M,40-49,Lab-diagnosed
-7/31/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/31/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/31/2020,Fraser,F,19-Oct,Lab-diagnosed
-7/31/2020,Fraser,F,19-Oct,Lab-diagnosed
+7/31/2020,Fraser,F,10-19,Lab-diagnosed
+7/31/2020,Fraser,F,10-19,Lab-diagnosed
+7/31/2020,Fraser,F,10-19,Lab-diagnosed
+7/31/2020,Fraser,F,10-19,Lab-diagnosed
 7/31/2020,Fraser,F,40-49,Lab-diagnosed
 7/31/2020,Fraser,M,30-39,Lab-diagnosed
 7/31/2020,Interior,F,20-29,Lab-diagnosed
@@ -3741,15 +3741,15 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/2/2020,Fraser,M,20-29,Lab-diagnosed
 8/2/2020,Fraser,M,30-39,Lab-diagnosed
 8/2/2020,Fraser,F,20-29,Lab-diagnosed
-8/2/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/2/2020,Fraser,F,10-19,Lab-diagnosed
 8/2/2020,Fraser,M,20-29,Lab-diagnosed
 8/2/2020,Fraser,M,<10,Lab-diagnosed
 8/2/2020,Fraser,M,30-39,Lab-diagnosed
 8/2/2020,Fraser,F,<10,Lab-diagnosed
 8/2/2020,Fraser,F,30-39,Lab-diagnosed
-8/2/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/2/2020,Fraser,F,10-19,Lab-diagnosed
 8/2/2020,Fraser,F,30-39,Lab-diagnosed
-8/2/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/2/2020,Fraser,M,10-19,Lab-diagnosed
 8/2/2020,Fraser,M,60-69,Lab-diagnosed
 8/2/2020,Fraser,M,20-29,Lab-diagnosed
 8/2/2020,Fraser,F,20-29,Lab-diagnosed
@@ -3778,13 +3778,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/3/2020,Fraser,M,20-29,Lab-diagnosed
 8/3/2020,Fraser,M,40-49,Lab-diagnosed
 8/3/2020,Fraser,M,20-29,Lab-diagnosed
-8/3/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/3/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/3/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/3/2020,Fraser,F,10-19,Lab-diagnosed
+8/3/2020,Fraser,F,10-19,Lab-diagnosed
+8/3/2020,Fraser,F,10-19,Lab-diagnosed
 8/3/2020,Fraser,M,30-39,Lab-diagnosed
 8/3/2020,Fraser,M,20-29,Lab-diagnosed
 8/3/2020,Fraser,M,20-29,Lab-diagnosed
-8/3/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/3/2020,Fraser,M,10-19,Lab-diagnosed
 8/3/2020,Fraser,F,60-69,Lab-diagnosed
 8/3/2020,Fraser,F,40-49,Lab-diagnosed
 8/3/2020,Fraser,F,50-59,Lab-diagnosed
@@ -3819,11 +3819,11 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/4/2020,Fraser,M,20-29,Lab-diagnosed
 8/4/2020,Fraser,M,20-29,Lab-diagnosed
 8/4/2020,Fraser,F,30-39,Lab-diagnosed
-8/4/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/4/2020,Fraser,F,10-19,Lab-diagnosed
 8/4/2020,Fraser,F,20-29,Lab-diagnosed
 8/4/2020,Fraser,F,40-49,Lab-diagnosed
-8/4/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/4/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/4/2020,Fraser,F,10-19,Lab-diagnosed
+8/4/2020,Fraser,M,10-19,Lab-diagnosed
 8/4/2020,Fraser,F,40-49,Lab-diagnosed
 8/4/2020,Interior,F,50-59,Lab-diagnosed
 8/4/2020,Interior,F,20-29,Lab-diagnosed
@@ -3863,16 +3863,16 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/5/2020,Fraser,M,40-49,Lab-diagnosed
 8/5/2020,Fraser,M,40-49,Lab-diagnosed
 8/5/2020,Fraser,F,30-39,Lab-diagnosed
-8/5/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/5/2020,Fraser,M,10-19,Lab-diagnosed
 8/5/2020,Fraser,F,60-69,Lab-diagnosed
 8/5/2020,Fraser,F,30-39,Lab-diagnosed
 8/5/2020,Fraser,M,20-29,Lab-diagnosed
-8/5/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/5/2020,Fraser,M,10-19,Lab-diagnosed
 8/5/2020,Fraser,F,70-79,Lab-diagnosed
 8/5/2020,Fraser,F,20-29,Lab-diagnosed
 8/5/2020,Fraser,F,20-29,Lab-diagnosed
 8/5/2020,Interior,M,70-79,Lab-diagnosed
-8/5/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/5/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/5/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/5/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/5/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -3915,9 +3915,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/6/2020,Fraser,M,50-59,Lab-diagnosed
 8/6/2020,Fraser,M,30-39,Lab-diagnosed
 8/6/2020,Fraser,M,20-29,Lab-diagnosed
-8/6/2020,Fraser,F,19-Oct,Epi-linked
+8/6/2020,Fraser,F,10-19,Epi-linked
 8/6/2020,Fraser,M,20-29,Lab-diagnosed
-8/6/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/6/2020,Fraser,F,10-19,Lab-diagnosed
 8/6/2020,Fraser,M,60-69,Lab-diagnosed
 8/6/2020,Fraser,F,20-29,Lab-diagnosed
 8/6/2020,Vancouver Island,F,30-39,Lab-diagnosed
@@ -3931,7 +3931,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/6/2020,Vancouver Coastal,F,<10,Epi-linked
 8/7/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/7/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
-8/7/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/7/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/7/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
 8/7/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 8/7/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
@@ -3950,18 +3950,18 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/7/2020,Fraser,M,20-29,Lab-diagnosed
 8/7/2020,Fraser,F,30-39,Lab-diagnosed
 8/7/2020,Fraser,M,20-29,Lab-diagnosed
-8/7/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/7/2020,Fraser,F,10-19,Lab-diagnosed
 8/7/2020,Fraser,M,20-29,Lab-diagnosed
 8/7/2020,Fraser,F,30-39,Lab-diagnosed
 8/7/2020,Fraser,M,30-39,Lab-diagnosed
-8/7/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/7/2020,Fraser,F,10-19,Lab-diagnosed
 8/7/2020,Fraser,M,30-39,Lab-diagnosed
 8/7/2020,Fraser,F,30-39,Lab-diagnosed
 8/7/2020,Fraser,M,20-29,Lab-diagnosed
 8/7/2020,Fraser,M,30-39,Lab-diagnosed
-8/7/2020,Fraser,M,19-Oct,Lab-diagnosed
-8/7/2020,Fraser,M,19-Oct,Lab-diagnosed
-8/7/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/7/2020,Fraser,M,10-19,Lab-diagnosed
+8/7/2020,Fraser,M,10-19,Lab-diagnosed
+8/7/2020,Fraser,M,10-19,Lab-diagnosed
 8/7/2020,Fraser,F,20-29,Lab-diagnosed
 8/7/2020,Fraser,M,20-29,Lab-diagnosed
 8/7/2020,Fraser,F,20-29,Lab-diagnosed
@@ -4081,7 +4081,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/10/2020,Fraser,M,20-29,Lab-diagnosed
 8/10/2020,Fraser,F,30-39,Lab-diagnosed
 8/10/2020,Fraser,M,<10,Lab-diagnosed
-8/10/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/10/2020,Fraser,F,10-19,Lab-diagnosed
 8/10/2020,Fraser,F,20-29,Lab-diagnosed
 8/10/2020,Fraser,M,40-49,Lab-diagnosed
 8/10/2020,Fraser,M,80-89,Lab-diagnosed
@@ -4098,11 +4098,11 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/10/2020,Northern,F,<10,Lab-diagnosed
 8/10/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/10/2020,Vancouver Coastal,F,80-89,Lab-diagnosed
-8/10/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/10/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/10/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/10/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
-8/10/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
-8/10/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/10/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
+8/10/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/10/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/10/2020,Interior,M,30-39,Lab-diagnosed
 8/10/2020,Interior,F,30-39,Lab-diagnosed
@@ -4124,7 +4124,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/11/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/11/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 8/11/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
-8/11/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/11/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/11/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 8/11/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 8/11/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -4151,7 +4151,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/11/2020,Fraser,M,<10,Lab-diagnosed
 8/11/2020,Fraser,F,<10,Lab-diagnosed
 8/11/2020,Fraser,M,20-29,Lab-diagnosed
-8/11/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/11/2020,Fraser,M,10-19,Lab-diagnosed
 8/11/2020,Fraser,M,80-89,Lab-diagnosed
 8/11/2020,Fraser,F,40-49,Lab-diagnosed
 8/11/2020,Fraser,F,40-49,Lab-diagnosed
@@ -4189,7 +4189,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/11/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/11/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/11/2020,Fraser,M,70-79,Lab-diagnosed
-8/11/2020,Interior,M,19-Oct,Lab-diagnosed
+8/11/2020,Interior,M,10-19,Lab-diagnosed
 8/11/2020,Interior,M,30-39,Lab-diagnosed
 8/11/2020,Interior,F,50-59,Lab-diagnosed
 8/12/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -4225,7 +4225,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/12/2020,Fraser,M,20-29,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
 8/12/2020,Fraser,M,20-29,Lab-diagnosed
-8/12/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/12/2020,Fraser,M,10-19,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
@@ -4236,12 +4236,12 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/12/2020,Fraser,M,30-39,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
-8/12/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/12/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/12/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/12/2020,Fraser,F,10-19,Lab-diagnosed
+8/12/2020,Fraser,F,10-19,Lab-diagnosed
+8/12/2020,Fraser,M,10-19,Lab-diagnosed
 8/12/2020,Fraser,M,30-39,Lab-diagnosed
 8/12/2020,Fraser,M,30-39,Lab-diagnosed
-8/12/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/12/2020,Fraser,F,10-19,Lab-diagnosed
 8/12/2020,Fraser,M,20-29,Lab-diagnosed
 8/12/2020,Fraser,M,20-29,Lab-diagnosed
 8/12/2020,Fraser,F,20-29,Lab-diagnosed
@@ -4258,7 +4258,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/12/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 8/12/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/12/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-8/12/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/12/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/12/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 8/12/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/12/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -4269,7 +4269,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/13/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/13/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
-8/13/2020,Northern,M,19-Oct,Lab-diagnosed
+8/13/2020,Northern,M,10-19,Lab-diagnosed
 8/13/2020,Northern,F,30-39,Lab-diagnosed
 8/13/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -4323,11 +4323,11 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/13/2020,Fraser,M,30-39,Epi-linked
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
-8/13/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/13/2020,Fraser,M,10-19,Lab-diagnosed
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
-8/13/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/13/2020,Fraser,M,10-19,Lab-diagnosed
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
-8/13/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/13/2020,Fraser,F,10-19,Lab-diagnosed
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
 8/13/2020,Fraser,F,40-49,Lab-diagnosed
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
@@ -4340,17 +4340,17 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/13/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
-8/13/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/13/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,30-39,Epi-linked
-8/13/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/13/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/13/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/13/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/13/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/13/2020,Interior,F,50-59,Lab-diagnosed
 8/13/2020,Interior,M,40-49,Lab-diagnosed
-8/13/2020,Northern,M,19-Oct,Epi-linked
-8/13/2020,Northern,F,19-Oct,Epi-linked
+8/13/2020,Northern,M,10-19,Epi-linked
+8/13/2020,Northern,F,10-19,Epi-linked
 8/13/2020,Northern,F,20-29,Epi-linked
 8/13/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/13/2020,Fraser,F,30-39,Lab-diagnosed
@@ -4381,9 +4381,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/14/2020,Fraser,M,20-29,Lab-diagnosed
 8/14/2020,Fraser,F,30-39,Lab-diagnosed
 8/14/2020,Fraser,M,40-49,Lab-diagnosed
-8/14/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/14/2020,Fraser,F,10-19,Lab-diagnosed
 8/14/2020,Fraser,F,20-29,Lab-diagnosed
-8/14/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/14/2020,Fraser,F,10-19,Lab-diagnosed
 8/14/2020,Fraser,M,<10,Lab-diagnosed
 8/14/2020,Fraser,F,20-29,Lab-diagnosed
 8/14/2020,Fraser,F,20-29,Lab-diagnosed
@@ -4401,15 +4401,15 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/14/2020,Fraser,M,40-49,Lab-diagnosed
 8/14/2020,Fraser,F,60-69,Lab-diagnosed
 8/14/2020,Fraser,M,40-49,Lab-diagnosed
-8/14/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/14/2020,Fraser,F,10-19,Lab-diagnosed
 8/14/2020,Fraser,M,40-49,Lab-diagnosed
 8/14/2020,Fraser,F,20-29,Lab-diagnosed
-8/14/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/14/2020,Fraser,F,10-19,Lab-diagnosed
 8/14/2020,Fraser,F,20-29,Lab-diagnosed
 8/14/2020,Fraser,M,20-29,Lab-diagnosed
-8/14/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/14/2020,Fraser,F,10-19,Lab-diagnosed
 8/14/2020,Fraser,M,40-49,Lab-diagnosed
-8/14/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/14/2020,Fraser,F,10-19,Lab-diagnosed
 8/14/2020,Fraser,M,20-29,Lab-diagnosed
 8/14/2020,Fraser,F,20-29,Lab-diagnosed
 8/14/2020,Fraser,F,30-39,Lab-diagnosed
@@ -4438,7 +4438,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/14/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/14/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/14/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-8/14/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/14/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/14/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/14/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/14/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
@@ -4494,19 +4494,19 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/15/2020,Fraser,F,20-29,Lab-diagnosed
 8/15/2020,Fraser,F,30-39,Lab-diagnosed
 8/15/2020,Fraser,F,30-39,Lab-diagnosed
-8/15/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/15/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/15/2020,Fraser,F,10-19,Lab-diagnosed
+8/15/2020,Fraser,F,10-19,Lab-diagnosed
 8/15/2020,Fraser,F,20-29,Lab-diagnosed
 8/15/2020,Fraser,F,30-39,Lab-diagnosed
-8/15/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/15/2020,Fraser,M,10-19,Lab-diagnosed
 8/15/2020,Fraser,M,20-29,Lab-diagnosed
-8/15/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/15/2020,Fraser,F,10-19,Lab-diagnosed
 8/15/2020,Fraser,F,50-59,Lab-diagnosed
 8/15/2020,Fraser,F,50-59,Lab-diagnosed
 8/15/2020,Fraser,F,40-49,Lab-diagnosed
 8/15/2020,Fraser,M,50-59,Lab-diagnosed
-8/15/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/15/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/15/2020,Fraser,F,10-19,Lab-diagnosed
+8/15/2020,Fraser,M,10-19,Lab-diagnosed
 8/15/2020,Fraser,F,20-29,Lab-diagnosed
 8/15/2020,Fraser,F,20-29,Lab-diagnosed
 8/15/2020,Fraser,F,30-39,Lab-diagnosed
@@ -4544,7 +4544,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/16/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
 8/16/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/16/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
-8/16/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/16/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/16/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 8/16/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/16/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -4562,18 +4562,18 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/16/2020,Fraser,F,40-49,Lab-diagnosed
 8/16/2020,Fraser,F,20-29,Lab-diagnosed
 8/16/2020,Fraser,F,20-29,Lab-diagnosed
-8/16/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/16/2020,Fraser,F,10-19,Lab-diagnosed
 8/16/2020,Fraser,F,<10,Epi-linked
 8/16/2020,Fraser,M,<10,Epi-linked
 8/16/2020,Fraser,M,<10,Lab-diagnosed
 8/16/2020,Fraser,M,<10,Epi-linked
 8/16/2020,Fraser,M,<10,Epi-linked
-8/16/2020,Fraser,F,19-Oct,Epi-linked
-8/16/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/16/2020,Fraser,F,10-19,Epi-linked
+8/16/2020,Fraser,M,10-19,Lab-diagnosed
 8/16/2020,Fraser,M,<10,Lab-diagnosed
 8/16/2020,Fraser,M,20-29,Lab-diagnosed
 8/16/2020,Fraser,M,20-29,Lab-diagnosed
-8/16/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/16/2020,Fraser,F,10-19,Lab-diagnosed
 8/16/2020,Fraser,F,20-29,Lab-diagnosed
 8/16/2020,Fraser,F,40-49,Lab-diagnosed
 8/16/2020,Fraser,M,50-59,Lab-diagnosed
@@ -4588,8 +4588,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/16/2020,Vancouver Coastal,M,<10,Lab-diagnosed
 8/16/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/16/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-8/16/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
-8/16/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/16/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
+8/16/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/16/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/16/2020,Out of Canada,M,50-59,Lab-diagnosed
 8/17/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -4632,13 +4632,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/17/2020,Fraser,F,30-39,Lab-diagnosed
 8/17/2020,Fraser,M,20-29,Lab-diagnosed
 8/17/2020,Fraser,M,50-59,Lab-diagnosed
-8/17/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/17/2020,Fraser,F,10-19,Lab-diagnosed
 8/17/2020,Fraser,M,50-59,Lab-diagnosed
-8/17/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/17/2020,Fraser,F,10-19,Lab-diagnosed
 8/17/2020,Fraser,M,20-29,Lab-diagnosed
 8/17/2020,Fraser,F,70-79,Lab-diagnosed
 8/17/2020,Fraser,F,30-39,Lab-diagnosed
-8/17/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/17/2020,Fraser,F,10-19,Lab-diagnosed
 8/17/2020,Fraser,F,60-69,Lab-diagnosed
 8/17/2020,Fraser,M,40-49,Lab-diagnosed
 8/17/2020,Fraser,M,20-29,Lab-diagnosed
@@ -4652,7 +4652,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/17/2020,Fraser,M,70-79,Lab-diagnosed
 8/17/2020,Fraser,M,20-29,Lab-diagnosed
 8/17/2020,Interior,F,60-69,Lab-diagnosed
-8/17/2020,Vancouver Island,M,19-Oct,Lab-diagnosed
+8/17/2020,Vancouver Island,M,10-19,Lab-diagnosed
 8/17/2020,Vancouver Coastal,F,70-79,Lab-diagnosed
 8/17/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/17/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -4670,7 +4670,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/17/2020,Interior,F,30-39,Lab-diagnosed
 8/17/2020,Vancouver Island,F,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
-8/18/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/18/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -4687,12 +4687,12 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/18/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-8/18/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/18/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
-8/18/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/18/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -4708,7 +4708,6 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/18/2020,Fraser,M,30-39,Lab-diagnosed
 8/18/2020,Fraser,M,70-79,Lab-diagnosed
 8/18/2020,Fraser,M,40-49,Lab-diagnosed
-8/18/2020,Fraser,F,30-39,Lab-diagnosed
 8/18/2020,Fraser,M,30-39,Lab-diagnosed
 8/18/2020,Fraser,F,40-49,Lab-diagnosed
 8/18/2020,Fraser,F,20-29,Lab-diagnosed
@@ -4726,14 +4725,13 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/18/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-8/18/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/18/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/18/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/18/2020,Out of Canada,M,30-39,Lab-diagnosed
 8/18/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/18/2020,Interior,M,50-59,Lab-diagnosed
-8/18/2020,Fraser,M,<10,Lab-diagnosed
 8/19/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/19/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 8/19/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -4815,7 +4813,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/19/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 8/19/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/19/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-8/19/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/19/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/19/2020,Interior,M,30-39,Lab-diagnosed
 8/19/2020,Interior,M,20-29,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
@@ -4829,17 +4827,17 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/20/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
-8/20/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/20/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,70-79,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,70-79,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
-8/20/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
-8/20/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/20/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
+8/20/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
-8/20/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/20/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/20/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
@@ -4874,8 +4872,8 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/20/2020,Fraser,M,<10,Lab-diagnosed
 8/20/2020,Fraser,M,40-49,Lab-diagnosed
 8/20/2020,Fraser,F,70-79,Epi-linked
-8/20/2020,Fraser,M,19-Oct,Lab-diagnosed
-8/20/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/20/2020,Fraser,M,10-19,Lab-diagnosed
+8/20/2020,Fraser,M,10-19,Lab-diagnosed
 8/20/2020,Fraser,M,20-29,Lab-diagnosed
 8/20/2020,Fraser,M,40-49,Lab-diagnosed
 8/20/2020,Fraser,F,30-39,Lab-diagnosed
@@ -4905,7 +4903,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/20/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
-8/20/2020,Fraser,M,<10,Lab-diagnosed
+8/20/2020,Fraser,M,30-39,Lab-diagnosed
 8/20/2020,Interior,F,20-29,Lab-diagnosed
 8/20/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
@@ -4941,7 +4939,6 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/21/2020,Fraser,M,20-29,Lab-diagnosed
 8/21/2020,Fraser,F,20-29,Lab-diagnosed
 8/21/2020,Fraser,M,20-29,Lab-diagnosed
-8/21/2020,Fraser,U,30-39,Lab-diagnosed
 8/21/2020,Fraser,M,20-29,Lab-diagnosed
 8/21/2020,Fraser,M,30-39,Lab-diagnosed
 8/21/2020,Fraser,M,20-29,Lab-diagnosed
@@ -4972,11 +4969,11 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/21/2020,Fraser,F,40-49,Lab-diagnosed
 8/21/2020,Fraser,M,20-29,Lab-diagnosed
 8/21/2020,Fraser,M,90+,Lab-diagnosed
-8/21/2020,Fraser,M,19-Oct,Lab-diagnosed
-8/21/2020,Fraser,F,19-Oct,Lab-diagnosed
-8/21/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/21/2020,Fraser,M,10-19,Lab-diagnosed
+8/21/2020,Fraser,F,10-19,Lab-diagnosed
+8/21/2020,Fraser,F,10-19,Lab-diagnosed
 8/21/2020,Fraser,M,60-69,Lab-diagnosed
-8/21/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/21/2020,Fraser,M,10-19,Lab-diagnosed
 8/21/2020,Fraser,F,20-29,Lab-diagnosed
 8/21/2020,Fraser,F,20-29,Lab-diagnosed
 8/21/2020,Fraser,M,50-59,Lab-diagnosed
@@ -4998,15 +4995,15 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/21/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-8/21/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/21/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
-8/21/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
-8/21/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/21/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
+8/21/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
@@ -5014,9 +5011,9 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/21/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
-8/21/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/21/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
-8/21/2020,Vancouver Coastal,F,19-Oct,Lab-diagnosed
+8/21/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/21/2020,Vancouver Coastal,M,50-59,Lab-diagnosed
 8/21/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
@@ -5061,7 +5058,7 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/22/2020,Fraser,M,40-49,Lab-diagnosed
 8/22/2020,Fraser,M,40-49,Lab-diagnosed
 8/22/2020,Fraser,M,50-59,Lab-diagnosed
-8/22/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/22/2020,Fraser,M,10-19,Lab-diagnosed
 8/22/2020,Fraser,M,20-29,Lab-diagnosed
 8/22/2020,Fraser,M,40-49,Lab-diagnosed
 8/22/2020,Fraser,M,40-49,Lab-diagnosed
@@ -5099,31 +5096,32 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/22/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/22/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
 8/22/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
-8/22/2020,Vancouver Coastal,M,19-Oct,Lab-diagnosed
+8/22/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/22/2020,Vancouver Coastal,M,60-69,Lab-diagnosed
 8/22/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
+8/22/2020,Fraser,M,<10,Lab-diagnosed
 8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
-8/23/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,<10,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,10-19,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/23/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
+8/23/2020,Vancouver Coastal,M,10-19,Lab-diagnosed
 8/23/2020,Fraser,M,50-59,Lab-diagnosed
 8/23/2020,Fraser,F,90+,Lab-diagnosed
 8/23/2020,Fraser,M,70-79,Lab-diagnosed
@@ -5161,10 +5159,10 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/23/2020,Fraser,M,60-69,Lab-diagnosed
 8/23/2020,Fraser,F,30-39,Lab-diagnosed
 8/23/2020,Fraser,M,40-49,Lab-diagnosed
-8/23/2020,Fraser,M,19-Oct,Lab-diagnosed
+8/23/2020,Fraser,M,10-19,Lab-diagnosed
 8/23/2020,Fraser,M,50-59,Lab-diagnosed
 8/23/2020,Fraser,F,30-39,Lab-diagnosed
-8/23/2020,Fraser,F,19-Oct,Lab-diagnosed
+8/23/2020,Fraser,F,10-19,Lab-diagnosed
 8/23/2020,Fraser,F,80-89,Lab-diagnosed
 8/23/2020,Fraser,F,70-79,Lab-diagnosed
 8/23/2020,Fraser,M,20-29,Lab-diagnosed
@@ -5183,3 +5181,63 @@ Reported_Date,HA,Sex,Age_Group,Classification_Reported
 8/23/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
 8/23/2020,Vancouver Coastal,F,40-49,Lab-diagnosed
 8/23/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/24/2020,Fraser,F,20-29,Lab-diagnosed
+8/24/2020,Fraser,M,40-49,Lab-diagnosed
+8/24/2020,Fraser,M,70-79,Lab-diagnosed
+8/24/2020,Fraser,F,40-49,Lab-diagnosed
+8/24/2020,Fraser,M,30-39,Lab-diagnosed
+8/24/2020,Fraser,M,60-69,Lab-diagnosed
+8/24/2020,Fraser,F,30-39,Lab-diagnosed
+8/24/2020,Fraser,M,20-29,Lab-diagnosed
+8/24/2020,Fraser,F,20-29,Lab-diagnosed
+8/24/2020,Fraser,M,40-49,Lab-diagnosed
+8/24/2020,Fraser,M,60-69,Lab-diagnosed
+8/24/2020,Fraser,M,40-49,Lab-diagnosed
+8/24/2020,Fraser,F,10-19,Lab-diagnosed
+8/24/2020,Fraser,M,20-29,Lab-diagnosed
+8/24/2020,Fraser,F,30-39,Epi-linked
+8/24/2020,Fraser,M,50-59,Lab-diagnosed
+8/24/2020,Fraser,M,20-29,Lab-diagnosed
+8/24/2020,Fraser,F,20-29,Lab-diagnosed
+8/24/2020,Fraser,F,20-29,Lab-diagnosed
+8/24/2020,Fraser,M,50-59,Lab-diagnosed
+8/24/2020,Fraser,M,20-29,Lab-diagnosed
+8/24/2020,Fraser,M,30-39,Lab-diagnosed
+8/24/2020,Fraser,M,40-49,Lab-diagnosed
+8/24/2020,Fraser,F,20-29,Lab-diagnosed
+8/24/2020,Fraser,M,40-49,Lab-diagnosed
+8/24/2020,Vancouver Island,F,30-39,Lab-diagnosed
+8/24/2020,Vancouver Island,M,<10,Lab-diagnosed
+8/24/2020,Northern,F,80-89,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,50-59,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,30-39,Lab-diagnosed
+8/24/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
+8/24/2020,Vancouver Coastal,M,20-29,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/24/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
+8/24/2020,Vancouver Coastal,M,40-49,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,60-69,Lab-diagnosed
+8/24/2020,Vancouver Coastal,M,30-39,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,20-29,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,<10,Lab-diagnosed
+8/24/2020,Vancouver Coastal,F,<10,Lab-diagnosed
+8/25/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
+8/25/2020,Vancouver Coastal,U,Unknown,Lab-diagnosed
