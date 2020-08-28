@@ -89,7 +89,7 @@
   "features" : [
     {
       "attributes" : {
-        "under_19" : 23, 
+        "under_19" : 24, 
         "_20_39" : 43, 
         "_40_49" : 39, 
         "_50_59" : 59, 
@@ -97,7 +97,7 @@
         "_70_100" : 47, 
         "percent_female" : 52, 
         "percent_male" : 48, 
-        "date_updated" : 1597069800000
+        "date_updated" : 1598625000000
       }
     }
   ]
