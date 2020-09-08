@@ -9870,7 +9870,7 @@
     }, 
     {
       "attributes" : {
-        "regional_health_authority" : null, 
+        "regional_health_authority" : "eastern_rha", 
         "date_updated" : 1598197380000, 
         "total_number_of_cases" : 247, 
         "new_cases" : 0, 
