@@ -1,0 +1,322 @@
+{
+  "objectIdFieldName" : "OBJECTID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OBJECTID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "geometryProperties" : 
+  {
+    "shapeAreaFieldName" : "Shape__Area", 
+    "shapeLengthFieldName" : "Shape__Length", 
+    "units" : "esriMeters"
+  }, 
+  "geometryType" : "esriGeometryPolygon", 
+  "spatialReference" : {
+    "wkid" : 102100, 
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "OBJECTID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OBJECTID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "RHACODE", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "RHA Code", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 12, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "RHAName", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "RHA Name", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "RHANomFr", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Nom de l'office régionale de la santé", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 50, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "RHAArea", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "RHA Area - total (sq km)", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "LandArea", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "RHA Area - excludes major lakes (sq km)", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Date", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "Date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Last_Update", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Last Update", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 25, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Total_Tests", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total Tests", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Daily_Tests", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Daily Tests", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Total_Cases", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total Cases", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Active_Cases", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Active Cases", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Recovered", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Recovered", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Deaths", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Deaths", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "New_Cases", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "New Cases", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Current_Hospitalizations", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Current Hospitalizations", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Current_ICU_Patients", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Current ICU Patients", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Population", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Population", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Rate", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Rate (Cases per 100 000)", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Shape__Area", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Shape__Area", 
+      "sqlType" : "sqlTypeDouble", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Shape__Length", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Shape__Length", 
+      "sqlType" : "sqlTypeDouble", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OBJECTID" : 1, 
+        "RHACODE" : "01", 
+        "RHAName" : "Winnipeg", 
+        "RHANomFr" : "Winnipeg", 
+        "RHAArea" : 672.072482227334, 
+        "LandArea" : 672.072482227334, 
+        "Date" : 1600779600000, 
+        "Last_Update" : "September 22, 2020", 
+        "Total_Tests" : null, 
+        "Daily_Tests" : null, 
+        "Total_Cases" : 708, 
+        "Active_Cases" : 305, 
+        "Recovered" : 398, 
+        "Deaths" : 5, 
+        "New_Cases" : 20, 
+        "Current_Hospitalizations" : 1, 
+        "Current_ICU_Patients" : 0, 
+        "Population" : null, 
+        "Rate" : 89.58, 
+        "Shape__Area" : 1701550730.83594, 
+        "Shape__Length" : 298009.142930208
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 2, 
+        "RHACODE" : "02", 
+        "RHAName" : "Prairie Mountain Health", 
+        "RHANomFr" : "Santé Prairie Mountain", 
+        "RHAArea" : 75672.7465681963, 
+        "LandArea" : 68934.83146005, 
+        "Date" : 1600779600000, 
+        "Last_Update" : "September 22, 2020", 
+        "Total_Tests" : null, 
+        "Daily_Tests" : null, 
+        "Total_Cases" : 505, 
+        "Active_Cases" : 33, 
+        "Recovered" : 470, 
+        "Deaths" : 2, 
+        "New_Cases" : 0, 
+        "Current_Hospitalizations" : 2, 
+        "Current_ICU_Patients" : 1, 
+        "Population" : null, 
+        "Rate" : 295.23, 
+        "Shape__Area" : 190393654315.902, 
+        "Shape__Length" : 3145477.70176277
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 3, 
+        "RHACODE" : "03", 
+        "RHAName" : "Interlake-Eastern", 
+        "RHANomFr" : "Entre-les-Lacs et de l’Est", 
+        "RHAArea" : 101716.6330978, 
+        "LandArea" : 77892.56322145, 
+        "Date" : 1600779600000, 
+        "Last_Update" : "September 22, 2020", 
+        "Total_Tests" : null, 
+        "Daily_Tests" : null, 
+        "Total_Cases" : 106, 
+        "Active_Cases" : 18, 
+        "Recovered" : 88, 
+        "Deaths" : 0, 
+        "New_Cases" : 2, 
+        "Current_Hospitalizations" : 1, 
+        "Current_ICU_Patients" : 0, 
+        "Population" : null, 
+        "Rate" : 84.49, 
+        "Shape__Area" : 264587546245.629, 
+        "Shape__Length" : 3904687.66401808
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 4, 
+        "RHACODE" : "04", 
+        "RHAName" : "Northern", 
+        "RHANomFr" : "Nord", 
+        "RHAArea" : 442069.983385795, 
+        "LandArea" : 438520.20006418, 
+        "Date" : 1600779600000, 
+        "Last_Update" : "September 22, 2020", 
+        "Total_Tests" : null, 
+        "Daily_Tests" : null, 
+        "Total_Cases" : 4, 
+        "Active_Cases" : 0, 
+        "Recovered" : 4, 
+        "Deaths" : 0, 
+        "New_Cases" : 0, 
+        "Current_Hospitalizations" : 0, 
+        "Current_ICU_Patients" : 0, 
+        "Population" : null, 
+        "Rate" : 5.21, 
+        "Shape__Area" : 1452563879686.73, 
+        "Shape__Length" : 6161149.16762607
+      }
+    }, 
+    {
+      "attributes" : {
+        "OBJECTID" : 5, 
+        "RHACODE" : "05", 
+        "RHAName" : "Southern Health-Santé Sud", 
+        "RHANomFr" : "Southern Health-Santé Sud", 
+        "RHAArea" : 29790.5443982704, 
+        "LandArea" : 27473.77542713, 
+        "Date" : 1600779600000, 
+        "Last_Update" : "September 22, 2020", 
+        "Total_Tests" : null, 
+        "Daily_Tests" : null, 
+        "Total_Cases" : 309, 
+        "Active_Cases" : 24, 
+        "Recovered" : 274, 
+        "Deaths" : 11, 
+        "New_Cases" : 2, 
+        "Current_Hospitalizations" : 4, 
+        "Current_ICU_Patients" : 1, 
+        "Population" : null, 
+        "Rate" : 148.83, 
+        "Shape__Area" : 70883832676.3516, 
+        "Shape__Length" : 2030307.80860535
+      }
+    }
+  ]
+}
