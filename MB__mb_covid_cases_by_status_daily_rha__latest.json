@@ -14119,10 +14119,10 @@
       "attributes" : {
         "Date" : 1600923600000, 
         "RHA" : "All", 
-        "Daily_Cases" : 57, 
-        "Cumulative_Cases" : 1772, 
-        "Active_Cases" : 493, 
-        "Recoveries" : 1260, 
+        "Daily_Cases" : 58, 
+        "Cumulative_Cases" : 1773, 
+        "Active_Cases" : 495, 
+        "Recoveries" : 1259, 
         "Deaths" : 19, 
         "ObjectId" : 1171
       }
@@ -14169,8 +14169,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 3, 
         "Cumulative_Cases" : 320, 
-        "Active_Cases" : 29, 
-        "Recoveries" : 280, 
+        "Active_Cases" : 30, 
+        "Recoveries" : 279, 
         "Deaths" : 11, 
         "ObjectId" : 1175
       }
@@ -14179,9 +14179,9 @@
       "attributes" : {
         "Date" : 1600923600000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 49, 
-        "Cumulative_Cases" : 821, 
-        "Active_Cases" : 407, 
+        "Daily_Cases" : 50, 
+        "Cumulative_Cases" : 822, 
+        "Active_Cases" : 408, 
         "Recoveries" : 408, 
         "Deaths" : 6, 
         "ObjectId" : 1176
@@ -14191,10 +14191,10 @@
       "attributes" : {
         "Date" : 1601010000000, 
         "RHA" : "All", 
-        "Daily_Cases" : 57, 
-        "Cumulative_Cases" : 1829, 
-        "Active_Cases" : 545, 
-        "Recoveries" : 1265, 
+        "Daily_Cases" : 66, 
+        "Cumulative_Cases" : 1839, 
+        "Active_Cases" : 558, 
+        "Recoveries" : 1262, 
         "Deaths" : 19, 
         "ObjectId" : 1177
       }
@@ -14227,10 +14227,10 @@
       "attributes" : {
         "Date" : 1601010000000, 
         "RHA" : "Prairie Mountain Health", 
-        "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 513, 
-        "Active_Cases" : 34, 
-        "Recoveries" : 477, 
+        "Daily_Cases" : 3, 
+        "Cumulative_Cases" : 514, 
+        "Active_Cases" : 36, 
+        "Recoveries" : 476, 
         "Deaths" : 2, 
         "ObjectId" : 1180
       }
@@ -14239,10 +14239,10 @@
       "attributes" : {
         "Date" : 1601010000000, 
         "RHA" : "Southern Health-Santé Sud", 
-        "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 323, 
-        "Active_Cases" : 30, 
-        "Recoveries" : 282, 
+        "Daily_Cases" : 5, 
+        "Cumulative_Cases" : 325, 
+        "Active_Cases" : 34, 
+        "Recoveries" : 280, 
         "Deaths" : 11, 
         "ObjectId" : 1181
       }
@@ -14251,12 +14251,84 @@
       "attributes" : {
         "Date" : 1601010000000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 49, 
-        "Cumulative_Cases" : 870, 
-        "Active_Cases" : 456, 
+        "Daily_Cases" : 55, 
+        "Cumulative_Cases" : 877, 
+        "Active_Cases" : 463, 
         "Recoveries" : 408, 
         "Deaths" : 6, 
         "ObjectId" : 1182
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601096400000, 
+        "RHA" : "All", 
+        "Daily_Cases" : 41, 
+        "Cumulative_Cases" : 1880, 
+        "Active_Cases" : 589, 
+        "Recoveries" : 1272, 
+        "Deaths" : 19, 
+        "ObjectId" : 1183
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601096400000, 
+        "RHA" : "Interlake-Eastern", 
+        "Daily_Cases" : 8, 
+        "Cumulative_Cases" : 125, 
+        "Active_Cases" : 31, 
+        "Recoveries" : 94, 
+        "Deaths" : 0, 
+        "ObjectId" : 1184
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601096400000, 
+        "RHA" : "Northern", 
+        "Daily_Cases" : 2, 
+        "Cumulative_Cases" : 8, 
+        "Active_Cases" : 4, 
+        "Recoveries" : 4, 
+        "Deaths" : 0, 
+        "ObjectId" : 1185
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601096400000, 
+        "RHA" : "Prairie Mountain Health", 
+        "Daily_Cases" : 1, 
+        "Cumulative_Cases" : 515, 
+        "Active_Cases" : 34, 
+        "Recoveries" : 479, 
+        "Deaths" : 2, 
+        "ObjectId" : 1186
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601096400000, 
+        "RHA" : "Southern Health-Santé Sud", 
+        "Daily_Cases" : 2, 
+        "Cumulative_Cases" : 327, 
+        "Active_Cases" : 30, 
+        "Recoveries" : 286, 
+        "Deaths" : 11, 
+        "ObjectId" : 1187
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601096400000, 
+        "RHA" : "Winnipeg", 
+        "Daily_Cases" : 28, 
+        "Cumulative_Cases" : 905, 
+        "Active_Cases" : 490, 
+        "Recoveries" : 409, 
+        "Deaths" : 6, 
+        "ObjectId" : 1188
       }
     }
   ]
