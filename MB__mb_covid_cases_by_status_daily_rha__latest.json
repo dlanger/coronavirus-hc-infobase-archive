@@ -14227,9 +14227,9 @@
       "attributes" : {
         "Date" : 1601010000000, 
         "RHA" : "Prairie Mountain Health", 
-        "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 514, 
-        "Active_Cases" : 36, 
+        "Daily_Cases" : 2, 
+        "Cumulative_Cases" : 513, 
+        "Active_Cases" : 35, 
         "Recoveries" : 476, 
         "Deaths" : 2, 
         "ObjectId" : 1180
@@ -14251,9 +14251,9 @@
       "attributes" : {
         "Date" : 1601010000000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 55, 
-        "Cumulative_Cases" : 877, 
-        "Active_Cases" : 463, 
+        "Daily_Cases" : 56, 
+        "Cumulative_Cases" : 878, 
+        "Active_Cases" : 464, 
         "Recoveries" : 408, 
         "Deaths" : 6, 
         "ObjectId" : 1182
@@ -14263,11 +14263,11 @@
       "attributes" : {
         "Date" : 1601096400000, 
         "RHA" : "All", 
-        "Daily_Cases" : 41, 
-        "Cumulative_Cases" : 1880, 
-        "Active_Cases" : 589, 
-        "Recoveries" : 1272, 
-        "Deaths" : 19, 
+        "Daily_Cases" : 42, 
+        "Cumulative_Cases" : 1881, 
+        "Active_Cases" : 591, 
+        "Recoveries" : 1270, 
+        "Deaths" : 20, 
         "ObjectId" : 1183
       }
     }, 
@@ -14300,10 +14300,10 @@
         "Date" : 1601096400000, 
         "RHA" : "Prairie Mountain Health", 
         "Daily_Cases" : 1, 
-        "Cumulative_Cases" : 515, 
-        "Active_Cases" : 34, 
-        "Recoveries" : 479, 
-        "Deaths" : 2, 
+        "Cumulative_Cases" : 514, 
+        "Active_Cases" : 33, 
+        "Recoveries" : 478, 
+        "Deaths" : 3, 
         "ObjectId" : 1186
       }
     }, 
@@ -14313,8 +14313,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 2, 
         "Cumulative_Cases" : 327, 
-        "Active_Cases" : 30, 
-        "Recoveries" : 286, 
+        "Active_Cases" : 31, 
+        "Recoveries" : 285, 
         "Deaths" : 11, 
         "ObjectId" : 1187
       }
@@ -14323,12 +14323,84 @@
       "attributes" : {
         "Date" : 1601096400000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 905, 
-        "Active_Cases" : 490, 
+        "Daily_Cases" : 29, 
+        "Cumulative_Cases" : 907, 
+        "Active_Cases" : 492, 
         "Recoveries" : 409, 
         "Deaths" : 6, 
         "ObjectId" : 1188
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601182800000, 
+        "RHA" : "All", 
+        "Daily_Cases" : 38, 
+        "Cumulative_Cases" : 1919, 
+        "Active_Cases" : 618, 
+        "Recoveries" : 1281, 
+        "Deaths" : 20, 
+        "ObjectId" : 1189
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601182800000, 
+        "RHA" : "Interlake-Eastern", 
+        "Daily_Cases" : 7, 
+        "Cumulative_Cases" : 132, 
+        "Active_Cases" : 35, 
+        "Recoveries" : 97, 
+        "Deaths" : 0, 
+        "ObjectId" : 1190
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601182800000, 
+        "RHA" : "Northern", 
+        "Daily_Cases" : 7, 
+        "Cumulative_Cases" : 15, 
+        "Active_Cases" : 11, 
+        "Recoveries" : 4, 
+        "Deaths" : 0, 
+        "ObjectId" : 1191
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601182800000, 
+        "RHA" : "Prairie Mountain Health", 
+        "Daily_Cases" : 0, 
+        "Cumulative_Cases" : 514, 
+        "Active_Cases" : 29, 
+        "Recoveries" : 482, 
+        "Deaths" : 3, 
+        "ObjectId" : 1192
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601182800000, 
+        "RHA" : "Southern Health-Santé Sud", 
+        "Daily_Cases" : 3, 
+        "Cumulative_Cases" : 330, 
+        "Active_Cases" : 31, 
+        "Recoveries" : 288, 
+        "Deaths" : 11, 
+        "ObjectId" : 1193
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1601182800000, 
+        "RHA" : "Winnipeg", 
+        "Daily_Cases" : 21, 
+        "Cumulative_Cases" : 928, 
+        "Active_Cases" : 512, 
+        "Recoveries" : 410, 
+        "Deaths" : 6, 
+        "ObjectId" : 1194
       }
     }
   ]
