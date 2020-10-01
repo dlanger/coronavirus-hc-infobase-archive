@@ -10013,49 +10013,97 @@
 2020-09-28,Villa Forum,,160.0,0.0,10,<5
 2020-09-28,Woodhall Park Care Community,,147.0,0.0,0,<5
 2020-09-28,Yee Hong Centre - Markham,,200.0,5.0,<5,<5
-2020-09-29,Billings Court Manor,,160,0,<5,0
-2020-09-29,Cawthra Gardens,,192,0,0,<5
-2020-09-29,Centre d'Accueil Champlain,,160,0,0,7
-2020-09-29,Country Terrace,,120,<5,0,<5
-2020-09-29,Creek Way Village,,144,0,0,<5
-2020-09-29,Deer Park Villa,,40,0,0,<5
-2020-09-29,Errinrung Long Term Care Home,,60,0,0,<5
-2020-09-29,Extendicare Laurier Manor,,242,<5,25,<5
-2020-09-29,Extendicare Medex,,193,0,0,<5
-2020-09-29,Extendicare New Orchard Lodge,,111,<5,0,<5
-2020-09-29,Extendicare Oshawa,,175,0,0,<5
-2020-09-29,Extendicare Starwood,,192,0,0,<5
-2020-09-29,Extendicare West End Villa,,242,23,16,38
-2020-09-29,F. J. Davey Home,,374,0,0,<5
-2020-09-29,Fairhaven,,256,0,0,<5
-2020-09-29,Fairview Nursing Home,,108,34,<5,8
-2020-09-29,Faith Manor Nursing Home,,120,<5,<5,<5
-2020-09-29,Fieldstone Commons Care Community,,224,0,0,<5
-2020-09-29,Garry J. Armstrong Home,,180,0,0,<5
-2020-09-29,Hillel Lodge,,121,<5,0,<5
-2020-09-29,Humber Valley Terrace,,158,0,36,<5
-2020-09-29,IOOF Seniors Home,,182,0,0,<5
-2020-09-29,Mackenzie Health Long Term Care Facility,,168,0,0,<5
-2020-09-29,Malton Village Long Term Care Centre,,160,0,<5,0
-2020-09-29,Maple Grove Care Community,,160,0,<5,<5
-2020-09-29,Meadow Park (London),,126,0,<5,<5
-2020-09-29,Millennium Trail Manor,,160,<5,0,<5
-2020-09-29,Muskoka Shores Care Community,,207,0,0,<5
-2020-09-29,Norwood Nursing Home,,60,18,0,6
-2020-09-29,peopleCare Oakcrossing London,,160,0,0,<5
-2020-09-29,Residence Saint-Louis,,198,<5,9,<5
-2020-09-29,Sherwood Court Long Term Care Centre,,96,0,0,<5
-2020-09-29,Silverthorn Care Community,,160,0,0,<5
-2020-09-29,St. George Care Community,,238,0,0,<5
-2020-09-29,St. Patrick's Home,,288,0,<5,<5
-2020-09-29,St. Peter's Residence at Chedoke,,221,0,0,<5
-2020-09-29,Streetsville Care Community,,118,0,0,<5
-2020-09-29,Tall Pines Long Term Care Centre,,160,0,0,0
-2020-09-29,The Perley and Rideau Veterans' Health Centre,,450,0,12,<5
-2020-09-29,The Pines,,160,0,0,<5
-2020-09-29,The Village of Sandalwood Park,,120,0,0,<5
-2020-09-29,Vermont Square,,130,0,0,<5
-2020-09-29,Villa Colombo Seniors Centre (Vaughan),,160,0,21,0
-2020-09-29,Villa Forum,,160,0,10,<5
-2020-09-29,Woodhall Park Care Community,,147,0,0,<5
-2020-09-29,Yee Hong Centre - Markham,,200,5,<5,<5
+2020-09-29,Billings Court Manor,,160.0,0.0,<5,0.0
+2020-09-29,Cawthra Gardens,,192.0,0.0,0,<5
+2020-09-29,Centre d'Accueil Champlain,,160.0,0.0,0,7.0
+2020-09-29,Country Terrace,,120.0,<5,0,<5
+2020-09-29,Creek Way Village,,144.0,0.0,0,<5
+2020-09-29,Deer Park Villa,,40.0,0.0,0,<5
+2020-09-29,Errinrung Long Term Care Home,,60.0,0.0,0,<5
+2020-09-29,Extendicare Laurier Manor,,242.0,<5,25,<5
+2020-09-29,Extendicare Medex,,193.0,0.0,0,<5
+2020-09-29,Extendicare New Orchard Lodge,,111.0,<5,0,<5
+2020-09-29,Extendicare Oshawa,,175.0,0.0,0,<5
+2020-09-29,Extendicare Starwood,,192.0,0.0,0,<5
+2020-09-29,Extendicare West End Villa,,242.0,23.0,16,38.0
+2020-09-29,F. J. Davey Home,,374.0,0.0,0,<5
+2020-09-29,Fairhaven,,256.0,0.0,0,<5
+2020-09-29,Fairview Nursing Home,,108.0,34.0,<5,8.0
+2020-09-29,Faith Manor Nursing Home,,120.0,<5,<5,<5
+2020-09-29,Fieldstone Commons Care Community,,224.0,0.0,0,<5
+2020-09-29,Garry J. Armstrong Home,,180.0,0.0,0,<5
+2020-09-29,Hillel Lodge,,121.0,<5,0,<5
+2020-09-29,Humber Valley Terrace,,158.0,0.0,36,<5
+2020-09-29,IOOF Seniors Home,,182.0,0.0,0,<5
+2020-09-29,Mackenzie Health Long Term Care Facility,,168.0,0.0,0,<5
+2020-09-29,Malton Village Long Term Care Centre,,160.0,0.0,<5,0.0
+2020-09-29,Maple Grove Care Community,,160.0,0.0,<5,<5
+2020-09-29,Meadow Park (London),,126.0,0.0,<5,<5
+2020-09-29,Millennium Trail Manor,,160.0,<5,0,<5
+2020-09-29,Muskoka Shores Care Community,,207.0,0.0,0,<5
+2020-09-29,Norwood Nursing Home,,60.0,18.0,0,6.0
+2020-09-29,peopleCare Oakcrossing London,,160.0,0.0,0,<5
+2020-09-29,Residence Saint-Louis,,198.0,<5,9,<5
+2020-09-29,Sherwood Court Long Term Care Centre,,96.0,0.0,0,<5
+2020-09-29,Silverthorn Care Community,,160.0,0.0,0,<5
+2020-09-29,St. George Care Community,,238.0,0.0,0,<5
+2020-09-29,St. Patrick's Home,,288.0,0.0,<5,<5
+2020-09-29,St. Peter's Residence at Chedoke,,221.0,0.0,0,<5
+2020-09-29,Streetsville Care Community,,118.0,0.0,0,<5
+2020-09-29,Tall Pines Long Term Care Centre,,160.0,0.0,0,0.0
+2020-09-29,The Perley and Rideau Veterans' Health Centre,,450.0,0.0,12,<5
+2020-09-29,The Pines,,160.0,0.0,0,<5
+2020-09-29,The Village of Sandalwood Park,,120.0,0.0,0,<5
+2020-09-29,Vermont Square,,130.0,0.0,0,<5
+2020-09-29,Villa Colombo Seniors Centre (Vaughan),,160.0,0.0,21,0.0
+2020-09-29,Villa Forum,,160.0,0.0,10,<5
+2020-09-29,Woodhall Park Care Community,,147.0,0.0,0,<5
+2020-09-29,Yee Hong Centre - Markham,,200.0,5.0,<5,<5
+2020-09-30,Billings Court Manor,,160,0,<5,0
+2020-09-30,Cawthra Gardens,,192,0,0,<5
+2020-09-30,Centre d'Accueil Champlain,,160,0,0,7
+2020-09-30,Chartwell Gibson Long Term Care Residence,,202,0,9,<5
+2020-09-30,Chartwell Wenleigh Long Term Care Residence,,161,0,0,<5
+2020-09-30,Country Terrace,,120,<5,0,<5
+2020-09-30,Creek Way Village,,144,0,0,<5
+2020-09-30,Deer Park Villa,,40,0,0,<5
+2020-09-30,Errinrung Long Term Care Home,,60,0,0,<5
+2020-09-30,Extendicare Laurier Manor,,242,<5,25,<5
+2020-09-30,Extendicare Medex,,193,0,0,<5
+2020-09-30,Extendicare New Orchard Lodge,,111,<5,0,<5
+2020-09-30,Extendicare Oshawa,,175,0,0,<5
+2020-09-30,Extendicare Starwood,,192,0,0,<5
+2020-09-30,Extendicare West End Villa,,242,30,17,38
+2020-09-30,F. J. Davey Home,,374,0,0,<5
+2020-09-30,Fairhaven,,256,0,0,<5
+2020-09-30,Fairview Nursing Home,,108,38,<5,10
+2020-09-30,Faith Manor Nursing Home,,120,<5,<5,<5
+2020-09-30,Fieldstone Commons Care Community,,224,0,0,<5
+2020-09-30,Garry J. Armstrong Home,,180,0,0,<5
+2020-09-30,Hillel Lodge,,121,<5,0,0
+2020-09-30,Humber Valley Terrace,,158,0,36,<5
+2020-09-30,IOOF Seniors Home,,182,0,0,<5
+2020-09-30,Mackenzie Health Long Term Care Facility,,168,0,0,<5
+2020-09-30,Malton Village Long Term Care Centre,,160,0,<5,<5
+2020-09-30,Maple Grove Care Community,,160,0,<5,<5
+2020-09-30,Meadow Park (London),,126,0,<5,<5
+2020-09-30,Millennium Trail Manor,,160,<5,0,<5
+2020-09-30,Muskoka Shores Care Community,,207,0,0,<5
+2020-09-30,Norwood Nursing Home,,60,17,<5,6
+2020-09-30,peopleCare Oakcrossing London,,160,0,0,<5
+2020-09-30,Residence Saint-Louis,,198,<5,9,<5
+2020-09-30,Sherwood Court Long Term Care Centre,,96,0,0,<5
+2020-09-30,Silverthorn Care Community,,160,0,0,<5
+2020-09-30,St. George Care Community,,238,0,0,<5
+2020-09-30,St. Jacques Nursing Home,,60,0,0,<5
+2020-09-30,St. Peter's Residence at Chedoke,,221,0,0,<5
+2020-09-30,Streetsville Care Community,,118,0,0,<5
+2020-09-30,Tall Pines Long Term Care Centre,,160,0,0,0
+2020-09-30,The Perley and Rideau Veterans' Health Centre,,450,0,12,<5
+2020-09-30,The Pines,,160,0,0,<5
+2020-09-30,The Village of Sandalwood Park,,120,0,0,<5
+2020-09-30,Vermont Square,,130,<5,0,<5
+2020-09-30,Villa Colombo Seniors Centre (Vaughan),,160,0,21,0
+2020-09-30,Villa Forum,,160,0,10,0
+2020-09-30,Woodhall Park Care Community,,147,0,0,<5
+2020-09-30,Yee Hong Centre - Markham,,200,8,<5,<5
