@@ -1,4 +1,4 @@
-pruid,prname,prnameFR,date,numconf,numprob,numdeaths,numtotal,numtested,numrecover,percentrecover,ratetested,numtoday,percentoday,ratetotal,ratedeaths,numdeathstoday,percentdeath,numtestedtoday,numrecoveredtoday,percentactive,numactive,rateactive,numtotal_last14,ratetotal_last14,numdeaths_last14,ratedeaths_last14,avgnumtotal_last7,avgratetotal_last7,avgnumdeaths_last7,avgratedeaths_last7
+pruid,prname,prnameFR,date,numconf,numprob,numdeaths,numtotal,numtested,numrecover,percentrecover,ratetested,numtoday,percentoday,ratetotal,ratedeaths,numdeathstoday,percentdeath,numtestedtoday,numrecoveredtoday,percentactive,numactive,rateactive,numtotal_last14,ratetotal_last14,numdeaths_last14,ratedeaths_last14,avgtotal_last7,avgincidence_last7,avgdeaths_last7,avgratedeaths_last7
 35,Ontario,Ontario,31-01-2020,3,0,0,3,,,,,3,300.00,0.02,0.00,0,0.00,,,100.00,3,0.02,,,,,,,,
 59,British Columbia,Colombie-Britannique,31-01-2020,1,0,0,1,,,,,1,100.00,0.02,0.00,0,0.00,,,100.00,1,0.02,,,,,,,,
 1,Canada,Canada,31-01-2020,4,0,0,4,,,,,4,400.00,0.01,0.00,0,0.00,,,100.00,4,0.01,,,,,,,,
@@ -3206,3 +3206,18 @@ pruid,prname,prnameFR,date,numconf,numprob,numdeaths,numtotal,numtested,numrecov
 62,Nunavut,Nunavut,06-10-2020,0,0,0,0,2505,0,N/A,64595,0,0.00,0.00,0.00,0,,0,0,,,0.00,0,0.00,0,0.00,0,0.00,0,0.00
 99,Repatriated travellers,Voyageurs rapatriés,06-10-2020,13,0,0,13,76,13,100.00,,0,0.00,,,0,0.00,0,0,0.00,0,,0,,0,,0,,0,
 1,Canada,Canada,06-10-2020,171323,0,9530,171323,7759301,143994,84.05,206423,2363,1.40,455.78,25.35,26,5.56,64042,1660,10.39,17799,47.35,24660,65.60,296,0.79,2052,5.46,34,0.09
+59,British Columbia,Colombie-Britannique,07-10-2020,9956,0,244,9956,480828,8296,83.33,94813,115,1.17,196.32,4.81,0,2.45,5586,112,14.22,1416,27.92,1561,30.78,17,0.34,117,2.30,1,0.03
+48,Alberta,Alberta,07-10-2020,19354,0,281,19354,1012136,17163,88.68,231540,143,0.74,442.75,6.43,0,1.45,0,133,9.87,1910,43.69,2322,53.12,21,0.48,185,4.22,2,0.05
+47,Saskatchewan,Saskatchewan,07-10-2020,1994,0,24,1994,169712,1832,91.88,144502,10,0.50,169.78,2.04,0,1.20,1264,11,6.92,138,11.75,164,13.96,0,0.00,12,0.99,0,0.00
+46,Manitoba,Manitoba,07-10-2020,2278,0,27,2278,191881,1448,63.56,140114,32,1.42,166.34,1.97,3,1.19,2405,7,35.25,803,58.64,604,44.10,9,0.66,41,2.97,1,0.07
+35,Ontario,Ontario,07-10-2020,55945,0,2988,55945,4074870,47613,85.11,279742,583,1.05,384.06,20.51,1,5.34,41862,707,9.55,5344,36.69,7858,53.95,153,1.05,605,4.15,20,0.14
+24,Quebec,Québec,07-10-2020,81914,0,5906,81914,1629846,67735,82.69,192086,900,1.11,965.40,69.61,7,7.21,13008,702,10.10,8273,97.50,12826,151.16,97,1.14,1089,12.84,10,0.12
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,07-10-2020,277,0,4,277,45170,269,97.11,86609,0,0.00,53.11,0.77,0,1.44,361,0,1.44,4,0.77,5,0.96,1,0.19,0,0.08,0,0.03
+13,New Brunswick,Nouveau-Brunswick,07-10-2020,222,0,2,222,70602,198,89.19,90885,17,8.29,28.58,0.26,0,0.90,649,0,9.91,22,2.83,25,3.22,0,0.00,3,0.40,0,0.00
+12,Nova Scotia,Nouvelle-Écosse,07-10-2020,1089,0,65,1089,99867,1021,93.76,102808,0,0.00,112.11,6.69,0,5.97,594,0,0.28,3,0.31,2,0.21,0,0.00,0,0.01,0,0.00
+11,Prince Edward Island,Île-du-Prince-Édouard,07-10-2020,61,0,0,61,39806,58,95.08,253627,0,0.00,38.87,0.00,0,0.00,457,0,4.92,3,1.91,3,1.91,0,0.00,0,0.18,0,0.00
+60,Yukon,Yukon,07-10-2020,15,0,0,15,3542,15,100.00,86699,0,0.00,36.72,0.00,0,0.00,20,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00
+61,Northwest Territories,Territoires du Nord-Ouest,07-10-2020,5,0,0,5,4704,5,100.00,104939,0,0.00,11.15,0.00,0,0.00,38,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00,0,0.00
+62,Nunavut,Nunavut,07-10-2020,0,0,0,0,2562,0,N/A,66065,0,0.00,0.00,0.00,0,,57,0,,,0.00,0,0.00,0,0.00,0,0.00,0,0.00
+99,Repatriated travellers,Voyageurs rapatriés,07-10-2020,13,0,0,13,76,13,100.00,,0,0.00,,,0,0.00,0,0,0.00,0,,0,,0,,0,,0,
+1,Canada,Canada,07-10-2020,173123,0,9541,173123,7825602,145666,84.14,208187,1800,1.05,460.57,25.38,11,5.51,66301,1672,10.35,17916,47.66,25370,67.49,298,0.79,2052,5.46,35,0.09
