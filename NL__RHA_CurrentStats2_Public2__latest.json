@@ -216,16 +216,16 @@
         "RHAShort" : "Western_RHA", 
         "regional_health_authority" : "western_rha", 
         "date_updated" : 1602779520000, 
-        "total_number_of_cases" : 10, 
-        "new_cases" : 0, 
+        "total_number_of_cases" : 11, 
+        "new_cases" : 1, 
         "currently_hospitalized" : 0, 
         "current_in_icu" : 0, 
         "total_number_recovered" : 4, 
         "total_number_of_deaths" : 1, 
-        "active_cases" : 5, 
+        "active_cases" : 6, 
         "total_people_tested" : 6407, 
         "Population" : 7.414, 
-        "CasesPer10KPop" : 1.34879956838414
+        "CasesPer10KPop" : 1.541
       }
     }, 
     {
