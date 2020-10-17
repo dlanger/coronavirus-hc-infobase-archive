@@ -10880,75 +10880,153 @@
 2020-10-14,Winbourne Park,,110.0,<5,0,<5
 2020-10-14,Woodbridge Vista Care Community,,224.0,0.0,31,<5
 2020-10-14,Yee Hong Centre - Markham,,200.0,<5,<5,<5
-2020-10-15,Bethany Lodge,,128,<5,<5,0
-2020-10-15,Bradford Valley Care Community,,246,0,12,<5
-2020-10-15,CAMA Woodlands Nursing Home,,134,0,0,<5
-2020-10-15,Caressant Care on Mary Bucke,,60,0,0,<5
-2020-10-15,Carlingview Manor,,303,0,61,<5
-2020-10-15,Cedarvale Lodge Retirement and Care Community,,60,0,0,<5
-2020-10-15,Cedarvale Terrace,,218,<5,0,<5
-2020-10-15,Centre d'Accueil Champlain,,160,0,0,<5
-2020-10-15,Chartwell Aurora Long Term Care Residence,,235,0,11,<5
-2020-10-15,Chartwell Waterford Long Term Care Residence,,168,<5,<5,0
-2020-10-15,Chartwell Wenleigh Long Term Care Residence,,161,<5,0,<5
-2020-10-15,Chelsey Park,,247,0,0,<5
-2020-10-15,Craigholme,,83,0,0,<5
-2020-10-15,Creek Way Village,,144,0,<5,<5
-2020-10-15,Crescent Park Lodge,,68,0,0,<5
-2020-10-15,Cummer Lodge,,391,0,<5,<5
-2020-10-15,Deerwood Creek Care Community,,160,0,0,<5
-2020-10-15,Dundurn Place Care Centre,,201,<5,<5,<5
-2020-10-15,Earls Court Village,,128,0,0,<5
-2020-10-15,Eatonville Care Centre,,247,0,42,<5
-2020-10-15,Extendicare Laurier Manor,,242,0,25,<5
-2020-10-15,Extendicare London,,170,0,0,<5
-2020-10-15,Extendicare New Orchard Lodge,,111,0,0,<5
-2020-10-15,Extendicare Starwood,,192,0,0,<5
-2020-10-15,Extendicare West End Villa,,242,<5,19,8
-2020-10-15,Fairmount Home for the Aged,,128,0,0,<5
-2020-10-15,Fairview Mennonite Home,,84,<5,0,0
-2020-10-15,Fairview Nursing Home,,108,22,11,16
-2020-10-15,Faith Manor Nursing Home,,120,0,<5,<5
-2020-10-15,Garry J. Armstrong Home,,180,0,0,<5
-2020-10-15,Henley Place,,192,<5,0,<5
-2020-10-15,Kennedy Lodge,,289,0,0,<5
-2020-10-15,Lakeside Long Term Care Centre,,128,6,0,<5
-2020-10-15,Langstaff Square Care Community,,160,<5,0,0
-2020-10-15,Longfields Manor,,114,0,0,<5
-2020-10-15,Mackenzie Health Long Term Care Facility,,168,0,0,<5
-2020-10-15,MacKenzie Place,,93,0,15,<5
-2020-10-15,Madonna Care Community,,160,0,46,<5
-2020-10-15,Manoir Marochel,,64,0,9,<5
-2020-10-15,McGarrell Place,,157,0,0,<5
-2020-10-15,Meadow Park (London),,126,0,<5,<5
-2020-10-15,Millennium Trail Manor,,160,0,<5,<5
-2020-10-15,Mount Hope Centre for Long Term Care,,394,0,0,<5
-2020-10-15,Northridge,,133,<5,0,<5
-2020-10-15,Norwood Nursing Home,,60,<5,<5,<5
-2020-10-15,Parkview Home Long-Term Care,,128,0,0,<5
-2020-10-15,Peter D. Clark Centre,,216,0,8,<5
-2020-10-15,Pinehaven Nursing Home,,84,0,0,<5
-2020-10-15,Residence Prescott et Russell,,146,25,0,8
-2020-10-15,Rockcliffe Care Community,,204,0,0,<5
-2020-10-15,Royal Ottawa Place,,64,0,0,<5
-2020-10-15,Simcoe Manor Home for the Aged,,126,33,5,22
-2020-10-15,St. George Care Community,,238,0,0,<5
-2020-10-15,St. Jacques Nursing Home,,60,0,0,0
-2020-10-15,St. Patrick's Home,,288,0,<5,<5
-2020-10-15,Stirling Heights,,110,<5,0,0
-2020-10-15,Sunnyside Home,,263,0,0,<5
-2020-10-15,The Jewish Home for the Aged,,472,<5,<5,0
-2020-10-15,The Kensington Gardens,,350,0,8,<5
-2020-10-15,The Meadows of Dorchester,,121,<5,0,6
-2020-10-15,The Perley and Rideau Veterans' Health Centre,,450,0,13,<5
-2020-10-15,The Village of Erin Meadows,,180,0,20,0
-2020-10-15,The Village of Tansley Woods,,144,0,0,<5
-2020-10-15,Vermont Square,,130,45,5,21
-2020-10-15,Villa Colombo Homes for the Aged,,391,<5,33,<5
-2020-10-15,Villa Colombo Seniors Centre (Vaughan),,160,0,21,0
-2020-10-15,Villa Forum,,160,0,10,0
-2020-10-15,Villa Leonardo Gambin,,168,0,12,<5
-2020-10-15,Westside,,242,0,<5,<5
-2020-10-15,Winbourne Park,,110,0,<5,<5
-2020-10-15,Woodbridge Vista Care Community,,224,0,31,<5
-2020-10-15,Yee Hong Centre - Markham,,200,<5,<5,<5
+2020-10-15,Bethany Lodge,,128.0,<5,<5,0.0
+2020-10-15,Bradford Valley Care Community,,246.0,0.0,12,<5
+2020-10-15,CAMA Woodlands Nursing Home,,134.0,0.0,0,<5
+2020-10-15,Caressant Care on Mary Bucke,,60.0,0.0,0,<5
+2020-10-15,Carlingview Manor,,303.0,0.0,61,<5
+2020-10-15,Cedarvale Lodge Retirement and Care Community,,60.0,0.0,0,<5
+2020-10-15,Cedarvale Terrace,,218.0,<5,0,<5
+2020-10-15,Centre d'Accueil Champlain,,160.0,0.0,0,<5
+2020-10-15,Chartwell Aurora Long Term Care Residence,,235.0,0.0,11,<5
+2020-10-15,Chartwell Waterford Long Term Care Residence,,168.0,<5,<5,0.0
+2020-10-15,Chartwell Wenleigh Long Term Care Residence,,161.0,<5,0,<5
+2020-10-15,Chelsey Park,,247.0,0.0,0,<5
+2020-10-15,Craigholme,,83.0,0.0,0,<5
+2020-10-15,Creek Way Village,,144.0,0.0,<5,<5
+2020-10-15,Crescent Park Lodge,,68.0,0.0,0,<5
+2020-10-15,Cummer Lodge,,391.0,0.0,<5,<5
+2020-10-15,Deerwood Creek Care Community,,160.0,0.0,0,<5
+2020-10-15,Dundurn Place Care Centre,,201.0,<5,<5,<5
+2020-10-15,Earls Court Village,,128.0,0.0,0,<5
+2020-10-15,Eatonville Care Centre,,247.0,0.0,42,<5
+2020-10-15,Extendicare Laurier Manor,,242.0,0.0,25,<5
+2020-10-15,Extendicare London,,170.0,0.0,0,<5
+2020-10-15,Extendicare New Orchard Lodge,,111.0,0.0,0,<5
+2020-10-15,Extendicare Starwood,,192.0,0.0,0,<5
+2020-10-15,Extendicare West End Villa,,242.0,<5,19,8.0
+2020-10-15,Fairmount Home for the Aged,,128.0,0.0,0,<5
+2020-10-15,Fairview Mennonite Home,,84.0,<5,0,0.0
+2020-10-15,Fairview Nursing Home,,108.0,22.0,11,16.0
+2020-10-15,Faith Manor Nursing Home,,120.0,0.0,<5,<5
+2020-10-15,Garry J. Armstrong Home,,180.0,0.0,0,<5
+2020-10-15,Henley Place,,192.0,<5,0,<5
+2020-10-15,Kennedy Lodge,,289.0,0.0,0,<5
+2020-10-15,Lakeside Long Term Care Centre,,128.0,6.0,0,<5
+2020-10-15,Langstaff Square Care Community,,160.0,<5,0,0.0
+2020-10-15,Longfields Manor,,114.0,0.0,0,<5
+2020-10-15,Mackenzie Health Long Term Care Facility,,168.0,0.0,0,<5
+2020-10-15,MacKenzie Place,,93.0,0.0,15,<5
+2020-10-15,Madonna Care Community,,160.0,0.0,46,<5
+2020-10-15,Manoir Marochel,,64.0,0.0,9,<5
+2020-10-15,McGarrell Place,,157.0,0.0,0,<5
+2020-10-15,Meadow Park (London),,126.0,0.0,<5,<5
+2020-10-15,Millennium Trail Manor,,160.0,0.0,<5,<5
+2020-10-15,Mount Hope Centre for Long Term Care,,394.0,0.0,0,<5
+2020-10-15,Northridge,,133.0,<5,0,<5
+2020-10-15,Norwood Nursing Home,,60.0,<5,<5,<5
+2020-10-15,Parkview Home Long-Term Care,,128.0,0.0,0,<5
+2020-10-15,Peter D. Clark Centre,,216.0,0.0,8,<5
+2020-10-15,Pinehaven Nursing Home,,84.0,0.0,0,<5
+2020-10-15,Residence Prescott et Russell,,146.0,25.0,0,8.0
+2020-10-15,Rockcliffe Care Community,,204.0,0.0,0,<5
+2020-10-15,Royal Ottawa Place,,64.0,0.0,0,<5
+2020-10-15,Simcoe Manor Home for the Aged,,126.0,33.0,5,22.0
+2020-10-15,St. George Care Community,,238.0,0.0,0,<5
+2020-10-15,St. Jacques Nursing Home,,60.0,0.0,0,0.0
+2020-10-15,St. Patrick's Home,,288.0,0.0,<5,<5
+2020-10-15,Stirling Heights,,110.0,<5,0,0.0
+2020-10-15,Sunnyside Home,,263.0,0.0,0,<5
+2020-10-15,The Jewish Home for the Aged,,472.0,<5,<5,0.0
+2020-10-15,The Kensington Gardens,,350.0,0.0,8,<5
+2020-10-15,The Meadows of Dorchester,,121.0,<5,0,6.0
+2020-10-15,The Perley and Rideau Veterans' Health Centre,,450.0,0.0,13,<5
+2020-10-15,The Village of Erin Meadows,,180.0,0.0,20,0.0
+2020-10-15,The Village of Tansley Woods,,144.0,0.0,0,<5
+2020-10-15,Vermont Square,,130.0,45.0,5,21.0
+2020-10-15,Villa Colombo Homes for the Aged,,391.0,<5,33,<5
+2020-10-15,Villa Colombo Seniors Centre (Vaughan),,160.0,0.0,21,0.0
+2020-10-15,Villa Forum,,160.0,0.0,10,0.0
+2020-10-15,Villa Leonardo Gambin,,168.0,0.0,12,<5
+2020-10-15,Westside,,242.0,0.0,<5,<5
+2020-10-15,Winbourne Park,,110.0,0.0,<5,<5
+2020-10-15,Woodbridge Vista Care Community,,224.0,0.0,31,<5
+2020-10-15,Yee Hong Centre - Markham,,200.0,<5,<5,<5
+2020-10-16,Bethany Lodge,,128,<5,<5,0
+2020-10-16,Bradford Valley Care Community,,246,0,12,<5
+2020-10-16,CAMA Woodlands Nursing Home,,134,0,0,<5
+2020-10-16,Caressant Care on Mary Bucke,,60,0,0,0
+2020-10-16,Carlingview Manor,,303,0,61,<5
+2020-10-16,Cedarvale Lodge Retirement and Care Community,,60,0,0,<5
+2020-10-16,Cedarvale Terrace,,218,<5,0,<5
+2020-10-16,Centre d'Accueil Champlain,,160,<5,0,<5
+2020-10-16,Chartwell Aurora Long Term Care Residence,,235,0,11,<5
+2020-10-16,Chartwell London Long Term Care Residence,,95,0,0,<5
+2020-10-16,Chartwell Trilogy Long Term Care Residence,,197,0,0,<5
+2020-10-16,Chartwell Waterford Long Term Care Residence,,168,17,<5,0
+2020-10-16,Chartwell Wenleigh Long Term Care Residence,,161,<5,0,<5
+2020-10-16,Chelsey Park,,247,0,0,0
+2020-10-16,Craigholme,,83,0,0,<5
+2020-10-16,Crescent Park Lodge,,68,0,0,<5
+2020-10-16,Deerwood Creek Care Community,,160,0,0,<5
+2020-10-16,Dundurn Place Care Centre,,201,<5,<5,<5
+2020-10-16,Earls Court Village,,128,0,0,<5
+2020-10-16,Eatonville Care Centre,,247,0,42,<5
+2020-10-16,Extendicare Laurier Manor,,242,0,25,<5
+2020-10-16,Extendicare London,,170,0,0,<5
+2020-10-16,Extendicare Starwood,,192,<5,0,<5
+2020-10-16,Extendicare West End Villa,,242,<5,19,8
+2020-10-16,Fairmount Home for the Aged,,128,0,0,<5
+2020-10-16,Fairview Mennonite Home,,84,<5,0,0
+2020-10-16,Fairview Nursing Home,,108,22,11,18
+2020-10-16,Fudger House,,250,7,0,<5
+2020-10-16,Garry J. Armstrong Home,,180,0,0,<5
+2020-10-16,Hardy Terrace,,101,0,0,<5
+2020-10-16,Henley Place,,192,<5,0,<5
+2020-10-16,Hillel Lodge,,121,0,0,<5
+2020-10-16,Kennedy Lodge,,289,0,0,<5
+2020-10-16,Lakeside Long Term Care Centre,,128,6,0,<5
+2020-10-16,Langstaff Square Care Community,,160,<5,0,0
+2020-10-16,Longfields Manor,,114,0,0,<5
+2020-10-16,Mackenzie Health Long Term Care Facility,,168,0,0,<5
+2020-10-16,MacKenzie Place,,93,0,15,<5
+2020-10-16,Madonna Care Community,,160,0,46,<5
+2020-10-16,Main Street Terrace,,150,<5,0,<5
+2020-10-16,Manoir Marochel,,64,0,9,<5
+2020-10-16,McGarrell Place,,157,0,0,<5
+2020-10-16,Meadow Park (London),,126,0,<5,<5
+2020-10-16,Millennium Trail Manor,,160,<5,<5,0
+2020-10-16,Mount Hope Centre for Long Term Care,,394,0,0,<5
+2020-10-16,Northridge,,133,<5,0,<5
+2020-10-16,Norwood Nursing Home,,60,5,<5,<5
+2020-10-16,Parkview Home Long-Term Care,,128,0,0,<5
+2020-10-16,Peter D. Clark Centre,,216,0,8,<5
+2020-10-16,Residence Prescott et Russell,,146,24,0,7
+2020-10-16,Rockcliffe Care Community,,204,0,0,<5
+2020-10-16,Royal Ottawa Place,,64,0,0,<5
+2020-10-16,Simcoe Manor Home for the Aged,,126,32,5,20
+2020-10-16,St. George Care Community,,238,0,0,<5
+2020-10-16,St. Jacques Nursing Home,,60,0,0,0
+2020-10-16,St. Joseph's Continuing Care Centre,,150,<5,0,0
+2020-10-16,St. Patrick's Home,,288,0,<5,<5
+2020-10-16,Stirling Heights,,110,<5,0,0
+2020-10-16,Sunnyside Home,,263,0,0,<5
+2020-10-16,Tall Pines Long Term Care Centre,,160,0,0,<5
+2020-10-16,The Jewish Home for the Aged,,472,<5,<5,0
+2020-10-16,The Kensington Gardens,,350,0,8,<5
+2020-10-16,The Meadows of Dorchester,,121,0,<5,6
+2020-10-16,The Perley and Rideau Veterans' Health Centre,,450,0,13,<5
+2020-10-16,The Village at University Gates,,192,0,0,<5
+2020-10-16,The Village of Erin Meadows,,180,0,20,0
+2020-10-16,The Village of Tansley Woods,,144,0,0,<5
+2020-10-16,Twin Lakes Terrace Long Term Care Community,,60,0,0,<5
+2020-10-16,Vermont Square,,130,45,5,21
+2020-10-16,Villa Colombo Homes for the Aged,,391,0,33,<5
+2020-10-16,Villa Colombo Seniors Centre (Vaughan),,160,0,21,<5
+2020-10-16,Villa Forum,,160,0,10,0
+2020-10-16,Villa Leonardo Gambin,,168,0,12,<5
+2020-10-16,Villa Marconi,,128,0,0,<5
+2020-10-16,Westside,,242,0,<5,<5
+2020-10-16,Winbourne Park,,110,0,<5,<5
+2020-10-16,Woodbridge Vista Care Community,,224,0,31,<5
+2020-10-16,Yee Hong Centre - Markham,,200,<5,<5,<5
