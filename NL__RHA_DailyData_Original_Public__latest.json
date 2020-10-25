@@ -13723,6 +13723,70 @@
         "Population" : 3.605, 
         "CasesPer10KPop" : 1.94174757281553
       }
+    }, 
+    {
+      "attributes" : {
+        "regional_health_authority" : "eastern_rha", 
+        "date_updated" : 1603641600000, 
+        "total_number_of_cases" : 253, 
+        "new_cases" : 0, 
+        "currently_hospitalized" : 0, 
+        "current_in_icu" : 0, 
+        "total_number_recovered" : 248, 
+        "total_number_of_deaths" : 3, 
+        "active_cases" : 2, 
+        "total_people_tested" : 34553, 
+        "Population" : 32.315, 
+        "CasesPer10KPop" : 7.82918149466192
+      }
+    }, 
+    {
+      "attributes" : {
+        "regional_health_authority" : "central_rha", 
+        "date_updated" : 1603641600000, 
+        "total_number_of_cases" : 18, 
+        "new_cases" : 0, 
+        "currently_hospitalized" : 0, 
+        "current_in_icu" : 0, 
+        "total_number_recovered" : 16, 
+        "total_number_of_deaths" : 0, 
+        "active_cases" : 2, 
+        "total_people_tested" : 6298, 
+        "Population" : 8.959, 
+        "CasesPer10KPop" : 2.00915280723295
+      }
+    }, 
+    {
+      "attributes" : {
+        "regional_health_authority" : "western_rha", 
+        "date_updated" : 1603641660000, 
+        "total_number_of_cases" : 12, 
+        "new_cases" : 1, 
+        "currently_hospitalized" : 0, 
+        "current_in_icu" : 0, 
+        "total_number_recovered" : 4, 
+        "total_number_of_deaths" : 1, 
+        "active_cases" : 7, 
+        "total_people_tested" : 6854, 
+        "Population" : 7.414, 
+        "CasesPer10KPop" : 1.61855948206097
+      }
+    }, 
+    {
+      "attributes" : {
+        "regional_health_authority" : "labradorgrenfell_rha", 
+        "date_updated" : 1603641660000, 
+        "total_number_of_cases" : 7, 
+        "new_cases" : 0, 
+        "currently_hospitalized" : 0, 
+        "current_in_icu" : 0, 
+        "total_number_recovered" : 7, 
+        "total_number_of_deaths" : 0, 
+        "active_cases" : 0, 
+        "total_people_tested" : 2977, 
+        "Population" : 3.605, 
+        "CasesPer10KPop" : 1.94174757281553
+      }
     }
   ]
 }
