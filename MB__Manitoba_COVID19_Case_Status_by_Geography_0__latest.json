@@ -199,7 +199,7 @@
     {
       "name" : "Rate", 
       "type" : "esriFieldTypeDouble", 
-      "alias" : "Rate (Cases per 10 000)", 
+      "alias" : "Rate (Cases per 100 000)", 
       "sqlType" : "sqlTypeOther", 
       "domain" : null, 
       "defaultValue" : null
