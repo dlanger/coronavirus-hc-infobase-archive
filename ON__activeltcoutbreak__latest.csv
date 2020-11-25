@@ -14355,105 +14355,209 @@
 2020-11-22,2230.0,DURHAM,Extendicare Oshawa,Oshawa,175.0,0.0,0.0,<5
 2020-11-22,3895.0,TORONTO,Shepherd Lodge,Toronto,252.0,7.0,<5,<5
 2020-11-22,2236.0,HALTON,Post Inn Village,Oakville,228.0,6.0,0.0,<5
-2020-11-23,,,Extendicare London,London,170,0,0,<5
-2020-11-23,,,Cedarvale Terrace,Toronto,218,<5,0,<5
-2020-11-23,,,Strathmere Lodge,Strathroy,160,0,0,<5
-2020-11-23,,,Secord Trails Care Community,Ingersoll,80,0,0,<5
-2020-11-23,,,Deerwood Creek Care Community,Etobicoke,160,<5,0,<5
-2020-11-23,,,Brierwood Gardens,Brantford,79,0,0,<5
-2020-11-23,,,Ina Grafton Gage Home,Scarborough,128,<5,31,0
-2020-11-23,,,Linhaven,St. Catharines,248,0,0,<5
-2020-11-23,,,Cooksville Care Centre,Mississauga,192,0,21,<5
-2020-11-23,,,Simcoe Manor Home for the Aged,Beeton,126,<5,10,<5
-2020-11-23,,,Extendicare Mississauga,Mississauga,140,0,0,<5
-2020-11-23,,,Caressant Care Fergus Nursing Home,Fergus,87,0,0,<5
-2020-11-23,,,Malton Village Long Term Care Centre,Mississauga,160,<5,<5,0
-2020-11-23,,,Pinehaven Nursing Home,Waterloo,84,0,0,<5
-2020-11-23,,,Caressant Care Arthur Nursing Home,Arthur,80,0,0,<5
-2020-11-23,,,Peel Manor,Brampton,177,0,<5,<5
-2020-11-23,,,Burloak,Burlington,144,0,0,<5
-2020-11-23,,,Carlingview Manor,Ottawa,303,0,61,<5
-2020-11-23,,,Extendicare St. Catharines,St. Catharines,153,0,0,<5
-2020-11-23,,,St. Peter's Residence at Chedoke,Hamilton,221,0,0,<5
-2020-11-23,,,Yee Hong Centre - Markham,Markham,200,<5,<5,<5
-2020-11-23,,,Creek Way Village,Burlington,144,0,<5,<5
-2020-11-23,,,Villa Forum,Mississauga,160,0,10,<5
-2020-11-23,,,Downsview Long Term Care Centre,North York,252,0,64,<5
-2020-11-23,,,Bella Senior Care Residences,Niagara Falls,160,0,0,<5
-2020-11-23,,,The Village of Riverside Glen,Guelph,192,<5,0,0
-2020-11-23,,,Wyndham Manor Long Term Care Centre,Oakville,128,9,5,13
-2020-11-23,,,Trillium Retirement and Care Community,Kingston,190,0,0,<5
-2020-11-23,,,Extendicare Rouge Valley,Toronto,192,20,6,<5
-2020-11-23,,,Elginwood,Richmond Hill,124,0,0,<5
-2020-11-23,,,The Jewish Home for the Aged,North York,472,<5,<5,0
-2020-11-23,,,Sherwood Court Long Term Care Centre,Maple,96,<5,0,<5
-2020-11-23,,,True Davidson Acres,Toronto,187,<5,<5,<5
-2020-11-23,,,Southlake Residential Care Village,Newmarket,224,0,0,<5
-2020-11-23,,,Woodland Villa,Long Sault,111,0,0,<5
-2020-11-23,,,Chartwell Waterford Long Term Care Residence,Oakville,168,<5,10,<5
-2020-11-23,,,Suomi-Koti Toronto Nursing Home,Toronto,34,30,0,7
-2020-11-23,,,Faith Manor Nursing Home,Brampton,120,5,<5,<5
-2020-11-23,,,Main Street Terrace,Toronto,150,17,7,<5
-2020-11-23,,,The Meadows of Dorchester,Niagara Falls,121,10,<5,<5
-2020-11-23,,,Kennedy Lodge,Scarborough,289,9,34,9
-2020-11-23,,,Bendale Acres,Scarborough,302,0,0,<5
-2020-11-23,,,Post Inn Village,Oakville,228,6,0,<5
-2020-11-23,,,Craiglee Nursing Home,Scarborough,169,24,10,16
-2020-11-23,,,Iler Lodge,Essex,104,17,<5,<5
-2020-11-23,,,Fairhaven,Peterborough,256,15,<5,<5
-2020-11-23,,,St. George Care Community,Toronto,238,0,0,<5
-2020-11-23,,,Extendicare Oshawa,Oshawa,175,0,0,<5
-2020-11-23,,,Chartwell Trilogy Long Term Care Residence,Scarborough,197,<5,0,0
-2020-11-23,,,Hawthorn Woods Care Community,Brampton,160,<5,<5,12
-2020-11-23,,,Marianhill Nursing Home,Pembroke,139,0,0,0
-2020-11-23,,,Berkshire Care Centre,Windsor,231,0,0,<5
-2020-11-23,,,Meadow Park (London),London,126,0,<5,<5
-2020-11-23,,,King Nursing Home,Bolton,86,0,0,<5
-2020-11-23,,,Residence Saint-Louis,Ottawa,198,0,9,<5
-2020-11-23,,,York Region Newmarket Health Centre,Newmarket,132,0,0,<5
-2020-11-23,,,Southbridge Roseview,Thunder Bay,157,6,0,<5
-2020-11-23,,,Langstaff Square Care Community,Richmond Hill,160,7,0,7
-2020-11-23,,,Gilmore Lodge,Fort Erie,80,<5,8,5
-2020-11-23,,,North Park Nursing Home,North York,75,24,12,22
-2020-11-23,,,Glebe Centre,Ottawa,254,0,<5,<5
-2020-11-23,,,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,9,10,8
-2020-11-23,,,St. Patrick's Home,Ottawa,288,<5,<5,<5
-2020-11-23,,,Garden City Manor,St. Catharines,200,0,<5,<5
-2020-11-23,,,Extendicare Starwood,Nepean,192,<5,25,0
-2020-11-23,,,Leamington Mennonite Home Long Term Care Residence,Leamington,84,0,0,<5
-2020-11-23,,,Sunset Manor Home for Senior Citizens,Collingwood,150,<5,0,<5
-2020-11-23,,,Rockcliffe Care Community,Scarborough,204,53,12,46
-2020-11-23,,,Hillsdale Estates,Oshawa,300,<5,0,<5
-2020-11-23,,,Extendicare Brampton,Brampton,150,5,<5,0
-2020-11-23,,,Extendicare West End Villa,Ottawa,242,0,18,0
-2020-11-23,,,Forest Hill,Kanata,160,5,<5,11
-2020-11-23,,,King City Lodge Nursing Home,King City,36,22,<5,15
-2020-11-23,,,Groves Park Lodge,Renfrew,100,0,0,<5
-2020-11-23,,,Hamilton Continuing Care,Hamilton,64,8,5,5
-2020-11-23,,,Fudger House,Toronto,250,20,11,9
-2020-11-23,,,Montfort,Ottawa,128,0,30,0
-2020-11-23,,,Millennium Trail Manor,Niagara Falls,160,0,<5,0
-2020-11-23,,,Alexander Place,Waterdown,128,0,0,<5
-2020-11-23,,,Shepherd Lodge,Toronto,252,8,<5,<5
-2020-11-23,,,Chartwell Willowgrove Long Term Care Residence,Ancaster,169,15,15,<5
-2020-11-23,,,Riverside Place,Windsor,96,0,0,<5
-2020-11-23,,,Lakeside Long Term Care Centre,Toronto,128,<5,6,<5
-2020-11-23,,,BayWoods Place,Hamilton,128,5,<5,5
-2020-11-23,,,Sheridan Villa,Mississauga,142,0,<5,<5
-2020-11-23,,,Westside,Etobicoke,242,26,<5,8
-2020-11-23,,,"St. Joseph's Villa, Dundas",Dundas,425,6,<5,12
-2020-11-23,,,Residence Prescott et Russell,Hawkesbury,146,8,13,<5
-2020-11-23,,,Silverthorn Care Community,Mississauga,160,0,0,<5
-2020-11-23,,,Idlewyld Manor,Hamilton,192,8,0,<5
-2020-11-23,,,Grandview Lodge / Dunnville,Dunnville,128,<5,0,0
-2020-11-23,,,Weston Terrace Care Community,Toronto,224,0,34,<5
-2020-11-23,,,McCall Centre Long Term Care Interim Unit,Etobicoke,21,0,0,<5
-2020-11-23,,,Harmony Hills Care Community,East York,160,36,8,14
-2020-11-23,,,Fieldstone Commons Care Community,Scarborough,224,15,<5,13
-2020-11-23,,,Cawthra Gardens,Mississauga,192,0,0,<5
-2020-11-23,,,Norwood Nursing Home,Toronto,60,0,<5,0
-2020-11-23,,,Allendale,Milton,200,8,0,<5
-2020-11-23,,,Tyndall Nursing Home,Mississauga,151,30,10,47
-2020-11-23,,,Chartwell Westmount Long Term Care Residence,Kitchener,160,0,0,<5
-2020-11-23,,,Woodhall Park Care Community,Brampton,147,11,<5,12
-2020-11-23,,,Tall Pines Long Term Care Centre,Brampton,160,0,0,<5
+2020-11-23,,,Extendicare London,London,170.0,0.0,0.0,<5
+2020-11-23,,,Cedarvale Terrace,Toronto,218.0,<5,0.0,<5
+2020-11-23,,,Strathmere Lodge,Strathroy,160.0,0.0,0.0,<5
+2020-11-23,,,Secord Trails Care Community,Ingersoll,80.0,0.0,0.0,<5
+2020-11-23,,,Deerwood Creek Care Community,Etobicoke,160.0,<5,0.0,<5
+2020-11-23,,,Brierwood Gardens,Brantford,79.0,0.0,0.0,<5
+2020-11-23,,,Ina Grafton Gage Home,Scarborough,128.0,<5,31.0,0.0
+2020-11-23,,,Linhaven,St. Catharines,248.0,0.0,0.0,<5
+2020-11-23,,,Cooksville Care Centre,Mississauga,192.0,0.0,21.0,<5
+2020-11-23,,,Simcoe Manor Home for the Aged,Beeton,126.0,<5,10.0,<5
+2020-11-23,,,Extendicare Mississauga,Mississauga,140.0,0.0,0.0,<5
+2020-11-23,,,Caressant Care Fergus Nursing Home,Fergus,87.0,0.0,0.0,<5
+2020-11-23,,,Malton Village Long Term Care Centre,Mississauga,160.0,<5,<5,0.0
+2020-11-23,,,Pinehaven Nursing Home,Waterloo,84.0,0.0,0.0,<5
+2020-11-23,,,Caressant Care Arthur Nursing Home,Arthur,80.0,0.0,0.0,<5
+2020-11-23,,,Peel Manor,Brampton,177.0,0.0,<5,<5
+2020-11-23,,,Burloak,Burlington,144.0,0.0,0.0,<5
+2020-11-23,,,Carlingview Manor,Ottawa,303.0,0.0,61.0,<5
+2020-11-23,,,Extendicare St. Catharines,St. Catharines,153.0,0.0,0.0,<5
+2020-11-23,,,St. Peter's Residence at Chedoke,Hamilton,221.0,0.0,0.0,<5
+2020-11-23,,,Yee Hong Centre - Markham,Markham,200.0,<5,<5,<5
+2020-11-23,,,Creek Way Village,Burlington,144.0,0.0,<5,<5
+2020-11-23,,,Villa Forum,Mississauga,160.0,0.0,10.0,<5
+2020-11-23,,,Downsview Long Term Care Centre,North York,252.0,0.0,64.0,<5
+2020-11-23,,,Bella Senior Care Residences,Niagara Falls,160.0,0.0,0.0,<5
+2020-11-23,,,The Village of Riverside Glen,Guelph,192.0,<5,0.0,0.0
+2020-11-23,,,Wyndham Manor Long Term Care Centre,Oakville,128.0,9.0,5.0,13.0
+2020-11-23,,,Trillium Retirement and Care Community,Kingston,190.0,0.0,0.0,<5
+2020-11-23,,,Extendicare Rouge Valley,Toronto,192.0,20.0,6.0,<5
+2020-11-23,,,Elginwood,Richmond Hill,124.0,0.0,0.0,<5
+2020-11-23,,,The Jewish Home for the Aged,North York,472.0,<5,<5,0.0
+2020-11-23,,,Sherwood Court Long Term Care Centre,Maple,96.0,<5,0.0,<5
+2020-11-23,,,True Davidson Acres,Toronto,187.0,<5,<5,<5
+2020-11-23,,,Southlake Residential Care Village,Newmarket,224.0,0.0,0.0,<5
+2020-11-23,,,Woodland Villa,Long Sault,111.0,0.0,0.0,<5
+2020-11-23,,,Chartwell Waterford Long Term Care Residence,Oakville,168.0,<5,10.0,<5
+2020-11-23,,,Suomi-Koti Toronto Nursing Home,Toronto,34.0,30.0,0.0,7.0
+2020-11-23,,,Faith Manor Nursing Home,Brampton,120.0,5.0,<5,<5
+2020-11-23,,,Main Street Terrace,Toronto,150.0,17.0,7.0,<5
+2020-11-23,,,The Meadows of Dorchester,Niagara Falls,121.0,10.0,<5,<5
+2020-11-23,,,Kennedy Lodge,Scarborough,289.0,9.0,34.0,9.0
+2020-11-23,,,Bendale Acres,Scarborough,302.0,0.0,0.0,<5
+2020-11-23,,,Post Inn Village,Oakville,228.0,6.0,0.0,<5
+2020-11-23,,,Craiglee Nursing Home,Scarborough,169.0,24.0,10.0,16.0
+2020-11-23,,,Iler Lodge,Essex,104.0,17.0,<5,<5
+2020-11-23,,,Fairhaven,Peterborough,256.0,15.0,<5,<5
+2020-11-23,,,St. George Care Community,Toronto,238.0,0.0,0.0,<5
+2020-11-23,,,Extendicare Oshawa,Oshawa,175.0,0.0,0.0,<5
+2020-11-23,,,Chartwell Trilogy Long Term Care Residence,Scarborough,197.0,<5,0.0,0.0
+2020-11-23,,,Hawthorn Woods Care Community,Brampton,160.0,<5,<5,12.0
+2020-11-23,,,Marianhill Nursing Home,Pembroke,139.0,0.0,0.0,0.0
+2020-11-23,,,Berkshire Care Centre,Windsor,231.0,0.0,0.0,<5
+2020-11-23,,,Meadow Park (London),London,126.0,0.0,<5,<5
+2020-11-23,,,King Nursing Home,Bolton,86.0,0.0,0.0,<5
+2020-11-23,,,Residence Saint-Louis,Ottawa,198.0,0.0,9.0,<5
+2020-11-23,,,York Region Newmarket Health Centre,Newmarket,132.0,0.0,0.0,<5
+2020-11-23,,,Southbridge Roseview,Thunder Bay,157.0,6.0,0.0,<5
+2020-11-23,,,Langstaff Square Care Community,Richmond Hill,160.0,7.0,0.0,7.0
+2020-11-23,,,Gilmore Lodge,Fort Erie,80.0,<5,8.0,5.0
+2020-11-23,,,North Park Nursing Home,North York,75.0,24.0,12.0,22.0
+2020-11-23,,,Glebe Centre,Ottawa,254.0,0.0,<5,<5
+2020-11-23,,,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96.0,9.0,10.0,8.0
+2020-11-23,,,St. Patrick's Home,Ottawa,288.0,<5,<5,<5
+2020-11-23,,,Garden City Manor,St. Catharines,200.0,0.0,<5,<5
+2020-11-23,,,Extendicare Starwood,Nepean,192.0,<5,25.0,0.0
+2020-11-23,,,Leamington Mennonite Home Long Term Care Residence,Leamington,84.0,0.0,0.0,<5
+2020-11-23,,,Sunset Manor Home for Senior Citizens,Collingwood,150.0,<5,0.0,<5
+2020-11-23,,,Rockcliffe Care Community,Scarborough,204.0,53.0,12.0,46.0
+2020-11-23,,,Hillsdale Estates,Oshawa,300.0,<5,0.0,<5
+2020-11-23,,,Extendicare Brampton,Brampton,150.0,5.0,<5,0.0
+2020-11-23,,,Extendicare West End Villa,Ottawa,242.0,0.0,18.0,0.0
+2020-11-23,,,Forest Hill,Kanata,160.0,5.0,<5,11.0
+2020-11-23,,,King City Lodge Nursing Home,King City,36.0,22.0,<5,15.0
+2020-11-23,,,Groves Park Lodge,Renfrew,100.0,0.0,0.0,<5
+2020-11-23,,,Hamilton Continuing Care,Hamilton,64.0,8.0,5.0,5.0
+2020-11-23,,,Fudger House,Toronto,250.0,20.0,11.0,9.0
+2020-11-23,,,Montfort,Ottawa,128.0,0.0,30.0,0.0
+2020-11-23,,,Millennium Trail Manor,Niagara Falls,160.0,0.0,<5,0.0
+2020-11-23,,,Alexander Place,Waterdown,128.0,0.0,0.0,<5
+2020-11-23,,,Shepherd Lodge,Toronto,252.0,8.0,<5,<5
+2020-11-23,,,Chartwell Willowgrove Long Term Care Residence,Ancaster,169.0,15.0,15.0,<5
+2020-11-23,,,Riverside Place,Windsor,96.0,0.0,0.0,<5
+2020-11-23,,,Lakeside Long Term Care Centre,Toronto,128.0,<5,6.0,<5
+2020-11-23,,,BayWoods Place,Hamilton,128.0,5.0,<5,5.0
+2020-11-23,,,Sheridan Villa,Mississauga,142.0,0.0,<5,<5
+2020-11-23,,,Westside,Etobicoke,242.0,26.0,<5,8.0
+2020-11-23,,,"St. Joseph's Villa, Dundas",Dundas,425.0,6.0,<5,12.0
+2020-11-23,,,Residence Prescott et Russell,Hawkesbury,146.0,8.0,13.0,<5
+2020-11-23,,,Silverthorn Care Community,Mississauga,160.0,0.0,0.0,<5
+2020-11-23,,,Idlewyld Manor,Hamilton,192.0,8.0,0.0,<5
+2020-11-23,,,Grandview Lodge / Dunnville,Dunnville,128.0,<5,0.0,0.0
+2020-11-23,,,Weston Terrace Care Community,Toronto,224.0,0.0,34.0,<5
+2020-11-23,,,McCall Centre Long Term Care Interim Unit,Etobicoke,21.0,0.0,0.0,<5
+2020-11-23,,,Harmony Hills Care Community,East York,160.0,36.0,8.0,14.0
+2020-11-23,,,Fieldstone Commons Care Community,Scarborough,224.0,15.0,<5,13.0
+2020-11-23,,,Cawthra Gardens,Mississauga,192.0,0.0,0.0,<5
+2020-11-23,,,Norwood Nursing Home,Toronto,60.0,0.0,<5,0.0
+2020-11-23,,,Allendale,Milton,200.0,8.0,0.0,<5
+2020-11-23,,,Tyndall Nursing Home,Mississauga,151.0,30.0,10.0,47.0
+2020-11-23,,,Chartwell Westmount Long Term Care Residence,Kitchener,160.0,0.0,0.0,<5
+2020-11-23,,,Woodhall Park Care Community,Brampton,147.0,11.0,<5,12.0
+2020-11-23,,,Tall Pines Long Term Care Centre,Brampton,160.0,0.0,0.0,<5
+2020-11-24,,,Leamington Mennonite Home Long Term Care Residence,Leamington,84,0,0,<5
+2020-11-24,,,Chartwell Willowgrove Long Term Care Residence,Ancaster,169,15,15,<5
+2020-11-24,,,Sunset Manor Home for Senior Citizens,Collingwood,150,<5,0,<5
+2020-11-24,,,Simcoe Manor Home for the Aged,Beeton,126,<5,10,<5
+2020-11-24,,,Pinehaven Nursing Home,Waterloo,84,0,0,<5
+2020-11-24,,,Silverthorn Care Community,Mississauga,160,0,0,<5
+2020-11-24,,,BayWoods Place,Hamilton,128,5,<5,5
+2020-11-24,,,Idlewyld Manor,Hamilton,192,5,<5,<5
+2020-11-24,,,Lakeside Long Term Care Centre,Toronto,128,<5,6,<5
+2020-11-24,,,Chartwell Westmount Long Term Care Residence,Kitchener,160,0,0,<5
+2020-11-24,,,Fieldstone Commons Care Community,Scarborough,224,15,<5,13
+2020-11-24,,,"St. Joseph's Villa, Dundas",Dundas,425,6,<5,12
+2020-11-24,,,Caressant Care Arthur Nursing Home,Arthur,80,0,0,<5
+2020-11-24,,,Garden City Manor,St. Catharines,200,0,<5,<5
+2020-11-24,,,Kennedy Lodge,Scarborough,289,9,34,9
+2020-11-24,,,Riverside Place,Windsor,96,15,0,<5
+2020-11-24,,,Montfort,Ottawa,128,0,30,0
+2020-11-24,,,Shepherd Lodge,Toronto,252,8,<5,<5
+2020-11-24,,,Alexander Place,Waterdown,128,0,0,<5
+2020-11-24,,,Ina Grafton Gage Home,Scarborough,128,<5,31,0
+2020-11-24,,,Fudger House,Toronto,250,20,11,9
+2020-11-24,,,Cawthra Gardens,Mississauga,192,0,0,<5
+2020-11-24,,,Wyndham Manor Long Term Care Centre,Oakville,128,9,5,13
+2020-11-24,,,Trillium Retirement and Care Community,Kingston,190,0,0,<5
+2020-11-24,,,Peel Manor,Brampton,177,0,<5,<5
+2020-11-24,,,Elginwood,Richmond Hill,124,0,0,<5
+2020-11-24,,,The Jewish Home for the Aged,North York,472,<5,<5,0
+2020-11-24,,,Sherwood Court Long Term Care Centre,Maple,96,<5,0,<5
+2020-11-24,,,Southlake Residential Care Village,Newmarket,224,0,0,<5
+2020-11-24,,,Woodland Villa,Long Sault,111,0,0,<5
+2020-11-24,,,Downsview Long Term Care Centre,North York,252,0,64,<5
+2020-11-24,,,Main Street Terrace,Toronto,150,17,7,<5
+2020-11-24,,,Carlingview Manor,Ottawa,303,0,61,<5
+2020-11-24,,,Iler Lodge,Essex,104,17,<5,<5
+2020-11-24,,,North Park Nursing Home,North York,75,23,13,18
+2020-11-24,,,Westside,Etobicoke,242,26,<5,11
+2020-11-24,,,Suomi-Koti Toronto Nursing Home,Toronto,34,33,0,8
+2020-11-24,,,Extendicare London,London,170,0,0,<5
+2020-11-24,,,Millennium Trail Manor,Niagara Falls,160,0,<5,0
+2020-11-24,,,York Region Newmarket Health Centre,Newmarket,132,5,0,<5
+2020-11-24,,,Linhaven,St. Catharines,248,0,0,<5
+2020-11-24,,,Extendicare Falconbridge,Sudbury,234,0,0,<5
+2020-11-24,,,Harmony Hills Care Community,East York,160,37,8,14
+2020-11-24,,,Faith Manor Nursing Home,Brampton,120,5,<5,<5
+2020-11-24,,,Meadow Park (London),London,126,0,<5,<5
+2020-11-24,,,Hillsdale Estates,Oshawa,300,<5,0,<5
+2020-11-24,,,Gilmore Lodge,Fort Erie,80,<5,8,5
+2020-11-24,,,Norwood Nursing Home,Toronto,60,0,<5,0
+2020-11-24,,,King City Lodge Nursing Home,King City,36,22,<5,15
+2020-11-24,,,Grandview Lodge / Dunnville,Dunnville,128,<5,0,0
+2020-11-24,,,Langstaff Square Care Community,Richmond Hill,160,7,0,7
+2020-11-24,,,Burloak,Burlington,144,0,0,<5
+2020-11-24,,,Villa Forum,Mississauga,160,0,10,<5
+2020-11-24,,,Brierwood Gardens,Brantford,79,0,0,<5
+2020-11-24,,,Malton Village Long Term Care Centre,Mississauga,160,<5,<5,0
+2020-11-24,,,Creek Way Village,Burlington,144,0,<5,<5
+2020-11-24,,,Yee Hong Centre - Markham,Markham,200,<5,<5,<5
+2020-11-24,,,King Nursing Home,Bolton,86,0,0,<5
+2020-11-24,,,Residence Saint-Louis,Ottawa,198,0,9,<5
+2020-11-24,,,Secord Trails Care Community,Ingersoll,80,0,0,<5
+2020-11-24,,,St. Peter's Residence at Chedoke,Hamilton,221,0,0,<5
+2020-11-24,,,Extendicare St. Catharines,St. Catharines,153,0,0,<5
+2020-11-24,,,Strathmere Lodge,Strathroy,160,0,0,<5
+2020-11-24,,,Bella Senior Care Residences,Niagara Falls,160,0,0,<5
+2020-11-24,,,Cedarvale Terrace,Toronto,218,<5,0,<5
+2020-11-24,,,Groves Park Lodge,Renfrew,100,0,0,<5
+2020-11-24,,,Chartwell Waterford Long Term Care Residence,Oakville,168,<5,10,<5
+2020-11-24,,,The Village of Riverside Glen,Guelph,192,<5,0,0
+2020-11-24,,,Craiglee Nursing Home,Scarborough,169,36,12,16
+2020-11-24,,,Sheridan Villa,Mississauga,142,0,<5,<5
+2020-11-24,,,Woodbridge Vista Care Community,Woodbridge,224,0,31,<5
+2020-11-24,,,Glebe Centre,Ottawa,254,0,<5,<5
+2020-11-24,,,Extendicare York,Sudbury,288,0,0,<5
+2020-11-24,,,Extendicare West End Villa,Ottawa,242,0,18,0
+2020-11-24,,,The Meadows of Dorchester,Niagara Falls,121,<5,<5,<5
+2020-11-24,,,Extendicare Starwood,Nepean,192,<5,25,0
+2020-11-24,,,Forest Hill,Kanata,160,5,<5,11
+2020-11-24,,,Cooksville Care Centre,Mississauga,192,0,21,6
+2020-11-24,,,Southbridge Roseview,Thunder Bay,157,14,0,<5
+2020-11-24,,,Chartwell Trilogy Long Term Care Residence,Scarborough,197,<5,0,0
+2020-11-24,,,Woodhall Park Care Community,Brampton,147,11,<5,12
+2020-11-24,,,Hawthorn Woods Care Community,Brampton,160,<5,<5,13
+2020-11-24,,,Douglas H. Rapelje Lodge,Welland,120,0,0,<5
+2020-11-24,,,Allendale,Milton,200,21,<5,8
+2020-11-24,,,Post Inn Village,Oakville,228,7,0,<5
+2020-11-24,,,McCall Centre Long Term Care Interim Unit,Etobicoke,21,<5,0,<5
+2020-11-24,,,Tyndall Nursing Home,Mississauga,151,24,17,46
+2020-11-24,,,Bendale Acres,Scarborough,302,0,0,<5
+2020-11-24,,,Berkshire Care Centre,Windsor,231,0,0,<5
+2020-11-24,,,The Village of Sandalwood Park,Brampton,120,<5,0,<5
+2020-11-24,,,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,8,10,8
+2020-11-24,,,Rockcliffe Care Community,Scarborough,204,35,14,40
+2020-11-24,,,Extendicare Rouge Valley,Toronto,192,13,7,5
+2020-11-24,,,Deerwood Creek Care Community,Etobicoke,160,<5,0,<5
+2020-11-24,,,Residence Prescott et Russell,Hawkesbury,146,8,13,<5
+2020-11-24,,,Extendicare Mississauga,Mississauga,140,0,0,<5
+2020-11-24,,,Extendicare Brampton,Brampton,150,5,<5,0
+2020-11-24,,,St. Patrick's Home,Ottawa,288,<5,<5,<5
+2020-11-24,,,Fairhaven,Peterborough,256,6,<5,<5
+2020-11-24,,,Tall Pines Long Term Care Centre,Brampton,160,0,0,<5
+2020-11-24,,,Hamilton Continuing Care,Hamilton,64,8,5,5
+2020-11-24,,,Villa Leonardo Gambin,Woodbridge,168,0,12,<5
+2020-11-24,,,True Davidson Acres,Toronto,187,<5,<5,<5
+2020-11-24,,,Weston Terrace Care Community,Toronto,224,0,34,<5
