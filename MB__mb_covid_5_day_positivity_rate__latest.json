@@ -1892,28 +1892,28 @@
     {
       "attributes" : {
         "Date" : 1605938400000, 
-        "Positivity_Rate" : 13.7, 
+        "Positivity_Rate" : 13.6, 
         "ObjectId" : 266
       }
     }, 
     {
       "attributes" : {
         "Date" : 1606024800000, 
-        "Positivity_Rate" : 13.8, 
+        "Positivity_Rate" : 13.7, 
         "ObjectId" : 267
       }
     }, 
     {
       "attributes" : {
         "Date" : 1606111200000, 
-        "Positivity_Rate" : 14.1, 
+        "Positivity_Rate" : 14, 
         "ObjectId" : 268
       }
     }, 
     {
       "attributes" : {
         "Date" : 1606197600000, 
-        "Positivity_Rate" : 14.1, 
+        "Positivity_Rate" : 14, 
         "ObjectId" : 269
       }
     }, 
@@ -1927,15 +1927,22 @@
     {
       "attributes" : {
         "Date" : 1606370400000, 
-        "Positivity_Rate" : 14.2, 
+        "Positivity_Rate" : 14.1, 
         "ObjectId" : 271
       }
     }, 
     {
       "attributes" : {
         "Date" : 1606456800000, 
-        "Positivity_Rate" : 14.2, 
+        "Positivity_Rate" : 14, 
         "ObjectId" : 272
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1606543200000, 
+        "Positivity_Rate" : 13.3, 
+        "ObjectId" : 273
       }
     }
   ]
