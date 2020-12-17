@@ -16892,138 +16892,278 @@
 2020-12-14,3895.0,TORONTO,Valleyview Residence,North York,174.0,<5,<5,<5
 2020-12-14,3895.0,TORONTO,Fieldstone Commons Care Community,Scarborough,224.0,<5,<5,8.0
 2020-12-14,2253.0,PEEL,Faith Manor Nursing Home,Brampton,120.0,64.0,15.0,37.0
-2020-12-15,2236.0,HALTON,Bennett Health Care Centre,Georgetown,66,<5,0,0
-2020-12-15,2237.0,HAMILTON,Ridgeview,Stoney Creek,120,0,0,<5
-2020-12-15,3895.0,TORONTO,Harmony Hills Care Community,East York,160,<5,11,<5
-2020-12-15,3895.0,TORONTO,Eatonville Care Centre,Etobicoke,247,0,42,<5
-2020-12-15,2265.0,WATERLOO,Sunnyside Home,Kitchener,263,0,0,<5
-2020-12-15,2246.0,NIAGARA,Extendicare St. Catharines,St. Catharines,153,0,0,<5
-2020-12-15,,,Champlain Long Term Care Residence,L'Orignal,60,0,0,<5
-2020-12-15,2253.0,PEEL,The Village of Sandalwood Park,Brampton,120,<5,0,6
-2020-12-15,2262.0,THUNDER BAY,Geraldton District Hospital,Geraldton,19,0,0,<5
-2020-12-15,2253.0,PEEL,Woodhall Park Care Community,Brampton,147,<5,10,12
-2020-12-15,2253.0,PEEL,Peel Manor,Brampton,177,0,<5,<5
-2020-12-15,2246.0,NIAGARA,Bella Senior Care Residences,Niagara Falls,160,0,0,<5
-2020-12-15,2236.0,HALTON,Wyndham Manor Long Term Care Centre,Oakville,128,13,10,9
-2020-12-15,2253.0,PEEL,Erin Mills Lodge Nursing Home,Mississauga,86,0,17,<5
-2020-12-15,2237.0,HAMILTON,Heritage Green Nursing Home,Stoney Creek,167,0,<5,<5
-2020-12-15,2241.0,KINGSTON FRONTENAC L & A,Extendicare Kingston,Kingston,150,0,0,0
-2020-12-15,3895.0,TORONTO,Craiglee Nursing Home,Scarborough,169,<5,24,5
-2020-12-15,2246.0,NIAGARA,The Woodlands of Sunset,Welland,121,0,0,0
-2020-12-15,2253.0,PEEL,Faith Manor Nursing Home,Brampton,120,64,15,37
-2020-12-15,2258.0,EASTERN ONTARIO,The Palace,Alexandria,70,0,0,<5
-2020-12-15,2240.0,CHATHAM-KENT,Riverview Gardens,Chatham,320,0,0,<5
-2020-12-15,2270.0,YORK REGION,Villa Leonardo Gambin,Woodbridge,168,0,12,<5
-2020-12-15,3895.0,TORONTO,Cedarvale Terrace,Toronto,218,0,0,<5
-2020-12-15,2246.0,NIAGARA,Garden City Manor,St. Catharines,200,9,<5,10
-2020-12-15,2237.0,HAMILTON,Idlewyld Manor,Hamilton,192,<5,<5,<5
-2020-12-15,2237.0,HAMILTON,Alexander Place,Waterdown,128,0,0,<5
-2020-12-15,3895.0,TORONTO,Kennedy Lodge,Scarborough,289,0,39,12
-2020-12-15,2266.0,WELLINGTON-DUFFERIN-GUELPH,Wellington Terrace Long-Term Care Home,Fergus,176,0,0,<5
-2020-12-15,3895.0,TORONTO,The Wexford,Scarborough,166,17,0,<5
-2020-12-15,2260.0,SIMCOE-MUSKOKA,Bradford Valley Care Community,Bradford,246,0,12,<5
-2020-12-15,2253.0,PEEL,Tyndall Nursing Home,Mississauga,151,<5,33,<5
-2020-12-15,4913.0,SOUTH WEST,Woodingford Lodge - Tillsonburg,Tillsonburg,34,0,0,<5
-2020-12-15,3895.0,TORONTO,Shepherd Lodge,Toronto,252,7,7,<5
-2020-12-15,3895.0,TORONTO,Fudger House,Toronto,250,0,13,6
-2020-12-15,2246.0,NIAGARA,Shalom Manor Long Term Care Home,Grimsby,144,34,0,25
-2020-12-15,2246.0,NIAGARA,Oakwood Park Lodge,Niagara Falls,153,<5,0,0
-2020-12-15,2270.0,YORK REGION,York Region Newmarket Health Centre,Newmarket,132,22,<5,7
-2020-12-15,2270.0,YORK REGION,Langstaff Square Care Community,Richmond Hill,160,0,0,<5
-2020-12-15,4913.0,SOUTH WEST,Maple Manor Nursing Home,Tillsonburg,107,0,0,<5
-2020-12-15,2253.0,PEEL,Cawthra Gardens,Mississauga,192,0,0,<5
-2020-12-15,2237.0,HAMILTON,The Wellington Nursing Home,Hamilton,102,0,0,<5
-2020-12-15,2265.0,WATERLOO,Pinehaven Nursing Home,Waterloo,84,0,0,<5
-2020-12-15,4913.0,SOUTH WEST,Terrace Lodge,Aylmer,100,0,0,<5
-2020-12-15,2258.0,EASTERN ONTARIO,Parisien Manor,Cornwall,65,0,0,<5
-2020-12-15,2253.0,PEEL,Cooksville Care Centre,Mississauga,192,0,21,<5
-2020-12-15,2257.0,RENFREW,Groves Park Lodge,Renfrew,100,0,0,0
-2020-12-15,2241.0,KINGSTON FRONTENAC L & A,Fairmount Home for the Aged,Glenburnie,128,0,0,<5
-2020-12-15,2270.0,YORK REGION,Southlake Residential Care Village,Newmarket,224,0,0,<5
-2020-12-15,2253.0,PEEL,Sheridan Villa,Mississauga,142,0,<5,<5
-2020-12-15,2270.0,YORK REGION,Chartwell Woodhaven Long Term Care Residence,Markham,192,26,0,15
-2020-12-15,2246.0,NIAGARA,Douglas H. Rapelje Lodge,Welland,120,0,0,<5
-2020-12-15,3895.0,TORONTO,Chartwell Trilogy Long Term Care Residence,Scarborough,197,<5,0,0
-2020-12-15,2251.0,OTTAWA,Carlingview Manor,Ottawa,303,0,61,<5
-2020-12-15,2244.0,MIDDLESEX-LONDON,Extendicare London,London,170,0,0,<5
-2020-12-15,2246.0,NIAGARA,Linhaven,St. Catharines,248,0,0,<5
-2020-12-15,3895.0,TORONTO,Ina Grafton Gage Home,Scarborough,128,<5,31,0
-2020-12-15,2253.0,PEEL,Tullamore Care Community,Brampton,159,0,0,<5
-2020-12-15,2235.0,HALIBURTON KAWARTHA PR,Extendicare Kawartha Lakes,Lindsay,64,<5,0,0
-2020-12-15,3895.0,TORONTO,The Village of Humber Heights,Etobicoke,192,<5,23,0
-2020-12-15,2236.0,HALTON,Chartwell Waterford Long Term Care Residence,Oakville,168,0,11,<5
-2020-12-15,2237.0,HAMILTON,Macassa  Lodge,Hamilton,270,0,0,<5
-2020-12-15,2236.0,HALTON,Mount Nemo Christian Nursing Home,Burlington,61,0,0,<5
-2020-12-15,3895.0,TORONTO,Cummer Lodge,North York,391,0,<5,<5
-2020-12-15,3895.0,TORONTO,Extendicare Rouge Valley,Toronto,192,0,12,<5
-2020-12-15,2236.0,HALTON,Burloak,Burlington,144,0,0,<5
-2020-12-15,2230.0,DURHAM,Winbourne Park,Ajax,110,0,<5,<5
-2020-12-15,2236.0,HALTON,Billings Court Manor,Burlington,160,0,<5,<5
-2020-12-15,2265.0,WATERLOO,Nithview Home,New Hamburg,97,0,0,<5
-2020-12-15,3895.0,TORONTO,Rockcliffe Care Community,Scarborough,204,0,21,<5
-2020-12-15,2244.0,MIDDLESEX-LONDON,McCormick Home,London,160,<5,0,0
-2020-12-15,2251.0,OTTAWA,Residence Saint-Louis,Ottawa,198,0,9,<5
-2020-12-15,2246.0,NIAGARA,Gilmore Lodge,Fort Erie,80,0,9,<5
-2020-12-15,2258.0,EASTERN ONTARIO,St. Joseph's Continuing Care Centre,Cornwall,150,0,0,<5
-2020-12-15,2268.0,WINDSOR-ESSEX,Chartwell Royal Oak Long Term Care Residence,Kingsville,160,0,0,<5
-2020-12-15,2266.0,WELLINGTON-DUFFERIN-GUELPH,"St. Joseph's Health Centre, Guelph",Guelph,240,0,0,<5
-2020-12-15,2270.0,YORK REGION,Elginwood,Richmond Hill,124,0,0,<5
-2020-12-15,2230.0,DURHAM,Hillsdale Estates,Oshawa,300,0,0,<5
-2020-12-15,3895.0,TORONTO,Westside,Etobicoke,242,55,27,94
-2020-12-15,3895.0,TORONTO,The Heritage Nursing Home,Toronto,201,<5,0,<5
-2020-12-15,2262.0,THUNDER BAY,Southbridge Roseview,Thunder Bay,157,16,12,13
-2020-12-15,2237.0,HAMILTON,Grace Villa Nursing Home,Hamilton,184,70,20,26
-2020-12-15,2253.0,PEEL,Hawthorn Woods Care Community,Brampton,160,24,12,29
-2020-12-15,3895.0,TORONTO,Extendicare Guildwood,Scarborough,169,0,48,<5
-2020-12-15,2246.0,NIAGARA,Millennium Trail Manor,Niagara Falls,160,6,<5,5
-2020-12-15,2270.0,YORK REGION,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,10,<5
-2020-12-15,2265.0,WATERLOO,Cambridge Country Manor,Cambridge,79,32,0,16
-2020-12-15,2260.0,SIMCOE-MUSKOKA,Coleman Care Centre,Barrie,112,0,0,<5
-2020-12-15,2251.0,OTTAWA,Centre d'Accueil Champlain,Vanier,160,0,<5,0
-2020-12-15,2237.0,HAMILTON,Shalom Village Nursing Home,Hamilton,127,38,0,29
-2020-12-15,2270.0,YORK REGION,Woodbridge Vista Care Community,Woodbridge,224,0,31,<5
-2020-12-15,2236.0,HALTON,CAMA Woodlands Nursing Home,Burlington,134,0,0,<5
-2020-12-15,2258.0,EASTERN ONTARIO,Residence Prescott et Russell,Hawkesbury,146,0,15,0
-2020-12-15,2230.0,DURHAM,Hillsdale Terraces,Oshawa,200,<5,13,7
-2020-12-15,2236.0,HALTON,Allendale,Milton,200,13,16,12
-2020-12-15,3895.0,TORONTO,Downsview Long Term Care Centre,North York,252,<5,64,<5
-2020-12-15,2258.0,EASTERN ONTARIO,Tsiionkwanonhsote,Akwesasne,50,0,0,<5
-2020-12-15,2244.0,MIDDLESEX-LONDON,Chelsey Park,London,247,0,0,<5
-2020-12-15,2251.0,OTTAWA,Extendicare Starwood,Nepean,192,0,25,<5
-2020-12-15,2270.0,YORK REGION,King City Lodge Nursing Home,King City,36,<5,11,7
-2020-12-15,3895.0,TORONTO,Fieldstone Commons Care Community,Scarborough,224,<5,<5,6
-2020-12-15,2268.0,WINDSOR-ESSEX,The Village of Aspen Lake,Windsor,192,<5,0,0
-2020-12-15,2251.0,OTTAWA,Forest Hill,Kanata,160,<5,<5,<5
-2020-12-15,2230.0,DURHAM,Sunnycrest Nursing Home,Whitby,136,37,27,54
-2020-12-15,2246.0,NIAGARA,"Niagara Health System, Welland Hospital Site, Extended Care Unit",St. Catharines,115,0,0,<5
-2020-12-15,2244.0,MIDDLESEX-LONDON,Country Terrace,Komoka,120,9,<5,5
-2020-12-15,2230.0,DURHAM,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,0,32,<5
-2020-12-15,2268.0,WINDSOR-ESSEX,Extendicare Tecumseh,Tecumseh,128,8,0,6
-2020-12-15,2260.0,SIMCOE-MUSKOKA,Mill Creek Care Centre,Barrie,160,0,0,<5
-2020-12-15,2268.0,WINDSOR-ESSEX,Country Village Homes - Woodslee,Woodslee,104,<5,18,<5
-2020-12-15,3895.0,TORONTO,Tendercare Living Centre,Scarborough,254,59,7,17
-2020-12-15,2253.0,PEEL,Yee Hong Centre - Mississauga,Mississauga,200,0,<5,<5
-2020-12-15,3895.0,TORONTO,St. George Care Community,Toronto,238,15,0,<5
-2020-12-15,3895.0,TORONTO,Chartwell White Eagle Long Term Care Residence,Toronto,56,5,13,13
-2020-12-15,3895.0,TORONTO,Suomi-Koti Toronto Nursing Home,Toronto,34,0,5,<5
-2020-12-15,3895.0,TORONTO,Valleyview Residence,North York,174,<5,<5,<5
-2020-12-15,2270.0,YORK REGION,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,<5,24,<5
-2020-12-15,2253.0,PEEL,King Nursing Home,Bolton,86,6,0,<5
-2020-12-15,2270.0,YORK REGION,Mackenzie Health Long Term Care Facility,Richmond Hill,168,0,0,<5
-2020-12-15,2251.0,OTTAWA,Extendicare New Orchard Lodge,Ottawa,111,<5,0,<5
-2020-12-15,3895.0,TORONTO,Deerwood Creek Care Community,Etobicoke,160,<5,0,6
-2020-12-15,2270.0,YORK REGION,Sherwood Court Long Term Care Centre,Maple,96,0,0,<5
-2020-12-15,2268.0,WINDSOR-ESSEX,The Village at St. Clair,Windsor,256,38,0,20
-2020-12-15,2233.0,GREY-BRUCE,Lee Manor Home,Owen Sound,150,0,0,<5
-2020-12-15,2236.0,HALTON,Extendicare Halton Hills,Georgetown,130,<5,0,<5
-2020-12-15,3895.0,TORONTO,McCall Centre Long Term Care Interim Unit,Etobicoke,21,<5,<5,0
-2020-12-15,2253.0,PEEL,Tall Pines Long Term Care Centre,Brampton,160,0,0,<5
-2020-12-15,2268.0,WINDSOR-ESSEX,Berkshire Care Centre,Windsor,231,<5,0,21
-2020-12-15,3895.0,TORONTO,Villa Colombo Homes for the Aged,Toronto,391,5,34,8
-2020-12-15,2237.0,HAMILTON,Morriston Park Nursing Home,Puslinch,28,0,0,<5
-2020-12-15,2230.0,DURHAM,Thorntonview,Oshawa,154,31,14,54
-2020-12-15,2237.0,HAMILTON,BayWoods Place,Hamilton,128,<5,<5,<5
-2020-12-15,2253.0,PEEL,Villa Forum,Mississauga,160,<5,10,5
-2020-12-15,2237.0,HAMILTON,"St. Joseph's Villa, Dundas",Dundas,425,5,8,<5
-2020-12-15,2253.0,PEEL,Grace Manor,Brampton,120,0,12,<5
-2020-12-15,2237.0,HAMILTON,Chartwell Willowgrove Long Term Care Residence,Ancaster,169,5,18,<5
+2020-12-15,2236.0,HALTON,Bennett Health Care Centre,Georgetown,66.0,<5,0.0,0.0
+2020-12-15,2237.0,HAMILTON,Ridgeview,Stoney Creek,120.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Harmony Hills Care Community,East York,160.0,<5,11.0,<5
+2020-12-15,3895.0,TORONTO,Eatonville Care Centre,Etobicoke,247.0,0.0,42.0,<5
+2020-12-15,2265.0,WATERLOO,Sunnyside Home,Kitchener,263.0,0.0,0.0,<5
+2020-12-15,2246.0,NIAGARA,Extendicare St. Catharines,St. Catharines,153.0,0.0,0.0,<5
+2020-12-15,,,Champlain Long Term Care Residence,L'Orignal,60.0,0.0,0.0,<5
+2020-12-15,2253.0,PEEL,The Village of Sandalwood Park,Brampton,120.0,<5,0.0,6.0
+2020-12-15,2262.0,THUNDER BAY,Geraldton District Hospital,Geraldton,19.0,0.0,0.0,<5
+2020-12-15,2253.0,PEEL,Woodhall Park Care Community,Brampton,147.0,<5,10.0,12.0
+2020-12-15,2253.0,PEEL,Peel Manor,Brampton,177.0,0.0,<5,<5
+2020-12-15,2246.0,NIAGARA,Bella Senior Care Residences,Niagara Falls,160.0,0.0,0.0,<5
+2020-12-15,2236.0,HALTON,Wyndham Manor Long Term Care Centre,Oakville,128.0,13.0,10.0,9.0
+2020-12-15,2253.0,PEEL,Erin Mills Lodge Nursing Home,Mississauga,86.0,0.0,17.0,<5
+2020-12-15,2237.0,HAMILTON,Heritage Green Nursing Home,Stoney Creek,167.0,0.0,<5,<5
+2020-12-15,2241.0,KINGSTON FRONTENAC L & A,Extendicare Kingston,Kingston,150.0,0.0,0.0,0.0
+2020-12-15,3895.0,TORONTO,Craiglee Nursing Home,Scarborough,169.0,<5,24.0,5.0
+2020-12-15,2246.0,NIAGARA,The Woodlands of Sunset,Welland,121.0,0.0,0.0,0.0
+2020-12-15,2253.0,PEEL,Faith Manor Nursing Home,Brampton,120.0,64.0,15.0,37.0
+2020-12-15,2258.0,EASTERN ONTARIO,The Palace,Alexandria,70.0,0.0,0.0,<5
+2020-12-15,2240.0,CHATHAM-KENT,Riverview Gardens,Chatham,320.0,0.0,0.0,<5
+2020-12-15,2270.0,YORK REGION,Villa Leonardo Gambin,Woodbridge,168.0,0.0,12.0,<5
+2020-12-15,3895.0,TORONTO,Cedarvale Terrace,Toronto,218.0,0.0,0.0,<5
+2020-12-15,2246.0,NIAGARA,Garden City Manor,St. Catharines,200.0,9.0,<5,10.0
+2020-12-15,2237.0,HAMILTON,Idlewyld Manor,Hamilton,192.0,<5,<5,<5
+2020-12-15,2237.0,HAMILTON,Alexander Place,Waterdown,128.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Kennedy Lodge,Scarborough,289.0,0.0,39.0,12.0
+2020-12-15,2266.0,WELLINGTON-DUFFERIN-GUELPH,Wellington Terrace Long-Term Care Home,Fergus,176.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,The Wexford,Scarborough,166.0,17.0,0.0,<5
+2020-12-15,2260.0,SIMCOE-MUSKOKA,Bradford Valley Care Community,Bradford,246.0,0.0,12.0,<5
+2020-12-15,2253.0,PEEL,Tyndall Nursing Home,Mississauga,151.0,<5,33.0,<5
+2020-12-15,4913.0,SOUTH WEST,Woodingford Lodge - Tillsonburg,Tillsonburg,34.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Shepherd Lodge,Toronto,252.0,7.0,7.0,<5
+2020-12-15,3895.0,TORONTO,Fudger House,Toronto,250.0,0.0,13.0,6.0
+2020-12-15,2246.0,NIAGARA,Shalom Manor Long Term Care Home,Grimsby,144.0,34.0,0.0,25.0
+2020-12-15,2246.0,NIAGARA,Oakwood Park Lodge,Niagara Falls,153.0,<5,0.0,0.0
+2020-12-15,2270.0,YORK REGION,York Region Newmarket Health Centre,Newmarket,132.0,22.0,<5,7.0
+2020-12-15,2270.0,YORK REGION,Langstaff Square Care Community,Richmond Hill,160.0,0.0,0.0,<5
+2020-12-15,4913.0,SOUTH WEST,Maple Manor Nursing Home,Tillsonburg,107.0,0.0,0.0,<5
+2020-12-15,2253.0,PEEL,Cawthra Gardens,Mississauga,192.0,0.0,0.0,<5
+2020-12-15,2237.0,HAMILTON,The Wellington Nursing Home,Hamilton,102.0,0.0,0.0,<5
+2020-12-15,2265.0,WATERLOO,Pinehaven Nursing Home,Waterloo,84.0,0.0,0.0,<5
+2020-12-15,4913.0,SOUTH WEST,Terrace Lodge,Aylmer,100.0,0.0,0.0,<5
+2020-12-15,2258.0,EASTERN ONTARIO,Parisien Manor,Cornwall,65.0,0.0,0.0,<5
+2020-12-15,2253.0,PEEL,Cooksville Care Centre,Mississauga,192.0,0.0,21.0,<5
+2020-12-15,2257.0,RENFREW,Groves Park Lodge,Renfrew,100.0,0.0,0.0,0.0
+2020-12-15,2241.0,KINGSTON FRONTENAC L & A,Fairmount Home for the Aged,Glenburnie,128.0,0.0,0.0,<5
+2020-12-15,2270.0,YORK REGION,Southlake Residential Care Village,Newmarket,224.0,0.0,0.0,<5
+2020-12-15,2253.0,PEEL,Sheridan Villa,Mississauga,142.0,0.0,<5,<5
+2020-12-15,2270.0,YORK REGION,Chartwell Woodhaven Long Term Care Residence,Markham,192.0,26.0,0.0,15.0
+2020-12-15,2246.0,NIAGARA,Douglas H. Rapelje Lodge,Welland,120.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Chartwell Trilogy Long Term Care Residence,Scarborough,197.0,<5,0.0,0.0
+2020-12-15,2251.0,OTTAWA,Carlingview Manor,Ottawa,303.0,0.0,61.0,<5
+2020-12-15,2244.0,MIDDLESEX-LONDON,Extendicare London,London,170.0,0.0,0.0,<5
+2020-12-15,2246.0,NIAGARA,Linhaven,St. Catharines,248.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Ina Grafton Gage Home,Scarborough,128.0,<5,31.0,0.0
+2020-12-15,2253.0,PEEL,Tullamore Care Community,Brampton,159.0,0.0,0.0,<5
+2020-12-15,2235.0,HALIBURTON KAWARTHA PR,Extendicare Kawartha Lakes,Lindsay,64.0,<5,0.0,0.0
+2020-12-15,3895.0,TORONTO,The Village of Humber Heights,Etobicoke,192.0,<5,23.0,0.0
+2020-12-15,2236.0,HALTON,Chartwell Waterford Long Term Care Residence,Oakville,168.0,0.0,11.0,<5
+2020-12-15,2237.0,HAMILTON,Macassa  Lodge,Hamilton,270.0,0.0,0.0,<5
+2020-12-15,2236.0,HALTON,Mount Nemo Christian Nursing Home,Burlington,61.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Cummer Lodge,North York,391.0,0.0,<5,<5
+2020-12-15,3895.0,TORONTO,Extendicare Rouge Valley,Toronto,192.0,0.0,12.0,<5
+2020-12-15,2236.0,HALTON,Burloak,Burlington,144.0,0.0,0.0,<5
+2020-12-15,2230.0,DURHAM,Winbourne Park,Ajax,110.0,0.0,<5,<5
+2020-12-15,2236.0,HALTON,Billings Court Manor,Burlington,160.0,0.0,<5,<5
+2020-12-15,2265.0,WATERLOO,Nithview Home,New Hamburg,97.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Rockcliffe Care Community,Scarborough,204.0,0.0,21.0,<5
+2020-12-15,2244.0,MIDDLESEX-LONDON,McCormick Home,London,160.0,<5,0.0,0.0
+2020-12-15,2251.0,OTTAWA,Residence Saint-Louis,Ottawa,198.0,0.0,9.0,<5
+2020-12-15,2246.0,NIAGARA,Gilmore Lodge,Fort Erie,80.0,0.0,9.0,<5
+2020-12-15,2258.0,EASTERN ONTARIO,St. Joseph's Continuing Care Centre,Cornwall,150.0,0.0,0.0,<5
+2020-12-15,2268.0,WINDSOR-ESSEX,Chartwell Royal Oak Long Term Care Residence,Kingsville,160.0,0.0,0.0,<5
+2020-12-15,2266.0,WELLINGTON-DUFFERIN-GUELPH,"St. Joseph's Health Centre, Guelph",Guelph,240.0,0.0,0.0,<5
+2020-12-15,2270.0,YORK REGION,Elginwood,Richmond Hill,124.0,0.0,0.0,<5
+2020-12-15,2230.0,DURHAM,Hillsdale Estates,Oshawa,300.0,0.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Westside,Etobicoke,242.0,55.0,27.0,94.0
+2020-12-15,3895.0,TORONTO,The Heritage Nursing Home,Toronto,201.0,<5,0.0,<5
+2020-12-15,2262.0,THUNDER BAY,Southbridge Roseview,Thunder Bay,157.0,16.0,12.0,13.0
+2020-12-15,2237.0,HAMILTON,Grace Villa Nursing Home,Hamilton,184.0,70.0,20.0,26.0
+2020-12-15,2253.0,PEEL,Hawthorn Woods Care Community,Brampton,160.0,24.0,12.0,29.0
+2020-12-15,3895.0,TORONTO,Extendicare Guildwood,Scarborough,169.0,0.0,48.0,<5
+2020-12-15,2246.0,NIAGARA,Millennium Trail Manor,Niagara Falls,160.0,6.0,<5,5.0
+2020-12-15,2270.0,YORK REGION,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96.0,0.0,10.0,<5
+2020-12-15,2265.0,WATERLOO,Cambridge Country Manor,Cambridge,79.0,32.0,0.0,16.0
+2020-12-15,2260.0,SIMCOE-MUSKOKA,Coleman Care Centre,Barrie,112.0,0.0,0.0,<5
+2020-12-15,2251.0,OTTAWA,Centre d'Accueil Champlain,Vanier,160.0,0.0,<5,0.0
+2020-12-15,2237.0,HAMILTON,Shalom Village Nursing Home,Hamilton,127.0,38.0,0.0,29.0
+2020-12-15,2270.0,YORK REGION,Woodbridge Vista Care Community,Woodbridge,224.0,0.0,31.0,<5
+2020-12-15,2236.0,HALTON,CAMA Woodlands Nursing Home,Burlington,134.0,0.0,0.0,<5
+2020-12-15,2258.0,EASTERN ONTARIO,Residence Prescott et Russell,Hawkesbury,146.0,0.0,15.0,0.0
+2020-12-15,2230.0,DURHAM,Hillsdale Terraces,Oshawa,200.0,<5,13.0,7.0
+2020-12-15,2236.0,HALTON,Allendale,Milton,200.0,13.0,16.0,12.0
+2020-12-15,3895.0,TORONTO,Downsview Long Term Care Centre,North York,252.0,<5,64.0,<5
+2020-12-15,2258.0,EASTERN ONTARIO,Tsiionkwanonhsote,Akwesasne,50.0,0.0,0.0,<5
+2020-12-15,2244.0,MIDDLESEX-LONDON,Chelsey Park,London,247.0,0.0,0.0,<5
+2020-12-15,2251.0,OTTAWA,Extendicare Starwood,Nepean,192.0,0.0,25.0,<5
+2020-12-15,2270.0,YORK REGION,King City Lodge Nursing Home,King City,36.0,<5,11.0,7.0
+2020-12-15,3895.0,TORONTO,Fieldstone Commons Care Community,Scarborough,224.0,<5,<5,6.0
+2020-12-15,2268.0,WINDSOR-ESSEX,The Village of Aspen Lake,Windsor,192.0,<5,0.0,0.0
+2020-12-15,2251.0,OTTAWA,Forest Hill,Kanata,160.0,<5,<5,<5
+2020-12-15,2230.0,DURHAM,Sunnycrest Nursing Home,Whitby,136.0,37.0,27.0,54.0
+2020-12-15,2246.0,NIAGARA,"Niagara Health System, Welland Hospital Site, Extended Care Unit",St. Catharines,115.0,0.0,0.0,<5
+2020-12-15,2244.0,MIDDLESEX-LONDON,Country Terrace,Komoka,120.0,9.0,<5,5.0
+2020-12-15,2230.0,DURHAM,Chartwell Ballycliffe Long Term Care Residence,Ajax,100.0,0.0,32.0,<5
+2020-12-15,2268.0,WINDSOR-ESSEX,Extendicare Tecumseh,Tecumseh,128.0,8.0,0.0,6.0
+2020-12-15,2260.0,SIMCOE-MUSKOKA,Mill Creek Care Centre,Barrie,160.0,0.0,0.0,<5
+2020-12-15,2268.0,WINDSOR-ESSEX,Country Village Homes - Woodslee,Woodslee,104.0,<5,18.0,<5
+2020-12-15,3895.0,TORONTO,Tendercare Living Centre,Scarborough,254.0,59.0,7.0,17.0
+2020-12-15,2253.0,PEEL,Yee Hong Centre - Mississauga,Mississauga,200.0,0.0,<5,<5
+2020-12-15,3895.0,TORONTO,St. George Care Community,Toronto,238.0,15.0,0.0,<5
+2020-12-15,3895.0,TORONTO,Chartwell White Eagle Long Term Care Residence,Toronto,56.0,5.0,13.0,13.0
+2020-12-15,3895.0,TORONTO,Suomi-Koti Toronto Nursing Home,Toronto,34.0,0.0,5.0,<5
+2020-12-15,3895.0,TORONTO,Valleyview Residence,North York,174.0,<5,<5,<5
+2020-12-15,2270.0,YORK REGION,Villa Colombo Seniors Centre (Vaughan),Vaughan,160.0,<5,24.0,<5
+2020-12-15,2253.0,PEEL,King Nursing Home,Bolton,86.0,6.0,0.0,<5
+2020-12-15,2270.0,YORK REGION,Mackenzie Health Long Term Care Facility,Richmond Hill,168.0,0.0,0.0,<5
+2020-12-15,2251.0,OTTAWA,Extendicare New Orchard Lodge,Ottawa,111.0,<5,0.0,<5
+2020-12-15,3895.0,TORONTO,Deerwood Creek Care Community,Etobicoke,160.0,<5,0.0,6.0
+2020-12-15,2270.0,YORK REGION,Sherwood Court Long Term Care Centre,Maple,96.0,0.0,0.0,<5
+2020-12-15,2268.0,WINDSOR-ESSEX,The Village at St. Clair,Windsor,256.0,38.0,0.0,20.0
+2020-12-15,2233.0,GREY-BRUCE,Lee Manor Home,Owen Sound,150.0,0.0,0.0,<5
+2020-12-15,2236.0,HALTON,Extendicare Halton Hills,Georgetown,130.0,<5,0.0,<5
+2020-12-15,3895.0,TORONTO,McCall Centre Long Term Care Interim Unit,Etobicoke,21.0,<5,<5,0.0
+2020-12-15,2253.0,PEEL,Tall Pines Long Term Care Centre,Brampton,160.0,0.0,0.0,<5
+2020-12-15,2268.0,WINDSOR-ESSEX,Berkshire Care Centre,Windsor,231.0,<5,0.0,21.0
+2020-12-15,3895.0,TORONTO,Villa Colombo Homes for the Aged,Toronto,391.0,5.0,34.0,8.0
+2020-12-15,2237.0,HAMILTON,Morriston Park Nursing Home,Puslinch,28.0,0.0,0.0,<5
+2020-12-15,2230.0,DURHAM,Thorntonview,Oshawa,154.0,31.0,14.0,54.0
+2020-12-15,2237.0,HAMILTON,BayWoods Place,Hamilton,128.0,<5,<5,<5
+2020-12-15,2253.0,PEEL,Villa Forum,Mississauga,160.0,<5,10.0,5.0
+2020-12-15,2237.0,HAMILTON,"St. Joseph's Villa, Dundas",Dundas,425.0,5.0,8.0,<5
+2020-12-15,2253.0,PEEL,Grace Manor,Brampton,120.0,0.0,12.0,<5
+2020-12-15,2237.0,HAMILTON,Chartwell Willowgrove Long Term Care Residence,Ancaster,169.0,5.0,18.0,<5
+2020-12-16,2236.0,HALTON,Wyndham Manor Long Term Care Centre,Oakville,128,13,10,9
+2020-12-16,2253.0,PEEL,Erin Mills Lodge Nursing Home,Mississauga,86,0,17,<5
+2020-12-16,2237.0,HAMILTON,Heritage Green Nursing Home,Stoney Creek,167,0,<5,<5
+2020-12-16,2237.0,HAMILTON,Ridgeview,Stoney Creek,120,0,0,<5
+2020-12-16,2270.0,YORK REGION,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,<5,24,<5
+2020-12-16,2230.0,DURHAM,Hillsdale Terraces,Oshawa,200,<5,13,7
+2020-12-16,2253.0,PEEL,King Nursing Home,Bolton,86,6,0,<5
+2020-12-16,2237.0,HAMILTON,BayWoods Place,Hamilton,128,<5,<5,<5
+2020-12-16,3895.0,TORONTO,Eatonville Care Centre,Etobicoke,247,0,42,<5
+2020-12-16,3895.0,TORONTO,Fudger House,Toronto,250,0,13,6
+2020-12-16,2251.0,OTTAWA,Carlingview Manor,Ottawa,303,0,61,<5
+2020-12-16,2246.0,NIAGARA,Shalom Manor Long Term Care Home,Grimsby,144,34,0,25
+2020-12-16,,,Champlain Long Term Care Residence,L'Orignal,60,0,0,<5
+2020-12-16,2266.0,WELLINGTON-DUFFERIN-GUELPH,Wellington Terrace Long-Term Care Home,Fergus,176,0,0,<5
+2020-12-16,4913.0,SOUTH WEST,Maple Manor Nursing Home,Tillsonburg,107,0,0,<5
+2020-12-16,2236.0,HALTON,Bennett Health Care Centre,Georgetown,66,<5,0,0
+2020-12-16,2246.0,NIAGARA,"Niagara Health System, Welland Hospital Site, Extended Care Unit",St. Catharines,115,0,0,<5
+2020-12-16,3895.0,TORONTO,Harmony Hills Care Community,East York,160,<5,11,<5
+2020-12-16,2260.0,SIMCOE-MUSKOKA,Bradford Valley Care Community,Bradford,246,0,12,<5
+2020-12-16,2265.0,WATERLOO,Sunnyside Home,Kitchener,263,0,0,<5
+2020-12-16,2246.0,NIAGARA,Extendicare St. Catharines,St. Catharines,153,0,0,<5
+2020-12-16,2253.0,PEEL,Peel Manor,Brampton,177,0,<5,<5
+2020-12-16,2246.0,NIAGARA,Bella Senior Care Residences,Niagara Falls,160,0,0,<5
+2020-12-16,2253.0,PEEL,Grace Manor,Brampton,120,0,12,<5
+2020-12-16,2237.0,HAMILTON,Chartwell Willowgrove Long Term Care Residence,Ancaster,169,5,18,<5
+2020-12-16,3895.0,TORONTO,Villa Colombo Homes for the Aged,Toronto,391,5,34,8
+2020-12-16,2253.0,PEEL,Villa Forum,Mississauga,160,<5,10,5
+2020-12-16,3895.0,TORONTO,Shepherd Lodge,Toronto,252,7,7,<5
+2020-12-16,3895.0,TORONTO,Suomi-Koti Toronto Nursing Home,Toronto,34,0,5,<5
+2020-12-16,4913.0,SOUTH WEST,Woodingford Lodge - Tillsonburg,Tillsonburg,34,0,0,<5
+2020-12-16,3895.0,TORONTO,Deerwood Creek Care Community,Etobicoke,160,<5,0,6
+2020-12-16,2268.0,WINDSOR-ESSEX,Berkshire Care Centre,Windsor,231,<5,0,21
+2020-12-16,2233.0,GREY-BRUCE,Lee Manor Home,Owen Sound,150,0,0,<5
+2020-12-16,3895.0,TORONTO,McCall Centre Long Term Care Interim Unit,Etobicoke,21,<5,<5,0
+2020-12-16,2253.0,PEEL,Tall Pines Long Term Care Centre,Brampton,160,0,0,<5
+2020-12-16,2244.0,MIDDLESEX-LONDON,Extendicare London,London,170,0,0,<5
+2020-12-16,2262.0,THUNDER BAY,Geraldton District Hospital,Geraldton,19,0,0,<5
+2020-12-16,2246.0,NIAGARA,The Woodlands of Sunset,Welland,121,0,0,0
+2020-12-16,2270.0,YORK REGION,Mackenzie Health Long Term Care Facility,Richmond Hill,168,0,0,<5
+2020-12-16,2237.0,HAMILTON,The Wellington Nursing Home,Hamilton,102,0,0,<5
+2020-12-16,2241.0,KINGSTON FRONTENAC L & A,Extendicare Kingston,Kingston,150,0,0,0
+2020-12-16,2244.0,MIDDLESEX-LONDON,McCormick Home,London,160,<5,0,0
+2020-12-16,2251.0,OTTAWA,Residence Saint-Louis,Ottawa,198,0,9,<5
+2020-12-16,2246.0,NIAGARA,Gilmore Lodge,Fort Erie,80,0,9,<5
+2020-12-16,2258.0,EASTERN ONTARIO,St. Joseph's Continuing Care Centre,Cornwall,150,0,0,<5
+2020-12-16,2266.0,WELLINGTON-DUFFERIN-GUELPH,"St. Joseph's Health Centre, Guelph",Guelph,240,0,0,<5
+2020-12-16,2265.0,WATERLOO,Nithview Home,New Hamburg,97,0,0,<5
+2020-12-16,2246.0,NIAGARA,Douglas H. Rapelje Lodge,Welland,120,0,0,<5
+2020-12-16,2253.0,PEEL,Cawthra Gardens,Mississauga,192,0,0,<5
+2020-12-16,3895.0,TORONTO,Chartwell Trilogy Long Term Care Residence,Scarborough,197,<5,0,0
+2020-12-16,2265.0,WATERLOO,Pinehaven Nursing Home,Waterloo,84,0,0,<5
+2020-12-16,4913.0,SOUTH WEST,Terrace Lodge,Aylmer,100,0,0,<5
+2020-12-16,2258.0,EASTERN ONTARIO,Parisien Manor,Cornwall,65,0,0,<5
+2020-12-16,2270.0,YORK REGION,Southlake Residential Care Village,Newmarket,224,0,0,<5
+2020-12-16,2253.0,PEEL,Cooksville Care Centre,Mississauga,192,0,21,<5
+2020-12-16,2257.0,RENFREW,Groves Park Lodge,Renfrew,100,0,0,0
+2020-12-16,2253.0,PEEL,Tullamore Care Community,Brampton,159,0,0,<5
+2020-12-16,2230.0,DURHAM,Winbourne Park,Ajax,110,0,<5,<5
+2020-12-16,2270.0,YORK REGION,Langstaff Square Care Community,Richmond Hill,160,0,0,<5
+2020-12-16,2253.0,PEEL,Woodhall Park Care Community,Brampton,147,<5,10,12
+2020-12-16,2253.0,PEEL,The Village of Sandalwood Park,Brampton,120,<5,0,6
+2020-12-16,2258.0,EASTERN ONTARIO,The Palace,Alexandria,70,0,0,<5
+2020-12-16,3895.0,TORONTO,Cedarvale Terrace,Toronto,218,0,0,<5
+2020-12-16,2246.0,NIAGARA,Garden City Manor,St. Catharines,200,9,<5,10
+2020-12-16,3895.0,TORONTO,The Village of Humber Heights,Etobicoke,192,<5,23,0
+2020-12-16,3895.0,TORONTO,Rockcliffe Care Community,Scarborough,204,0,21,<5
+2020-12-16,2270.0,YORK REGION,Elginwood,Richmond Hill,124,0,0,<5
+2020-12-16,3895.0,TORONTO,Kennedy Lodge,Scarborough,289,0,39,12
+2020-12-16,2236.0,HALTON,Chartwell Waterford Long Term Care Residence,Oakville,168,0,11,<5
+2020-12-16,2237.0,HAMILTON,Macassa  Lodge,Hamilton,270,0,0,<5
+2020-12-16,2236.0,HALTON,Mount Nemo Christian Nursing Home,Burlington,61,0,0,<5
+2020-12-16,3895.0,TORONTO,Cummer Lodge,North York,391,0,<5,<5
+2020-12-16,2236.0,HALTON,Burloak,Burlington,144,0,0,<5
+2020-12-16,2230.0,DURHAM,Hillsdale Estates,Oshawa,300,0,0,<5
+2020-12-16,2236.0,HALTON,Billings Court Manor,Burlington,160,0,<5,<5
+2020-12-16,2235.0,HALIBURTON KAWARTHA PR,Extendicare Kawartha Lakes,Lindsay,64,<5,0,0
+2020-12-16,2241.0,KINGSTON FRONTENAC L & A,Fairmount Home for the Aged,Glenburnie,128,0,0,<5
+2020-12-16,2237.0,HAMILTON,Parkview Nursing Centre,Hamilton,126,0,0,<5
+2020-12-16,2253.0,PEEL,Hawthorn Woods Care Community,Brampton,160,24,12,29
+2020-12-16,2270.0,YORK REGION,Sherwood Court Long Term Care Centre,Maple,96,0,0,<5
+2020-12-16,3895.0,TORONTO,Valleyview Residence,North York,174,<5,<5,<5
+2020-12-16,3895.0,TORONTO,Chartwell White Eagle Long Term Care Residence,Toronto,56,5,13,13
+2020-12-16,2253.0,PEEL,Camilla Care Community,Mississauga,236,0,68,<5
+2020-12-16,2262.0,THUNDER BAY,Southbridge Roseview,Thunder Bay,157,10,12,13
+2020-12-16,2260.0,SIMCOE-MUSKOKA,Trillium Manor Home for the Aged,Orillia,122,<5,0,<5
+2020-12-16,3895.0,TORONTO,Westside,Etobicoke,242,55,27,94
+2020-12-16,2255.0,PETERBOROUGH,Fairhaven,Peterborough,256,0,<5,<5
+2020-12-16,2253.0,PEEL,Faith Manor Nursing Home,Brampton,120,60,16,34
+2020-12-16,2237.0,HAMILTON,Idlewyld Manor,Hamilton,192,<5,<5,<5
+2020-12-16,2240.0,CHATHAM-KENT,Riverview Gardens,Chatham,320,0,0,<5
+2020-12-16,2268.0,WINDSOR-ESSEX,Banwell Gardens Care Centre,Tecumseh,142,<5,0,<5
+2020-12-16,2260.0,SIMCOE-MUSKOKA,Coleman Care Centre,Barrie,112,0,0,<5
+2020-12-16,2230.0,DURHAM,Thorntonview,Oshawa,154,31,14,54
+2020-12-16,3895.0,TORONTO,Wesburn Manor,Etobicoke,192,0,<5,<5
+2020-12-16,2265.0,WATERLOO,Cambridge Country Manor,Cambridge,79,32,0,16
+2020-12-16,2251.0,OTTAWA,Forest Hill,Kanata,160,<5,<5,0
+2020-12-16,3895.0,TORONTO,Craiglee Nursing Home,Scarborough,169,<5,24,<5
+2020-12-16,2270.0,YORK REGION,York Region Newmarket Health Centre,Newmarket,132,22,<5,10
+2020-12-16,2246.0,NIAGARA,Oakwood Park Lodge,Niagara Falls,153,<5,0,8
+2020-12-16,2270.0,YORK REGION,Villa Leonardo Gambin,Woodbridge,168,<5,12,0
+2020-12-16,2251.0,OTTAWA,Extendicare New Orchard Lodge,Ottawa,111,<5,0,<5
+2020-12-16,2253.0,PEEL,The Village of Erin Meadows,Mississauga,180,<5,20,<5
+2020-12-16,2237.0,HAMILTON,Morriston Park Nursing Home,Puslinch,28,0,0,<5
+2020-12-16,2227.0,BRANT,John Noble Home,Brantford,156,0,0,<5
+2020-12-16,2236.0,HALTON,CAMA Woodlands Nursing Home,Burlington,134,0,0,<5
+2020-12-16,3895.0,TORONTO,Downsview Long Term Care Centre,North York,252,<5,64,<5
+2020-12-16,2236.0,HALTON,Allendale,Milton,200,13,16,12
+2020-12-16,2244.0,MIDDLESEX-LONDON,Country Terrace,Komoka,120,9,<5,5
+2020-12-16,2251.0,OTTAWA,Centre d'Accueil Champlain,Vanier,160,0,<5,0
+2020-12-16,3895.0,TORONTO,The Wexford,Scarborough,166,19,0,6
+2020-12-16,2258.0,EASTERN ONTARIO,Residence Prescott et Russell,Hawkesbury,146,0,15,0
+2020-12-16,3895.0,TORONTO,The Heritage Nursing Home,Toronto,201,<5,0,<5
+2020-12-16,2265.0,WATERLOO,Columbia Forest,Waterloo,156,0,0,<5
+2020-12-16,2236.0,HALTON,Extendicare Halton Hills,Georgetown,130,<5,0,<5
+2020-12-16,2237.0,HAMILTON,Grace Villa Nursing Home,Hamilton,184,70,20,26
+2020-12-16,2260.0,SIMCOE-MUSKOKA,Mill Creek Care Centre,Barrie,160,0,0,<5
+2020-12-16,2251.0,OTTAWA,Extendicare Starwood,Nepean,192,0,25,<5
+2020-12-16,2270.0,YORK REGION,King City Lodge Nursing Home,King City,36,<5,11,7
+2020-12-16,3895.0,TORONTO,Extendicare Rouge Valley,Toronto,192,0,12,<5
+2020-12-16,2253.0,PEEL,Tyndall Nursing Home,Mississauga,151,<5,34,<5
+2020-12-16,3895.0,TORONTO,Tendercare Living Centre,Scarborough,254,92,7,22
+2020-12-16,2253.0,PEEL,Yee Hong Centre - Mississauga,Mississauga,200,0,<5,<5
+2020-12-16,2244.0,MIDDLESEX-LONDON,Chelsey Park,London,247,0,0,<5
+2020-12-16,2268.0,WINDSOR-ESSEX,Extendicare Tecumseh,Tecumseh,128,8,0,6
+2020-12-16,3895.0,TORONTO,Fieldstone Commons Care Community,Scarborough,224,<5,<5,6
+2020-12-16,2268.0,WINDSOR-ESSEX,Country Village Homes - Woodslee,Woodslee,104,<5,18,<5
+2020-12-16,2246.0,NIAGARA,Linhaven,St. Catharines,248,0,0,<5
+2020-12-16,2270.0,YORK REGION,Chartwell Woodhaven Long Term Care Residence,Markham,192,28,0,14
+2020-12-16,3895.0,TORONTO,Extendicare Guildwood,Scarborough,169,0,48,<5
+2020-12-16,2237.0,HAMILTON,"St. Joseph's Villa, Dundas",Dundas,425,<5,8,<5
+2020-12-16,2246.0,NIAGARA,Millennium Trail Manor,Niagara Falls,160,6,<5,5
+2020-12-16,2237.0,HAMILTON,Shalom Village Nursing Home,Hamilton,127,38,0,29
+2020-12-16,2230.0,DURHAM,Sunnycrest Nursing Home,Whitby,136,37,27,54
+2020-12-16,2268.0,WINDSOR-ESSEX,The Village at St. Clair,Windsor,256,61,<5,40
+2020-12-16,3895.0,TORONTO,St. George Care Community,Toronto,238,53,0,<5
+2020-12-16,2230.0,DURHAM,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,0,32,<5
+2020-12-16,2268.0,WINDSOR-ESSEX,The Village of Aspen Lake,Windsor,192,<5,0,0
+2020-12-16,2270.0,YORK REGION,Woodbridge Vista Care Community,Woodbridge,224,0,31,<5
+2020-12-16,2270.0,YORK REGION,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,10,<5
+2020-12-16,2258.0,EASTERN ONTARIO,Tsiionkwanonhsote,Akwesasne,50,0,0,<5
