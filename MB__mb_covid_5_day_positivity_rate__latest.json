@@ -296,7 +296,7 @@
     {
       "attributes" : {
         "Date" : 1586235600000, 
-        "Positivity_Rate" : 1.3, 
+        "Positivity_Rate" : 1.4, 
         "ObjectId" : 38
       }
     }, 
@@ -310,14 +310,14 @@
     {
       "attributes" : {
         "Date" : 1586408400000, 
-        "Positivity_Rate" : 0.9, 
+        "Positivity_Rate" : 1, 
         "ObjectId" : 40
       }
     }, 
     {
       "attributes" : {
         "Date" : 1586494800000, 
-        "Positivity_Rate" : 1.1, 
+        "Positivity_Rate" : 1.2, 
         "ObjectId" : 41
       }
     }, 
@@ -2076,6 +2076,13 @@
         "Date" : 1608184800000, 
         "Positivity_Rate" : 13.6, 
         "ObjectId" : 292
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1608271200000, 
+        "Positivity_Rate" : 13.2, 
+        "ObjectId" : 293
       }
     }
   ]
