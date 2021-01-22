@@ -2277,43 +2277,50 @@
     {
       "attributes" : {
         "Date" : 1610690400000, 
-        "Positivity_Rate" : 10.2, 
+        "Positivity_Rate" : 10.4, 
         "ObjectId" : 321
       }
     }, 
     {
       "attributes" : {
         "Date" : 1610776800000, 
-        "Positivity_Rate" : 10.4, 
+        "Positivity_Rate" : 10.7, 
         "ObjectId" : 322
       }
     }, 
     {
       "attributes" : {
         "Date" : 1610863200000, 
-        "Positivity_Rate" : 10.6, 
+        "Positivity_Rate" : 10.9, 
         "ObjectId" : 323
       }
     }, 
     {
       "attributes" : {
         "Date" : 1610949600000, 
-        "Positivity_Rate" : 9.9, 
+        "Positivity_Rate" : 10.3, 
         "ObjectId" : 324
       }
     }, 
     {
       "attributes" : {
         "Date" : 1611036000000, 
-        "Positivity_Rate" : 9.5, 
+        "Positivity_Rate" : 9.9, 
         "ObjectId" : 325
       }
     }, 
     {
       "attributes" : {
         "Date" : 1611122400000, 
-        "Positivity_Rate" : 9.2, 
+        "Positivity_Rate" : 9.5, 
         "ObjectId" : 326
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1611208800000, 
+        "Positivity_Rate" : 9.3, 
+        "ObjectId" : 327
       }
     }
   ]
