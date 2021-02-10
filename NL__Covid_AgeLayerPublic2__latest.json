@@ -89,15 +89,15 @@
   "features" : [
     {
       "attributes" : {
-        "under_19" : 59, 
-        "_20_39" : 102, 
-        "_40_49" : 81, 
-        "_50_59" : 88, 
+        "under_19" : 103, 
+        "_20_39" : 106, 
+        "_40_49" : 85, 
+        "_50_59" : 89, 
         "_60_69" : 72, 
         "_70_100" : 55, 
-        "percent_female" : 49, 
-        "percent_male" : 51, 
-        "date_updated" : 1612884600000
+        "percent_female" : 50, 
+        "percent_male" : 50, 
+        "date_updated" : 1612971000000
       }
     }
   ]
