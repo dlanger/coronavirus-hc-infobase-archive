@@ -2725,29 +2725,36 @@
     {
       "attributes" : {
         "Date" : 1616216400000, 
-        "Positivity_Rate" : 5, 
+        "Positivity_Rate" : 5.1, 
         "ObjectId" : 385
       }
     }, 
     {
       "attributes" : {
         "Date" : 1616302800000, 
-        "Positivity_Rate" : 5.2, 
+        "Positivity_Rate" : 5.3, 
         "ObjectId" : 386
       }
     }, 
     {
       "attributes" : {
         "Date" : 1616389200000, 
-        "Positivity_Rate" : 5.3, 
+        "Positivity_Rate" : 5.5, 
         "ObjectId" : 387
       }
     }, 
     {
       "attributes" : {
         "Date" : 1616475600000, 
-        "Positivity_Rate" : 4.6, 
+        "Positivity_Rate" : 4.8, 
         "ObjectId" : 388
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1616562000000, 
+        "Positivity_Rate" : 4.3, 
+        "ObjectId" : 389
       }
     }
   ]
