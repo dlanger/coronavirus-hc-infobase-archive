@@ -1,5 +1,5 @@
 ﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
-"Detailed preliminary information on cases of COVID-19: 6 Dimensions (Aggregated data), Public Health Agency of Canada",13100774,,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310077401",1;2;3;4;5,"CURRENT - a cube available to the public and that is current",Occasional,2021-01-01,2021-01-01,6
+"Detailed preliminary information on cases of COVID-19, 2020-2021: 4-Dimensions (Aggregated data), Public Health Agency of Canada",13100774,,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1310077401",1;2;3;4;5,"CURRENT - a cube available to the public and that is current",Occasional,2021-01-01,2021-01-01,6
 
 "Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
 1,Geography,,
