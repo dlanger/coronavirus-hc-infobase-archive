@@ -33351,39 +33351,80 @@
 2021-04-11,2246,Niagara,Linhaven,M551,St. Catharines,248.0,0,0,<5
 2021-04-11,2260,Simcoe-Muskoka,Woods Park Care Centre,2821,Barrie,123.0,0,0,<5
 2021-04-11,2270,York Region,Eagle Terrace,2240,Newmarket,70.0,0,<5,<5
-2021-04-12,2258,Eastern Ontario,Maxville Manor,3000,Maxville,122,<5,0,0
-2021-04-12,2242,Lambton,Afton Park Place Long Term Care Community,2872,Sarnia,128,0,0,<5
-2021-04-12,2253,Peel,The Village of Erin Meadows,2881,Mississauga,180,0,20,<5
-2021-04-12,2270,York Region,Chartwell Aurora Long Term Care Residence,2630,Aurora,235,0,11,<5
-2021-04-12,2237,Hamilton,Dundurn Place Care Centre,2739,Hamilton,201,0,<5,<5
-2021-04-12,3895,Toronto,Bendale Acres,M504,Scarborough,302,0,<5,<5
-2021-04-12,2253,Peel,Chartwell Wenleigh Long Term Care Residence,2833,Mississauga,161,0,0,<5
-2021-04-12,2230,Durham,Bay Ridges,2895,Pickering,124,<5,0,<5
-2021-04-12,3895,Toronto,Ehatare Nursing Home,2804,Scarborough,32,0,0,<5
-2021-04-12,3895,Toronto,Copernicus Lodge,2937,Toronto,228,<5,22,<5
-2021-04-12,2251,Ottawa,Carlingview Manor,2420,Ottawa,303,0,61,<5
-2021-04-12,2246,Niagara,Linhaven,M551,St. Catharines,248,0,0,<5
-2021-04-12,2270,York Region,Eagle Terrace,2240,Newmarket,70,0,<5,<5
-2021-04-12,3895,Toronto,Main Street Terrace,2589,Toronto,150,0,8,<5
-2021-04-12,2270,York Region,Elginwood,2869,Richmond Hill,124,<5,0,6
-2021-04-12,2270,York Region,Southlake Residential Care Village,2955,Newmarket,224,0,<5,<5
-2021-04-12,2230,Durham,The Village of Taunton Mills,2902,Whitby,120,0,0,<5
-2021-04-12,2251,Ottawa,Hillel Lodge,3029,Ottawa,121,0,0,<5
-2021-04-12,2270,York Region,Woodbridge Vista Care Community,2945,Woodbridge,224,<5,31,5
-2021-04-12,3895,Toronto,The O'Neill Centre,2631,Toronto,162,0,<5,0
-2021-04-12,2227,Brant,St. Joseph's Lifecare Centre,2976,Brantford,205,<5,0,<5
-2021-04-12,3895,Toronto,Fieldstone Commons Care Community,2906,Scarborough,224,<5,<5,5
-2021-04-12,2255,Peterborough,St. Joseph's at Fleming,2935,Peterborough,200,0,<5,<5
-2021-04-12,2266,Wellington-Dufferin-Guelph,"St. Joseph's Health Centre, Guelph",3011,Guelph,240,0,0,<5
-2021-04-12,2261,Sudbury,St. Gabriel's Villa of Sudbury,3039,Chelmsford,128,0,<5,0
-2021-04-12,2270,York Region,Union Villa,3018,Unionville,160,<5,0,<5
-2021-04-12,2230,Durham,Hillsdale Estates,M539,Oshawa,300,0,0,<5
-2021-04-12,4913,South West,Caressant Care on Bonnie Place,2730,St Thomas,116,<5,<5,<5
-2021-04-12,2261,Sudbury,"St. Joseph's Villa, Sudbury",2913,Sudbury,128,<5,<5,<5
-2021-04-12,2246,Niagara,United Mennonite Home,2951,Vineland,128,<5,0,<5
-2021-04-12,2270,York Region,Villa Leonardo Gambin,2947,Woodbridge,168,0,27,<5
-2021-04-12,3895,Toronto,Extendicare Scarborough,2117,Scarborough,154,0,14,<5
-2021-04-12,2270,York Region,Mackenzie Health Long Term Care Facility,2825,Richmond Hill,168,0,<5,<5
-2021-04-12,2234,Haldimand-Norfolk,Gardenview Long Term Care Home,2961,Townsend,64,0,0,<5
-2021-04-12,2237,Hamilton,"St. Joseph's Villa, Dundas",2975,Dundas,425,0,9,<5
-2021-04-12,2266,Wellington-Dufferin-Guelph,Wellington Terrace Long-Term Care Home,M629,Fergus,176,0,0,5
+2021-04-12,2258,Eastern Ontario,Maxville Manor,3000,Maxville,122.0,<5,0,0
+2021-04-12,2242,Lambton,Afton Park Place Long Term Care Community,2872,Sarnia,128.0,0,0,<5
+2021-04-12,2253,Peel,The Village of Erin Meadows,2881,Mississauga,180.0,0,20,<5
+2021-04-12,2270,York Region,Chartwell Aurora Long Term Care Residence,2630,Aurora,235.0,0,11,<5
+2021-04-12,2237,Hamilton,Dundurn Place Care Centre,2739,Hamilton,201.0,0,<5,<5
+2021-04-12,3895,Toronto,Bendale Acres,M504,Scarborough,302.0,0,<5,<5
+2021-04-12,2253,Peel,Chartwell Wenleigh Long Term Care Residence,2833,Mississauga,161.0,0,0,<5
+2021-04-12,2230,Durham,Bay Ridges,2895,Pickering,124.0,<5,0,<5
+2021-04-12,3895,Toronto,Ehatare Nursing Home,2804,Scarborough,32.0,0,0,<5
+2021-04-12,3895,Toronto,Copernicus Lodge,2937,Toronto,228.0,<5,22,<5
+2021-04-12,2251,Ottawa,Carlingview Manor,2420,Ottawa,303.0,0,61,<5
+2021-04-12,2246,Niagara,Linhaven,M551,St. Catharines,248.0,0,0,<5
+2021-04-12,2270,York Region,Eagle Terrace,2240,Newmarket,70.0,0,<5,<5
+2021-04-12,3895,Toronto,Main Street Terrace,2589,Toronto,150.0,0,8,<5
+2021-04-12,2270,York Region,Elginwood,2869,Richmond Hill,124.0,<5,0,6
+2021-04-12,2270,York Region,Southlake Residential Care Village,2955,Newmarket,224.0,0,<5,<5
+2021-04-12,2230,Durham,The Village of Taunton Mills,2902,Whitby,120.0,0,0,<5
+2021-04-12,2251,Ottawa,Hillel Lodge,3029,Ottawa,121.0,0,0,<5
+2021-04-12,2270,York Region,Woodbridge Vista Care Community,2945,Woodbridge,224.0,<5,31,5
+2021-04-12,3895,Toronto,The O'Neill Centre,2631,Toronto,162.0,0,<5,0
+2021-04-12,2227,Brant,St. Joseph's Lifecare Centre,2976,Brantford,205.0,<5,0,<5
+2021-04-12,3895,Toronto,Fieldstone Commons Care Community,2906,Scarborough,224.0,<5,<5,5
+2021-04-12,2255,Peterborough,St. Joseph's at Fleming,2935,Peterborough,200.0,0,<5,<5
+2021-04-12,2266,Wellington-Dufferin-Guelph,"St. Joseph's Health Centre, Guelph",3011,Guelph,240.0,0,0,<5
+2021-04-12,2261,Sudbury,St. Gabriel's Villa of Sudbury,3039,Chelmsford,128.0,0,<5,0
+2021-04-12,2270,York Region,Union Villa,3018,Unionville,160.0,<5,0,<5
+2021-04-12,2230,Durham,Hillsdale Estates,M539,Oshawa,300.0,0,0,<5
+2021-04-12,4913,South West,Caressant Care on Bonnie Place,2730,St Thomas,116.0,<5,<5,<5
+2021-04-12,2261,Sudbury,"St. Joseph's Villa, Sudbury",2913,Sudbury,128.0,<5,<5,<5
+2021-04-12,2246,Niagara,United Mennonite Home,2951,Vineland,128.0,<5,0,<5
+2021-04-12,2270,York Region,Villa Leonardo Gambin,2947,Woodbridge,168.0,0,27,<5
+2021-04-12,3895,Toronto,Extendicare Scarborough,2117,Scarborough,154.0,0,14,<5
+2021-04-12,2270,York Region,Mackenzie Health Long Term Care Facility,2825,Richmond Hill,168.0,0,<5,<5
+2021-04-12,2234,Haldimand-Norfolk,Gardenview Long Term Care Home,2961,Townsend,64.0,0,0,<5
+2021-04-12,2237,Hamilton,"St. Joseph's Villa, Dundas",2975,Dundas,425.0,0,9,<5
+2021-04-12,2266,Wellington-Dufferin-Guelph,Wellington Terrace Long-Term Care Home,M629,Fergus,176.0,0,0,5
+2021-04-13,2270,York Region,Villa Leonardo Gambin,2947,Woodbridge,168,0,27,<5
+2021-04-13,3895,Toronto,Weston Terrace Care Community,2874,Toronto,224,0,36,<5
+2021-04-13,2234,Haldimand-Norfolk,Gardenview Long Term Care Home,2961,Townsend,64,0,0,<5
+2021-04-13,2237,Hamilton,"St. Joseph's Villa, Dundas",2975,Dundas,425,0,9,<5
+2021-04-13,3895,Toronto,Ehatare Nursing Home,2804,Scarborough,32,0,0,<5
+2021-04-13,2253,Peel,The Village of Erin Meadows,2881,Mississauga,180,0,20,<5
+2021-04-13,2237,Hamilton,Dundurn Place Care Centre,2739,Hamilton,201,0,<5,<5
+2021-04-13,2270,York Region,Southlake Residential Care Village,2955,Newmarket,224,0,<5,<5
+2021-04-13,2270,York Region,Eagle Terrace,2240,Newmarket,70,0,<5,<5
+2021-04-13,2230,Durham,The Village of Taunton Mills,2902,Whitby,120,0,0,<5
+2021-04-13,2251,Ottawa,Hillel Lodge,3029,Ottawa,121,0,0,<5
+2021-04-13,3895,Toronto,Main Street Terrace,2589,Toronto,150,0,8,<5
+2021-04-13,4913,South West,Caressant Care on Bonnie Place,2730,St Thomas,116,<5,<5,<5
+2021-04-13,3895,Toronto,Extendicare Scarborough,2117,Scarborough,154,0,14,<5
+2021-04-13,2246,Niagara,Linhaven,M551,St. Catharines,248,0,0,<5
+2021-04-13,3895,Toronto,The O'Neill Centre,2631,Toronto,162,0,<5,0
+2021-04-13,3895,Toronto,Bendale Acres,M504,Scarborough,302,0,<5,<5
+2021-04-13,3895,Toronto,Fieldstone Commons Care Community,2906,Scarborough,224,<5,<5,5
+2021-04-13,2227,Brant,St. Joseph's Lifecare Centre,2976,Brantford,205,<5,0,<5
+2021-04-13,3895,Toronto,Copernicus Lodge,2937,Toronto,228,<5,22,<5
+2021-04-13,2266,Wellington-Dufferin-Guelph,"St. Joseph's Health Centre, Guelph",3011,Guelph,240,0,0,<5
+2021-04-13,2230,Durham,Hillsdale Estates,M539,Oshawa,300,0,0,<5
+2021-04-13,2270,York Region,Mackenzie Health Long Term Care Facility,2825,Richmond Hill,168,0,<5,<5
+2021-04-13,2270,York Region,Woodbridge Vista Care Community,2945,Woodbridge,224,<5,31,5
+2021-04-13,2270,York Region,Elginwood,2869,Richmond Hill,124,<5,0,6
+2021-04-13,2258,Eastern Ontario,Maxville Manor,3000,Maxville,122,<5,0,0
+2021-04-13,2255,Peterborough,St. Joseph's at Fleming,2935,Peterborough,200,0,<5,<5
+2021-04-13,2230,Durham,Bay Ridges,2895,Pickering,124,<5,0,<5
+2021-04-13,2246,Niagara,United Mennonite Home,2951,Vineland,128,0,0,0
+2021-04-13,2253,Peel,Chartwell Wenleigh Long Term Care Residence,2833,Mississauga,161,0,0,6
+2021-04-13,2270,York Region,River Glen Haven Nursing Home,1021,Sutton West,119,0,36,<5
+2021-04-13,2270,York Region,Union Villa,3018,Unionville,160,0,0,<5
+2021-04-13,2261,Sudbury,"St. Joseph's Villa, Sudbury",2913,Sudbury,128,0,<5,<5
+2021-04-13,2251,Ottawa,Extendicare Medex,2579,Ottawa,193,<5,0,<5
+2021-04-13,2260,Simcoe-Muskoka,Simcoe Manor Home for the Aged,M573,Beeton,126,<5,10,<5
+2021-04-13,2266,Wellington-Dufferin-Guelph,Wellington Terrace Long-Term Care Home,M629,Fergus,176,0,0,0
+2021-04-13,2235,Haliburton Kawartha Pr,Fenelon Court,2850,Fenelon Falls,67,0,0,<5
+2021-04-13,2258,Eastern Ontario,Caressant Care Bourget,1160,Bourget,56,0,0,<5
+2021-04-13,2270,York Region,Chartwell Aurora Long Term Care Residence,2630,Aurora,235,0,11,8
+2021-04-13,2261,Sudbury,St. Gabriel's Villa of Sudbury,3039,Chelmsford,128,0,<5,0
+2021-04-13,2253,Peel,Sheridan Villa,M572,Mississauga,142,<5,<5,<5
