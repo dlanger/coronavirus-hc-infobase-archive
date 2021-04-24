@@ -179,17 +179,17 @@
         "name" : "Eastern Regional Health Authority", 
         "RHAShort" : "Eastern_RHA", 
         "regional_health_authority" : "eastern_rha", 
-        "date_updated" : 1619197080000, 
-        "total_number_of_cases" : 942, 
-        "new_cases" : 0, 
+        "date_updated" : 1619281800000, 
+        "total_number_of_cases" : 945, 
+        "new_cases" : 3, 
         "currently_hospitalized" : 0, 
         "current_in_icu" : 0, 
-        "total_number_recovered" : 919, 
+        "total_number_recovered" : 920, 
         "total_number_of_deaths" : 5, 
-        "active_cases" : 14, 
-        "total_people_tested" : 94680, 
+        "active_cases" : 16, 
+        "total_people_tested" : 94866, 
         "Population" : 3.1313, 
-        "CasesPer10KPop" : 300.833519624437
+        "CasesPer10KPop" : 301.791588158273
       }
     }, 
     {
@@ -197,7 +197,7 @@
         "name" : "Central Regional Health Authority", 
         "RHAShort" : "Central_RHA", 
         "regional_health_authority" : "central_rha", 
-        "date_updated" : 1619197080000, 
+        "date_updated" : 1619281800000, 
         "total_number_of_cases" : 48, 
         "new_cases" : 0, 
         "currently_hospitalized" : 0, 
@@ -205,7 +205,7 @@
         "total_number_recovered" : 47, 
         "total_number_of_deaths" : 0, 
         "active_cases" : 1, 
-        "total_people_tested" : 14318, 
+        "total_people_tested" : 14342, 
         "Population" : 0.9276, 
         "CasesPer10KPop" : 51.7464424320828
       }
@@ -215,15 +215,15 @@
         "name" : "Western Regional Health Authority", 
         "RHAShort" : "Western_RHA", 
         "regional_health_authority" : "western_rha", 
-        "date_updated" : 1619197140000, 
+        "date_updated" : 1619281860000, 
         "total_number_of_cases" : 54, 
-        "new_cases" : 1, 
-        "currently_hospitalized" : 0, 
-        "current_in_icu" : 0, 
-        "total_number_recovered" : 45, 
+        "new_cases" : 0, 
+        "currently_hospitalized" : 1, 
+        "current_in_icu" : 1, 
+        "total_number_recovered" : 47, 
         "total_number_of_deaths" : 1, 
-        "active_cases" : 8, 
-        "total_people_tested" : 15313, 
+        "active_cases" : 6, 
+        "total_people_tested" : 15382, 
         "Population" : 0.7734, 
         "CasesPer10KPop" : 69.8215671062839
       }
@@ -233,7 +233,7 @@
         "name" : "Labrador-Grenfell Regional Health Authority", 
         "RHAShort" : "LabradorGrenfell_RHA", 
         "regional_health_authority" : "labradorgrenfell_rha", 
-        "date_updated" : 1619197140000, 
+        "date_updated" : 1619281920000, 
         "total_number_of_cases" : 9, 
         "new_cases" : 0, 
         "currently_hospitalized" : 0, 
@@ -241,7 +241,7 @@
         "total_number_recovered" : 9, 
         "total_number_of_deaths" : 0, 
         "active_cases" : 0, 
-        "total_people_tested" : 6829, 
+        "total_people_tested" : 6842, 
         "Population" : 0.4005, 
         "CasesPer10KPop" : 22.4719101123595
       }
