@@ -46,7 +46,6 @@ jobs:
         # ON
         conditional-get -v https://data.ontario.ca/dataset/f4f86e54-872d-43f8-8a86-3892fd3cb5e6/resource/ed270bb8-340b-41f9-a7c6-e8ef587e6d11/download/covidtesting.csv -o ON__covidtesting__latest.csv
         conditional-get -v https://data.ontario.ca/dataset/f4f86e54-872d-43f8-8a86-3892fd3cb5e6/resource/7be0a14c-bf50-4340-9304-2b189d507541/download/covidtesting_data_dictionary.xlsx -o ON__covidtesting_data_dictionary__latest.xlsx 
-        conditional-get -v https://data.ontario.ca/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/455fd63b-603d-4608-8216-7d8647f43350/download/conposcovidloc.csv -o ON__conposcovidloc__latest.csv
         conditional-get -v https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/0f8b343e-fc28-4ca5-9aab-c3a1d2c919f1/download/ltccovidsummary.csv -o ON__ltccovidsummary__latest.csv
         conditional-get -v https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/4b64488a-0523-4ebb-811a-fac2f07e6d59/download/activeltcoutbreak.csv -o ON__activeltcoutbreak__latest.csv
         conditional-get -v https://data.ontario.ca/dataset/42df36df-04a0-43a9-8ad4-fac5e0e22244/resource/0cf2f01e-d4e1-48ed-8027-2133d059ec8b/download/resolvedltc.csv -o ON__resolvedltc__latest.csv
