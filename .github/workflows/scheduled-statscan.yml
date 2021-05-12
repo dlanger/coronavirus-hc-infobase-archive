@@ -7,6 +7,51 @@ on:
     - cron:  '15 6,18 * * *'
 
 jobs:
+  scheduled-generic:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        include:
+          - url: "https://data.ontario.ca/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/455fd63b-603d-4608-8216-7d8647f43350/download/conposcovidloc.csv" 
+          - filename: "ON__conposcovidloc__latest.csv"
+    env:
+      FILE_URL: ${{ matrix.url }}
+    steps:
+    - name: Create temp directory
+      run: |
+        mkdir -p tmp/cache-generic
+    - name: Download file to temp directory
+      run: |
+        curl "${{matrix.url}}" > "tmp/${{matrix.filename}}"
+        echo "FILE_HASH=$(md5sum tmp/${{matrix.filename}} | cut -d" " -f1)" >> $GITHUB_ENV
+    - name: Check cache
+      uses: actions/cache@v2
+      id: table-cache-check
+      with:
+        path: tmp/cache
+        key: generic-file-${{ env.FILE_HASH }}
+    - name: Check out this repo if hash of zip file isn't known
+      if: steps.table-cache-check.outputs.cache-hit != 'true'
+      uses: actions/checkout@v2
+      with:
+        lfs: true
+        path: repo
+    - name: Move data files
+      if: steps.table-cache-check.outputs.cache-hit != 'true'
+      run: |-
+        mv "tmp/${{matrix.filename}}" "repo/${{matrix.filename}}"
+    - name: Commit and push if it changed
+      if: steps.table-cache-check.outputs.cache-hit != 'true'
+      run: |-
+        cd repo
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git pull --rebase
+        git push
+
   scheduled-statscan:
     runs-on: ubuntu-latest
     strategy:
