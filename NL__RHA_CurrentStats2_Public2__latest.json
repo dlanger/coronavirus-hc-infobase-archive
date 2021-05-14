@@ -182,12 +182,12 @@
         "date_updated" : 1620921000000, 
         "total_number_of_cases" : 1008, 
         "new_cases" : 4, 
-        "currently_hospitalized" : 1, 
+        "currently_hospitalized" : 0, 
         "current_in_icu" : 0, 
         "total_number_recovered" : 950, 
         "total_number_of_deaths" : 5, 
         "active_cases" : 49, 
-        "total_people_tested" : 16411, 
+        "total_people_tested" : 98692, 
         "Population" : 3.1313, 
         "CasesPer10KPop" : 321.911027368824
       }
