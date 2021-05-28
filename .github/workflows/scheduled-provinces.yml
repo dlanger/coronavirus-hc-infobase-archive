@@ -57,7 +57,7 @@ jobs:
         conditional-get -v https://data.ontario.ca/dataset/a2dfa674-a173-45b3-9964-1e3d2130b40f/resource/07bc0e21-26b5-4152-b609-c1958cb7b227/download/testing_metrics_by_phu.csv -o ON__testing_metrics_by_phu__latest.csv || true
         
         # TOR
-        conditional-get -v https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/e5bf35bc-e681-43da-b2ce-0242d00922ad?format=csv -o TOR_covid_cases__latest.csv
+        conditional-get -v https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/e5bf35bc-e681-43da-b2ce-0242d00922ad?format=csv -o TOR_covid_cases__latest.csv || true
                
         # MB
         conditional-get -v "https://services.arcgis.com/mMUesHYPkXjaFGfS/ArcGIS/rest/services/mb_covid_cases_by_status_daily/FeatureServer/0/query?where=ObjectId+%3E+0&objectIds=&time=&resultType=none&outFields=*&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=pjson&token=" -o MB__mb_covid_cases_by_status_daily__latest.json || true
