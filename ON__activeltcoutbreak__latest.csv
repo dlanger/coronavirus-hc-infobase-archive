@@ -34991,32 +34991,60 @@
 2021-05-30,3895,Toronto,Norfinch Care Community,2918,North York,160.0,0,0,<5
 2021-05-30,2251,Ottawa,Centre d'Accueil Champlain,M511,Vanier,160.0,7,<5,24
 2021-05-30,2270,York Region,York Region Maple Health Centre,M605,Maple,100.0,0,<5,<5
-2021-05-31,2246,Niagara,The Meadows of Dorchester,M515,Niagara Falls,121,<5,<5,<5
-2021-05-31,2270,York Region,York Region Maple Health Centre,M605,Maple,100,0,<5,<5
-2021-05-31,2242,Lambton,Afton Park Place Long Term Care Community,2872,Sarnia,128,<5,<5,<5
-2021-05-31,2236,Halton,Billings Court Manor,2938,Burlington,160,14,<5,9
-2021-05-31,2237,Hamilton,BayWoods Place,2581,Hamilton,128,0,<5,<5
-2021-05-31,2237,Hamilton,Heritage Green Nursing Home,2776,Stoney Creek,167,0,5,9
-2021-05-31,2270,York Region,Woodbridge Vista Care Community,2945,Woodbridge,224,0,31,<5
-2021-05-31,3895,Toronto,The Village of Humber Heights,2957,Etobicoke,192,<5,27,0
-2021-05-31,2237,Hamilton,"St. Joseph's Villa, Dundas",2975,Dundas,425,<5,9,<5
-2021-05-31,2255,Peterborough,Fairhaven,M520,Peterborough,256,<5,<5,<5
-2021-05-31,2236,Halton,Creek Way Village,M623,Burlington,144,0,<5,<5
-2021-05-31,3895,Toronto,The Jewish Home for the Aged,2824,North York,472,0,9,<5
-2021-05-31,3895,Toronto,Cummer Lodge,M512,North York,391,<5,<5,<5
-2021-05-31,2270,York Region,Chartwell Aurora Long Term Care Residence,2630,Aurora,235,0,11,5
-2021-05-31,2253,Peel,Tullamore Care Community,963,Brampton,159,0,11,0
-2021-05-31,3895,Toronto,Chartwell Trilogy Long Term Care Residence,2899,Scarborough,197,<5,11,<5
-2021-05-31,2236,Halton,Hampton Terrace Care Centre,2846,Burlington,101,0,<5,<5
-2021-05-31,2270,York Region,Union Villa,3018,Unionville,160,<5,0,<5
-2021-05-31,3895,Toronto,Norfinch Care Community,2918,North York,160,0,0,<5
-2021-05-31,2270,York Region,Langstaff Square Care Community,2907,Richmond Hill,160,<5,0,<5
-2021-05-31,2251,Ottawa,Villa Marconi,2818,Ottawa,128,<5,<5,<5
-2021-05-31,3895,Toronto,Chartwell Westbury Long Term Care Residence,2943,Etobicoke,187,14,22,6
-2021-05-31,2226,Algoma,Mauno Kaihla Koti,2780,Sault Ste. Marie,63,0,<5,0
-2021-05-31,2251,Ottawa,Centre d'Accueil Champlain,M511,Vanier,160,<5,<5,22
-2021-05-31,2244,Middlesex-London,Kensington Village,2729,London,78,<5,8,0
-2021-05-31,2260,Simcoe-Muskoka,Creedan Valley Care Community,2633,Creemore,95,0,0,<5
-2021-05-31,2268,Windsor-Essex,Riverside Place,2972,Windsor,96,<5,0,0
-2021-05-31,2230,Durham,Hillsdale Estates,M539,Oshawa,300,<5,0,<5
-2021-05-31,2265,Waterloo,Forest Heights,2707,Kitchener,240,0,51,<5
+2021-05-31,2246,Niagara,The Meadows of Dorchester,M515,Niagara Falls,121.0,<5,<5,<5
+2021-05-31,2270,York Region,York Region Maple Health Centre,M605,Maple,100.0,0,<5,<5
+2021-05-31,2242,Lambton,Afton Park Place Long Term Care Community,2872,Sarnia,128.0,<5,<5,<5
+2021-05-31,2236,Halton,Billings Court Manor,2938,Burlington,160.0,14,<5,9
+2021-05-31,2237,Hamilton,BayWoods Place,2581,Hamilton,128.0,0,<5,<5
+2021-05-31,2237,Hamilton,Heritage Green Nursing Home,2776,Stoney Creek,167.0,0,5,9
+2021-05-31,2270,York Region,Woodbridge Vista Care Community,2945,Woodbridge,224.0,0,31,<5
+2021-05-31,3895,Toronto,The Village of Humber Heights,2957,Etobicoke,192.0,<5,27,0
+2021-05-31,2237,Hamilton,"St. Joseph's Villa, Dundas",2975,Dundas,425.0,<5,9,<5
+2021-05-31,2255,Peterborough,Fairhaven,M520,Peterborough,256.0,<5,<5,<5
+2021-05-31,2236,Halton,Creek Way Village,M623,Burlington,144.0,0,<5,<5
+2021-05-31,3895,Toronto,The Jewish Home for the Aged,2824,North York,472.0,0,9,<5
+2021-05-31,3895,Toronto,Cummer Lodge,M512,North York,391.0,<5,<5,<5
+2021-05-31,2270,York Region,Chartwell Aurora Long Term Care Residence,2630,Aurora,235.0,0,11,5
+2021-05-31,2253,Peel,Tullamore Care Community,963,Brampton,159.0,0,11,0
+2021-05-31,3895,Toronto,Chartwell Trilogy Long Term Care Residence,2899,Scarborough,197.0,<5,11,<5
+2021-05-31,2236,Halton,Hampton Terrace Care Centre,2846,Burlington,101.0,0,<5,<5
+2021-05-31,2270,York Region,Union Villa,3018,Unionville,160.0,<5,0,<5
+2021-05-31,3895,Toronto,Norfinch Care Community,2918,North York,160.0,0,0,<5
+2021-05-31,2270,York Region,Langstaff Square Care Community,2907,Richmond Hill,160.0,<5,0,<5
+2021-05-31,2251,Ottawa,Villa Marconi,2818,Ottawa,128.0,<5,<5,<5
+2021-05-31,3895,Toronto,Chartwell Westbury Long Term Care Residence,2943,Etobicoke,187.0,14,22,6
+2021-05-31,2226,Algoma,Mauno Kaihla Koti,2780,Sault Ste. Marie,63.0,0,<5,0
+2021-05-31,2251,Ottawa,Centre d'Accueil Champlain,M511,Vanier,160.0,<5,<5,22
+2021-05-31,2244,Middlesex-London,Kensington Village,2729,London,78.0,<5,8,0
+2021-05-31,2260,Simcoe-Muskoka,Creedan Valley Care Community,2633,Creemore,95.0,0,0,<5
+2021-05-31,2268,Windsor-Essex,Riverside Place,2972,Windsor,96.0,<5,0,0
+2021-05-31,2230,Durham,Hillsdale Estates,M539,Oshawa,300.0,<5,0,<5
+2021-05-31,2265,Waterloo,Forest Heights,2707,Kitchener,240.0,0,51,<5
+2021-06-01,2270,York Region,Union Villa,3018,Unionville,160,<5,0,<5
+2021-06-01,3895,Toronto,Chartwell Westbury Long Term Care Residence,2943,Etobicoke,187,10,22,6
+2021-06-01,2255,Peterborough,Fairhaven,M520,Peterborough,256,<5,<5,<5
+2021-06-01,2237,Hamilton,BayWoods Place,2581,Hamilton,128,0,<5,<5
+2021-06-01,2226,Algoma,Mauno Kaihla Koti,2780,Sault Ste. Marie,63,0,<5,0
+2021-06-01,2268,Windsor-Essex,Riverside Place,2972,Windsor,96,<5,0,0
+2021-06-01,2260,Simcoe-Muskoka,Creedan Valley Care Community,2633,Creemore,95,0,0,<5
+2021-06-01,3895,Toronto,Norfinch Care Community,2918,North York,160,0,0,<5
+2021-06-01,2230,Durham,Hillsdale Estates,M539,Oshawa,300,<5,0,<5
+2021-06-01,2270,York Region,Chartwell Aurora Long Term Care Residence,2630,Aurora,235,0,11,5
+2021-06-01,3895,Toronto,The Village of Humber Heights,2957,Etobicoke,192,<5,27,0
+2021-06-01,2270,York Region,Woodbridge Vista Care Community,2945,Woodbridge,224,0,31,<5
+2021-06-01,2236,Halton,Hampton Terrace Care Centre,2846,Burlington,101,0,<5,<5
+2021-06-01,2242,Lambton,Afton Park Place Long Term Care Community,2872,Sarnia,128,<5,<5,<5
+2021-06-01,2237,Hamilton,Heritage Green Nursing Home,2776,Stoney Creek,167,0,5,9
+2021-06-01,2237,Hamilton,"St. Joseph's Villa, Dundas",2975,Dundas,425,<5,9,<5
+2021-06-01,2255,Peterborough,Riverview Manor Nursing Home,2722,Peterborough,124,0,0,<5
+2021-06-01,2253,Peel,Extendicare Mississauga,2884,Mississauga,140,0,11,<5
+2021-06-01,3895,Toronto,Cummer Lodge,M512,North York,391,<5,<5,<5
+2021-06-01,2246,Niagara,The Meadows of Dorchester,M515,Niagara Falls,121,<5,<5,<5
+2021-06-01,2251,Ottawa,Centre d'Accueil Champlain,M511,Vanier,160,<5,<5,20
+2021-06-01,2251,Ottawa,Villa Marconi,2818,Ottawa,128,<5,<5,<5
+2021-06-01,2236,Halton,Billings Court Manor,2938,Burlington,160,15,<5,10
+2021-06-01,3895,Toronto,Chartwell Trilogy Long Term Care Residence,2899,Scarborough,197,0,12,<5
+2021-06-01,2270,York Region,York Region Maple Health Centre,M605,Maple,100,0,<5,<5
+2021-06-01,2265,Waterloo,Forest Heights,2707,Kitchener,240,0,51,<5
+2021-06-01,2253,Peel,Tullamore Care Community,963,Brampton,159,0,11,0
+2021-06-01,3895,Toronto,The Jewish Home for the Aged,2824,North York,472,0,9,<5
