@@ -55,6 +55,11 @@ jobs:
         conditional-get -v https://data.ontario.ca/dataset/c4022f0f-6f3d-4e16-bd28-5312333a4bac/resource/6e2868ab-a242-48d6-9f73-235d19a6668e/download/techdoc_correctionalcovid19testing.txt -o ON__techdoc_correctionalcovid19testing__latest.txt || true
         conditional-get -v https://data.ontario.ca/dataset/8da73272-8078-4cbd-ae35-1b5c60c57796/resource/1ffdf824-2712-4f64-b7fc-f8b2509f9204/download/re_estimates_on.csv -o ON__re_estimates_on__latest.csv || true
         conditional-get -v https://data.ontario.ca/dataset/a2dfa674-a173-45b3-9964-1e3d2130b40f/resource/07bc0e21-26b5-4152-b609-c1958cb7b227/download/testing_metrics_by_phu.csv -o ON__testing_metrics_by_phu__latest.csv || true
+        conditional-get -v https://data.ontario.ca/dataset/752ce2b7-c15a-4965-a3dc-397bf405e7cc/resource/8a89caa9-511c-4568-af89-7f2174b4378c/download/vaccine_doses.csv -o ON__vaccine_doses__latest.csv || true
+        conditional-get -v https://data.ontario.ca/dataset/752ce2b7-c15a-4965-a3dc-397bf405e7cc/resource/775ca815-5028-4e9b-9dd4-6975ff1be021/download/vaccines_by_age.csv -o ON__vaccines_by_age__latest.csv || true
+        
+        
+        
         
         # TOR
         conditional-get -v https://ckan0.cf.opendata.inter.prod-toronto.ca/download_resource/e5bf35bc-e681-43da-b2ce-0242d00922ad?format=csv -o TOR_covid_cases__latest.csv || true
