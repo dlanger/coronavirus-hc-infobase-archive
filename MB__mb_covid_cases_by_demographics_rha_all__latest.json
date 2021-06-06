@@ -57,7 +57,7 @@
         "Gender" : "Female", 
         "Age_Group" : "0-9", 
         "RHA" : "All", 
-        "Total_Cases" : 2603, 
+        "Total_Cases" : 2614, 
         "ObjectId" : 1
       }
     }, 
@@ -66,7 +66,7 @@
         "Gender" : "Female", 
         "Age_Group" : "0-9", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 173, 
+        "Total_Cases" : 174, 
         "ObjectId" : 2
       }
     }, 
@@ -84,7 +84,7 @@
         "Gender" : "Female", 
         "Age_Group" : "0-9", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 153, 
+        "Total_Cases" : 157, 
         "ObjectId" : 4
       }
     }, 
@@ -102,7 +102,7 @@
         "Gender" : "Female", 
         "Age_Group" : "0-9", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1377, 
+        "Total_Cases" : 1383, 
         "ObjectId" : 6
       }
     }, 
@@ -111,7 +111,7 @@
         "Gender" : "Male", 
         "Age_Group" : "0-9", 
         "RHA" : "All", 
-        "Total_Cases" : 2699, 
+        "Total_Cases" : 2714, 
         "ObjectId" : 7
       }
     }, 
@@ -129,7 +129,7 @@
         "Gender" : "Male", 
         "Age_Group" : "0-9", 
         "RHA" : "Northern", 
-        "Total_Cases" : 765, 
+        "Total_Cases" : 764, 
         "ObjectId" : 9
       }
     }, 
@@ -138,7 +138,7 @@
         "Gender" : "Male", 
         "Age_Group" : "0-9", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 194, 
+        "Total_Cases" : 198, 
         "ObjectId" : 10
       }
     }, 
@@ -156,7 +156,7 @@
         "Gender" : "Male", 
         "Age_Group" : "0-9", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1380, 
+        "Total_Cases" : 1392, 
         "ObjectId" : 12
       }
     }, 
@@ -165,7 +165,7 @@
         "Gender" : "Female", 
         "Age_Group" : "10-19", 
         "RHA" : "All", 
-        "Total_Cases" : 3347, 
+        "Total_Cases" : 3357, 
         "ObjectId" : 13
       }
     }, 
@@ -183,7 +183,7 @@
         "Gender" : "Female", 
         "Age_Group" : "10-19", 
         "RHA" : "Northern", 
-        "Total_Cases" : 708, 
+        "Total_Cases" : 709, 
         "ObjectId" : 15
       }
     }, 
@@ -192,7 +192,7 @@
         "Gender" : "Female", 
         "Age_Group" : "10-19", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 276, 
+        "Total_Cases" : 278, 
         "ObjectId" : 16
       }
     }, 
@@ -201,7 +201,7 @@
         "Gender" : "Female", 
         "Age_Group" : "10-19", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 356, 
+        "Total_Cases" : 358, 
         "ObjectId" : 17
       }
     }, 
@@ -210,7 +210,7 @@
         "Gender" : "Female", 
         "Age_Group" : "10-19", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1779, 
+        "Total_Cases" : 1784, 
         "ObjectId" : 18
       }
     }, 
@@ -219,7 +219,7 @@
         "Gender" : "Male", 
         "Age_Group" : "10-19", 
         "RHA" : "All", 
-        "Total_Cases" : 3590, 
+        "Total_Cases" : 3618, 
         "ObjectId" : 19
       }
     }, 
@@ -228,7 +228,7 @@
         "Gender" : "Male", 
         "Age_Group" : "10-19", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 223, 
+        "Total_Cases" : 224, 
         "ObjectId" : 20
       }
     }, 
@@ -237,7 +237,7 @@
         "Gender" : "Male", 
         "Age_Group" : "10-19", 
         "RHA" : "Northern", 
-        "Total_Cases" : 714, 
+        "Total_Cases" : 719, 
         "ObjectId" : 21
       }
     }, 
@@ -246,7 +246,7 @@
         "Gender" : "Male", 
         "Age_Group" : "10-19", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 316, 
+        "Total_Cases" : 319, 
         "ObjectId" : 22
       }
     }, 
@@ -255,7 +255,7 @@
         "Gender" : "Male", 
         "Age_Group" : "10-19", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 439, 
+        "Total_Cases" : 444, 
         "ObjectId" : 23
       }
     }, 
@@ -264,7 +264,7 @@
         "Gender" : "Male", 
         "Age_Group" : "10-19", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1898, 
+        "Total_Cases" : 1912, 
         "ObjectId" : 24
       }
     }, 
@@ -273,7 +273,7 @@
         "Gender" : "Female", 
         "Age_Group" : "20-29", 
         "RHA" : "All", 
-        "Total_Cases" : 4955, 
+        "Total_Cases" : 4976, 
         "ObjectId" : 25
       }
     }, 
@@ -300,7 +300,7 @@
         "Gender" : "Female", 
         "Age_Group" : "20-29", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 314, 
+        "Total_Cases" : 317, 
         "ObjectId" : 28
       }
     }, 
@@ -309,7 +309,7 @@
         "Gender" : "Female", 
         "Age_Group" : "20-29", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 551, 
+        "Total_Cases" : 555, 
         "ObjectId" : 29
       }
     }, 
@@ -318,7 +318,7 @@
         "Gender" : "Female", 
         "Age_Group" : "20-29", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 3107, 
+        "Total_Cases" : 3121, 
         "ObjectId" : 30
       }
     }, 
@@ -327,7 +327,7 @@
         "Gender" : "Male", 
         "Age_Group" : "20-29", 
         "RHA" : "All", 
-        "Total_Cases" : 5572, 
+        "Total_Cases" : 5603, 
         "ObjectId" : 31
       }
     }, 
@@ -336,7 +336,7 @@
         "Gender" : "Male", 
         "Age_Group" : "20-29", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 329, 
+        "Total_Cases" : 330, 
         "ObjectId" : 32
       }
     }, 
@@ -345,7 +345,7 @@
         "Gender" : "Male", 
         "Age_Group" : "20-29", 
         "RHA" : "Northern", 
-        "Total_Cases" : 640, 
+        "Total_Cases" : 641, 
         "ObjectId" : 33
       }
     }, 
@@ -354,7 +354,7 @@
         "Gender" : "Male", 
         "Age_Group" : "20-29", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 383, 
+        "Total_Cases" : 385, 
         "ObjectId" : 34
       }
     }, 
@@ -363,7 +363,7 @@
         "Gender" : "Male", 
         "Age_Group" : "20-29", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 648, 
+        "Total_Cases" : 649, 
         "ObjectId" : 35
       }
     }, 
@@ -372,7 +372,7 @@
         "Gender" : "Male", 
         "Age_Group" : "20-29", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 3572, 
+        "Total_Cases" : 3598, 
         "ObjectId" : 36
       }
     }, 
@@ -381,7 +381,7 @@
         "Gender" : "Female", 
         "Age_Group" : "30-39", 
         "RHA" : "All", 
-        "Total_Cases" : 4139, 
+        "Total_Cases" : 4156, 
         "ObjectId" : 37
       }
     }, 
@@ -390,7 +390,7 @@
         "Gender" : "Female", 
         "Age_Group" : "30-39", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 264, 
+        "Total_Cases" : 265, 
         "ObjectId" : 38
       }
     }, 
@@ -408,7 +408,7 @@
         "Gender" : "Female", 
         "Age_Group" : "30-39", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 269, 
+        "Total_Cases" : 272, 
         "ObjectId" : 40
       }
     }, 
@@ -417,7 +417,7 @@
         "Gender" : "Female", 
         "Age_Group" : "30-39", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 510, 
+        "Total_Cases" : 514, 
         "ObjectId" : 41
       }
     }, 
@@ -426,7 +426,7 @@
         "Gender" : "Female", 
         "Age_Group" : "30-39", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 2560, 
+        "Total_Cases" : 2569, 
         "ObjectId" : 42
       }
     }, 
@@ -435,7 +435,7 @@
         "Gender" : "Male", 
         "Age_Group" : "30-39", 
         "RHA" : "All", 
-        "Total_Cases" : 4160, 
+        "Total_Cases" : 4169, 
         "ObjectId" : 43
       }
     }, 
@@ -453,7 +453,7 @@
         "Gender" : "Male", 
         "Age_Group" : "30-39", 
         "RHA" : "Northern", 
-        "Total_Cases" : 534, 
+        "Total_Cases" : 533, 
         "ObjectId" : 45
       }
     }, 
@@ -462,7 +462,7 @@
         "Gender" : "Male", 
         "Age_Group" : "30-39", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 305, 
+        "Total_Cases" : 308, 
         "ObjectId" : 46
       }
     }, 
@@ -471,7 +471,7 @@
         "Gender" : "Male", 
         "Age_Group" : "30-39", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 491, 
+        "Total_Cases" : 492, 
         "ObjectId" : 47
       }
     }, 
@@ -480,7 +480,7 @@
         "Gender" : "Male", 
         "Age_Group" : "30-39", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 2533, 
+        "Total_Cases" : 2539, 
         "ObjectId" : 48
       }
     }, 
@@ -489,7 +489,7 @@
         "Gender" : "Female", 
         "Age_Group" : "40-49", 
         "RHA" : "All", 
-        "Total_Cases" : 3411, 
+        "Total_Cases" : 3423, 
         "ObjectId" : 49
       }
     }, 
@@ -525,7 +525,7 @@
         "Gender" : "Female", 
         "Age_Group" : "40-49", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 492, 
+        "Total_Cases" : 496, 
         "ObjectId" : 53
       }
     }, 
@@ -534,7 +534,7 @@
         "Gender" : "Female", 
         "Age_Group" : "40-49", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 2073, 
+        "Total_Cases" : 2081, 
         "ObjectId" : 54
       }
     }, 
@@ -543,7 +543,7 @@
         "Gender" : "Male", 
         "Age_Group" : "40-49", 
         "RHA" : "All", 
-        "Total_Cases" : 3417, 
+        "Total_Cases" : 3432, 
         "ObjectId" : 55
       }
     }, 
@@ -552,7 +552,7 @@
         "Gender" : "Male", 
         "Age_Group" : "40-49", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 240, 
+        "Total_Cases" : 241, 
         "ObjectId" : 56
       }
     }, 
@@ -561,7 +561,7 @@
         "Gender" : "Male", 
         "Age_Group" : "40-49", 
         "RHA" : "Northern", 
-        "Total_Cases" : 359, 
+        "Total_Cases" : 360, 
         "ObjectId" : 57
       }
     }, 
@@ -570,7 +570,7 @@
         "Gender" : "Male", 
         "Age_Group" : "40-49", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 249, 
+        "Total_Cases" : 251, 
         "ObjectId" : 58
       }
     }, 
@@ -579,7 +579,7 @@
         "Gender" : "Male", 
         "Age_Group" : "40-49", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 493, 
+        "Total_Cases" : 495, 
         "ObjectId" : 59
       }
     }, 
@@ -588,7 +588,7 @@
         "Gender" : "Male", 
         "Age_Group" : "40-49", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 2076, 
+        "Total_Cases" : 2085, 
         "ObjectId" : 60
       }
     }, 
@@ -597,7 +597,7 @@
         "Gender" : "Female", 
         "Age_Group" : "50-59", 
         "RHA" : "All", 
-        "Total_Cases" : 3068, 
+        "Total_Cases" : 3079, 
         "ObjectId" : 61
       }
     }, 
@@ -606,7 +606,7 @@
         "Gender" : "Female", 
         "Age_Group" : "50-59", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 227, 
+        "Total_Cases" : 228, 
         "ObjectId" : 62
       }
     }, 
@@ -615,7 +615,7 @@
         "Gender" : "Female", 
         "Age_Group" : "50-59", 
         "RHA" : "Northern", 
-        "Total_Cases" : 350, 
+        "Total_Cases" : 352, 
         "ObjectId" : 63
       }
     }, 
@@ -633,7 +633,7 @@
         "Gender" : "Female", 
         "Age_Group" : "50-59", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 473, 
+        "Total_Cases" : 476, 
         "ObjectId" : 65
       }
     }, 
@@ -642,7 +642,7 @@
         "Gender" : "Female", 
         "Age_Group" : "50-59", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1824, 
+        "Total_Cases" : 1829, 
         "ObjectId" : 66
       }
     }, 
@@ -651,7 +651,7 @@
         "Gender" : "Male", 
         "Age_Group" : "50-59", 
         "RHA" : "All", 
-        "Total_Cases" : 3110, 
+        "Total_Cases" : 3120, 
         "ObjectId" : 67
       }
     }, 
@@ -660,7 +660,7 @@
         "Gender" : "Male", 
         "Age_Group" : "50-59", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 268, 
+        "Total_Cases" : 269, 
         "ObjectId" : 68
       }
     }, 
@@ -669,7 +669,7 @@
         "Gender" : "Male", 
         "Age_Group" : "50-59", 
         "RHA" : "Northern", 
-        "Total_Cases" : 363, 
+        "Total_Cases" : 365, 
         "ObjectId" : 69
       }
     }, 
@@ -696,7 +696,7 @@
         "Gender" : "Male", 
         "Age_Group" : "50-59", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1869, 
+        "Total_Cases" : 1876, 
         "ObjectId" : 72
       }
     }, 
@@ -705,7 +705,7 @@
         "Gender" : "Female", 
         "Age_Group" : "60-69", 
         "RHA" : "All", 
-        "Total_Cases" : 1953, 
+        "Total_Cases" : 1957, 
         "ObjectId" : 73
       }
     }, 
@@ -741,7 +741,7 @@
         "Gender" : "Female", 
         "Age_Group" : "60-69", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 335, 
+        "Total_Cases" : 336, 
         "ObjectId" : 77
       }
     }, 
@@ -750,7 +750,7 @@
         "Gender" : "Female", 
         "Age_Group" : "60-69", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1143, 
+        "Total_Cases" : 1146, 
         "ObjectId" : 78
       }
     }, 
@@ -759,7 +759,7 @@
         "Gender" : "Male", 
         "Age_Group" : "60-69", 
         "RHA" : "All", 
-        "Total_Cases" : 1996, 
+        "Total_Cases" : 2008, 
         "ObjectId" : 79
       }
     }, 
@@ -777,7 +777,7 @@
         "Gender" : "Male", 
         "Age_Group" : "60-69", 
         "RHA" : "Northern", 
-        "Total_Cases" : 203, 
+        "Total_Cases" : 202, 
         "ObjectId" : 81
       }
     }, 
@@ -795,7 +795,7 @@
         "Gender" : "Male", 
         "Age_Group" : "60-69", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 339, 
+        "Total_Cases" : 342, 
         "ObjectId" : 83
       }
     }, 
@@ -804,7 +804,7 @@
         "Gender" : "Male", 
         "Age_Group" : "60-69", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 1168, 
+        "Total_Cases" : 1178, 
         "ObjectId" : 84
       }
     }, 
@@ -813,7 +813,7 @@
         "Gender" : "Female", 
         "Age_Group" : "70-79", 
         "RHA" : "All", 
-        "Total_Cases" : 1091, 
+        "Total_Cases" : 1094, 
         "ObjectId" : 85
       }
     }, 
@@ -822,7 +822,7 @@
         "Gender" : "Female", 
         "Age_Group" : "70-79", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 75, 
+        "Total_Cases" : 76, 
         "ObjectId" : 86
       }
     }, 
@@ -858,7 +858,7 @@
         "Gender" : "Female", 
         "Age_Group" : "70-79", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 630, 
+        "Total_Cases" : 632, 
         "ObjectId" : 90
       }
     }, 
@@ -867,7 +867,7 @@
         "Gender" : "Male", 
         "Age_Group" : "70-79", 
         "RHA" : "All", 
-        "Total_Cases" : 1063, 
+        "Total_Cases" : 1066, 
         "ObjectId" : 91
       }
     }, 
@@ -885,7 +885,7 @@
         "Gender" : "Male", 
         "Age_Group" : "70-79", 
         "RHA" : "Northern", 
-        "Total_Cases" : 90, 
+        "Total_Cases" : 91, 
         "ObjectId" : 93
       }
     }, 
@@ -912,7 +912,7 @@
         "Gender" : "Male", 
         "Age_Group" : "70-79", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 578, 
+        "Total_Cases" : 580, 
         "ObjectId" : 96
       }
     }, 
@@ -921,7 +921,7 @@
         "Gender" : "Female", 
         "Age_Group" : "80-89", 
         "RHA" : "All", 
-        "Total_Cases" : 841, 
+        "Total_Cases" : 845, 
         "ObjectId" : 97
       }
     }, 
@@ -948,7 +948,7 @@
         "Gender" : "Female", 
         "Age_Group" : "80-89", 
         "RHA" : "Prairie Mountain Health", 
-        "Total_Cases" : 49, 
+        "Total_Cases" : 50, 
         "ObjectId" : 100
       }
     }, 
@@ -957,7 +957,7 @@
         "Gender" : "Female", 
         "Age_Group" : "80-89", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 137, 
+        "Total_Cases" : 138, 
         "ObjectId" : 101
       }
     }, 
@@ -966,7 +966,7 @@
         "Gender" : "Female", 
         "Age_Group" : "80-89", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 589, 
+        "Total_Cases" : 591, 
         "ObjectId" : 102
       }
     }, 
@@ -975,7 +975,7 @@
         "Gender" : "Male", 
         "Age_Group" : "80-89", 
         "RHA" : "All", 
-        "Total_Cases" : 615, 
+        "Total_Cases" : 617, 
         "ObjectId" : 103
       }
     }, 
@@ -984,7 +984,7 @@
         "Gender" : "Male", 
         "Age_Group" : "80-89", 
         "RHA" : "Interlake-Eastern", 
-        "Total_Cases" : 28, 
+        "Total_Cases" : 29, 
         "ObjectId" : 104
       }
     }, 
@@ -1011,7 +1011,7 @@
         "Gender" : "Male", 
         "Age_Group" : "80-89", 
         "RHA" : "Southern Health-Santé Sud", 
-        "Total_Cases" : 134, 
+        "Total_Cases" : 135, 
         "ObjectId" : 107
       }
     }, 
@@ -1029,7 +1029,7 @@
         "Gender" : "Female", 
         "Age_Group" : "90-99", 
         "RHA" : "All", 
-        "Total_Cases" : 599, 
+        "Total_Cases" : 600, 
         "ObjectId" : 109
       }
     }, 
@@ -1074,7 +1074,7 @@
         "Gender" : "Female", 
         "Age_Group" : "90-99", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 446, 
+        "Total_Cases" : 447, 
         "ObjectId" : 114
       }
     }, 
@@ -1083,7 +1083,7 @@
         "Gender" : "Male", 
         "Age_Group" : "90-99", 
         "RHA" : "All", 
-        "Total_Cases" : 230, 
+        "Total_Cases" : 231, 
         "ObjectId" : 115
       }
     }, 
@@ -1128,7 +1128,7 @@
         "Gender" : "Male", 
         "Age_Group" : "90-99", 
         "RHA" : "Winnipeg", 
-        "Total_Cases" : 163, 
+        "Total_Cases" : 164, 
         "ObjectId" : 120
       }
     }, 
