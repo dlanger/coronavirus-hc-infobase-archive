@@ -1,0 +1,138 @@
+{
+  "objectIdFieldName" : "OID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "fields" : [
+    {
+      "name" : "OID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "rep_date", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "rep_date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 11, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "dose_adm", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "dose_adm", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "dose_rec", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "dose_rec", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "rec_note", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "rec_note", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 13, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "cov_date", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "cov_date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 11, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "prct_pop_a", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "prct_pop_a", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "prct_pop_1", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "prct_pop_1", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "prct_pop_2", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "prct_pop_2", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "a16_cov_dt", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "a16_cov_dt", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 11, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "a16_prct_a", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "a16_prct_a", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "a16_prct_1", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "a16_prct_1", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "a16_prct_2", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "a16_prct_2", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OID" : 1, 
+        "rep_date" : "18 Jun 2021", 
+        "dose_adm" : 752599, 
+        "dose_rec" : 788770, 
+        "rec_note" : "since Dec. 15", 
+        "cov_date" : "17 Jun 2021", 
+        "prct_pop_a" : 68.8, 
+        "prct_pop_1" : 62, 
+        "prct_pop_2" : 6.8, 
+        "a16_cov_dt" : "15 Jun 2021", 
+        "a16_prct_a" : 81, 
+        "a16_prct_1" : 73, 
+        "a16_prct_2" : 8
+      }
+    }
+  ]
+}
