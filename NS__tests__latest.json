@@ -1,0 +1,109 @@
+{
+  "objectIdFieldName" : "OID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "fields" : [
+    {
+      "name" : "OID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "rep_date", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "rep_date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "cur_hos", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "cur_hos", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "cur_hosicu", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "cur_hosicu", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "tests_date", 
+      "type" : "esriFieldTypeDate", 
+      "alias" : "tests_date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "tests_day", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "tests_day", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "tests_cumu", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "tests_cumu", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "ppos_day", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "ppos_day", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "ppos_cumu", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "ppos_cumu", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "tot_hos", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "tot_hos", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OID" : 1, 
+        "rep_date" : 1623985200000, 
+        "cur_hos" : 3, 
+        "cur_hosicu" : 3, 
+        "tests_date" : 1623898800000, 
+        "tests_day" : 5602, 
+        "tests_cumu" : 900272, 
+        "ppos_day" : 0.19635844, 
+        "ppos_cumu" : 0.64524944, 
+        "tot_hos" : 6
+      }
+    }
+  ]
+}

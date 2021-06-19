@@ -1,0 +1,126 @@
+{
+  "objectIdFieldName" : "OID", 
+  "uniqueIdField" : 
+  {
+    "name" : "OID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "fields" : [
+    {
+      "name" : "OID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "rep_date", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "rep_date", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 11, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "outcome", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "outcome", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 16, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "unvax_n", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "unvax_n", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "unvax__", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "unvax_%", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "p_vax_n", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "p_vax_n", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "p_vax__", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "p_vax_%", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "f_vax_n", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "f_vax_n", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "f_vax__", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "f_vax_%", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OID" : 1, 
+        "rep_date" : "18 Jun 2021", 
+        "outcome" : "Cases", 
+        "unvax_n" : 3823, 
+        "unvax__" : 94, 
+        "p_vax_n" : 218, 
+        "p_vax__" : 5.4, 
+        "f_vax_n" : 25, 
+        "f_vax__" : 0.6
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 2, 
+        "rep_date" : "18 Jun 2021", 
+        "outcome" : "Hospitalizations", 
+        "unvax_n" : 221, 
+        "unvax__" : 88.4, 
+        "p_vax_n" : 27, 
+        "p_vax__" : 10.8, 
+        "f_vax_n" : 2, 
+        "f_vax__" : 0.8
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 3, 
+        "rep_date" : "18 Jun 2021", 
+        "outcome" : "Deaths", 
+        "unvax_n" : 20, 
+        "unvax__" : 83.3, 
+        "p_vax_n" : 3, 
+        "p_vax__" : 12.5, 
+        "f_vax_n" : 1, 
+        "f_vax__" : 4.2
+      }
+    }
+  ]
+}
