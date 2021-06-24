@@ -1,11 +1,412 @@
-
 {
-  "error" : 
+  "objectIdFieldName" : "OID", 
+  "uniqueIdField" : 
   {
-    "code" : 403, 
-    "message" : "User does not have permissions to access this service", 
-    "details" : [
-      "User does not have permissions to access this service"
-    ]
-  }
+    "name" : "OID", 
+    "isSystemMaintained" : true
+  }, 
+  "globalIdFieldName" : "", 
+  "fields" : [
+    {
+      "name" : "OID", 
+      "type" : "esriFieldTypeOID", 
+      "alias" : "OID", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Zone", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Zone", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 8, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Dem_Class", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "Dem_Class", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 7, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "M_Rate", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "M_Rate", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "F_Rate", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "F_Rate", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Male", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Male", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Female", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Female", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Total", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "Total", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "Total_Rate", 
+      "type" : "esriFieldTypeDouble", 
+      "alias" : "Total_Rate", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }
+  ], 
+  "features" : [
+    {
+      "attributes" : {
+        "OID" : 1, 
+        "Zone" : "Western", 
+        "Dem_Class" : "0 - 19", 
+        "M_Rate" : 107.98552994, 
+        "F_Rate" : 118.52353539, 
+        "Male" : 20, 
+        "Female" : 21, 
+        "Total" : 41, 
+        "Total_Rate" : 113.13777974
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 2, 
+        "Zone" : "Western", 
+        "Dem_Class" : "20 - 39", 
+        "M_Rate" : 257.5859049, 
+        "F_Rate" : 214.64844773, 
+        "Male" : 50, 
+        "Female" : 41, 
+        "Total" : 91, 
+        "Total_Rate" : 236.28998754
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 3, 
+        "Zone" : "Western", 
+        "Dem_Class" : "40 - 59", 
+        "M_Rate" : 217.95989538, 
+        "F_Rate" : 127.23995335, 
+        "Male" : 60, 
+        "Female" : 36, 
+        "Total" : 96, 
+        "Total_Rate" : 171.97828774
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 4, 
+        "Zone" : "Western", 
+        "Dem_Class" : "60 - 79", 
+        "M_Rate" : 116.86082606, 
+        "F_Rate" : 86.30212648, 
+        "Male" : 32, 
+        "Female" : 25, 
+        "Total" : 57, 
+        "Total_Rate" : 101.15170982
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 5, 
+        "Zone" : "Western", 
+        "Dem_Class" : "80 +", 
+        "M_Rate" : 40.60089322, 
+        "F_Rate" : 0, 
+        "Male" : 2, 
+        "Female" : 0, 
+        "Total" : 2, 
+        "Total_Rate" : 16.3371998
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 6, 
+        "Zone" : "Northern", 
+        "Dem_Class" : "0 - 19", 
+        "M_Rate" : 167.67702825, 
+        "F_Rate" : 122.0918402, 
+        "Male" : 26, 
+        "Female" : 18, 
+        "Total" : 44, 
+        "Total_Rate" : 145.45935403
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 7, 
+        "Zone" : "Northern", 
+        "Dem_Class" : "20 - 39", 
+        "M_Rate" : 377.61294673, 
+        "F_Rate" : 246.20708012, 
+        "Male" : 56, 
+        "Female" : 37, 
+        "Total" : 93, 
+        "Total_Rate" : 311.47431174
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 8, 
+        "Zone" : "Northern", 
+        "Dem_Class" : "40 - 59", 
+        "M_Rate" : 304.14520481, 
+        "F_Rate" : 192.14546818, 
+        "Male" : 62, 
+        "Female" : 41, 
+        "Total" : 103, 
+        "Total_Rate" : 246.86623685
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 9, 
+        "Zone" : "Northern", 
+        "Dem_Class" : "60 - 79", 
+        "M_Rate" : 153.12318496, 
+        "F_Rate" : 90.18036072, 
+        "Male" : 29, 
+        "Female" : 18, 
+        "Total" : 47, 
+        "Total_Rate" : 120.82572817
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 10, 
+        "Zone" : "Northern", 
+        "Dem_Class" : "80 +", 
+        "M_Rate" : 158.73015873, 
+        "F_Rate" : 130.69048138, 
+        "Male" : 5, 
+        "Female" : 6, 
+        "Total" : 11, 
+        "Total_Rate" : 142.10050381
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 11, 
+        "Zone" : "Eastern", 
+        "Dem_Class" : "0 - 19", 
+        "M_Rate" : 266.8360864, 
+        "F_Rate" : 261.51679743, 
+        "Male" : 42, 
+        "Female" : 39, 
+        "Total" : 81, 
+        "Total_Rate" : 264.24819757
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 12, 
+        "Zone" : "Eastern", 
+        "Dem_Class" : "20 - 39", 
+        "M_Rate" : 933.46234845, 
+        "F_Rate" : 539.93778978, 
+        "Male" : 164, 
+        "Female" : 92, 
+        "Total" : 256, 
+        "Total_Rate" : 739.71336107
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 13, 
+        "Zone" : "Eastern", 
+        "Dem_Class" : "40 - 59", 
+        "M_Rate" : 547.15479507, 
+        "F_Rate" : 288.49621349, 
+        "Male" : 110, 
+        "Female" : 64, 
+        "Total" : 174, 
+        "Total_Rate" : 411.46424518
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 14, 
+        "Zone" : "Eastern", 
+        "Dem_Class" : "60 - 79", 
+        "M_Rate" : 224.79126525, 
+        "F_Rate" : 136.75798111, 
+        "Male" : 49, 
+        "Female" : 32, 
+        "Total" : 81, 
+        "Total_Rate" : 179.21543465
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 15, 
+        "Zone" : "Eastern", 
+        "Dem_Class" : "80 +", 
+        "M_Rate" : 27.74694784, 
+        "F_Rate" : 139.42140119, 
+        "Male" : 1, 
+        "Female" : 8, 
+        "Total" : 9, 
+        "Total_Rate" : 96.33911368
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 16, 
+        "Zone" : "Central", 
+        "Dem_Class" : "0 - 19", 
+        "M_Rate" : 1050.21754506, 
+        "F_Rate" : 1130.21115322, 
+        "Male" : 490, 
+        "Female" : 501, 
+        "Total" : 991, 
+        "Total_Rate" : 1089.19052591
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 17, 
+        "Zone" : "Central", 
+        "Dem_Class" : "20 - 39", 
+        "M_Rate" : 1332.56500756, 
+        "F_Rate" : 1311.7873463, 
+        "Male" : 925, 
+        "Female" : 910, 
+        "Total" : 1835, 
+        "Total_Rate" : 1322.17947055
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 18, 
+        "Zone" : "Central", 
+        "Dem_Class" : "40 - 59", 
+        "M_Rate" : 812.047837, 
+        "F_Rate" : 918.6904372, 
+        "Male" : 495, 
+        "Female" : 589, 
+        "Total" : 1084, 
+        "Total_Rate" : 866.7146398
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 19, 
+        "Zone" : "Central", 
+        "Dem_Class" : "60 - 79", 
+        "M_Rate" : 573.61826175, 
+        "F_Rate" : 518.47324383, 
+        "Male" : 244, 
+        "Female" : 246, 
+        "Total" : 490, 
+        "Total_Rate" : 544.54125178
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 20, 
+        "Zone" : "Central", 
+        "Dem_Class" : "80 +", 
+        "M_Rate" : 721.08008592, 
+        "F_Rate" : 1597.44408946, 
+        "Male" : 47, 
+        "Female" : 165, 
+        "Total" : 212, 
+        "Total_Rate" : 1258.38428207
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 21, 
+        "Zone" : "NS", 
+        "Dem_Class" : "0 - 19", 
+        "M_Rate" : 599.43582511, 
+        "F_Rate" : 631.39299034, 
+        "Male" : 578, 
+        "Female" : 579, 
+        "Total" : 1157, 
+        "Total_Rate" : 615.01334212
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 22, 
+        "Zone" : "NS", 
+        "Dem_Class" : "20 - 39", 
+        "M_Rate" : 985.77026191, 
+        "F_Rate" : 895.97557637, 
+        "Male" : 1195, 
+        "Female" : 1080, 
+        "Total" : 2275, 
+        "Total_Rate" : 941.00031436
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 23, 
+        "Zone" : "NS", 
+        "Dem_Class" : "40 - 59", 
+        "M_Rate" : 563.67950129, 
+        "F_Rate" : 537.04902595, 
+        "Male" : 727, 
+        "Female" : 730, 
+        "Total" : 1457, 
+        "Total_Rate" : 550.01472243
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 24, 
+        "Zone" : "NS", 
+        "Dem_Class" : "60 - 79", 
+        "M_Rate" : 319.9074618, 
+        "F_Rate" : 268.00474226, 
+        "Male" : 354, 
+        "Female" : 321, 
+        "Total" : 675, 
+        "Total_Rate" : 292.92933676
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 25, 
+        "Zone" : "NS", 
+        "Dem_Class" : "80 +", 
+        "M_Rate" : 302.2310144, 
+        "F_Rate" : 639.87988847, 
+        "Male" : 55, 
+        "Female" : 179, 
+        "Total" : 234, 
+        "Total_Rate" : 506.80065841
+      }
+    }
+  ]
 }
