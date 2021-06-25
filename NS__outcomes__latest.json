@@ -86,25 +86,25 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : "18 Jun 2021", 
+        "rep_date" : "25 Jun 2021", 
         "outcome" : "Cases", 
-        "unvax_n" : 3823, 
+        "unvax_n" : 3863, 
         "unvax__" : 94, 
-        "p_vax_n" : 218, 
-        "p_vax__" : 5.4, 
-        "f_vax_n" : 25, 
+        "p_vax_n" : 219, 
+        "p_vax__" : 5.3, 
+        "f_vax_n" : 26, 
         "f_vax__" : 0.6
       }
     }, 
     {
       "attributes" : {
         "OID" : 2, 
-        "rep_date" : "18 Jun 2021", 
+        "rep_date" : "25 Jun 2021", 
         "outcome" : "Hospitalizations", 
-        "unvax_n" : 221, 
-        "unvax__" : 88.4, 
+        "unvax_n" : 223, 
+        "unvax__" : 88.5, 
         "p_vax_n" : 27, 
-        "p_vax__" : 10.8, 
+        "p_vax__" : 10.7, 
         "f_vax_n" : 2, 
         "f_vax__" : 0.8
       }
@@ -112,14 +112,14 @@
     {
       "attributes" : {
         "OID" : 3, 
-        "rep_date" : "18 Jun 2021", 
+        "rep_date" : "25 Jun 2021", 
         "outcome" : "Deaths", 
-        "unvax_n" : 20, 
-        "unvax__" : 83.3, 
+        "unvax_n" : 22, 
+        "unvax__" : 84.6, 
         "p_vax_n" : 3, 
-        "p_vax__" : 12.5, 
+        "p_vax__" : 11.5, 
         "f_vax_n" : 1, 
-        "f_vax__" : 4.2
+        "f_vax__" : 3.8
       }
     }
   ]
