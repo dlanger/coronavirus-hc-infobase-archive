@@ -6642,6 +6642,20 @@
         "ppos_cumu" : 0.67896013, 
         "tot_hos" : 2
       }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 469, 
+        "rep_date" : 1624676400000, 
+        "cur_hos" : 2, 
+        "cur_hosicu" : 0, 
+        "tests_date" : 1624590000000, 
+        "tests_day" : 4021, 
+        "tests_cumu" : 928523, 
+        "ppos_day" : 0.22382492, 
+        "ppos_cumu" : 0.67698915, 
+        "tot_hos" : 2
+      }
     }
   ]
 }
