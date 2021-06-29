@@ -6678,10 +6678,24 @@
         "cur_hos" : 2, 
         "cur_hosicu" : 0, 
         "tests_date" : 1624762800000, 
-        "tests_day" : 3029, 
-        "tests_cumu" : 934995, 
-        "ppos_day" : 0.09904259, 
-        "ppos_cumu" : 0.67294478, 
+        "tests_day" : 3077, 
+        "tests_cumu" : 935043, 
+        "ppos_day" : 0.09749756, 
+        "ppos_cumu" : 0.67291023, 
+        "tot_hos" : 2
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 472, 
+        "rep_date" : 1624935600000, 
+        "cur_hos" : 2, 
+        "cur_hosicu" : 0, 
+        "tests_date" : 1624849200000, 
+        "tests_day" : 2399, 
+        "tests_cumu" : 937442, 
+        "ppos_day" : 0.04168404, 
+        "ppos_cumu" : 0.67129486, 
         "tot_hos" : 2
       }
     }
