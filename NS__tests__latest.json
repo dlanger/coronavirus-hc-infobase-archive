@@ -94,14 +94,14 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : 1624935600000, 
+        "rep_date" : 1625022000000, 
         "cur_hos" : 2, 
         "cur_hosicu" : 0, 
-        "tests_date" : 1624849200000, 
-        "tests_day" : 2399, 
-        "tests_cumu" : 937876, 
-        "ppos_day" : 0.04168404, 
-        "ppos_cumu" : 0.62470945, 
+        "tests_date" : 1624935600000, 
+        "tests_day" : 3942, 
+        "tests_cumu" : 941859, 
+        "ppos_day" : 0.10147133, 
+        "ppos_cumu" : 0.62249233, 
         "tot_hos" : 2
       }
     }
