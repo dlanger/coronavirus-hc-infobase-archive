@@ -120,18 +120,18 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : "08 Jul 2021", 
-        "dose_adm" : 1062418, 
+        "rep_date" : "09 Jul 2021", 
+        "dose_adm" : 1085267, 
         "dose_rec" : 1256250, 
         "rec_note" : "since Dec. 15", 
-        "cov_date" : "08 Jul 2021", 
-        "prct_pop_a" : 73.5, 
-        "prct_pop_1" : 37.7, 
-        "prct_pop_2" : 35.8, 
+        "cov_date" : "09 Jul 2021", 
+        "prct_pop_a" : 73.7, 
+        "prct_pop_1" : 35.7, 
+        "prct_pop_2" : 38, 
         "a16_cov_dt" : "06 Jul 2021", 
-        "a16_prct_a" : 86.6, 
-        "a16_prct_1" : 44.4, 
-        "a16_prct_2" : 42.2
+        "a16_prct_a" : 86.8, 
+        "a16_prct_1" : 42, 
+        "a16_prct_2" : 44.8
       }
     }
   ]
