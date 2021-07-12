@@ -6871,8 +6871,8 @@
       "attributes" : {
         "OID" : 485, 
         "rep_date" : 1626058800000, 
-        "cur_hos" : 2, 
-        "cur_hosicu" : 1, 
+        "cur_hos" : 1, 
+        "cur_hosicu" : 2, 
         "tests_date" : 1625972400000, 
         "tests_day" : 2959, 
         "tests_cumu" : 978487, 
