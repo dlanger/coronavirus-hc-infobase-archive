@@ -128,11 +128,11 @@
         "Zone" : "Western", 
         "Dem_Class" : "60 - 79", 
         "M_Rate" : 120.51272687, 
-        "F_Rate" : 86.30212648, 
+        "F_Rate" : 89.75421154, 
         "Male" : 33, 
-        "Female" : 25, 
-        "Total" : 58, 
-        "Total_Rate" : 102.92630122
+        "Female" : 26, 
+        "Total" : 59, 
+        "Total_Rate" : 104.70089262
       }
     }, 
     {
@@ -309,12 +309,12 @@
         "OID" : 18, 
         "Zone" : "Central", 
         "Dem_Class" : "40 - 59", 
-        "M_Rate" : 818.60983972, 
+        "M_Rate" : 816.96933904, 
         "F_Rate" : 920.25018327, 
-        "Male" : 499, 
+        "Male" : 498, 
         "Female" : 590, 
-        "Total" : 1089, 
-        "Total_Rate" : 870.71240106
+        "Total" : 1088, 
+        "Total_Rate" : 869.9128488
       }
     }, 
     {
@@ -322,12 +322,12 @@
         "OID" : 19, 
         "Zone" : "Central", 
         "Dem_Class" : "60 - 79", 
-        "M_Rate" : 573.61826175, 
+        "M_Rate" : 571.26736723, 
         "F_Rate" : 524.79608827, 
-        "Male" : 244, 
+        "Male" : 243, 
         "Female" : 249, 
-        "Total" : 493, 
-        "Total_Rate" : 547.87517781
+        "Total" : 492, 
+        "Total_Rate" : 546.76386913
       }
     }, 
     {
@@ -374,12 +374,12 @@
         "OID" : 23, 
         "Zone" : "NS", 
         "Dem_Class" : "40 - 59", 
-        "M_Rate" : 570.65765193, 
+        "M_Rate" : 569.88230186, 
         "F_Rate" : 538.52039315, 
-        "Male" : 736, 
+        "Male" : 735, 
         "Female" : 732, 
-        "Total" : 1468, 
-        "Total_Rate" : 554.16720146
+        "Total" : 1467, 
+        "Total_Rate" : 553.78970336
       }
     }, 
     {
@@ -387,10 +387,10 @@
         "OID" : 24, 
         "Zone" : "NS", 
         "Dem_Class" : "60 - 79", 
-        "M_Rate" : 323.52223538, 
-        "F_Rate" : 270.50945948, 
-        "Male" : 358, 
-        "Female" : 324, 
+        "M_Rate" : 322.61854198, 
+        "F_Rate" : 271.34436522, 
+        "Male" : 357, 
+        "Female" : 325, 
         "Total" : 682, 
         "Total_Rate" : 295.96712248
       }
