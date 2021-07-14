@@ -20,7 +20,7 @@
       "type" : "esriFieldTypeString", 
       "alias" : "rep_date", 
       "sqlType" : "sqlTypeOther", 
-      "length" : 11, 
+      "length" : 10, 
       "domain" : null, 
       "defaultValue" : null
     }, 
