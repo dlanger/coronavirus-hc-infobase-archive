@@ -3544,8 +3544,15 @@
     {
       "attributes" : {
         "Date" : 1626325200000, 
-        "Positivity_Rate" : 2.9, 
+        "Positivity_Rate" : 3, 
         "ObjectId" : 502
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1626411600000, 
+        "Positivity_Rate" : 3.2, 
+        "ObjectId" : 503
       }
     }
   ]
