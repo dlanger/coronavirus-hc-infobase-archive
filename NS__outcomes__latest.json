@@ -88,9 +88,9 @@
         "OID" : 1, 
         "rep_date" : "16 Jul 2021", 
         "outcome" : "Cases", 
-        "unvax_n" : 3929, 
+        "unvax_n" : 3924, 
         "unvax__" : 94, 
-        "p_vax_n" : 229, 
+        "p_vax_n" : 225, 
         "p_vax__" : 5.4, 
         "f_vax_n" : 27, 
         "f_vax__" : 0.6
@@ -102,9 +102,9 @@
         "rep_date" : "16 Jul 2021", 
         "outcome" : "Hospitalizations", 
         "unvax_n" : 224, 
-        "unvax__" : 88.2, 
-        "p_vax_n" : 28, 
-        "p_vax__" : 11.2, 
+        "unvax__" : 88.5, 
+        "p_vax_n" : 27, 
+        "p_vax__" : 10.7, 
         "f_vax_n" : 2, 
         "f_vax__" : 0.8
       }
