@@ -218,12 +218,12 @@
         "OID" : 11, 
         "Zone" : "Eastern", 
         "Dem_Class" : "0 - 19", 
-        "M_Rate" : 298.60228717, 
+        "M_Rate" : 304.95552732, 
         "F_Rate" : 281.63347415, 
-        "Male" : 47, 
+        "Male" : 48, 
         "Female" : 42, 
-        "Total" : 89, 
-        "Total_Rate" : 290.34678498
+        "Total" : 90, 
+        "Total_Rate" : 293.60910841
       }
     }, 
     {
@@ -231,12 +231,12 @@
         "OID" : 12, 
         "Zone" : "Eastern", 
         "Dem_Class" : "20 - 39", 
-        "M_Rate" : 967.61340998, 
+        "M_Rate" : 973.30525357, 
         "F_Rate" : 545.8066788, 
-        "Male" : 170, 
+        "Male" : 171, 
         "Female" : 93, 
-        "Total" : 263, 
-        "Total_Rate" : 759.93989829
+        "Total" : 264, 
+        "Total_Rate" : 762.82940361
       }
     }, 
     {
@@ -348,12 +348,12 @@
         "OID" : 21, 
         "Zone" : "NS", 
         "Dem_Class" : "0 - 19", 
-        "M_Rate" : 621.21463536, 
+        "M_Rate" : 622.25172156, 
         "F_Rate" : 644.47885542, 
-        "Male" : 599, 
+        "Male" : 600, 
         "Female" : 591, 
-        "Total" : 1190, 
-        "Total_Rate" : 632.55477712
+        "Total" : 1191, 
+        "Total_Rate" : 633.08633575
       }
     }, 
     {
@@ -361,12 +361,12 @@
         "OID" : 22, 
         "Zone" : "NS", 
         "Dem_Class" : "20 - 39", 
-        "M_Rate" : 1002.26850897, 
+        "M_Rate" : 1003.09342132, 
         "F_Rate" : 905.10125354, 
-        "Male" : 1215, 
+        "Male" : 1216, 
         "Female" : 1091, 
-        "Total" : 2306, 
-        "Total_Rate" : 953.82273622
+        "Total" : 2307, 
+        "Total_Rate" : 954.23636273
       }
     }, 
     {
