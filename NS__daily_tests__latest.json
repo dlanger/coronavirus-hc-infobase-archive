@@ -6983,14 +6983,14 @@
       "attributes" : {
         "OID" : 493, 
         "rep_date" : 1626750000000, 
-        "cur_hos" : 0, 
-        "cur_hosicu" : 0, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
         "tests_date" : 1626663600000, 
         "tests_day" : 2624, 
         "tests_cumu" : 1000232, 
         "ppos_day" : 0.15243902, 
         "ppos_cumu" : 0.63445281, 
-        "tot_hos" : 0
+        "tot_hos" : -2
       }
     }, 
     {
@@ -7039,28 +7039,28 @@
       "attributes" : {
         "OID" : 497, 
         "rep_date" : 1627095600000, 
-        "cur_hos" : 0, 
-        "cur_hosicu" : 0, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
         "tests_date" : 1627009200000, 
         "tests_day" : 2671, 
         "tests_cumu" : 1012179, 
         "ppos_day" : 0, 
         "ppos_cumu" : 0.62735939, 
-        "tot_hos" : 0
+        "tot_hos" : -2
       }
     }, 
     {
       "attributes" : {
         "OID" : 498, 
         "rep_date" : 1627182000000, 
-        "cur_hos" : 0, 
-        "cur_hosicu" : 0, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
         "tests_date" : 1627095600000, 
         "tests_day" : 2050, 
         "tests_cumu" : 1014229, 
         "ppos_day" : 0, 
         "ppos_cumu" : 0.62609135, 
-        "tot_hos" : 0
+        "tot_hos" : -2
       }
     }, 
     {
@@ -7137,42 +7137,42 @@
       "attributes" : {
         "OID" : 504, 
         "rep_date" : 1627700400000, 
-        "cur_hos" : 0, 
-        "cur_hosicu" : 0, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
         "tests_date" : 1627614000000, 
         "tests_day" : 2309, 
         "tests_cumu" : 1029838, 
         "ppos_day" : 0.17323517, 
         "ppos_cumu" : 0.61747576, 
-        "tot_hos" : 0
+        "tot_hos" : -2
       }
     }, 
     {
       "attributes" : {
         "OID" : 505, 
         "rep_date" : 1627786800000, 
-        "cur_hos" : 0, 
-        "cur_hosicu" : 0, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
         "tests_date" : 1627700400000, 
         "tests_day" : 2407, 
         "tests_cumu" : 1032245, 
         "ppos_day" : 0.16618197, 
         "ppos_cumu" : 0.61642343, 
-        "tot_hos" : 0
+        "tot_hos" : -2
       }
     }, 
     {
       "attributes" : {
         "OID" : 506, 
         "rep_date" : 1627873200000, 
-        "cur_hos" : 0, 
-        "cur_hosicu" : 0, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
         "tests_date" : 1627786800000, 
         "tests_day" : 1987, 
         "tests_cumu" : 1034232, 
         "ppos_day" : 0, 
         "ppos_cumu" : 0.61523913, 
-        "tot_hos" : 0
+        "tot_hos" : -2
       }
     }, 
     {
@@ -7224,10 +7224,52 @@
         "cur_hos" : 0, 
         "cur_hosicu" : 1, 
         "tests_date" : 1628132400000, 
-        "tests_day" : 3494, 
-        "tests_cumu" : 1045399, 
-        "ppos_day" : 0.02862049, 
-        "ppos_cumu" : 0.60962369, 
+        "tests_day" : 3603, 
+        "tests_cumu" : 1045508, 
+        "ppos_day" : 0.02775465, 
+        "ppos_cumu" : 0.60956014, 
+        "tot_hos" : 1
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 511, 
+        "rep_date" : 1628305200000, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
+        "tests_date" : 1628218800000, 
+        "tests_day" : 3489, 
+        "tests_cumu" : 1048997, 
+        "ppos_day" : 0.14330754, 
+        "ppos_cumu" : 0.60800937, 
+        "tot_hos" : -2
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 512, 
+        "rep_date" : 1628391600000, 
+        "cur_hos" : -1, 
+        "cur_hosicu" : -1, 
+        "tests_date" : 1628305200000, 
+        "tests_day" : 2430, 
+        "tests_cumu" : 1051427, 
+        "ppos_day" : 0.20576132, 
+        "ppos_cumu" : 0.60707971, 
+        "tot_hos" : -2
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 513, 
+        "rep_date" : 1628478000000, 
+        "cur_hos" : 0, 
+        "cur_hosicu" : 1, 
+        "tests_date" : 1628391600000, 
+        "tests_day" : 1673, 
+        "tests_cumu" : 1053100, 
+        "ppos_day" : 0.23909145, 
+        "ppos_cumu" : 0.60649511, 
         "tot_hos" : 1
       }
     }
