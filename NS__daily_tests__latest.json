@@ -7630,10 +7630,10 @@
         "cur_hos" : -1, 
         "cur_hosicu" : -1, 
         "tests_date" : 1630638000000, 
-        "tests_day" : 3523, 
-        "tests_cumu" : 1129610, 
-        "ppos_day" : 0.19869429, 
-        "ppos_cumu" : 0.57878383, 
+        "tests_day" : 3528, 
+        "tests_cumu" : 1129615, 
+        "ppos_day" : 0.1984127, 
+        "ppos_cumu" : 0.57878127, 
         "tot_hos" : -2
       }
     }, 
@@ -7644,10 +7644,10 @@
         "cur_hos" : -1, 
         "cur_hosicu" : -1, 
         "tests_date" : 1630724400000, 
-        "tests_day" : 2252, 
-        "tests_cumu" : 1131862, 
-        "ppos_day" : 0.62166963, 
-        "ppos_cumu" : 0.57886916, 
+        "tests_day" : 2276, 
+        "tests_cumu" : 1131891, 
+        "ppos_day" : 0.61511424, 
+        "ppos_cumu" : 0.57885432, 
         "tot_hos" : -2
       }
     }, 
@@ -7658,10 +7658,10 @@
         "cur_hos" : -1, 
         "cur_hosicu" : -1, 
         "tests_date" : 1630810800000, 
-        "tests_day" : 2511, 
-        "tests_cumu" : 1134373, 
-        "ppos_day" : 0.15929908, 
-        "ppos_cumu" : 0.57794041, 
+        "tests_day" : 2532, 
+        "tests_cumu" : 1134423, 
+        "ppos_day" : 0.15797788, 
+        "ppos_cumu" : 0.57791494, 
         "tot_hos" : -2
       }
     }, 
@@ -7672,11 +7672,25 @@
         "cur_hos" : 2, 
         "cur_hosicu" : 0, 
         "tests_date" : 1630897200000, 
-        "tests_day" : 2327, 
-        "tests_cumu" : 1136700, 
-        "ppos_day" : 0.21486893, 
-        "ppos_cumu" : 0.57719715, 
+        "tests_day" : 2340, 
+        "tests_cumu" : 1136763, 
+        "ppos_day" : 0.17094017, 
+        "ppos_cumu" : 0.57707719, 
         "tot_hos" : 2
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 543, 
+        "rep_date" : 1631070000000, 
+        "cur_hos" : 1, 
+        "cur_hosicu" : 0, 
+        "tests_date" : 1630983600000, 
+        "tests_day" : 2229, 
+        "tests_cumu" : 1138992, 
+        "ppos_day" : 0.62808434, 
+        "ppos_cumu" : 0.57717701, 
+        "tot_hos" : 1
       }
     }
   ]
