@@ -7924,10 +7924,10 @@
         "cur_hos" : -1, 
         "cur_hosicu" : -1, 
         "tests_date" : 1632452400000, 
-        "tests_day" : 3726, 
-        "tests_cumu" : 1196881, 
-        "ppos_day" : 0.85882984, 
-        "ppos_cumu" : 0.58710933, 
+        "tests_day" : 3743, 
+        "tests_cumu" : 1196898, 
+        "ppos_day" : 0.8549292, 
+        "ppos_cumu" : 0.58710099, 
         "tot_hos" : -2
       }
     }, 
@@ -7938,10 +7938,10 @@
         "cur_hos" : -1, 
         "cur_hosicu" : -1, 
         "tests_date" : 1632538800000, 
-        "tests_day" : 3246, 
-        "tests_cumu" : 1200127, 
-        "ppos_day" : 0.83179298, 
-        "ppos_cumu" : 0.58777113, 
+        "tests_day" : 3274, 
+        "tests_cumu" : 1200172, 
+        "ppos_day" : 0.82467929, 
+        "ppos_cumu" : 0.58774909, 
         "tot_hos" : -2
       }
     }, 
@@ -7952,11 +7952,25 @@
         "cur_hos" : 10, 
         "cur_hosicu" : 1, 
         "tests_date" : 1632625200000, 
-        "tests_day" : 2659, 
-        "tests_cumu" : 1202786, 
-        "ppos_day" : 1.27867619, 
-        "ppos_cumu" : 0.58929851, 
+        "tests_day" : 2697, 
+        "tests_cumu" : 1202869, 
+        "ppos_day" : 1.26065999, 
+        "ppos_cumu" : 0.58925785, 
         "tot_hos" : 11
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 563, 
+        "rep_date" : 1632798000000, 
+        "cur_hos" : 12, 
+        "cur_hosicu" : 1, 
+        "tests_date" : 1632711600000, 
+        "tests_day" : 4947, 
+        "tests_cumu" : 1207816, 
+        "ppos_day" : 0.58621387, 
+        "ppos_cumu" : 0.58924538, 
+        "tot_hos" : 13
       }
     }
   ]
