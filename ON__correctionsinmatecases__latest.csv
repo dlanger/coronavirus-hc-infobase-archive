@@ -5942,47 +5942,69 @@ Reported_Date,Region,Institution,Total_Active_Inmate_Cases_As_Of_Reported_Date,C
 2021-10-06,Toronto,Toronto East Detention Centre,16,65,6
 2021-10-06,Toronto,Toronto South Detention Centre,1,319,35
 2021-10-06,Central,Vanier Centre for Women,2,39,19
-2021-10-06,Northern,Algoma Treatment and Remand Centre,1,216,32
-2021-10-06,Central,Central East Correctional Centre,0,106,4
-2021-10-06,Central,Central North Correctional Centre,5,61,15
-2021-10-06,Western,Elgin Middlesex Detention Centre,0,78,10
-2021-10-06,Central,Hamilton Wentworth Detention Centre,0,9,1
-2021-10-06,Northern,Kenora Jail,0,27,15
-2021-10-06,Northern,Monteith Correctional Complex,0,258,46
-2021-10-06,Central,Maplehurst Correctional Complex,0,0,1
-2021-10-06,Northern,North Bay Jail,0,12,5
-2021-10-06,Central,Niagara Detention Centre,0,81,11
-2021-10-06,Western,Ottawa Carleton Detention Centre,0,89,2
-2021-10-06,Central,Ontario Correctional Institute,0,5,1
-2021-10-06,Eastern,Quinte Detention Centre,1,40,12
-2021-10-06,Western,Sarnia Jail,2,46,17
-2021-10-06,Western,South West Detention Centre,0,1,1
-2021-10-06,Northern,Stratford Jail,0,0,0
-2021-10-06,Western,Sudbury Jail,0,48,16
-2021-10-06,Western,Thunder Bay Correctional Centre,0,78,20
-2021-10-06,Western,Thunder Bay Jail,3,78,6
-2021-10-06,Toronto,Toronto East Detention Centre,1,319,35
-2021-10-06,Toronto,Toronto South Detention Centre,2,39,19
-2021-10-06,Central,Vanier Centre for Women,0,3,1
-2021-10-11,Northern,Algoma Treatment and Remand Centre,1,217,32
-2021-10-11,Central,Central East Correctional Centre,0,106,4
-2021-10-11,Central,Central North Correctional Centre,1,65,15
-2021-10-11,Western,Elgin Middlesex Detention Centre,0,78,10
-2021-10-11,Central,Hamilton Wentworth Detention Centre,0,9,1
-2021-10-11,Northern,Kenora Jail,0,27,15
-2021-10-11,Northern,Monteith Correctional Complex,0,258,46
-2021-10-11,Central,Maplehurst Correctional Complex,0,0,1
-2021-10-11,Northern,North Bay Jail,0,12,5
-2021-10-11,Central,Niagara Detention Centre,1,81,11
-2021-10-11,Western,Ottawa Carleton Detention Centre,0,89,2
-2021-10-11,Central,Ontario Correctional Institute,0,5,1
-2021-10-11,Eastern,Quinte Detention Centre,1,40,12
-2021-10-11,Western,Sarnia Jail,1,47,17
-2021-10-11,Western,South West Detention Centre,0,1,1
-2021-10-11,Northern,Stratford Jail,0,0,0
-2021-10-11,Western,Sudbury Jail,0,48,16
-2021-10-11,Western,Thunder Bay Correctional Centre,0,78,20
-2021-10-11,Western,Thunder Bay Jail,0,81,6
-2021-10-11,Toronto,Toronto East Detention Centre,0,320,35
-2021-10-11,Toronto,Toronto South Detention Centre,2,39,19
-2021-10-11,Central,Vanier Centre for Women,,,
+2021-10-07,Northern,Algoma Treatment and Remand Centre,0,3,1
+2021-10-07,Central,Central East Correctional Centre,1,216,32
+2021-10-07,Central,Central North Correctional Centre,0,106,4
+2021-10-07,Western,Elgin Middlesex Detention Centre,5,61,15
+2021-10-07,Central,Hamilton Wentworth Detention Centre,0,78,10
+2021-10-07,Northern,Kenora Jail,0,9,1
+2021-10-07,Northern,Monteith Correctional Complex,0,27,15
+2021-10-07,Central,Maplehurst Correctional Complex,0,258,46
+2021-10-07,Northern,North Bay Jail,0,0,1
+2021-10-07,Central,Niagara Detention Centre,0,12,5
+2021-10-07,Western,Ottawa Carleton Detention Centre,0,81,11
+2021-10-07,Central,Ontario Correctional Institute,0,89,2
+2021-10-07,Eastern,Quinte Detention Centre,0,5,1
+2021-10-07,Western,Sarnia Jail,1,40,12
+2021-10-07,Western,South West Detention Centre,2,46,17
+2021-10-07,Northern,Stratford Jail,0,1,1
+2021-10-07,Western,Sudbury Jail,0,0,0
+2021-10-07,Western,Thunder Bay Correctional Centre,0,48,16
+2021-10-07,Western,Thunder Bay Jail,0,78,20
+2021-10-07,Toronto,Toronto East Detention Centre,3,78,6
+2021-10-07,Toronto,Toronto South Detention Centre,1,319,35
+2021-10-07,Central,Vanier Centre for Women,2,39,19
+2021-10-11,Northern,Algoma Treatment and Remand Centre,0,3,1
+2021-10-11,Central,Central East Correctional Centre,1,217,32
+2021-10-11,Central,Central North Correctional Centre,0,106,4
+2021-10-11,Western,Elgin Middlesex Detention Centre,1,65,15
+2021-10-11,Central,Hamilton Wentworth Detention Centre,0,78,10
+2021-10-11,Northern,Kenora Jail,0,9,1
+2021-10-11,Northern,Monteith Correctional Complex,0,27,15
+2021-10-11,Central,Maplehurst Correctional Complex,0,258,46
+2021-10-11,Northern,North Bay Jail,0,0,1
+2021-10-11,Central,Niagara Detention Centre,0,12,5
+2021-10-11,Western,Ottawa Carleton Detention Centre,1,81,11
+2021-10-11,Central,Ontario Correctional Institute,0,89,2
+2021-10-11,Eastern,Quinte Detention Centre,0,5,1
+2021-10-11,Western,Sarnia Jail,1,40,12
+2021-10-11,Western,South West Detention Centre,1,47,17
+2021-10-11,Northern,Stratford Jail,0,1,1
+2021-10-11,Western,Sudbury Jail,0,0,0
+2021-10-11,Western,Thunder Bay Correctional Centre,0,48,16
+2021-10-11,Western,Thunder Bay Jail,0,78,20
+2021-10-11,Toronto,Toronto East Detention Centre,0,81,6
+2021-10-11,Toronto,Toronto South Detention Centre,0,320,35
+2021-10-11,Central,Vanier Centre for Women,2,39,19
+2021-10-12,Northern,Algoma Treatment and Remand Centre,0,3,1
+2021-10-12,Central,Central East Correctional Centre,1,217,32
+2021-10-12,Central,Central North Correctional Centre,0,106,4
+2021-10-12,Western,Elgin Middlesex Detention Centre,1,65,15
+2021-10-12,Central,Hamilton Wentworth Detention Centre,0,78,10
+2021-10-12,Northern,Kenora Jail,0,9,1
+2021-10-12,Northern,Monteith Correctional Complex,0,27,15
+2021-10-12,Central,Maplehurst Correctional Complex,1,258,46
+2021-10-12,Northern,North Bay Jail,0,0,1
+2021-10-12,Central,Niagara Detention Centre,0,12,5
+2021-10-12,Western,Ottawa Carleton Detention Centre,1,81,11
+2021-10-12,Central,Ontario Correctional Institute,0,89,2
+2021-10-12,Eastern,Quinte Detention Centre,0,5,1
+2021-10-12,Western,Sarnia Jail,0,40,13
+2021-10-12,Western,South West Detention Centre,1,47,17
+2021-10-12,Northern,Stratford Jail,0,1,1
+2021-10-12,Western,Sudbury Jail,0,0,0
+2021-10-12,Western,Thunder Bay Correctional Centre,0,48,16
+2021-10-12,Western,Thunder Bay Jail,0,78,20
+2021-10-12,Toronto,Toronto East Detention Centre,0,81,6
+2021-10-12,Toronto,Toronto South Detention Centre,0,320,35
+2021-10-12,Central,Vanier Centre for Women,2,41,19
