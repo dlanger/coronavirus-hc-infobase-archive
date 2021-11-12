@@ -86,40 +86,40 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : "05 Nov 2021", 
+        "rep_date" : "12 Nov 2021", 
         "outcome" : "Cases", 
-        "unvax_n" : 5056, 
-        "unvax__" : 86.7, 
-        "p_vax_n" : 371, 
+        "unvax_n" : 5187, 
+        "unvax__" : 85.5, 
+        "p_vax_n" : 391, 
         "p_vax__" : 6.4, 
-        "f_vax_n" : 406, 
-        "f_vax__" : 7
+        "f_vax_n" : 489, 
+        "f_vax__" : 8.1
       }
     }, 
     {
       "attributes" : {
         "OID" : 2, 
-        "rep_date" : "05 Nov 2021", 
+        "rep_date" : "12 Nov 2021", 
         "outcome" : "Hospitalizations", 
-        "unvax_n" : 263, 
-        "unvax__" : 85.4, 
-        "p_vax_n" : 31, 
-        "p_vax__" : 10.1, 
-        "f_vax_n" : 14, 
-        "f_vax__" : 4.5
+        "unvax_n" : 265, 
+        "unvax__" : 84.4, 
+        "p_vax_n" : 32, 
+        "p_vax__" : 10.2, 
+        "f_vax_n" : 17, 
+        "f_vax__" : 5.4
       }
     }, 
     {
       "attributes" : {
         "OID" : 3, 
-        "rep_date" : "05 Nov 2021", 
+        "rep_date" : "12 Nov 2021", 
         "outcome" : "Deaths", 
         "unvax_n" : 28, 
-        "unvax__" : 80, 
+        "unvax__" : 77.8, 
         "p_vax_n" : 3, 
-        "p_vax__" : 8.6, 
-        "f_vax_n" : 4, 
-        "f_vax__" : 11.4
+        "p_vax__" : 8.3, 
+        "f_vax_n" : 5, 
+        "f_vax__" : 13.9
       }
     }
   ]
