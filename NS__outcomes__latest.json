@@ -20,7 +20,7 @@
       "type" : "esriFieldTypeString", 
       "alias" : "rep_date", 
       "sqlType" : "sqlTypeOther", 
-      "length" : 11, 
+      "length" : 4, 
       "domain" : null, 
       "defaultValue" : null
     }, 
@@ -86,7 +86,7 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : "19 Nov 2021", 
+        "rep_date" : "91.4", 
         "outcome" : "Cases", 
         "unvax_n" : 5325, 
         "unvax__" : 84.4, 
@@ -99,7 +99,7 @@
     {
       "attributes" : {
         "OID" : 2, 
-        "rep_date" : "19 Nov 2021", 
+        "rep_date" : "91.4", 
         "outcome" : "Hospitalizations", 
         "unvax_n" : 275, 
         "unvax__" : 84.6, 
@@ -112,7 +112,7 @@
     {
       "attributes" : {
         "OID" : 3, 
-        "rep_date" : "19 Nov 2021", 
+        "rep_date" : "91.4", 
         "outcome" : "Deaths", 
         "unvax_n" : 28, 
         "unvax__" : 71.8, 
