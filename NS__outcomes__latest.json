@@ -20,7 +20,7 @@
       "type" : "esriFieldTypeString", 
       "alias" : "rep_date", 
       "sqlType" : "sqlTypeOther", 
-      "length" : 4, 
+      "length" : 11, 
       "domain" : null, 
       "defaultValue" : null
     }, 
@@ -86,40 +86,40 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : "91.4", 
+        "rep_date" : "26 Nov 2021", 
         "outcome" : "Cases", 
-        "unvax_n" : 5325, 
-        "unvax__" : 84.4, 
-        "p_vax_n" : 391, 
-        "p_vax__" : 6.2, 
-        "f_vax_n" : 590, 
-        "f_vax__" : 9.4
+        "unvax_n" : 5412, 
+        "unvax__" : 83.8, 
+        "p_vax_n" : 395, 
+        "p_vax__" : 6.1, 
+        "f_vax_n" : 655, 
+        "f_vax__" : 10.1
       }
     }, 
     {
       "attributes" : {
         "OID" : 2, 
-        "rep_date" : "91.4", 
+        "rep_date" : "26 Nov 2021", 
         "outcome" : "Hospitalizations", 
-        "unvax_n" : 275, 
-        "unvax__" : 84.6, 
+        "unvax_n" : 282, 
+        "unvax__" : 84.4, 
         "p_vax_n" : 32, 
-        "p_vax__" : 9.8, 
-        "f_vax_n" : 18, 
-        "f_vax__" : 5.5
+        "p_vax__" : 9.6, 
+        "f_vax_n" : 20, 
+        "f_vax__" : 6
       }
     }, 
     {
       "attributes" : {
         "OID" : 3, 
-        "rep_date" : "91.4", 
+        "rep_date" : "26 Nov 2021", 
         "outcome" : "Deaths", 
-        "unvax_n" : 28, 
-        "unvax__" : 71.8, 
+        "unvax_n" : 29, 
+        "unvax__" : 69, 
         "p_vax_n" : 3, 
-        "p_vax__" : 7.7, 
-        "f_vax_n" : 8, 
-        "f_vax__" : 20.5
+        "p_vax__" : 7.1, 
+        "f_vax_n" : 10, 
+        "f_vax__" : 23.8
       }
     }
   ]
