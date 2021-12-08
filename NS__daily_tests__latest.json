@@ -8932,10 +8932,38 @@
         "cur_hos" : 7, 
         "cur_hosicu" : 4, 
         "tests_date" : 1638676800000, 
-        "tests_day" : 2684, 
-        "tests_cumu" : 1421630, 
-        "ppos_day" : 0.9314456, 
-        "ppos_cumu" : 0.64067303, 
+        "tests_day" : 2680, 
+        "tests_cumu" : 1421626, 
+        "ppos_day" : 0.93283582, 
+        "ppos_cumu" : 0.64067483, 
+        "tot_hos" : 11
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 633, 
+        "rep_date" : 1638849600000, 
+        "cur_hos" : 7, 
+        "cur_hosicu" : 4, 
+        "tests_date" : 1638763200000, 
+        "tests_day" : 2783, 
+        "tests_cumu" : 1424409, 
+        "ppos_day" : 1.07797341, 
+        "ppos_cumu" : 0.64152922, 
+        "tot_hos" : 11
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 634, 
+        "rep_date" : 1638936000000, 
+        "cur_hos" : 7, 
+        "cur_hosicu" : 4, 
+        "tests_date" : 1638849600000, 
+        "tests_day" : 3565, 
+        "tests_cumu" : 1427974, 
+        "ppos_day" : 0.95371669, 
+        "ppos_cumu" : 0.64230861, 
         "tot_hos" : 11
       }
     }
