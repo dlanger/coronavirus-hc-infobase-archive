@@ -115,10 +115,9 @@
     }, 
     {
       "name" : "nlp_WZ", 
-      "type" : "esriFieldTypeString", 
+      "type" : "esriFieldTypeInteger", 
       "alias" : "nlp_WZ", 
       "sqlType" : "sqlTypeOther", 
-      "length" : 256, 
       "domain" : null, 
       "defaultValue" : null
     }, 
@@ -135,20 +134,20 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : 1639454400000, 
+        "rep_date" : 1639540800000, 
         "cur_hos" : 4, 
         "cur_hosicu" : 2, 
-        "tests_date" : 1639368000000, 
-        "tests_day" : 4303, 
-        "tests_cumu" : 1456338, 
-        "ppos_day" : 1.58029282, 
-        "ppos_cumu" : 0.6096799, 
+        "tests_date" : 1639454400000, 
+        "tests_day" : 6940, 
+        "tests_cumu" : 1463427, 
+        "ppos_day" : 1.61383285, 
+        "ppos_cumu" : 0.61437981, 
         "tot_hos" : 6, 
-        "nlp_NS" : null, 
-        "nlp_EZ" : null, 
-        "nlp_CZ" : null, 
-        "nlp_WZ" : null, 
-        "nlp_NZ" : null
+        "nlp_NS" : 178, 
+        "nlp_EZ" : 55, 
+        "nlp_CZ" : 113, 
+        "nlp_WZ" : 5, 
+        "nlp_NZ" : 5
       }
     }
   ]
