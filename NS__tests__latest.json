@@ -88,6 +88,47 @@
       "sqlType" : "sqlTypeOther", 
       "domain" : null, 
       "defaultValue" : null
+    }, 
+    {
+      "name" : "nlp_NS", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "nlp_NS", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "nlp_EZ", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "nlp_EZ", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "nlp_CZ", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "nlp_CZ", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "nlp_WZ", 
+      "type" : "esriFieldTypeString", 
+      "alias" : "nlp_WZ", 
+      "sqlType" : "sqlTypeOther", 
+      "length" : 256, 
+      "domain" : null, 
+      "defaultValue" : null
+    }, 
+    {
+      "name" : "nlp_NZ", 
+      "type" : "esriFieldTypeInteger", 
+      "alias" : "nlp_NZ", 
+      "sqlType" : "sqlTypeOther", 
+      "domain" : null, 
+      "defaultValue" : null
     }
   ], 
   "features" : [
@@ -102,7 +143,12 @@
         "tests_cumu" : 1456338, 
         "ppos_day" : 1.58029282, 
         "ppos_cumu" : 0.6096799, 
-        "tot_hos" : 6
+        "tot_hos" : 6, 
+        "nlp_NS" : null, 
+        "nlp_EZ" : null, 
+        "nlp_CZ" : null, 
+        "nlp_WZ" : null, 
+        "nlp_NZ" : null
       }
     }
   ]
