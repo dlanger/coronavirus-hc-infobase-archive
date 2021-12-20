@@ -134,20 +134,20 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : 1639713600000, 
-        "cur_hos" : 5, 
+        "rep_date" : 1639972800000, 
+        "cur_hos" : 7, 
         "cur_hosicu" : 2, 
-        "tests_date" : 1639627200000, 
-        "tests_day" : 7585, 
-        "tests_cumu" : 1479099, 
-        "ppos_day" : 1.87211602, 
-        "ppos_cumu" : 0.6236905, 
-        "tot_hos" : 7, 
-        "nlp_NS" : 394, 
-        "nlp_EZ" : 54, 
-        "nlp_CZ" : 295, 
-        "nlp_WZ" : 18, 
-        "nlp_NZ" : 27
+        "tests_date" : 1639886400000, 
+        "tests_day" : 9198, 
+        "tests_cumu" : 1506218, 
+        "ppos_day" : 2.90280496, 
+        "ppos_cumu" : 0.63005488, 
+        "tot_hos" : 9, 
+        "nlp_NS" : 485, 
+        "nlp_EZ" : 57, 
+        "nlp_CZ" : 317, 
+        "nlp_WZ" : 75, 
+        "nlp_NZ" : 36
       }
     }
   ]
