@@ -6,6 +6,8 @@ on:
   schedule:
     - cron:  '15 18 * * *'
 
+concurrency: git-lfs-tables
+
 jobs:
   scheduled-generic:
     runs-on: ubuntu-latest
