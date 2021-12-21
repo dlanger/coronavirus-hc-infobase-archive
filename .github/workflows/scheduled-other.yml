@@ -6,10 +6,9 @@ on:
   schedule:
     - cron:  '15 18 * * *'
 
-concurrency: git-lfs-tables
-
 jobs:
   scheduled-generic:
+    concurrency: git-lfs-tables
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -54,6 +53,7 @@ jobs:
         git push
 
   scheduled-statscan:
+    concurrency: git-lfs-tables
     runs-on: ubuntu-latest
     strategy:
       matrix:
