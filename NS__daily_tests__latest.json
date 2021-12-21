@@ -9128,10 +9128,24 @@
         "cur_hos" : 7, 
         "cur_hosicu" : 2, 
         "tests_date" : 1639886400000, 
-        "tests_day" : 9198, 
-        "tests_cumu" : 1505365, 
-        "ppos_day" : 5.27288541, 
-        "ppos_cumu" : 0.80558536, 
+        "tests_day" : 9251, 
+        "tests_cumu" : 1505418, 
+        "ppos_day" : 5.24267647, 
+        "ppos_cumu" : 0.80555699, 
+        "tot_hos" : 9
+      }
+    }, 
+    {
+      "attributes" : {
+        "OID" : 647, 
+        "rep_date" : 1640059200000, 
+        "cur_hos" : 6, 
+        "cur_hosicu" : 3, 
+        "tests_date" : 1639972800000, 
+        "tests_day" : 10201, 
+        "tests_cumu" : 1515619, 
+        "ppos_day" : 5.11714538, 
+        "ppos_cumu" : 0.8345765, 
         "tot_hos" : 9
       }
     }
