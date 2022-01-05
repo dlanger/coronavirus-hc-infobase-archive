@@ -86,20 +86,20 @@
     {
       "attributes" : {
         "OID" : 1, 
-        "rep_date" : "31 Dec 2021", 
+        "rep_date" : "17 Dec 2021", 
         "outcome" : "Cases", 
-        "unvax_n" : 5817, 
-        "unvax__" : 78.8, 
-        "p_vax_n" : 427, 
-        "p_vax__" : 5.8, 
-        "f_vax_n" : 1137, 
-        "f_vax__" : 15.4
+        "unvax_n" : 5657, 
+        "unvax__" : 82.5, 
+        "p_vax_n" : 420, 
+        "p_vax__" : 6.1, 
+        "f_vax_n" : 776, 
+        "f_vax__" : 11.3
       }
     }, 
     {
       "attributes" : {
         "OID" : 2, 
-        "rep_date" : "31 Dec 2021", 
+        "rep_date" : "17 Dec 2021", 
         "outcome" : "Hospitalizations", 
         "unvax_n" : 285, 
         "unvax__" : 83.6, 
@@ -112,7 +112,7 @@
     {
       "attributes" : {
         "OID" : 3, 
-        "rep_date" : "31 Dec 2021", 
+        "rep_date" : "17 Dec 2021", 
         "outcome" : "Deaths", 
         "unvax_n" : 30, 
         "unvax__" : 68.2, 
