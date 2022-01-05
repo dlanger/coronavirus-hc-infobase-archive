@@ -4629,127 +4629,134 @@
     {
       "attributes" : {
         "Date" : 1639720800000, 
-        "Positivity_Rate" : 7.2, 
+        "Positivity_Rate" : 7.1, 
         "ObjectId" : 657
       }
     }, 
     {
       "attributes" : {
         "Date" : 1639807200000, 
-        "Positivity_Rate" : 7.7, 
+        "Positivity_Rate" : 7.6, 
         "ObjectId" : 658
       }
     }, 
     {
       "attributes" : {
         "Date" : 1639893600000, 
-        "Positivity_Rate" : 8.1, 
+        "Positivity_Rate" : 7.9, 
         "ObjectId" : 659
       }
     }, 
     {
       "attributes" : {
         "Date" : 1639980000000, 
-        "Positivity_Rate" : 8.6, 
+        "Positivity_Rate" : 8.5, 
         "ObjectId" : 660
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640066400000, 
-        "Positivity_Rate" : 9.9, 
+        "Positivity_Rate" : 9.7, 
         "ObjectId" : 661
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640152800000, 
-        "Positivity_Rate" : 10.9, 
+        "Positivity_Rate" : 10.7, 
         "ObjectId" : 662
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640239200000, 
-        "Positivity_Rate" : 12.6, 
+        "Positivity_Rate" : 12.4, 
         "ObjectId" : 663
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640325600000, 
-        "Positivity_Rate" : 14.7, 
+        "Positivity_Rate" : 14.6, 
         "ObjectId" : 664
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640412000000, 
-        "Positivity_Rate" : 17.1, 
+        "Positivity_Rate" : 16.8, 
         "ObjectId" : 665
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640498400000, 
-        "Positivity_Rate" : 19, 
+        "Positivity_Rate" : 18.8, 
         "ObjectId" : 666
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640584800000, 
-        "Positivity_Rate" : 21.9, 
+        "Positivity_Rate" : 21.7, 
         "ObjectId" : 667
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640671200000, 
-        "Positivity_Rate" : 24.3, 
+        "Positivity_Rate" : 24, 
         "ObjectId" : 668
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640757600000, 
-        "Positivity_Rate" : 27.3, 
+        "Positivity_Rate" : 27.1, 
         "ObjectId" : 669
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640844000000, 
-        "Positivity_Rate" : 30.7, 
+        "Positivity_Rate" : 30.4, 
         "ObjectId" : 670
       }
     }, 
     {
       "attributes" : {
         "Date" : 1640930400000, 
-        "Positivity_Rate" : 32.8, 
+        "Positivity_Rate" : 32.5, 
         "ObjectId" : 671
       }
     }, 
     {
       "attributes" : {
         "Date" : 1641016800000, 
-        "Positivity_Rate" : 34.8, 
+        "Positivity_Rate" : 34.3, 
         "ObjectId" : 672
       }
     }, 
     {
       "attributes" : {
         "Date" : 1641103200000, 
-        "Positivity_Rate" : 38, 
+        "Positivity_Rate" : 37.6, 
         "ObjectId" : 673
       }
     }, 
     {
       "attributes" : {
         "Date" : 1641189600000, 
-        "Positivity_Rate" : 39.5, 
+        "Positivity_Rate" : 38.8, 
         "ObjectId" : 674
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1641276000000, 
+        "Positivity_Rate" : 40.3, 
+        "ObjectId" : 675
       }
     }
   ]
