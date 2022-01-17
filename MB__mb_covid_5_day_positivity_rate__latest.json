@@ -4804,22 +4804,43 @@
     {
       "attributes" : {
         "Date" : 1641880800000, 
-        "Positivity_Rate" : 46.4, 
+        "Positivity_Rate" : 46, 
         "ObjectId" : 682
       }
     }, 
     {
       "attributes" : {
         "Date" : 1641967200000, 
-        "Positivity_Rate" : 43.7, 
+        "Positivity_Rate" : 42.5, 
         "ObjectId" : 683
       }
     }, 
     {
       "attributes" : {
         "Date" : 1642053600000, 
-        "Positivity_Rate" : 42.6, 
+        "Positivity_Rate" : 40.7, 
         "ObjectId" : 684
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1642140000000, 
+        "Positivity_Rate" : 37.4, 
+        "ObjectId" : 685
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1642226400000, 
+        "Positivity_Rate" : 35.1, 
+        "ObjectId" : 686
+      }
+    }, 
+    {
+      "attributes" : {
+        "Date" : 1642312800000, 
+        "Positivity_Rate" : 34.5, 
+        "ObjectId" : 687
       }
     }
   ]
