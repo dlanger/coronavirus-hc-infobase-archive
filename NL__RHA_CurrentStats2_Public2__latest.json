@@ -215,24 +215,6 @@
         "name" : "Western Regional Health Authority", 
         "RHAShort" : "Western_RHA", 
         "regional_health_authority" : "western_rha", 
-        "date_updated" : 1643227260000, 
-        "total_number_of_cases" : 1703, 
-        "new_cases" : 23, 
-        "currently_hospitalized" : 6, 
-        "current_in_icu" : 4, 
-        "total_number_recovered" : 1385, 
-        "total_number_of_deaths" : 4, 
-        "active_cases" : 313, 
-        "total_people_tested" : 67074, 
-        "Population" : null, 
-        "CasesPer10KPop" : null
-      }
-    }, 
-    {
-      "attributes" : {
-        "name" : "Labrador-Grenfell Regional Health Authority", 
-        "RHAShort" : "LabradorGrenfell_RHA", 
-        "regional_health_authority" : "labradorgrenfell_rha", 
         "date_updated" : 1643306760000, 
         "total_number_of_cases" : 1750, 
         "new_cases" : 49, 
@@ -242,6 +224,24 @@
         "total_number_of_deaths" : 5, 
         "active_cases" : 283, 
         "total_people_tested" : 67407, 
+        "Population" : null, 
+        "CasesPer10KPop" : null
+      }
+    }, 
+    {
+      "attributes" : {
+        "name" : "Labrador-Grenfell Regional Health Authority", 
+        "RHAShort" : "LabradorGrenfell_RHA", 
+        "regional_health_authority" : "labradorgrenfell_rha", 
+        "date_updated" : 1643306700000, 
+        "total_number_of_cases" : 1610, 
+        "new_cases" : 23, 
+        "currently_hospitalized" : 0, 
+        "current_in_icu" : 0, 
+        "total_number_recovered" : 1522, 
+        "total_number_of_deaths" : 1, 
+        "active_cases" : 87, 
+        "total_people_tested" : 23831, 
         "Population" : null, 
         "CasesPer10KPop" : null
       }
