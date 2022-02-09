@@ -16724,9 +16724,9 @@
       "attributes" : {
         "Date" : 1604034000000, 
         "RHA" : "Interlake-Eastern", 
-        "Daily_Cases" : 25, 
-        "Cumulative_Cases" : 456, 
-        "Active_Cases" : 138, 
+        "Daily_Cases" : 24, 
+        "Cumulative_Cases" : 455, 
+        "Active_Cases" : 137, 
         "Recoveries" : 313, 
         "Deaths" : 5, 
         "ObjectId" : 1388
@@ -16772,9 +16772,9 @@
       "attributes" : {
         "Date" : 1604034000000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 150, 
-        "Cumulative_Cases" : 3667, 
-        "Active_Cases" : 2156, 
+        "Daily_Cases" : 151, 
+        "Cumulative_Cases" : 3668, 
+        "Active_Cases" : 2157, 
         "Recoveries" : 1460, 
         "Deaths" : 51, 
         "ObjectId" : 1392
@@ -16797,8 +16797,8 @@
         "Date" : 1604120400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 35, 
-        "Cumulative_Cases" : 491, 
-        "Active_Cases" : 159, 
+        "Cumulative_Cases" : 490, 
+        "Active_Cases" : 158, 
         "Recoveries" : 327, 
         "Deaths" : 5, 
         "ObjectId" : 1394
@@ -16845,8 +16845,8 @@
         "Date" : 1604120400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 294, 
-        "Cumulative_Cases" : 3961, 
-        "Active_Cases" : 2400, 
+        "Cumulative_Cases" : 3962, 
+        "Active_Cases" : 2401, 
         "Recoveries" : 1503, 
         "Deaths" : 58, 
         "ObjectId" : 1398
@@ -16869,8 +16869,8 @@
         "Date" : 1604206800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 26, 
-        "Cumulative_Cases" : 517, 
-        "Active_Cases" : 175, 
+        "Cumulative_Cases" : 516, 
+        "Active_Cases" : 174, 
         "Recoveries" : 337, 
         "Deaths" : 5, 
         "ObjectId" : 1400
@@ -16917,8 +16917,8 @@
         "Date" : 1604206800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 55, 
-        "Cumulative_Cases" : 4016, 
-        "Active_Cases" : 2440, 
+        "Cumulative_Cases" : 4017, 
+        "Active_Cases" : 2441, 
         "Recoveries" : 1516, 
         "Deaths" : 60, 
         "ObjectId" : 1404
@@ -16941,8 +16941,8 @@
         "Date" : 1604296800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 532, 
-        "Active_Cases" : 184, 
+        "Cumulative_Cases" : 531, 
+        "Active_Cases" : 183, 
         "Recoveries" : 343, 
         "Deaths" : 5, 
         "ObjectId" : 1406
@@ -16989,8 +16989,8 @@
         "Date" : 1604296800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 133, 
-        "Cumulative_Cases" : 4149, 
-        "Active_Cases" : 2526, 
+        "Cumulative_Cases" : 4150, 
+        "Active_Cases" : 2527, 
         "Recoveries" : 1554, 
         "Deaths" : 69, 
         "ObjectId" : 1410
@@ -17013,8 +17013,8 @@
         "Date" : 1604383200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 541, 
-        "Active_Cases" : 189, 
+        "Cumulative_Cases" : 540, 
+        "Active_Cases" : 188, 
         "Recoveries" : 347, 
         "Deaths" : 5, 
         "ObjectId" : 1412
@@ -17061,8 +17061,8 @@
         "Date" : 1604383200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 200, 
-        "Cumulative_Cases" : 4349, 
-        "Active_Cases" : 2691, 
+        "Cumulative_Cases" : 4350, 
+        "Active_Cases" : 2692, 
         "Recoveries" : 1586, 
         "Deaths" : 72, 
         "ObjectId" : 1416
@@ -17085,8 +17085,8 @@
         "Date" : 1604469600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 579, 
-        "Active_Cases" : 206, 
+        "Cumulative_Cases" : 578, 
+        "Active_Cases" : 205, 
         "Recoveries" : 368, 
         "Deaths" : 5, 
         "ObjectId" : 1418
@@ -17133,8 +17133,8 @@
         "Date" : 1604469600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 277, 
-        "Cumulative_Cases" : 4626, 
-        "Active_Cases" : 2906, 
+        "Cumulative_Cases" : 4627, 
+        "Active_Cases" : 2907, 
         "Recoveries" : 1643, 
         "Deaths" : 77, 
         "ObjectId" : 1422
@@ -17157,8 +17157,8 @@
         "Date" : 1604556000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 588, 
-        "Active_Cases" : 209, 
+        "Cumulative_Cases" : 587, 
+        "Active_Cases" : 208, 
         "Recoveries" : 374, 
         "Deaths" : 5, 
         "ObjectId" : 1424
@@ -17205,8 +17205,8 @@
         "Date" : 1604556000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 125, 
-        "Cumulative_Cases" : 4751, 
-        "Active_Cases" : 2967, 
+        "Cumulative_Cases" : 4752, 
+        "Active_Cases" : 2968, 
         "Recoveries" : 1700, 
         "Deaths" : 84, 
         "ObjectId" : 1428
@@ -17218,8 +17218,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 314, 
         "Cumulative_Cases" : 7769, 
-        "Active_Cases" : 4029, 
-        "Recoveries" : 3622, 
+        "Active_Cases" : 4030, 
+        "Recoveries" : 3621, 
         "Deaths" : 118, 
         "ObjectId" : 1429
       }
@@ -17229,9 +17229,9 @@
         "Date" : 1604642400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 32, 
-        "Cumulative_Cases" : 620, 
+        "Cumulative_Cases" : 619, 
         "Active_Cases" : 224, 
-        "Recoveries" : 391, 
+        "Recoveries" : 390, 
         "Deaths" : 5, 
         "ObjectId" : 1430
       }
@@ -17277,8 +17277,8 @@
         "Date" : 1604642400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 183, 
-        "Cumulative_Cases" : 4934, 
-        "Active_Cases" : 3102, 
+        "Cumulative_Cases" : 4935, 
+        "Active_Cases" : 3103, 
         "Recoveries" : 1741, 
         "Deaths" : 91, 
         "ObjectId" : 1434
@@ -17290,8 +17290,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 450, 
         "Cumulative_Cases" : 8219, 
-        "Active_Cases" : 4390, 
-        "Recoveries" : 3707, 
+        "Active_Cases" : 4391, 
+        "Recoveries" : 3706, 
         "Deaths" : 122, 
         "ObjectId" : 1435
       }
@@ -17301,9 +17301,9 @@
         "Date" : 1604728800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 635, 
+        "Cumulative_Cases" : 634, 
         "Active_Cases" : 232, 
-        "Recoveries" : 398, 
+        "Recoveries" : 397, 
         "Deaths" : 5, 
         "ObjectId" : 1436
       }
@@ -17349,8 +17349,8 @@
         "Date" : 1604728800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 329, 
-        "Cumulative_Cases" : 5263, 
-        "Active_Cases" : 3384, 
+        "Cumulative_Cases" : 5264, 
+        "Active_Cases" : 3385, 
         "Recoveries" : 1784, 
         "Deaths" : 95, 
         "ObjectId" : 1440
@@ -17362,8 +17362,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 343, 
         "Cumulative_Cases" : 8562, 
-        "Active_Cases" : 4631, 
-        "Recoveries" : 3801, 
+        "Active_Cases" : 4632, 
+        "Recoveries" : 3800, 
         "Deaths" : 130, 
         "ObjectId" : 1441
       }
@@ -17373,9 +17373,9 @@
         "Date" : 1604815200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 646, 
+        "Cumulative_Cases" : 645, 
         "Active_Cases" : 230, 
-        "Recoveries" : 411, 
+        "Recoveries" : 410, 
         "Deaths" : 5, 
         "ObjectId" : 1442
       }
@@ -17421,8 +17421,8 @@
         "Date" : 1604815200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 223, 
-        "Cumulative_Cases" : 5486, 
-        "Active_Cases" : 3572, 
+        "Cumulative_Cases" : 5487, 
+        "Active_Cases" : 3573, 
         "Recoveries" : 1813, 
         "Deaths" : 101, 
         "ObjectId" : 1446
@@ -17434,8 +17434,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 344, 
         "Cumulative_Cases" : 8906, 
-        "Active_Cases" : 4820, 
-        "Recoveries" : 3950, 
+        "Active_Cases" : 4821, 
+        "Recoveries" : 3949, 
         "Deaths" : 136, 
         "ObjectId" : 1447
       }
@@ -17445,9 +17445,9 @@
         "Date" : 1604901600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 29, 
-        "Cumulative_Cases" : 675, 
+        "Cumulative_Cases" : 674, 
         "Active_Cases" : 252, 
-        "Recoveries" : 417, 
+        "Recoveries" : 416, 
         "Deaths" : 6, 
         "ObjectId" : 1448
       }
@@ -17493,8 +17493,8 @@
         "Date" : 1604901600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 183, 
-        "Cumulative_Cases" : 5669, 
-        "Active_Cases" : 3685, 
+        "Cumulative_Cases" : 5670, 
+        "Active_Cases" : 3686, 
         "Recoveries" : 1878, 
         "Deaths" : 106, 
         "ObjectId" : 1452
@@ -17506,8 +17506,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 508, 
         "Cumulative_Cases" : 9414, 
-        "Active_Cases" : 5172, 
-        "Recoveries" : 4095, 
+        "Active_Cases" : 5173, 
+        "Recoveries" : 4094, 
         "Deaths" : 147, 
         "ObjectId" : 1453
       }
@@ -17517,9 +17517,9 @@
         "Date" : 1604988000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 709, 
+        "Cumulative_Cases" : 708, 
         "Active_Cases" : 273, 
-        "Recoveries" : 429, 
+        "Recoveries" : 428, 
         "Deaths" : 7, 
         "ObjectId" : 1454
       }
@@ -17565,8 +17565,8 @@
         "Date" : 1604988000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 313, 
-        "Cumulative_Cases" : 5982, 
-        "Active_Cases" : 3924, 
+        "Cumulative_Cases" : 5983, 
+        "Active_Cases" : 3925, 
         "Recoveries" : 1944, 
         "Deaths" : 114, 
         "ObjectId" : 1458
@@ -17578,8 +17578,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 434, 
         "Cumulative_Cases" : 9848, 
-        "Active_Cases" : 5462, 
-        "Recoveries" : 4230, 
+        "Active_Cases" : 5463, 
+        "Recoveries" : 4229, 
         "Deaths" : 156, 
         "ObjectId" : 1459
       }
@@ -17589,9 +17589,9 @@
         "Date" : 1605074400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 729, 
+        "Cumulative_Cases" : 728, 
         "Active_Cases" : 280, 
-        "Recoveries" : 442, 
+        "Recoveries" : 441, 
         "Deaths" : 7, 
         "ObjectId" : 1460
       }
@@ -17637,8 +17637,8 @@
         "Date" : 1605074400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 282, 
-        "Cumulative_Cases" : 6264, 
-        "Active_Cases" : 4133, 
+        "Cumulative_Cases" : 6265, 
+        "Active_Cases" : 4134, 
         "Recoveries" : 2009, 
         "Deaths" : 122, 
         "ObjectId" : 1464
@@ -17650,8 +17650,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 409, 
         "Cumulative_Cases" : 10257, 
-        "Active_Cases" : 5695, 
-        "Recoveries" : 4399, 
+        "Active_Cases" : 5696, 
+        "Recoveries" : 4398, 
         "Deaths" : 163, 
         "ObjectId" : 1465
       }
@@ -17661,9 +17661,9 @@
         "Date" : 1605160800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 31, 
-        "Cumulative_Cases" : 760, 
+        "Cumulative_Cases" : 759, 
         "Active_Cases" : 299, 
-        "Recoveries" : 453, 
+        "Recoveries" : 452, 
         "Deaths" : 8, 
         "ObjectId" : 1466
       }
@@ -17709,8 +17709,8 @@
         "Date" : 1605160800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 248, 
-        "Cumulative_Cases" : 6512, 
-        "Active_Cases" : 4298, 
+        "Cumulative_Cases" : 6513, 
+        "Active_Cases" : 4299, 
         "Recoveries" : 2087, 
         "Deaths" : 127, 
         "ObjectId" : 1470
@@ -17722,8 +17722,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 369, 
         "Cumulative_Cases" : 10626, 
-        "Active_Cases" : 5865, 
-        "Recoveries" : 4591, 
+        "Active_Cases" : 5866, 
+        "Recoveries" : 4590, 
         "Deaths" : 170, 
         "ObjectId" : 1471
       }
@@ -17733,9 +17733,9 @@
         "Date" : 1605247200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 773, 
+        "Cumulative_Cases" : 772, 
         "Active_Cases" : 297, 
-        "Recoveries" : 468, 
+        "Recoveries" : 467, 
         "Deaths" : 8, 
         "ObjectId" : 1472
       }
@@ -17781,8 +17781,8 @@
         "Date" : 1605247200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 254, 
-        "Cumulative_Cases" : 6766, 
-        "Active_Cases" : 4476, 
+        "Cumulative_Cases" : 6767, 
+        "Active_Cases" : 4477, 
         "Recoveries" : 2160, 
         "Deaths" : 130, 
         "ObjectId" : 1476
@@ -17794,8 +17794,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 443, 
         "Cumulative_Cases" : 11069, 
-        "Active_Cases" : 6119, 
-        "Recoveries" : 4774, 
+        "Active_Cases" : 6120, 
+        "Recoveries" : 4773, 
         "Deaths" : 176, 
         "ObjectId" : 1477
       }
@@ -17805,9 +17805,9 @@
         "Date" : 1605333600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 797, 
+        "Cumulative_Cases" : 796, 
         "Active_Cases" : 311, 
-        "Recoveries" : 478, 
+        "Recoveries" : 477, 
         "Deaths" : 8, 
         "ObjectId" : 1478
       }
@@ -17853,8 +17853,8 @@
         "Date" : 1605333600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 219, 
-        "Cumulative_Cases" : 6985, 
-        "Active_Cases" : 4583, 
+        "Cumulative_Cases" : 6986, 
+        "Active_Cases" : 4584, 
         "Recoveries" : 2268, 
         "Deaths" : 134, 
         "ObjectId" : 1482
@@ -17866,8 +17866,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 350, 
         "Cumulative_Cases" : 11419, 
-        "Active_Cases" : 6322, 
-        "Recoveries" : 4912, 
+        "Active_Cases" : 6323, 
+        "Recoveries" : 4911, 
         "Deaths" : 185, 
         "ObjectId" : 1483
       }
@@ -17877,9 +17877,9 @@
         "Date" : 1605420000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 817, 
+        "Cumulative_Cases" : 816, 
         "Active_Cases" : 324, 
-        "Recoveries" : 485, 
+        "Recoveries" : 484, 
         "Deaths" : 8, 
         "ObjectId" : 1484
       }
@@ -17925,8 +17925,8 @@
         "Date" : 1605420000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 218, 
-        "Cumulative_Cases" : 7203, 
-        "Active_Cases" : 4727, 
+        "Cumulative_Cases" : 7204, 
+        "Active_Cases" : 4728, 
         "Recoveries" : 2337, 
         "Deaths" : 139, 
         "ObjectId" : 1488
@@ -17938,8 +17938,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 306, 
         "Cumulative_Cases" : 11725, 
-        "Active_Cases" : 6453, 
-        "Recoveries" : 5077, 
+        "Active_Cases" : 6454, 
+        "Recoveries" : 5076, 
         "Deaths" : 195, 
         "ObjectId" : 1489
       }
@@ -17949,9 +17949,9 @@
         "Date" : 1605506400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 837, 
+        "Cumulative_Cases" : 836, 
         "Active_Cases" : 332, 
-        "Recoveries" : 495, 
+        "Recoveries" : 494, 
         "Deaths" : 10, 
         "ObjectId" : 1490
       }
@@ -17997,8 +17997,8 @@
         "Date" : 1605506400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 139, 
-        "Cumulative_Cases" : 7342, 
-        "Active_Cases" : 4807, 
+        "Cumulative_Cases" : 7343, 
+        "Active_Cases" : 4808, 
         "Recoveries" : 2391, 
         "Deaths" : 144, 
         "ObjectId" : 1494
@@ -18010,8 +18010,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 417, 
         "Cumulative_Cases" : 12142, 
-        "Active_Cases" : 6706, 
-        "Recoveries" : 5233, 
+        "Active_Cases" : 6707, 
+        "Recoveries" : 5232, 
         "Deaths" : 203, 
         "ObjectId" : 1495
       }
@@ -18021,9 +18021,9 @@
         "Date" : 1605592800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 853, 
+        "Cumulative_Cases" : 852, 
         "Active_Cases" : 338, 
-        "Recoveries" : 503, 
+        "Recoveries" : 502, 
         "Deaths" : 12, 
         "ObjectId" : 1496
       }
@@ -18069,8 +18069,8 @@
         "Date" : 1605592800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 249, 
-        "Cumulative_Cases" : 7591, 
-        "Active_Cases" : 4986, 
+        "Cumulative_Cases" : 7592, 
+        "Active_Cases" : 4987, 
         "Recoveries" : 2458, 
         "Deaths" : 147, 
         "ObjectId" : 1500
@@ -18082,8 +18082,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 442, 
         "Cumulative_Cases" : 12584, 
-        "Active_Cases" : 6923, 
-        "Recoveries" : 5448, 
+        "Active_Cases" : 6924, 
+        "Recoveries" : 5447, 
         "Deaths" : 213, 
         "ObjectId" : 1501
       }
@@ -18093,9 +18093,9 @@
         "Date" : 1605679200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 864, 
+        "Cumulative_Cases" : 863, 
         "Active_Cases" : 345, 
-        "Recoveries" : 507, 
+        "Recoveries" : 506, 
         "Deaths" : 12, 
         "ObjectId" : 1502
       }
@@ -18141,8 +18141,8 @@
         "Date" : 1605679200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 260, 
-        "Cumulative_Cases" : 7851, 
-        "Active_Cases" : 5133, 
+        "Cumulative_Cases" : 7852, 
+        "Active_Cases" : 5134, 
         "Recoveries" : 2564, 
         "Deaths" : 154, 
         "ObjectId" : 1506
@@ -18154,8 +18154,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 431, 
         "Cumulative_Cases" : 13015, 
-        "Active_Cases" : 7099, 
-        "Recoveries" : 5695, 
+        "Active_Cases" : 7100, 
+        "Recoveries" : 5694, 
         "Deaths" : 221, 
         "ObjectId" : 1507
       }
@@ -18165,9 +18165,9 @@
         "Date" : 1605765600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 885, 
+        "Cumulative_Cases" : 884, 
         "Active_Cases" : 350, 
-        "Recoveries" : 522, 
+        "Recoveries" : 521, 
         "Deaths" : 13, 
         "ObjectId" : 1508
       }
@@ -18213,8 +18213,8 @@
         "Date" : 1605765600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 234, 
-        "Cumulative_Cases" : 8085, 
-        "Active_Cases" : 5242, 
+        "Cumulative_Cases" : 8086, 
+        "Active_Cases" : 5243, 
         "Recoveries" : 2685, 
         "Deaths" : 158, 
         "ObjectId" : 1512
@@ -18226,8 +18226,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 352, 
         "Cumulative_Cases" : 13367, 
-        "Active_Cases" : 7199, 
-        "Recoveries" : 5934, 
+        "Active_Cases" : 7200, 
+        "Recoveries" : 5933, 
         "Deaths" : 234, 
         "ObjectId" : 1513
       }
@@ -18237,9 +18237,9 @@
         "Date" : 1605852000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 913, 
+        "Cumulative_Cases" : 912, 
         "Active_Cases" : 368, 
-        "Recoveries" : 532, 
+        "Recoveries" : 531, 
         "Deaths" : 13, 
         "ObjectId" : 1514
       }
@@ -18285,8 +18285,8 @@
         "Date" : 1605852000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 199, 
-        "Cumulative_Cases" : 8284, 
-        "Active_Cases" : 5328, 
+        "Cumulative_Cases" : 8285, 
+        "Active_Cases" : 5329, 
         "Recoveries" : 2790, 
         "Deaths" : 166, 
         "ObjectId" : 1518
@@ -18298,8 +18298,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 247, 
         "Cumulative_Cases" : 13614, 
-        "Active_Cases" : 7286, 
-        "Recoveries" : 6082, 
+        "Active_Cases" : 7287, 
+        "Recoveries" : 6081, 
         "Deaths" : 246, 
         "ObjectId" : 1519
       }
@@ -18309,9 +18309,9 @@
         "Date" : 1605938400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 927, 
+        "Cumulative_Cases" : 926, 
         "Active_Cases" : 374, 
-        "Recoveries" : 540, 
+        "Recoveries" : 539, 
         "Deaths" : 13, 
         "ObjectId" : 1520
       }
@@ -18357,8 +18357,8 @@
         "Date" : 1605938400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 151, 
-        "Cumulative_Cases" : 8435, 
-        "Active_Cases" : 5389, 
+        "Cumulative_Cases" : 8436, 
+        "Active_Cases" : 5390, 
         "Recoveries" : 2869, 
         "Deaths" : 177, 
         "ObjectId" : 1524
@@ -18370,8 +18370,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 593, 
         "Cumulative_Cases" : 14207, 
-        "Active_Cases" : 7632, 
-        "Recoveries" : 6323, 
+        "Active_Cases" : 7633, 
+        "Recoveries" : 6322, 
         "Deaths" : 252, 
         "ObjectId" : 1525
       }
@@ -18381,9 +18381,9 @@
         "Date" : 1606024800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 949, 
+        "Cumulative_Cases" : 948, 
         "Active_Cases" : 389, 
-        "Recoveries" : 547, 
+        "Recoveries" : 546, 
         "Deaths" : 13, 
         "ObjectId" : 1526
       }
@@ -18429,8 +18429,8 @@
         "Date" : 1606024800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 415, 
-        "Cumulative_Cases" : 8850, 
-        "Active_Cases" : 5670, 
+        "Cumulative_Cases" : 8851, 
+        "Active_Cases" : 5671, 
         "Recoveries" : 2999, 
         "Deaths" : 181, 
         "ObjectId" : 1530
@@ -18442,8 +18442,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 432, 
         "Cumulative_Cases" : 14639, 
-        "Active_Cases" : 7772, 
-        "Recoveries" : 6600, 
+        "Active_Cases" : 7773, 
+        "Recoveries" : 6599, 
         "Deaths" : 267, 
         "ObjectId" : 1531
       }
@@ -18453,9 +18453,9 @@
         "Date" : 1606111200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 31, 
-        "Cumulative_Cases" : 980, 
+        "Cumulative_Cases" : 979, 
         "Active_Cases" : 410, 
-        "Recoveries" : 557, 
+        "Recoveries" : 556, 
         "Deaths" : 13, 
         "ObjectId" : 1532
       }
@@ -18501,8 +18501,8 @@
         "Date" : 1606111200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 218, 
-        "Cumulative_Cases" : 9068, 
-        "Active_Cases" : 5746, 
+        "Cumulative_Cases" : 9069, 
+        "Active_Cases" : 5747, 
         "Recoveries" : 3134, 
         "Deaths" : 188, 
         "ObjectId" : 1536
@@ -18514,8 +18514,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 340, 
         "Cumulative_Cases" : 14979, 
-        "Active_Cases" : 7869, 
-        "Recoveries" : 6828, 
+        "Active_Cases" : 7870, 
+        "Recoveries" : 6827, 
         "Deaths" : 282, 
         "ObjectId" : 1537
       }
@@ -18525,9 +18525,9 @@
         "Date" : 1606197600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 998, 
+        "Cumulative_Cases" : 997, 
         "Active_Cases" : 421, 
-        "Recoveries" : 564, 
+        "Recoveries" : 563, 
         "Deaths" : 13, 
         "ObjectId" : 1538
       }
@@ -18573,8 +18573,8 @@
         "Date" : 1606197600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 215, 
-        "Cumulative_Cases" : 9283, 
-        "Active_Cases" : 5870, 
+        "Cumulative_Cases" : 9284, 
+        "Active_Cases" : 5871, 
         "Recoveries" : 3216, 
         "Deaths" : 197, 
         "ObjectId" : 1542
@@ -18586,8 +18586,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 381, 
         "Cumulative_Cases" : 15360, 
-        "Active_Cases" : 8005, 
-        "Recoveries" : 7064, 
+        "Active_Cases" : 8006, 
+        "Recoveries" : 7063, 
         "Deaths" : 291, 
         "ObjectId" : 1543
       }
@@ -18597,9 +18597,9 @@
         "Date" : 1606284000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 26, 
-        "Cumulative_Cases" : 1024, 
+        "Cumulative_Cases" : 1023, 
         "Active_Cases" : 437, 
-        "Recoveries" : 573, 
+        "Recoveries" : 572, 
         "Deaths" : 14, 
         "ObjectId" : 1544
       }
@@ -18645,8 +18645,8 @@
         "Date" : 1606284000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 203, 
-        "Cumulative_Cases" : 9486, 
-        "Active_Cases" : 5948, 
+        "Cumulative_Cases" : 9487, 
+        "Active_Cases" : 5949, 
         "Recoveries" : 3337, 
         "Deaths" : 201, 
         "ObjectId" : 1548
@@ -18658,8 +18658,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 320, 
         "Cumulative_Cases" : 15680, 
-        "Active_Cases" : 8082, 
-        "Recoveries" : 7295, 
+        "Active_Cases" : 8083, 
+        "Recoveries" : 7294, 
         "Deaths" : 303, 
         "ObjectId" : 1549
       }
@@ -18669,9 +18669,9 @@
         "Date" : 1606370400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 12, 
-        "Cumulative_Cases" : 1036, 
+        "Cumulative_Cases" : 1035, 
         "Active_Cases" : 438, 
-        "Recoveries" : 582, 
+        "Recoveries" : 581, 
         "Deaths" : 16, 
         "ObjectId" : 1550
       }
@@ -18717,8 +18717,8 @@
         "Date" : 1606370400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 197, 
-        "Cumulative_Cases" : 9683, 
-        "Active_Cases" : 6031, 
+        "Cumulative_Cases" : 9684, 
+        "Active_Cases" : 6032, 
         "Recoveries" : 3445, 
         "Deaths" : 207, 
         "ObjectId" : 1554
@@ -18730,8 +18730,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 492, 
         "Cumulative_Cases" : 16172, 
-        "Active_Cases" : 8236, 
-        "Recoveries" : 7621, 
+        "Active_Cases" : 8237, 
+        "Recoveries" : 7620, 
         "Deaths" : 315, 
         "ObjectId" : 1555
       }
@@ -18741,9 +18741,9 @@
         "Date" : 1606456800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 1057, 
+        "Cumulative_Cases" : 1056, 
         "Active_Cases" : 427, 
-        "Recoveries" : 613, 
+        "Recoveries" : 612, 
         "Deaths" : 17, 
         "ObjectId" : 1556
       }
@@ -18789,8 +18789,8 @@
         "Date" : 1606456800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 314, 
-        "Cumulative_Cases" : 9997, 
-        "Active_Cases" : 6165, 
+        "Cumulative_Cases" : 9998, 
+        "Active_Cases" : 6166, 
         "Recoveries" : 3619, 
         "Deaths" : 213, 
         "ObjectId" : 1560
@@ -18802,8 +18802,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 341, 
         "Cumulative_Cases" : 16513, 
-        "Active_Cases" : 8348, 
-        "Recoveries" : 7839, 
+        "Active_Cases" : 8349, 
+        "Recoveries" : 7838, 
         "Deaths" : 326, 
         "ObjectId" : 1561
       }
@@ -18813,9 +18813,9 @@
         "Date" : 1606543200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 1072, 
+        "Cumulative_Cases" : 1071, 
         "Active_Cases" : 437, 
-        "Recoveries" : 618, 
+        "Recoveries" : 617, 
         "Deaths" : 17, 
         "ObjectId" : 1562
       }
@@ -18861,8 +18861,8 @@
         "Date" : 1606543200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 225, 
-        "Cumulative_Cases" : 10222, 
-        "Active_Cases" : 6271, 
+        "Cumulative_Cases" : 10223, 
+        "Active_Cases" : 6272, 
         "Recoveries" : 3729, 
         "Deaths" : 222, 
         "ObjectId" : 1566
@@ -18874,8 +18874,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 353, 
         "Cumulative_Cases" : 16866, 
-        "Active_Cases" : 8424, 
-        "Recoveries" : 8105, 
+        "Active_Cases" : 8425, 
+        "Recoveries" : 8104, 
         "Deaths" : 337, 
         "ObjectId" : 1567
       }
@@ -18885,9 +18885,9 @@
         "Date" : 1606629600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 1094, 
+        "Cumulative_Cases" : 1093, 
         "Active_Cases" : 450, 
-        "Recoveries" : 627, 
+        "Recoveries" : 626, 
         "Deaths" : 17, 
         "ObjectId" : 1568
       }
@@ -18933,8 +18933,8 @@
         "Date" : 1606629600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 222, 
-        "Cumulative_Cases" : 10444, 
-        "Active_Cases" : 6297, 
+        "Cumulative_Cases" : 10445, 
+        "Active_Cases" : 6298, 
         "Recoveries" : 3917, 
         "Deaths" : 230, 
         "ObjectId" : 1572
@@ -18946,8 +18946,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 256, 
         "Cumulative_Cases" : 17122, 
-        "Active_Cases" : 8264, 
-        "Recoveries" : 8503, 
+        "Active_Cases" : 8265, 
+        "Recoveries" : 8502, 
         "Deaths" : 355, 
         "ObjectId" : 1573
       }
@@ -18957,9 +18957,9 @@
         "Date" : 1606716000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1108, 
+        "Cumulative_Cases" : 1107, 
         "Active_Cases" : 448, 
-        "Recoveries" : 643, 
+        "Recoveries" : 642, 
         "Deaths" : 17, 
         "ObjectId" : 1574
       }
@@ -19005,8 +19005,8 @@
         "Date" : 1606716000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 158, 
-        "Cumulative_Cases" : 10602, 
-        "Active_Cases" : 6190, 
+        "Cumulative_Cases" : 10603, 
+        "Active_Cases" : 6191, 
         "Recoveries" : 4174, 
         "Deaths" : 238, 
         "ObjectId" : 1578
@@ -19018,8 +19018,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 292, 
         "Cumulative_Cases" : 17414, 
-        "Active_Cases" : 8335, 
-        "Recoveries" : 8708, 
+        "Active_Cases" : 8336, 
+        "Recoveries" : 8707, 
         "Deaths" : 371, 
         "ObjectId" : 1579
       }
@@ -19029,9 +19029,9 @@
         "Date" : 1606802400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1122, 
+        "Cumulative_Cases" : 1121, 
         "Active_Cases" : 440, 
-        "Recoveries" : 665, 
+        "Recoveries" : 664, 
         "Deaths" : 17, 
         "ObjectId" : 1580
       }
@@ -19077,8 +19077,8 @@
         "Date" : 1606802400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 223, 
-        "Cumulative_Cases" : 10825, 
-        "Active_Cases" : 6270, 
+        "Cumulative_Cases" : 10826, 
+        "Active_Cases" : 6271, 
         "Recoveries" : 4302, 
         "Deaths" : 253, 
         "ObjectId" : 1584
@@ -19090,8 +19090,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 369, 
         "Cumulative_Cases" : 17783, 
-        "Active_Cases" : 8491, 
-        "Recoveries" : 8910, 
+        "Active_Cases" : 8492, 
+        "Recoveries" : 8909, 
         "Deaths" : 382, 
         "ObjectId" : 1585
       }
@@ -19101,9 +19101,9 @@
         "Date" : 1606888800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1142, 
+        "Cumulative_Cases" : 1141, 
         "Active_Cases" : 448, 
-        "Recoveries" : 677, 
+        "Recoveries" : 676, 
         "Deaths" : 17, 
         "ObjectId" : 1586
       }
@@ -19149,8 +19149,8 @@
         "Date" : 1606888800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 217, 
-        "Cumulative_Cases" : 11042, 
-        "Active_Cases" : 6396, 
+        "Cumulative_Cases" : 11043, 
+        "Active_Cases" : 6397, 
         "Recoveries" : 4388, 
         "Deaths" : 258, 
         "ObjectId" : 1590
@@ -19162,8 +19162,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 322, 
         "Cumulative_Cases" : 18105, 
-        "Active_Cases" : 8532, 
-        "Recoveries" : 9177, 
+        "Active_Cases" : 8533, 
+        "Recoveries" : 9176, 
         "Deaths" : 396, 
         "ObjectId" : 1591
       }
@@ -19173,9 +19173,9 @@
         "Date" : 1606975200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1155, 
+        "Cumulative_Cases" : 1154, 
         "Active_Cases" : 443, 
-        "Recoveries" : 694, 
+        "Recoveries" : 693, 
         "Deaths" : 18, 
         "ObjectId" : 1592
       }
@@ -19221,8 +19221,8 @@
         "Date" : 1606975200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 210, 
-        "Cumulative_Cases" : 11252, 
-        "Active_Cases" : 6454, 
+        "Cumulative_Cases" : 11253, 
+        "Active_Cases" : 6455, 
         "Recoveries" : 4530, 
         "Deaths" : 268, 
         "ObjectId" : 1596
@@ -19234,8 +19234,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 402, 
         "Cumulative_Cases" : 18507, 
-        "Active_Cases" : 8585, 
-        "Recoveries" : 9513, 
+        "Active_Cases" : 8586, 
+        "Recoveries" : 9512, 
         "Deaths" : 409, 
         "ObjectId" : 1597
       }
@@ -19245,9 +19245,9 @@
         "Date" : 1607061600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 1189, 
+        "Cumulative_Cases" : 1188, 
         "Active_Cases" : 462, 
-        "Recoveries" : 709, 
+        "Recoveries" : 708, 
         "Deaths" : 18, 
         "ObjectId" : 1598
       }
@@ -19293,8 +19293,8 @@
         "Date" : 1607061600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 251, 
-        "Cumulative_Cases" : 11503, 
-        "Active_Cases" : 6461, 
+        "Cumulative_Cases" : 11504, 
+        "Active_Cases" : 6462, 
         "Recoveries" : 4764, 
         "Deaths" : 278, 
         "ObjectId" : 1602
@@ -19306,8 +19306,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 368, 
         "Cumulative_Cases" : 18875, 
-        "Active_Cases" : 8725, 
-        "Recoveries" : 9724, 
+        "Active_Cases" : 8726, 
+        "Recoveries" : 9723, 
         "Deaths" : 426, 
         "ObjectId" : 1603
       }
@@ -19317,9 +19317,9 @@
         "Date" : 1607148000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 1211, 
+        "Cumulative_Cases" : 1210, 
         "Active_Cases" : 481, 
-        "Recoveries" : 711, 
+        "Recoveries" : 710, 
         "Deaths" : 19, 
         "ObjectId" : 1604
       }
@@ -19365,8 +19365,8 @@
         "Date" : 1607148000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 264, 
-        "Cumulative_Cases" : 11767, 
-        "Active_Cases" : 6581, 
+        "Cumulative_Cases" : 11768, 
+        "Active_Cases" : 6582, 
         "Recoveries" : 4895, 
         "Deaths" : 291, 
         "ObjectId" : 1608
@@ -19378,8 +19378,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 272, 
         "Cumulative_Cases" : 19147, 
-        "Active_Cases" : 5360, 
-        "Recoveries" : 13349, 
+        "Active_Cases" : 5362, 
+        "Recoveries" : 13347, 
         "Deaths" : 438, 
         "ObjectId" : 1609
       }
@@ -19389,9 +19389,9 @@
         "Date" : 1607234400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 1239, 
-        "Active_Cases" : 264, 
-        "Recoveries" : 956, 
+        "Cumulative_Cases" : 1238, 
+        "Active_Cases" : 266, 
+        "Recoveries" : 953, 
         "Deaths" : 19, 
         "ObjectId" : 1610
       }
@@ -19437,9 +19437,9 @@
         "Date" : 1607234400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 177, 
-        "Cumulative_Cases" : 11944, 
+        "Cumulative_Cases" : 11945, 
         "Active_Cases" : 4065, 
-        "Recoveries" : 7581, 
+        "Recoveries" : 7582, 
         "Deaths" : 298, 
         "ObjectId" : 1614
       }
@@ -19450,8 +19450,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 260, 
         "Cumulative_Cases" : 19407, 
-        "Active_Cases" : 5284, 
-        "Recoveries" : 13676, 
+        "Active_Cases" : 5286, 
+        "Recoveries" : 13674, 
         "Deaths" : 447, 
         "ObjectId" : 1615
       }
@@ -19461,9 +19461,9 @@
         "Date" : 1607320800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 36, 
-        "Cumulative_Cases" : 1275, 
-        "Active_Cases" : 279, 
-        "Recoveries" : 977, 
+        "Cumulative_Cases" : 1274, 
+        "Active_Cases" : 281, 
+        "Recoveries" : 974, 
         "Deaths" : 19, 
         "ObjectId" : 1616
       }
@@ -19509,9 +19509,9 @@
         "Date" : 1607320800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 140, 
-        "Cumulative_Cases" : 12084, 
+        "Cumulative_Cases" : 12085, 
         "Active_Cases" : 3983, 
-        "Recoveries" : 7796, 
+        "Recoveries" : 7797, 
         "Deaths" : 305, 
         "ObjectId" : 1620
       }
@@ -19522,8 +19522,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 257, 
         "Cumulative_Cases" : 19664, 
-        "Active_Cases" : 5232, 
-        "Recoveries" : 13970, 
+        "Active_Cases" : 5235, 
+        "Recoveries" : 13967, 
         "Deaths" : 462, 
         "ObjectId" : 1621
       }
@@ -19533,9 +19533,9 @@
         "Date" : 1607407200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 1298, 
-        "Active_Cases" : 283, 
-        "Recoveries" : 996, 
+        "Cumulative_Cases" : 1297, 
+        "Active_Cases" : 285, 
+        "Recoveries" : 993, 
         "Deaths" : 19, 
         "ObjectId" : 1622
       }
@@ -19570,8 +19570,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 23, 
         "Cumulative_Cases" : 3667, 
-        "Active_Cases" : 442, 
-        "Recoveries" : 3136, 
+        "Active_Cases" : 443, 
+        "Recoveries" : 3135, 
         "Deaths" : 89, 
         "ObjectId" : 1625
       }
@@ -19581,9 +19581,9 @@
         "Date" : 1607407200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 176, 
-        "Cumulative_Cases" : 12260, 
+        "Cumulative_Cases" : 12261, 
         "Active_Cases" : 3934, 
-        "Recoveries" : 8009, 
+        "Recoveries" : 8010, 
         "Deaths" : 317, 
         "ObjectId" : 1626
       }
@@ -19594,8 +19594,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 309, 
         "Cumulative_Cases" : 19973, 
-        "Active_Cases" : 5273, 
-        "Recoveries" : 14228, 
+        "Active_Cases" : 5277, 
+        "Recoveries" : 14224, 
         "Deaths" : 472, 
         "ObjectId" : 1627
       }
@@ -19605,9 +19605,9 @@
         "Date" : 1607493600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 36, 
-        "Cumulative_Cases" : 1334, 
-        "Active_Cases" : 299, 
-        "Recoveries" : 1016, 
+        "Cumulative_Cases" : 1333, 
+        "Active_Cases" : 301, 
+        "Recoveries" : 1013, 
         "Deaths" : 19, 
         "ObjectId" : 1628
       }
@@ -19618,8 +19618,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 42, 
         "Cumulative_Cases" : 1270, 
-        "Active_Cases" : 403, 
-        "Recoveries" : 855, 
+        "Active_Cases" : 404, 
+        "Recoveries" : 854, 
         "Deaths" : 12, 
         "ObjectId" : 1629
       }
@@ -19642,8 +19642,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 51, 
         "Cumulative_Cases" : 3718, 
-        "Active_Cases" : 449, 
-        "Recoveries" : 3177, 
+        "Active_Cases" : 450, 
+        "Recoveries" : 3176, 
         "Deaths" : 92, 
         "ObjectId" : 1631
       }
@@ -19653,9 +19653,9 @@
         "Date" : 1607493600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 168, 
-        "Cumulative_Cases" : 12428, 
+        "Cumulative_Cases" : 12429, 
         "Active_Cases" : 3925, 
-        "Recoveries" : 8179, 
+        "Recoveries" : 8180, 
         "Deaths" : 324, 
         "ObjectId" : 1632
       }
@@ -19666,8 +19666,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 449, 
         "Cumulative_Cases" : 20422, 
-        "Active_Cases" : 5359, 
-        "Recoveries" : 14576, 
+        "Active_Cases" : 5363, 
+        "Recoveries" : 14572, 
         "Deaths" : 487, 
         "ObjectId" : 1633
       }
@@ -19677,9 +19677,9 @@
         "Date" : 1607580000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 40, 
-        "Cumulative_Cases" : 1374, 
-        "Active_Cases" : 317, 
-        "Recoveries" : 1037, 
+        "Cumulative_Cases" : 1373, 
+        "Active_Cases" : 319, 
+        "Recoveries" : 1034, 
         "Deaths" : 20, 
         "ObjectId" : 1634
       }
@@ -19690,8 +19690,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 145, 
         "Cumulative_Cases" : 1415, 
-        "Active_Cases" : 531, 
-        "Recoveries" : 871, 
+        "Active_Cases" : 532, 
+        "Recoveries" : 870, 
         "Deaths" : 13, 
         "ObjectId" : 1635
       }
@@ -19714,8 +19714,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 38, 
         "Cumulative_Cases" : 3756, 
-        "Active_Cases" : 425, 
-        "Recoveries" : 3236, 
+        "Active_Cases" : 426, 
+        "Recoveries" : 3235, 
         "Deaths" : 95, 
         "ObjectId" : 1637
       }
@@ -19725,9 +19725,9 @@
         "Date" : 1607580000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 190, 
-        "Cumulative_Cases" : 12618, 
+        "Cumulative_Cases" : 12619, 
         "Active_Cases" : 3877, 
-        "Recoveries" : 8407, 
+        "Recoveries" : 8408, 
         "Deaths" : 334, 
         "ObjectId" : 1638
       }
@@ -19738,8 +19738,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 373, 
         "Cumulative_Cases" : 20795, 
-        "Active_Cases" : 5448, 
-        "Recoveries" : 14845, 
+        "Active_Cases" : 5452, 
+        "Recoveries" : 14841, 
         "Deaths" : 502, 
         "ObjectId" : 1639
       }
@@ -19749,9 +19749,9 @@
         "Date" : 1607666400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 52, 
-        "Cumulative_Cases" : 1426, 
-        "Active_Cases" : 337, 
-        "Recoveries" : 1068, 
+        "Cumulative_Cases" : 1425, 
+        "Active_Cases" : 339, 
+        "Recoveries" : 1065, 
         "Deaths" : 21, 
         "ObjectId" : 1640
       }
@@ -19762,8 +19762,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 37, 
         "Cumulative_Cases" : 1452, 
-        "Active_Cases" : 543, 
-        "Recoveries" : 896, 
+        "Active_Cases" : 544, 
+        "Recoveries" : 895, 
         "Deaths" : 13, 
         "ObjectId" : 1641
       }
@@ -19786,8 +19786,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 29, 
         "Cumulative_Cases" : 3785, 
-        "Active_Cases" : 418, 
-        "Recoveries" : 3272, 
+        "Active_Cases" : 419, 
+        "Recoveries" : 3271, 
         "Deaths" : 95, 
         "ObjectId" : 1643
       }
@@ -19797,9 +19797,9 @@
         "Date" : 1607666400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 226, 
-        "Cumulative_Cases" : 12844, 
+        "Cumulative_Cases" : 12845, 
         "Active_Cases" : 3940, 
-        "Recoveries" : 8556, 
+        "Recoveries" : 8557, 
         "Deaths" : 348, 
         "ObjectId" : 1644
       }
@@ -19810,8 +19810,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 246, 
         "Cumulative_Cases" : 21041, 
-        "Active_Cases" : 5470, 
-        "Recoveries" : 15059, 
+        "Active_Cases" : 5474, 
+        "Recoveries" : 15055, 
         "Deaths" : 512, 
         "ObjectId" : 1645
       }
@@ -19821,9 +19821,9 @@
         "Date" : 1607752800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 1443, 
-        "Active_Cases" : 326, 
-        "Recoveries" : 1096, 
+        "Cumulative_Cases" : 1442, 
+        "Active_Cases" : 328, 
+        "Recoveries" : 1093, 
         "Deaths" : 21, 
         "ObjectId" : 1646
       }
@@ -19834,8 +19834,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 39, 
         "Cumulative_Cases" : 1491, 
-        "Active_Cases" : 565, 
-        "Recoveries" : 912, 
+        "Active_Cases" : 566, 
+        "Recoveries" : 911, 
         "Deaths" : 14, 
         "ObjectId" : 1647
       }
@@ -19858,8 +19858,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 20, 
         "Cumulative_Cases" : 3805, 
-        "Active_Cases" : 422, 
-        "Recoveries" : 3288, 
+        "Active_Cases" : 423, 
+        "Recoveries" : 3287, 
         "Deaths" : 95, 
         "ObjectId" : 1649
       }
@@ -19869,9 +19869,9 @@
         "Date" : 1607752800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 158, 
-        "Cumulative_Cases" : 13002, 
+        "Cumulative_Cases" : 13003, 
         "Active_Cases" : 3950, 
-        "Recoveries" : 8696, 
+        "Recoveries" : 8697, 
         "Deaths" : 356, 
         "ObjectId" : 1650
       }
@@ -19882,8 +19882,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 244, 
         "Cumulative_Cases" : 21285, 
-        "Active_Cases" : 5471, 
-        "Recoveries" : 15291, 
+        "Active_Cases" : 5475, 
+        "Recoveries" : 15287, 
         "Deaths" : 523, 
         "ObjectId" : 1651
       }
@@ -19893,9 +19893,9 @@
         "Date" : 1607839200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 1454, 
-        "Active_Cases" : 323, 
-        "Recoveries" : 1110, 
+        "Cumulative_Cases" : 1453, 
+        "Active_Cases" : 325, 
+        "Recoveries" : 1107, 
         "Deaths" : 21, 
         "ObjectId" : 1652
       }
@@ -19906,8 +19906,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 20, 
         "Cumulative_Cases" : 1511, 
-        "Active_Cases" : 569, 
-        "Recoveries" : 928, 
+        "Active_Cases" : 570, 
+        "Recoveries" : 927, 
         "Deaths" : 14, 
         "ObjectId" : 1653
       }
@@ -19930,8 +19930,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 35, 
         "Cumulative_Cases" : 3840, 
-        "Active_Cases" : 437, 
-        "Recoveries" : 3308, 
+        "Active_Cases" : 438, 
+        "Recoveries" : 3307, 
         "Deaths" : 95, 
         "ObjectId" : 1655
       }
@@ -19941,9 +19941,9 @@
         "Date" : 1607839200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 166, 
-        "Cumulative_Cases" : 13168, 
+        "Cumulative_Cases" : 13169, 
         "Active_Cases" : 3934, 
-        "Recoveries" : 8868, 
+        "Recoveries" : 8869, 
         "Deaths" : 366, 
         "ObjectId" : 1656
       }
@@ -19954,8 +19954,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 260, 
         "Cumulative_Cases" : 21545, 
-        "Active_Cases" : 5369, 
-        "Recoveries" : 15638, 
+        "Active_Cases" : 5373, 
+        "Recoveries" : 15634, 
         "Deaths" : 538, 
         "ObjectId" : 1657
       }
@@ -19965,9 +19965,9 @@
         "Date" : 1607925600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 1470, 
-        "Active_Cases" : 306, 
-        "Recoveries" : 1141, 
+        "Cumulative_Cases" : 1469, 
+        "Active_Cases" : 308, 
+        "Recoveries" : 1138, 
         "Deaths" : 23, 
         "ObjectId" : 1658
       }
@@ -19978,8 +19978,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 51, 
         "Cumulative_Cases" : 1562, 
-        "Active_Cases" : 602, 
-        "Recoveries" : 946, 
+        "Active_Cases" : 603, 
+        "Recoveries" : 945, 
         "Deaths" : 14, 
         "ObjectId" : 1659
       }
@@ -20002,8 +20002,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 19, 
         "Cumulative_Cases" : 3859, 
-        "Active_Cases" : 414, 
-        "Recoveries" : 3348, 
+        "Active_Cases" : 415, 
+        "Recoveries" : 3347, 
         "Deaths" : 97, 
         "ObjectId" : 1661
       }
@@ -20013,9 +20013,9 @@
         "Date" : 1607925600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 114, 
-        "Cumulative_Cases" : 13282, 
+        "Cumulative_Cases" : 13283, 
         "Active_Cases" : 3816, 
-        "Recoveries" : 9090, 
+        "Recoveries" : 9091, 
         "Deaths" : 376, 
         "ObjectId" : 1662
       }
@@ -20026,8 +20026,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 285, 
         "Cumulative_Cases" : 21830, 
-        "Active_Cases" : 5392, 
-        "Recoveries" : 15886, 
+        "Active_Cases" : 5396, 
+        "Recoveries" : 15882, 
         "Deaths" : 552, 
         "ObjectId" : 1663
       }
@@ -20037,9 +20037,9 @@
         "Date" : 1608012000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 1493, 
-        "Active_Cases" : 309, 
-        "Recoveries" : 1160, 
+        "Cumulative_Cases" : 1492, 
+        "Active_Cases" : 311, 
+        "Recoveries" : 1157, 
         "Deaths" : 24, 
         "ObjectId" : 1664
       }
@@ -20050,8 +20050,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
         "Cumulative_Cases" : 1605, 
-        "Active_Cases" : 630, 
-        "Recoveries" : 961, 
+        "Active_Cases" : 631, 
+        "Recoveries" : 960, 
         "Deaths" : 14, 
         "ObjectId" : 1665
       }
@@ -20074,8 +20074,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 29, 
         "Cumulative_Cases" : 3888, 
-        "Active_Cases" : 403, 
-        "Recoveries" : 3387, 
+        "Active_Cases" : 404, 
+        "Recoveries" : 3386, 
         "Deaths" : 98, 
         "ObjectId" : 1667
       }
@@ -20085,9 +20085,9 @@
         "Date" : 1608012000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 160, 
-        "Cumulative_Cases" : 13442, 
+        "Cumulative_Cases" : 13443, 
         "Active_Cases" : 3831, 
-        "Recoveries" : 9223, 
+        "Recoveries" : 9224, 
         "Deaths" : 388, 
         "ObjectId" : 1668
       }
@@ -20098,8 +20098,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 224, 
         "Cumulative_Cases" : 22054, 
-        "Active_Cases" : 5372, 
-        "Recoveries" : 16113, 
+        "Active_Cases" : 5376, 
+        "Recoveries" : 16109, 
         "Deaths" : 569, 
         "ObjectId" : 1669
       }
@@ -20109,9 +20109,9 @@
         "Date" : 1608098400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1513, 
-        "Active_Cases" : 306, 
-        "Recoveries" : 1181, 
+        "Cumulative_Cases" : 1512, 
+        "Active_Cases" : 308, 
+        "Recoveries" : 1178, 
         "Deaths" : 26, 
         "ObjectId" : 1670
       }
@@ -20122,8 +20122,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 50, 
         "Cumulative_Cases" : 1655, 
-        "Active_Cases" : 659, 
-        "Recoveries" : 980, 
+        "Active_Cases" : 660, 
+        "Recoveries" : 979, 
         "Deaths" : 16, 
         "ObjectId" : 1671
       }
@@ -20146,8 +20146,8 @@
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 29, 
         "Cumulative_Cases" : 3917, 
-        "Active_Cases" : 401, 
-        "Recoveries" : 3415, 
+        "Active_Cases" : 402, 
+        "Recoveries" : 3414, 
         "Deaths" : 101, 
         "ObjectId" : 1673
       }
@@ -20157,9 +20157,9 @@
         "Date" : 1608098400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 113, 
-        "Cumulative_Cases" : 13555, 
+        "Cumulative_Cases" : 13556, 
         "Active_Cases" : 3802, 
-        "Recoveries" : 9355, 
+        "Recoveries" : 9356, 
         "Deaths" : 398, 
         "ObjectId" : 1674
       }
@@ -20170,8 +20170,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 348, 
         "Cumulative_Cases" : 22402, 
-        "Active_Cases" : 5117, 
-        "Recoveries" : 16705, 
+        "Active_Cases" : 5122, 
+        "Recoveries" : 16700, 
         "Deaths" : 580, 
         "ObjectId" : 1675
       }
@@ -20181,9 +20181,9 @@
         "Date" : 1608184800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 1555, 
-        "Active_Cases" : 329, 
-        "Recoveries" : 1199, 
+        "Cumulative_Cases" : 1554, 
+        "Active_Cases" : 331, 
+        "Recoveries" : 1196, 
         "Deaths" : 27, 
         "ObjectId" : 1676
       }
@@ -20194,8 +20194,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 91, 
         "Cumulative_Cases" : 1746, 
-        "Active_Cases" : 728, 
-        "Recoveries" : 1001, 
+        "Active_Cases" : 729, 
+        "Recoveries" : 1000, 
         "Deaths" : 17, 
         "ObjectId" : 1677
       }
@@ -20216,10 +20216,10 @@
       "attributes" : {
         "Date" : 1608184800000, 
         "RHA" : "Southern Health-Santé Sud", 
-        "Daily_Cases" : 48, 
-        "Cumulative_Cases" : 3965, 
+        "Daily_Cases" : 47, 
+        "Cumulative_Cases" : 3964, 
         "Active_Cases" : 415, 
-        "Recoveries" : 3446, 
+        "Recoveries" : 3445, 
         "Deaths" : 104, 
         "ObjectId" : 1679
       }
@@ -20228,9 +20228,9 @@
       "attributes" : {
         "Date" : 1608184800000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 135, 
-        "Cumulative_Cases" : 13690, 
-        "Active_Cases" : 3435, 
+        "Daily_Cases" : 136, 
+        "Cumulative_Cases" : 13692, 
+        "Active_Cases" : 3437, 
         "Recoveries" : 9852, 
         "Deaths" : 403, 
         "ObjectId" : 1680
@@ -20242,8 +20242,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 240, 
         "Cumulative_Cases" : 22642, 
-        "Active_Cases" : 5191, 
-        "Recoveries" : 16867, 
+        "Active_Cases" : 5196, 
+        "Recoveries" : 16862, 
         "Deaths" : 584, 
         "ObjectId" : 1681
       }
@@ -20253,9 +20253,9 @@
         "Date" : 1608271200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 1585, 
-        "Active_Cases" : 346, 
-        "Recoveries" : 1212, 
+        "Cumulative_Cases" : 1584, 
+        "Active_Cases" : 348, 
+        "Recoveries" : 1209, 
         "Deaths" : 27, 
         "ObjectId" : 1682
       }
@@ -20266,8 +20266,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 50, 
         "Cumulative_Cases" : 1796, 
-        "Active_Cases" : 757, 
-        "Recoveries" : 1022, 
+        "Active_Cases" : 758, 
+        "Recoveries" : 1021, 
         "Deaths" : 17, 
         "ObjectId" : 1683
       }
@@ -20289,9 +20289,9 @@
         "Date" : 1608271200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 33, 
-        "Cumulative_Cases" : 3998, 
+        "Cumulative_Cases" : 3997, 
         "Active_Cases" : 427, 
-        "Recoveries" : 3467, 
+        "Recoveries" : 3466, 
         "Deaths" : 104, 
         "ObjectId" : 1685
       }
@@ -20301,8 +20301,8 @@
         "Date" : 1608271200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 111, 
-        "Cumulative_Cases" : 13801, 
-        "Active_Cases" : 3458, 
+        "Cumulative_Cases" : 13803, 
+        "Active_Cases" : 3460, 
         "Recoveries" : 9936, 
         "Deaths" : 407, 
         "ObjectId" : 1686
@@ -20314,8 +20314,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 223, 
         "Cumulative_Cases" : 22865, 
-        "Active_Cases" : 5258, 
-        "Recoveries" : 17013, 
+        "Active_Cases" : 5263, 
+        "Recoveries" : 17008, 
         "Deaths" : 594, 
         "ObjectId" : 1687
       }
@@ -20325,9 +20325,9 @@
         "Date" : 1608357600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 1600, 
-        "Active_Cases" : 352, 
-        "Recoveries" : 1221, 
+        "Cumulative_Cases" : 1599, 
+        "Active_Cases" : 354, 
+        "Recoveries" : 1218, 
         "Deaths" : 27, 
         "ObjectId" : 1688
       }
@@ -20338,8 +20338,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 26, 
         "Cumulative_Cases" : 1822, 
-        "Active_Cases" : 769, 
-        "Recoveries" : 1036, 
+        "Active_Cases" : 770, 
+        "Recoveries" : 1035, 
         "Deaths" : 17, 
         "ObjectId" : 1689
       }
@@ -20361,9 +20361,9 @@
         "Date" : 1608357600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 4036, 
+        "Cumulative_Cases" : 4035, 
         "Active_Cases" : 439, 
-        "Recoveries" : 3492, 
+        "Recoveries" : 3491, 
         "Deaths" : 105, 
         "ObjectId" : 1691
       }
@@ -20373,8 +20373,8 @@
         "Date" : 1608357600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 130, 
-        "Cumulative_Cases" : 13931, 
-        "Active_Cases" : 3503, 
+        "Cumulative_Cases" : 13933, 
+        "Active_Cases" : 3505, 
         "Recoveries" : 10014, 
         "Deaths" : 414, 
         "ObjectId" : 1692
@@ -20386,8 +20386,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 168, 
         "Cumulative_Cases" : 23033, 
-        "Active_Cases" : 5288, 
-        "Recoveries" : 17145, 
+        "Active_Cases" : 5293, 
+        "Recoveries" : 17140, 
         "Deaths" : 600, 
         "ObjectId" : 1693
       }
@@ -20397,9 +20397,9 @@
         "Date" : 1608444000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1609, 
-        "Active_Cases" : 353, 
-        "Recoveries" : 1229, 
+        "Cumulative_Cases" : 1608, 
+        "Active_Cases" : 355, 
+        "Recoveries" : 1226, 
         "Deaths" : 27, 
         "ObjectId" : 1694
       }
@@ -20410,8 +20410,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 23, 
         "Cumulative_Cases" : 1845, 
-        "Active_Cases" : 774, 
-        "Recoveries" : 1054, 
+        "Active_Cases" : 775, 
+        "Recoveries" : 1053, 
         "Deaths" : 17, 
         "ObjectId" : 1695
       }
@@ -20433,9 +20433,9 @@
         "Date" : 1608444000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 4078, 
+        "Cumulative_Cases" : 4077, 
         "Active_Cases" : 463, 
-        "Recoveries" : 3509, 
+        "Recoveries" : 3508, 
         "Deaths" : 106, 
         "ObjectId" : 1697
       }
@@ -20445,8 +20445,8 @@
         "Date" : 1608444000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 88, 
-        "Cumulative_Cases" : 14019, 
-        "Active_Cases" : 3509, 
+        "Cumulative_Cases" : 14021, 
+        "Active_Cases" : 3511, 
         "Recoveries" : 10091, 
         "Deaths" : 419, 
         "ObjectId" : 1698
@@ -20458,8 +20458,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 153, 
         "Cumulative_Cases" : 23186, 
-        "Active_Cases" : 4001, 
-        "Recoveries" : 18570, 
+        "Active_Cases" : 4007, 
+        "Recoveries" : 18564, 
         "Deaths" : 615, 
         "ObjectId" : 1699
       }
@@ -20469,9 +20469,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1618, 
-        "Active_Cases" : 317, 
-        "Recoveries" : 1272, 
+        "Cumulative_Cases" : 1617, 
+        "Active_Cases" : 319, 
+        "Recoveries" : 1269, 
         "Deaths" : 29, 
         "ObjectId" : 1700
       }
@@ -20482,8 +20482,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 24, 
         "Cumulative_Cases" : 1869, 
-        "Active_Cases" : 769, 
-        "Recoveries" : 1083, 
+        "Active_Cases" : 770, 
+        "Recoveries" : 1082, 
         "Deaths" : 17, 
         "ObjectId" : 1701
       }
@@ -20505,9 +20505,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4095, 
+        "Cumulative_Cases" : 4094, 
         "Active_Cases" : 373, 
-        "Recoveries" : 3613, 
+        "Recoveries" : 3612, 
         "Deaths" : 109, 
         "ObjectId" : 1703
       }
@@ -20517,9 +20517,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 91, 
-        "Cumulative_Cases" : 14110, 
-        "Active_Cases" : 2382, 
-        "Recoveries" : 11300, 
+        "Cumulative_Cases" : 14112, 
+        "Active_Cases" : 2385, 
+        "Recoveries" : 11299, 
         "Deaths" : 428, 
         "ObjectId" : 1704
       }
@@ -20530,8 +20530,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 202, 
         "Cumulative_Cases" : 23388, 
-        "Active_Cases" : 4029, 
-        "Recoveries" : 18735, 
+        "Active_Cases" : 4035, 
+        "Recoveries" : 18729, 
         "Deaths" : 624, 
         "ObjectId" : 1705
       }
@@ -20541,9 +20541,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1632, 
-        "Active_Cases" : 316, 
-        "Recoveries" : 1286, 
+        "Cumulative_Cases" : 1631, 
+        "Active_Cases" : 318, 
+        "Recoveries" : 1283, 
         "Deaths" : 30, 
         "ObjectId" : 1706
       }
@@ -20554,8 +20554,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 31, 
         "Cumulative_Cases" : 1900, 
-        "Active_Cases" : 778, 
-        "Recoveries" : 1105, 
+        "Active_Cases" : 779, 
+        "Recoveries" : 1104, 
         "Deaths" : 17, 
         "ObjectId" : 1707
       }
@@ -20577,9 +20577,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 4119, 
+        "Cumulative_Cases" : 4118, 
         "Active_Cases" : 371, 
-        "Recoveries" : 3638, 
+        "Recoveries" : 3637, 
         "Deaths" : 110, 
         "ObjectId" : 1709
       }
@@ -20589,9 +20589,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 121, 
-        "Cumulative_Cases" : 14231, 
-        "Active_Cases" : 2411, 
-        "Recoveries" : 11385, 
+        "Cumulative_Cases" : 14233, 
+        "Active_Cases" : 2414, 
+        "Recoveries" : 11384, 
         "Deaths" : 435, 
         "ObjectId" : 1710
       }
@@ -20602,8 +20602,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 241, 
         "Cumulative_Cases" : 23629, 
-        "Active_Cases" : 4097, 
-        "Recoveries" : 18894, 
+        "Active_Cases" : 4104, 
+        "Recoveries" : 18887, 
         "Deaths" : 638, 
         "ObjectId" : 1711
       }
@@ -20613,9 +20613,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 40, 
-        "Cumulative_Cases" : 1672, 
-        "Active_Cases" : 338, 
-        "Recoveries" : 1304, 
+        "Cumulative_Cases" : 1671, 
+        "Active_Cases" : 340, 
+        "Recoveries" : 1301, 
         "Deaths" : 30, 
         "ObjectId" : 1712
       }
@@ -20626,8 +20626,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 40, 
         "Cumulative_Cases" : 1940, 
-        "Active_Cases" : 801, 
-        "Recoveries" : 1121, 
+        "Active_Cases" : 802, 
+        "Recoveries" : 1120, 
         "Deaths" : 18, 
         "ObjectId" : 1713
       }
@@ -20649,9 +20649,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 41, 
-        "Cumulative_Cases" : 4160, 
-        "Active_Cases" : 373, 
-        "Recoveries" : 3675, 
+        "Cumulative_Cases" : 4159, 
+        "Active_Cases" : 374, 
+        "Recoveries" : 3673, 
         "Deaths" : 112, 
         "ObjectId" : 1715
       }
@@ -20661,9 +20661,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 117, 
-        "Cumulative_Cases" : 14348, 
-        "Active_Cases" : 2446, 
-        "Recoveries" : 11456, 
+        "Cumulative_Cases" : 14350, 
+        "Active_Cases" : 2449, 
+        "Recoveries" : 11455, 
         "Deaths" : 446, 
         "ObjectId" : 1716
       }
@@ -20674,8 +20674,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 176, 
         "Cumulative_Cases" : 23805, 
-        "Active_Cases" : 4094, 
-        "Recoveries" : 19060, 
+        "Active_Cases" : 4101, 
+        "Recoveries" : 19053, 
         "Deaths" : 651, 
         "ObjectId" : 1717
       }
@@ -20685,9 +20685,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 1693, 
-        "Active_Cases" : 321, 
-        "Recoveries" : 1340, 
+        "Cumulative_Cases" : 1692, 
+        "Active_Cases" : 323, 
+        "Recoveries" : 1337, 
         "Deaths" : 32, 
         "ObjectId" : 1718
       }
@@ -20698,8 +20698,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 27, 
         "Cumulative_Cases" : 1967, 
-        "Active_Cases" : 807, 
-        "Recoveries" : 1142, 
+        "Active_Cases" : 808, 
+        "Recoveries" : 1141, 
         "Deaths" : 18, 
         "ObjectId" : 1719
       }
@@ -20721,9 +20721,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4177, 
-        "Active_Cases" : 373, 
-        "Recoveries" : 3691, 
+        "Cumulative_Cases" : 4176, 
+        "Active_Cases" : 374, 
+        "Recoveries" : 3689, 
         "Deaths" : 113, 
         "ObjectId" : 1721
       }
@@ -20733,9 +20733,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 103, 
-        "Cumulative_Cases" : 14451, 
-        "Active_Cases" : 2450, 
-        "Recoveries" : 11545, 
+        "Cumulative_Cases" : 14453, 
+        "Active_Cases" : 2453, 
+        "Recoveries" : 11544, 
         "Deaths" : 456, 
         "ObjectId" : 1722
       }
@@ -20746,8 +20746,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 198, 
         "Cumulative_Cases" : 24003, 
-        "Active_Cases" : 4140, 
-        "Recoveries" : 19207, 
+        "Active_Cases" : 4147, 
+        "Recoveries" : 19200, 
         "Deaths" : 656, 
         "ObjectId" : 1723
       }
@@ -20757,9 +20757,9 @@
         "Date" : 1608876000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 55, 
-        "Cumulative_Cases" : 1748, 
-        "Active_Cases" : 363, 
-        "Recoveries" : 1353, 
+        "Cumulative_Cases" : 1747, 
+        "Active_Cases" : 365, 
+        "Recoveries" : 1350, 
         "Deaths" : 32, 
         "ObjectId" : 1724
       }
@@ -20770,8 +20770,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 24, 
         "Cumulative_Cases" : 1991, 
-        "Active_Cases" : 813, 
-        "Recoveries" : 1158, 
+        "Active_Cases" : 814, 
+        "Recoveries" : 1157, 
         "Deaths" : 20, 
         "ObjectId" : 1725
       }
@@ -20793,9 +20793,9 @@
         "Date" : 1608876000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 4204, 
-        "Active_Cases" : 375, 
-        "Recoveries" : 3714, 
+        "Cumulative_Cases" : 4203, 
+        "Active_Cases" : 377, 
+        "Recoveries" : 3711, 
         "Deaths" : 115, 
         "ObjectId" : 1727
       }
@@ -20805,8 +20805,8 @@
         "Date" : 1608876000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 84, 
-        "Cumulative_Cases" : 14535, 
-        "Active_Cases" : 2445, 
+        "Cumulative_Cases" : 14537, 
+        "Active_Cases" : 2447, 
         "Recoveries" : 11633, 
         "Deaths" : 457, 
         "ObjectId" : 1728
@@ -20818,8 +20818,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 146, 
         "Cumulative_Cases" : 24149, 
-        "Active_Cases" : 4139, 
-        "Recoveries" : 19342, 
+        "Active_Cases" : 4146, 
+        "Recoveries" : 19335, 
         "Deaths" : 668, 
         "ObjectId" : 1729
       }
@@ -20829,9 +20829,9 @@
         "Date" : 1608962400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1768, 
-        "Active_Cases" : 367, 
-        "Recoveries" : 1368, 
+        "Cumulative_Cases" : 1767, 
+        "Active_Cases" : 369, 
+        "Recoveries" : 1365, 
         "Deaths" : 33, 
         "ObjectId" : 1730
       }
@@ -20842,8 +20842,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 48, 
         "Cumulative_Cases" : 2039, 
-        "Active_Cases" : 844, 
-        "Recoveries" : 1174, 
+        "Active_Cases" : 845, 
+        "Recoveries" : 1173, 
         "Deaths" : 21, 
         "ObjectId" : 1731
       }
@@ -20865,9 +20865,9 @@
         "Date" : 1608962400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 4219, 
-        "Active_Cases" : 365, 
-        "Recoveries" : 3739, 
+        "Cumulative_Cases" : 4218, 
+        "Active_Cases" : 367, 
+        "Recoveries" : 3736, 
         "Deaths" : 115, 
         "ObjectId" : 1733
       }
@@ -20877,8 +20877,8 @@
         "Date" : 1608962400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 53, 
-        "Cumulative_Cases" : 14588, 
-        "Active_Cases" : 2421, 
+        "Cumulative_Cases" : 14590, 
+        "Active_Cases" : 2423, 
         "Recoveries" : 11700, 
         "Deaths" : 467, 
         "ObjectId" : 1734
@@ -20890,8 +20890,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 116, 
         "Cumulative_Cases" : 24265, 
-        "Active_Cases" : 4116, 
-        "Recoveries" : 19476, 
+        "Active_Cases" : 4123, 
+        "Recoveries" : 19469, 
         "Deaths" : 673, 
         "ObjectId" : 1735
       }
@@ -20901,9 +20901,9 @@
         "Date" : 1609048800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1777, 
-        "Active_Cases" : 368, 
-        "Recoveries" : 1376, 
+        "Cumulative_Cases" : 1776, 
+        "Active_Cases" : 370, 
+        "Recoveries" : 1373, 
         "Deaths" : 33, 
         "ObjectId" : 1736
       }
@@ -20914,8 +20914,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 20, 
         "Cumulative_Cases" : 2059, 
-        "Active_Cases" : 843, 
-        "Recoveries" : 1195, 
+        "Active_Cases" : 844, 
+        "Recoveries" : 1194, 
         "Deaths" : 21, 
         "ObjectId" : 1737
       }
@@ -20937,9 +20937,9 @@
         "Date" : 1609048800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 4243, 
-        "Active_Cases" : 369, 
-        "Recoveries" : 3759, 
+        "Cumulative_Cases" : 4242, 
+        "Active_Cases" : 371, 
+        "Recoveries" : 3756, 
         "Deaths" : 115, 
         "ObjectId" : 1739
       }
@@ -20949,8 +20949,8 @@
         "Date" : 1609048800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 14639, 
-        "Active_Cases" : 2400, 
+        "Cumulative_Cases" : 14641, 
+        "Active_Cases" : 2402, 
         "Recoveries" : 11768, 
         "Deaths" : 471, 
         "ObjectId" : 1740
@@ -20962,8 +20962,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 124, 
         "Cumulative_Cases" : 24389, 
-        "Active_Cases" : 4089, 
-        "Recoveries" : 19622, 
+        "Active_Cases" : 4096, 
+        "Recoveries" : 19615, 
         "Deaths" : 678, 
         "ObjectId" : 1741
       }
@@ -20973,9 +20973,9 @@
         "Date" : 1609135200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 1783, 
-        "Active_Cases" : 367, 
-        "Recoveries" : 1383, 
+        "Cumulative_Cases" : 1782, 
+        "Active_Cases" : 369, 
+        "Recoveries" : 1380, 
         "Deaths" : 33, 
         "ObjectId" : 1742
       }
@@ -20986,8 +20986,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 1, 
         "Cumulative_Cases" : 2060, 
-        "Active_Cases" : 832, 
-        "Recoveries" : 1207, 
+        "Active_Cases" : 833, 
+        "Recoveries" : 1206, 
         "Deaths" : 21, 
         "ObjectId" : 1743
       }
@@ -21009,9 +21009,9 @@
         "Date" : 1609135200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 4264, 
-        "Active_Cases" : 365, 
-        "Recoveries" : 3783, 
+        "Cumulative_Cases" : 4263, 
+        "Active_Cases" : 367, 
+        "Recoveries" : 3780, 
         "Deaths" : 116, 
         "ObjectId" : 1745
       }
@@ -21021,8 +21021,8 @@
         "Date" : 1609135200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 90, 
-        "Cumulative_Cases" : 14729, 
-        "Active_Cases" : 2394, 
+        "Cumulative_Cases" : 14731, 
+        "Active_Cases" : 2396, 
         "Recoveries" : 11861, 
         "Deaths" : 474, 
         "ObjectId" : 1746
@@ -21034,8 +21034,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 125, 
         "Cumulative_Cases" : 24514, 
-        "Active_Cases" : 4125, 
-        "Recoveries" : 19708, 
+        "Active_Cases" : 4132, 
+        "Recoveries" : 19701, 
         "Deaths" : 681, 
         "ObjectId" : 1747
       }
@@ -21045,9 +21045,9 @@
         "Date" : 1609221600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 1794, 
-        "Active_Cases" : 369, 
-        "Recoveries" : 1392, 
+        "Cumulative_Cases" : 1793, 
+        "Active_Cases" : 371, 
+        "Recoveries" : 1389, 
         "Deaths" : 33, 
         "ObjectId" : 1748
       }
@@ -21058,8 +21058,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 8, 
         "Cumulative_Cases" : 2068, 
-        "Active_Cases" : 828, 
-        "Recoveries" : 1218, 
+        "Active_Cases" : 829, 
+        "Recoveries" : 1217, 
         "Deaths" : 22, 
         "ObjectId" : 1749
       }
@@ -21081,9 +21081,9 @@
         "Date" : 1609221600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 4274, 
-        "Active_Cases" : 360, 
-        "Recoveries" : 3798, 
+        "Cumulative_Cases" : 4273, 
+        "Active_Cases" : 362, 
+        "Recoveries" : 3795, 
         "Deaths" : 116, 
         "ObjectId" : 1751
       }
@@ -21093,8 +21093,8 @@
         "Date" : 1609221600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 89, 
-        "Cumulative_Cases" : 14818, 
-        "Active_Cases" : 2436, 
+        "Cumulative_Cases" : 14820, 
+        "Active_Cases" : 2438, 
         "Recoveries" : 11907, 
         "Deaths" : 475, 
         "ObjectId" : 1752
@@ -21106,8 +21106,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 185, 
         "Cumulative_Cases" : 24699, 
-        "Active_Cases" : 4193, 
-        "Recoveries" : 19822, 
+        "Active_Cases" : 4200, 
+        "Recoveries" : 19815, 
         "Deaths" : 684, 
         "ObjectId" : 1753
       }
@@ -21117,9 +21117,9 @@
         "Date" : 1609308000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 1811, 
-        "Active_Cases" : 377, 
-        "Recoveries" : 1401, 
+        "Cumulative_Cases" : 1810, 
+        "Active_Cases" : 379, 
+        "Recoveries" : 1398, 
         "Deaths" : 33, 
         "ObjectId" : 1754
       }
@@ -21130,8 +21130,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 38, 
         "Cumulative_Cases" : 2106, 
-        "Active_Cases" : 853, 
-        "Recoveries" : 1231, 
+        "Active_Cases" : 854, 
+        "Recoveries" : 1230, 
         "Deaths" : 22, 
         "ObjectId" : 1755
       }
@@ -21153,9 +21153,9 @@
         "Date" : 1609308000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 4304, 
-        "Active_Cases" : 366, 
-        "Recoveries" : 3822, 
+        "Cumulative_Cases" : 4303, 
+        "Active_Cases" : 368, 
+        "Recoveries" : 3819, 
         "Deaths" : 116, 
         "ObjectId" : 1757
       }
@@ -21165,8 +21165,8 @@
         "Date" : 1609308000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 93, 
-        "Cumulative_Cases" : 14911, 
-        "Active_Cases" : 2461, 
+        "Cumulative_Cases" : 14913, 
+        "Active_Cases" : 2463, 
         "Recoveries" : 11972, 
         "Deaths" : 478, 
         "ObjectId" : 1758
@@ -21178,8 +21178,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 154, 
         "Cumulative_Cases" : 24853, 
-        "Active_Cases" : 4225, 
-        "Recoveries" : 19937, 
+        "Active_Cases" : 4232, 
+        "Recoveries" : 19930, 
         "Deaths" : 691, 
         "ObjectId" : 1759
       }
@@ -21189,9 +21189,9 @@
         "Date" : 1609394400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 1818, 
-        "Active_Cases" : 378, 
-        "Recoveries" : 1407, 
+        "Cumulative_Cases" : 1817, 
+        "Active_Cases" : 380, 
+        "Recoveries" : 1404, 
         "Deaths" : 33, 
         "ObjectId" : 1760
       }
@@ -21202,8 +21202,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 23, 
         "Cumulative_Cases" : 2129, 
-        "Active_Cases" : 861, 
-        "Recoveries" : 1246, 
+        "Active_Cases" : 862, 
+        "Recoveries" : 1245, 
         "Deaths" : 22, 
         "ObjectId" : 1761
       }
@@ -21225,9 +21225,9 @@
         "Date" : 1609394400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4321, 
-        "Active_Cases" : 360, 
-        "Recoveries" : 3845, 
+        "Cumulative_Cases" : 4320, 
+        "Active_Cases" : 362, 
+        "Recoveries" : 3842, 
         "Deaths" : 116, 
         "ObjectId" : 1763
       }
@@ -21237,8 +21237,8 @@
         "Date" : 1609394400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 101, 
-        "Cumulative_Cases" : 15012, 
-        "Active_Cases" : 2490, 
+        "Cumulative_Cases" : 15014, 
+        "Active_Cases" : 2492, 
         "Recoveries" : 12037, 
         "Deaths" : 485, 
         "ObjectId" : 1764
@@ -21250,8 +21250,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 180, 
         "Cumulative_Cases" : 25033, 
-        "Active_Cases" : 4241, 
-        "Recoveries" : 20094, 
+        "Active_Cases" : 4248, 
+        "Recoveries" : 20087, 
         "Deaths" : 698, 
         "ObjectId" : 1765
       }
@@ -21261,9 +21261,9 @@
         "Date" : 1609480800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1827, 
-        "Active_Cases" : 352, 
-        "Recoveries" : 1441, 
+        "Cumulative_Cases" : 1826, 
+        "Active_Cases" : 354, 
+        "Recoveries" : 1438, 
         "Deaths" : 34, 
         "ObjectId" : 1766
       }
@@ -21274,8 +21274,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 30, 
         "Cumulative_Cases" : 2159, 
-        "Active_Cases" : 876, 
-        "Recoveries" : 1261, 
+        "Active_Cases" : 877, 
+        "Recoveries" : 1260, 
         "Deaths" : 22, 
         "ObjectId" : 1767
       }
@@ -21297,9 +21297,9 @@
         "Date" : 1609480800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 4339, 
-        "Active_Cases" : 354, 
-        "Recoveries" : 3867, 
+        "Cumulative_Cases" : 4338, 
+        "Active_Cases" : 356, 
+        "Recoveries" : 3864, 
         "Deaths" : 118, 
         "ObjectId" : 1769
       }
@@ -21309,8 +21309,8 @@
         "Date" : 1609480800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 115, 
-        "Cumulative_Cases" : 15127, 
-        "Active_Cases" : 2519, 
+        "Cumulative_Cases" : 15129, 
+        "Active_Cases" : 2521, 
         "Recoveries" : 12119, 
         "Deaths" : 489, 
         "ObjectId" : 1770
@@ -21322,8 +21322,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 94, 
         "Cumulative_Cases" : 25127, 
-        "Active_Cases" : 4161, 
-        "Recoveries" : 20265, 
+        "Active_Cases" : 4168, 
+        "Recoveries" : 20258, 
         "Deaths" : 701, 
         "ObjectId" : 1771
       }
@@ -21333,9 +21333,9 @@
         "Date" : 1609567200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 1830, 
-        "Active_Cases" : 291, 
-        "Recoveries" : 1505, 
+        "Cumulative_Cases" : 1829, 
+        "Active_Cases" : 293, 
+        "Recoveries" : 1502, 
         "Deaths" : 34, 
         "ObjectId" : 1772
       }
@@ -21346,8 +21346,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 11, 
         "Cumulative_Cases" : 2170, 
-        "Active_Cases" : 871, 
-        "Recoveries" : 1277, 
+        "Active_Cases" : 872, 
+        "Recoveries" : 1276, 
         "Deaths" : 22, 
         "ObjectId" : 1773
       }
@@ -21369,9 +21369,9 @@
         "Date" : 1609567200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 4354, 
-        "Active_Cases" : 360, 
-        "Recoveries" : 3876, 
+        "Cumulative_Cases" : 4353, 
+        "Active_Cases" : 362, 
+        "Recoveries" : 3873, 
         "Deaths" : 118, 
         "ObjectId" : 1775
       }
@@ -21381,8 +21381,8 @@
         "Date" : 1609567200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 57, 
-        "Cumulative_Cases" : 15184, 
-        "Active_Cases" : 2497, 
+        "Cumulative_Cases" : 15186, 
+        "Active_Cases" : 2499, 
         "Recoveries" : 12195, 
         "Deaths" : 492, 
         "ObjectId" : 1776
@@ -21394,8 +21394,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 122, 
         "Cumulative_Cases" : 25249, 
-        "Active_Cases" : 4172, 
-        "Recoveries" : 20372, 
+        "Active_Cases" : 4179, 
+        "Recoveries" : 20365, 
         "Deaths" : 705, 
         "ObjectId" : 1777
       }
@@ -21405,9 +21405,9 @@
         "Date" : 1609653600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 1838, 
-        "Active_Cases" : 294, 
-        "Recoveries" : 1510, 
+        "Cumulative_Cases" : 1837, 
+        "Active_Cases" : 296, 
+        "Recoveries" : 1507, 
         "Deaths" : 34, 
         "ObjectId" : 1778
       }
@@ -21418,8 +21418,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 3, 
         "Cumulative_Cases" : 2173, 
-        "Active_Cases" : 856, 
-        "Recoveries" : 1295, 
+        "Active_Cases" : 857, 
+        "Recoveries" : 1294, 
         "Deaths" : 22, 
         "ObjectId" : 1779
       }
@@ -21441,9 +21441,9 @@
         "Date" : 1609653600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 4372, 
-        "Active_Cases" : 365, 
-        "Recoveries" : 3889, 
+        "Cumulative_Cases" : 4371, 
+        "Active_Cases" : 367, 
+        "Recoveries" : 3886, 
         "Deaths" : 118, 
         "ObjectId" : 1781
       }
@@ -21453,8 +21453,8 @@
         "Date" : 1609653600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 86, 
-        "Cumulative_Cases" : 15270, 
-        "Active_Cases" : 2516, 
+        "Cumulative_Cases" : 15272, 
+        "Active_Cases" : 2518, 
         "Recoveries" : 12259, 
         "Deaths" : 495, 
         "ObjectId" : 1782
@@ -21466,8 +21466,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 131, 
         "Cumulative_Cases" : 25380, 
-        "Active_Cases" : 4203, 
-        "Recoveries" : 20463, 
+        "Active_Cases" : 4210, 
+        "Recoveries" : 20456, 
         "Deaths" : 714, 
         "ObjectId" : 1783
       }
@@ -21477,9 +21477,9 @@
         "Date" : 1609740000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1858, 
-        "Active_Cases" : 298, 
-        "Recoveries" : 1526, 
+        "Cumulative_Cases" : 1857, 
+        "Active_Cases" : 300, 
+        "Recoveries" : 1523, 
         "Deaths" : 34, 
         "ObjectId" : 1784
       }
@@ -21490,8 +21490,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 16, 
         "Cumulative_Cases" : 2189, 
-        "Active_Cases" : 866, 
-        "Recoveries" : 1300, 
+        "Active_Cases" : 867, 
+        "Recoveries" : 1299, 
         "Deaths" : 23, 
         "ObjectId" : 1785
       }
@@ -21513,9 +21513,9 @@
         "Date" : 1609740000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4383, 
-        "Active_Cases" : 358, 
-        "Recoveries" : 3906, 
+        "Cumulative_Cases" : 4382, 
+        "Active_Cases" : 360, 
+        "Recoveries" : 3903, 
         "Deaths" : 119, 
         "ObjectId" : 1787
       }
@@ -21525,8 +21525,8 @@
         "Date" : 1609740000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 75, 
-        "Cumulative_Cases" : 15345, 
-        "Active_Cases" : 2533, 
+        "Cumulative_Cases" : 15347, 
+        "Active_Cases" : 2535, 
         "Recoveries" : 12310, 
         "Deaths" : 502, 
         "ObjectId" : 1788
@@ -21538,8 +21538,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 185, 
         "Cumulative_Cases" : 25565, 
-        "Active_Cases" : 4291, 
-        "Recoveries" : 20551, 
+        "Active_Cases" : 4298, 
+        "Recoveries" : 20544, 
         "Deaths" : 723, 
         "ObjectId" : 1789
       }
@@ -21549,9 +21549,9 @@
         "Date" : 1609826400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 1866, 
-        "Active_Cases" : 298, 
-        "Recoveries" : 1533, 
+        "Cumulative_Cases" : 1865, 
+        "Active_Cases" : 300, 
+        "Recoveries" : 1530, 
         "Deaths" : 35, 
         "ObjectId" : 1790
       }
@@ -21562,8 +21562,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 50, 
         "Cumulative_Cases" : 2239, 
-        "Active_Cases" : 911, 
-        "Recoveries" : 1305, 
+        "Active_Cases" : 912, 
+        "Recoveries" : 1304, 
         "Deaths" : 23, 
         "ObjectId" : 1791
       }
@@ -21585,9 +21585,9 @@
         "Date" : 1609826400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 12, 
-        "Cumulative_Cases" : 4395, 
-        "Active_Cases" : 349, 
-        "Recoveries" : 3927, 
+        "Cumulative_Cases" : 4394, 
+        "Active_Cases" : 351, 
+        "Recoveries" : 3924, 
         "Deaths" : 119, 
         "ObjectId" : 1793
       }
@@ -21597,8 +21597,8 @@
         "Date" : 1609826400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 104, 
-        "Cumulative_Cases" : 15449, 
-        "Active_Cases" : 2583, 
+        "Cumulative_Cases" : 15451, 
+        "Active_Cases" : 2585, 
         "Recoveries" : 12358, 
         "Deaths" : 508, 
         "ObjectId" : 1794
@@ -21610,8 +21610,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 179, 
         "Cumulative_Cases" : 25744, 
-        "Active_Cases" : 4360, 
-        "Recoveries" : 20653, 
+        "Active_Cases" : 4367, 
+        "Recoveries" : 20646, 
         "Deaths" : 731, 
         "ObjectId" : 1795
       }
@@ -21621,9 +21621,9 @@
         "Date" : 1609912800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1880, 
-        "Active_Cases" : 309, 
-        "Recoveries" : 1536, 
+        "Cumulative_Cases" : 1879, 
+        "Active_Cases" : 311, 
+        "Recoveries" : 1533, 
         "Deaths" : 35, 
         "ObjectId" : 1796
       }
@@ -21634,8 +21634,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 37, 
         "Cumulative_Cases" : 2276, 
-        "Active_Cases" : 939, 
-        "Recoveries" : 1314, 
+        "Active_Cases" : 940, 
+        "Recoveries" : 1313, 
         "Deaths" : 23, 
         "ObjectId" : 1797
       }
@@ -21657,9 +21657,9 @@
         "Date" : 1609912800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 4411, 
-        "Active_Cases" : 348, 
-        "Recoveries" : 3943, 
+        "Cumulative_Cases" : 4410, 
+        "Active_Cases" : 350, 
+        "Recoveries" : 3940, 
         "Deaths" : 120, 
         "ObjectId" : 1799
       }
@@ -21669,8 +21669,8 @@
         "Date" : 1609912800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 95, 
-        "Cumulative_Cases" : 15544, 
-        "Active_Cases" : 2605, 
+        "Cumulative_Cases" : 15546, 
+        "Active_Cases" : 2607, 
         "Recoveries" : 12426, 
         "Deaths" : 513, 
         "ObjectId" : 1800
@@ -21682,8 +21682,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 226, 
         "Cumulative_Cases" : 25970, 
-        "Active_Cases" : 4442, 
-        "Recoveries" : 20790, 
+        "Active_Cases" : 4449, 
+        "Recoveries" : 20783, 
         "Deaths" : 738, 
         "ObjectId" : 1801
       }
@@ -21693,9 +21693,9 @@
         "Date" : 1609999200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 1895, 
-        "Active_Cases" : 314, 
-        "Recoveries" : 1546, 
+        "Cumulative_Cases" : 1894, 
+        "Active_Cases" : 316, 
+        "Recoveries" : 1543, 
         "Deaths" : 35, 
         "ObjectId" : 1802
       }
@@ -21706,8 +21706,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 71, 
         "Cumulative_Cases" : 2347, 
-        "Active_Cases" : 1002, 
-        "Recoveries" : 1322, 
+        "Active_Cases" : 1003, 
+        "Recoveries" : 1321, 
         "Deaths" : 23, 
         "ObjectId" : 1803
       }
@@ -21729,9 +21729,9 @@
         "Date" : 1609999200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 4424, 
-        "Active_Cases" : 342, 
-        "Recoveries" : 3962, 
+        "Cumulative_Cases" : 4423, 
+        "Active_Cases" : 344, 
+        "Recoveries" : 3959, 
         "Deaths" : 120, 
         "ObjectId" : 1805
       }
@@ -21741,8 +21741,8 @@
         "Date" : 1609999200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 101, 
-        "Cumulative_Cases" : 15645, 
-        "Active_Cases" : 2610, 
+        "Cumulative_Cases" : 15647, 
+        "Active_Cases" : 2612, 
         "Recoveries" : 12515, 
         "Deaths" : 520, 
         "ObjectId" : 1806
@@ -21754,8 +21754,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 200, 
         "Cumulative_Cases" : 26170, 
-        "Active_Cases" : 4516, 
-        "Recoveries" : 20910, 
+        "Active_Cases" : 4523, 
+        "Recoveries" : 20903, 
         "Deaths" : 744, 
         "ObjectId" : 1807
       }
@@ -21765,9 +21765,9 @@
         "Date" : 1610085600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 1903, 
-        "Active_Cases" : 310, 
-        "Recoveries" : 1558, 
+        "Cumulative_Cases" : 1902, 
+        "Active_Cases" : 312, 
+        "Recoveries" : 1555, 
         "Deaths" : 35, 
         "ObjectId" : 1808
       }
@@ -21778,8 +21778,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 48, 
         "Cumulative_Cases" : 2395, 
-        "Active_Cases" : 1040, 
-        "Recoveries" : 1332, 
+        "Active_Cases" : 1041, 
+        "Recoveries" : 1331, 
         "Deaths" : 23, 
         "ObjectId" : 1809
       }
@@ -21801,9 +21801,9 @@
         "Date" : 1610085600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4441, 
-        "Active_Cases" : 347, 
-        "Recoveries" : 3973, 
+        "Cumulative_Cases" : 4440, 
+        "Active_Cases" : 349, 
+        "Recoveries" : 3970, 
         "Deaths" : 121, 
         "ObjectId" : 1811
       }
@@ -21813,8 +21813,8 @@
         "Date" : 1610085600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 88, 
-        "Cumulative_Cases" : 15733, 
-        "Active_Cases" : 2624, 
+        "Cumulative_Cases" : 15735, 
+        "Active_Cases" : 2626, 
         "Recoveries" : 12584, 
         "Deaths" : 525, 
         "ObjectId" : 1812
@@ -21826,8 +21826,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 140, 
         "Cumulative_Cases" : 26310, 
-        "Active_Cases" : 4554, 
-        "Recoveries" : 21007, 
+        "Active_Cases" : 4561, 
+        "Recoveries" : 21000, 
         "Deaths" : 749, 
         "ObjectId" : 1813
       }
@@ -21837,9 +21837,9 @@
         "Date" : 1610172000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 1910, 
-        "Active_Cases" : 311, 
-        "Recoveries" : 1564, 
+        "Cumulative_Cases" : 1909, 
+        "Active_Cases" : 313, 
+        "Recoveries" : 1561, 
         "Deaths" : 35, 
         "ObjectId" : 1814
       }
@@ -21850,8 +21850,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
         "Cumulative_Cases" : 2438, 
-        "Active_Cases" : 1072, 
-        "Recoveries" : 1343, 
+        "Active_Cases" : 1073, 
+        "Recoveries" : 1342, 
         "Deaths" : 23, 
         "ObjectId" : 1815
       }
@@ -21873,9 +21873,9 @@
         "Date" : 1610172000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 4456, 
-        "Active_Cases" : 346, 
-        "Recoveries" : 3989, 
+        "Cumulative_Cases" : 4455, 
+        "Active_Cases" : 348, 
+        "Recoveries" : 3986, 
         "Deaths" : 121, 
         "ObjectId" : 1817
       }
@@ -21885,8 +21885,8 @@
         "Date" : 1610172000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 66, 
-        "Cumulative_Cases" : 15799, 
-        "Active_Cases" : 2636, 
+        "Cumulative_Cases" : 15801, 
+        "Active_Cases" : 2638, 
         "Recoveries" : 12634, 
         "Deaths" : 529, 
         "ObjectId" : 1818
@@ -21898,8 +21898,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 135, 
         "Cumulative_Cases" : 26445, 
-        "Active_Cases" : 3404, 
-        "Recoveries" : 22289, 
+        "Active_Cases" : 3411, 
+        "Recoveries" : 22282, 
         "Deaths" : 752, 
         "ObjectId" : 1819
       }
@@ -21909,9 +21909,9 @@
         "Date" : 1610258400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 1920, 
-        "Active_Cases" : 295, 
-        "Recoveries" : 1590, 
+        "Cumulative_Cases" : 1919, 
+        "Active_Cases" : 297, 
+        "Recoveries" : 1587, 
         "Deaths" : 35, 
         "ObjectId" : 1820
       }
@@ -21922,8 +21922,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 35, 
         "Cumulative_Cases" : 2473, 
-        "Active_Cases" : 1095, 
-        "Recoveries" : 1354, 
+        "Active_Cases" : 1096, 
+        "Recoveries" : 1353, 
         "Deaths" : 24, 
         "ObjectId" : 1821
       }
@@ -21945,9 +21945,9 @@
         "Date" : 1610258400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4470, 
-        "Active_Cases" : 313, 
-        "Recoveries" : 4036, 
+        "Cumulative_Cases" : 4469, 
+        "Active_Cases" : 315, 
+        "Recoveries" : 4033, 
         "Deaths" : 121, 
         "ObjectId" : 1823
       }
@@ -21957,8 +21957,8 @@
         "Date" : 1610258400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 49, 
-        "Cumulative_Cases" : 15848, 
-        "Active_Cases" : 1520, 
+        "Cumulative_Cases" : 15850, 
+        "Active_Cases" : 1522, 
         "Recoveries" : 13797, 
         "Deaths" : 531, 
         "ObjectId" : 1824
@@ -21970,8 +21970,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 103, 
         "Cumulative_Cases" : 26548, 
-        "Active_Cases" : 3285, 
-        "Recoveries" : 22506, 
+        "Active_Cases" : 3292, 
+        "Recoveries" : 22499, 
         "Deaths" : 757, 
         "ObjectId" : 1825
       }
@@ -21981,9 +21981,9 @@
         "Date" : 1610344800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 1926, 
-        "Active_Cases" : 299, 
-        "Recoveries" : 1592, 
+        "Cumulative_Cases" : 1925, 
+        "Active_Cases" : 301, 
+        "Recoveries" : 1589, 
         "Deaths" : 35, 
         "ObjectId" : 1826
       }
@@ -21994,8 +21994,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 9, 
         "Cumulative_Cases" : 2482, 
-        "Active_Cases" : 1089, 
-        "Recoveries" : 1369, 
+        "Active_Cases" : 1090, 
+        "Recoveries" : 1368, 
         "Deaths" : 24, 
         "ObjectId" : 1827
       }
@@ -22017,9 +22017,9 @@
         "Date" : 1610344800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4478, 
-        "Active_Cases" : 297, 
-        "Recoveries" : 4060, 
+        "Cumulative_Cases" : 4477, 
+        "Active_Cases" : 299, 
+        "Recoveries" : 4057, 
         "Deaths" : 121, 
         "ObjectId" : 1829
       }
@@ -22029,8 +22029,8 @@
         "Date" : 1610344800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 56, 
-        "Cumulative_Cases" : 15904, 
-        "Active_Cases" : 1414, 
+        "Cumulative_Cases" : 15906, 
+        "Active_Cases" : 1416, 
         "Recoveries" : 13955, 
         "Deaths" : 535, 
         "ObjectId" : 1830
@@ -22042,8 +22042,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 149, 
         "Cumulative_Cases" : 26697, 
-        "Active_Cases" : 3149, 
-        "Recoveries" : 22784, 
+        "Active_Cases" : 3156, 
+        "Recoveries" : 22777, 
         "Deaths" : 764, 
         "ObjectId" : 1831
       }
@@ -22053,9 +22053,9 @@
         "Date" : 1610431200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 1931, 
-        "Active_Cases" : 296, 
-        "Recoveries" : 1600, 
+        "Cumulative_Cases" : 1930, 
+        "Active_Cases" : 298, 
+        "Recoveries" : 1597, 
         "Deaths" : 35, 
         "ObjectId" : 1832
       }
@@ -22066,8 +22066,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 71, 
         "Cumulative_Cases" : 2553, 
-        "Active_Cases" : 1136, 
-        "Recoveries" : 1392, 
+        "Active_Cases" : 1137, 
+        "Recoveries" : 1391, 
         "Deaths" : 25, 
         "ObjectId" : 1833
       }
@@ -22089,9 +22089,9 @@
         "Date" : 1610431200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4486, 
-        "Active_Cases" : 288, 
-        "Recoveries" : 4077, 
+        "Cumulative_Cases" : 4485, 
+        "Active_Cases" : 290, 
+        "Recoveries" : 4074, 
         "Deaths" : 121, 
         "ObjectId" : 1835
       }
@@ -22101,8 +22101,8 @@
         "Date" : 1610431200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 54, 
-        "Cumulative_Cases" : 15958, 
-        "Active_Cases" : 1244, 
+        "Cumulative_Cases" : 15960, 
+        "Active_Cases" : 1246, 
         "Recoveries" : 14175, 
         "Deaths" : 539, 
         "ObjectId" : 1836
@@ -22114,8 +22114,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 257, 
         "Cumulative_Cases" : 26954, 
-        "Active_Cases" : 3166, 
-        "Recoveries" : 23023, 
+        "Active_Cases" : 3175, 
+        "Recoveries" : 23014, 
         "Deaths" : 765, 
         "ObjectId" : 1837
       }
@@ -22125,9 +22125,9 @@
         "Date" : 1610517600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1944, 
-        "Active_Cases" : 300, 
-        "Recoveries" : 1609, 
+        "Cumulative_Cases" : 1943, 
+        "Active_Cases" : 302, 
+        "Recoveries" : 1606, 
         "Deaths" : 35, 
         "ObjectId" : 1838
       }
@@ -22136,10 +22136,10 @@
       "attributes" : {
         "Date" : 1610517600000, 
         "RHA" : "Northern", 
-        "Daily_Cases" : 133, 
-        "Cumulative_Cases" : 2686, 
-        "Active_Cases" : 1239, 
-        "Recoveries" : 1422, 
+        "Daily_Cases" : 132, 
+        "Cumulative_Cases" : 2685, 
+        "Active_Cases" : 1240, 
+        "Recoveries" : 1420, 
         "Deaths" : 25, 
         "ObjectId" : 1839
       }
@@ -22161,9 +22161,9 @@
         "Date" : 1610517600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4497, 
-        "Active_Cases" : 280, 
-        "Recoveries" : 4096, 
+        "Cumulative_Cases" : 4496, 
+        "Active_Cases" : 282, 
+        "Recoveries" : 4093, 
         "Deaths" : 121, 
         "ObjectId" : 1841
       }
@@ -22172,10 +22172,10 @@
       "attributes" : {
         "Date" : 1610517600000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 75, 
-        "Cumulative_Cases" : 16033, 
-        "Active_Cases" : 1155, 
-        "Recoveries" : 14338, 
+        "Daily_Cases" : 76, 
+        "Cumulative_Cases" : 16036, 
+        "Active_Cases" : 1159, 
+        "Recoveries" : 14337, 
         "Deaths" : 540, 
         "ObjectId" : 1842
       }
@@ -22186,8 +22186,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 189, 
         "Cumulative_Cases" : 27143, 
-        "Active_Cases" : 3241, 
-        "Recoveries" : 23134, 
+        "Active_Cases" : 3250, 
+        "Recoveries" : 23125, 
         "Deaths" : 768, 
         "ObjectId" : 1843
       }
@@ -22197,9 +22197,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 1951, 
-        "Active_Cases" : 302, 
-        "Recoveries" : 1614, 
+        "Cumulative_Cases" : 1950, 
+        "Active_Cases" : 304, 
+        "Recoveries" : 1611, 
         "Deaths" : 35, 
         "ObjectId" : 1844
       }
@@ -22209,9 +22209,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 86, 
-        "Cumulative_Cases" : 2772, 
-        "Active_Cases" : 1293, 
-        "Recoveries" : 1453, 
+        "Cumulative_Cases" : 2771, 
+        "Active_Cases" : 1294, 
+        "Recoveries" : 1451, 
         "Deaths" : 26, 
         "ObjectId" : 1845
       }
@@ -22233,9 +22233,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4511, 
-        "Active_Cases" : 289, 
-        "Recoveries" : 4100, 
+        "Cumulative_Cases" : 4510, 
+        "Active_Cases" : 291, 
+        "Recoveries" : 4097, 
         "Deaths" : 122, 
         "ObjectId" : 1847
       }
@@ -22245,9 +22245,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 65, 
-        "Cumulative_Cases" : 16098, 
-        "Active_Cases" : 1161, 
-        "Recoveries" : 14396, 
+        "Cumulative_Cases" : 16101, 
+        "Active_Cases" : 1165, 
+        "Recoveries" : 14395, 
         "Deaths" : 541, 
         "ObjectId" : 1848
       }
@@ -22258,8 +22258,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 179, 
         "Cumulative_Cases" : 27322, 
-        "Active_Cases" : 3330, 
-        "Recoveries" : 23218, 
+        "Active_Cases" : 3339, 
+        "Recoveries" : 23209, 
         "Deaths" : 774, 
         "ObjectId" : 1849
       }
@@ -22269,9 +22269,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 1961, 
-        "Active_Cases" : 307, 
-        "Recoveries" : 1619, 
+        "Cumulative_Cases" : 1960, 
+        "Active_Cases" : 309, 
+        "Recoveries" : 1616, 
         "Deaths" : 35, 
         "ObjectId" : 1850
       }
@@ -22281,9 +22281,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 70, 
-        "Cumulative_Cases" : 2842, 
-        "Active_Cases" : 1337, 
-        "Recoveries" : 1479, 
+        "Cumulative_Cases" : 2841, 
+        "Active_Cases" : 1338, 
+        "Recoveries" : 1477, 
         "Deaths" : 26, 
         "ObjectId" : 1851
       }
@@ -22305,9 +22305,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4522, 
-        "Active_Cases" : 291, 
-        "Recoveries" : 4108, 
+        "Cumulative_Cases" : 4521, 
+        "Active_Cases" : 293, 
+        "Recoveries" : 4105, 
         "Deaths" : 123, 
         "ObjectId" : 1853
       }
@@ -22317,9 +22317,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 80, 
-        "Cumulative_Cases" : 16178, 
-        "Active_Cases" : 1197, 
-        "Recoveries" : 14435, 
+        "Cumulative_Cases" : 16181, 
+        "Active_Cases" : 1201, 
+        "Recoveries" : 14434, 
         "Deaths" : 546, 
         "ObjectId" : 1854
       }
@@ -22330,8 +22330,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 183, 
         "Cumulative_Cases" : 27505, 
-        "Active_Cases" : 3428, 
-        "Recoveries" : 23298, 
+        "Active_Cases" : 3437, 
+        "Recoveries" : 23289, 
         "Deaths" : 779, 
         "ObjectId" : 1855
       }
@@ -22341,9 +22341,9 @@
         "Date" : 1610776800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1974, 
-        "Active_Cases" : 315, 
-        "Recoveries" : 1624, 
+        "Cumulative_Cases" : 1973, 
+        "Active_Cases" : 317, 
+        "Recoveries" : 1621, 
         "Deaths" : 35, 
         "ObjectId" : 1856
       }
@@ -22352,10 +22352,10 @@
       "attributes" : {
         "Date" : 1610776800000, 
         "RHA" : "Northern", 
-        "Daily_Cases" : 92, 
-        "Cumulative_Cases" : 2934, 
-        "Active_Cases" : 1397, 
-        "Recoveries" : 1510, 
+        "Daily_Cases" : 87, 
+        "Cumulative_Cases" : 2928, 
+        "Active_Cases" : 1393, 
+        "Recoveries" : 1508, 
         "Deaths" : 27, 
         "ObjectId" : 1857
       }
@@ -22377,9 +22377,9 @@
         "Date" : 1610776800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 4531, 
-        "Active_Cases" : 295, 
-        "Recoveries" : 4113, 
+        "Cumulative_Cases" : 4530, 
+        "Active_Cases" : 297, 
+        "Recoveries" : 4110, 
         "Deaths" : 123, 
         "ObjectId" : 1859
       }
@@ -22388,10 +22388,10 @@
       "attributes" : {
         "Date" : 1610776800000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 61, 
-        "Cumulative_Cases" : 16239, 
-        "Active_Cases" : 1224, 
-        "Recoveries" : 14465, 
+        "Daily_Cases" : 66, 
+        "Cumulative_Cases" : 16247, 
+        "Active_Cases" : 1233, 
+        "Recoveries" : 14464, 
         "Deaths" : 550, 
         "ObjectId" : 1860
       }
@@ -22402,8 +22402,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 121, 
         "Cumulative_Cases" : 27626, 
-        "Active_Cases" : 3453, 
-        "Recoveries" : 23388, 
+        "Active_Cases" : 3462, 
+        "Recoveries" : 23379, 
         "Deaths" : 785, 
         "ObjectId" : 1861
       }
@@ -22413,9 +22413,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1987, 
-        "Active_Cases" : 324, 
-        "Recoveries" : 1628, 
+        "Cumulative_Cases" : 1986, 
+        "Active_Cases" : 326, 
+        "Recoveries" : 1625, 
         "Deaths" : 35, 
         "ObjectId" : 1862
       }
@@ -22425,9 +22425,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
-        "Cumulative_Cases" : 2977, 
-        "Active_Cases" : 1404, 
-        "Recoveries" : 1546, 
+        "Cumulative_Cases" : 2971, 
+        "Active_Cases" : 1400, 
+        "Recoveries" : 1544, 
         "Deaths" : 27, 
         "ObjectId" : 1863
       }
@@ -22449,9 +22449,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4539, 
-        "Active_Cases" : 300, 
-        "Recoveries" : 4115, 
+        "Cumulative_Cases" : 4538, 
+        "Active_Cases" : 302, 
+        "Recoveries" : 4112, 
         "Deaths" : 124, 
         "ObjectId" : 1865
       }
@@ -22461,9 +22461,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 50, 
-        "Cumulative_Cases" : 16289, 
-        "Active_Cases" : 1234, 
-        "Recoveries" : 14500, 
+        "Cumulative_Cases" : 16297, 
+        "Active_Cases" : 1243, 
+        "Recoveries" : 14499, 
         "Deaths" : 555, 
         "ObjectId" : 1866
       }
@@ -22474,8 +22474,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 113, 
         "Cumulative_Cases" : 27739, 
-        "Active_Cases" : 3446, 
-        "Recoveries" : 23501, 
+        "Active_Cases" : 3455, 
+        "Recoveries" : 23492, 
         "Deaths" : 792, 
         "ObjectId" : 1867
       }
@@ -22485,9 +22485,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 12, 
-        "Cumulative_Cases" : 1999, 
-        "Active_Cases" : 331, 
-        "Recoveries" : 1632, 
+        "Cumulative_Cases" : 1998, 
+        "Active_Cases" : 333, 
+        "Recoveries" : 1629, 
         "Deaths" : 36, 
         "ObjectId" : 1868
       }
@@ -22497,9 +22497,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 3011, 
-        "Active_Cases" : 1396, 
-        "Recoveries" : 1588, 
+        "Cumulative_Cases" : 3005, 
+        "Active_Cases" : 1392, 
+        "Recoveries" : 1586, 
         "Deaths" : 27, 
         "ObjectId" : 1869
       }
@@ -22521,9 +22521,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 4546, 
-        "Active_Cases" : 290, 
-        "Recoveries" : 4130, 
+        "Cumulative_Cases" : 4545, 
+        "Active_Cases" : 292, 
+        "Recoveries" : 4127, 
         "Deaths" : 126, 
         "ObjectId" : 1871
       }
@@ -22533,9 +22533,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 16340, 
-        "Active_Cases" : 1245, 
-        "Recoveries" : 14538, 
+        "Cumulative_Cases" : 16348, 
+        "Active_Cases" : 1254, 
+        "Recoveries" : 14537, 
         "Deaths" : 557, 
         "ObjectId" : 1872
       }
@@ -22546,8 +22546,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 161, 
         "Cumulative_Cases" : 27900, 
-        "Active_Cases" : 3532, 
-        "Recoveries" : 23569, 
+        "Active_Cases" : 3541, 
+        "Recoveries" : 23560, 
         "Deaths" : 799, 
         "ObjectId" : 1873
       }
@@ -22557,9 +22557,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 2017, 
-        "Active_Cases" : 343, 
-        "Recoveries" : 1638, 
+        "Cumulative_Cases" : 2016, 
+        "Active_Cases" : 345, 
+        "Recoveries" : 1635, 
         "Deaths" : 36, 
         "ObjectId" : 1874
       }
@@ -22569,9 +22569,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 80, 
-        "Cumulative_Cases" : 3091, 
-        "Active_Cases" : 1445, 
-        "Recoveries" : 1619, 
+        "Cumulative_Cases" : 3085, 
+        "Active_Cases" : 1441, 
+        "Recoveries" : 1617, 
         "Deaths" : 27, 
         "ObjectId" : 1875
       }
@@ -22593,9 +22593,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 4555, 
-        "Active_Cases" : 292, 
-        "Recoveries" : 4135, 
+        "Cumulative_Cases" : 4554, 
+        "Active_Cases" : 294, 
+        "Recoveries" : 4132, 
         "Deaths" : 128, 
         "ObjectId" : 1877
       }
@@ -22605,9 +22605,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 48, 
-        "Cumulative_Cases" : 16388, 
-        "Active_Cases" : 1267, 
-        "Recoveries" : 14559, 
+        "Cumulative_Cases" : 16396, 
+        "Active_Cases" : 1276, 
+        "Recoveries" : 14558, 
         "Deaths" : 562, 
         "ObjectId" : 1878
       }
@@ -22618,8 +22618,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 216, 
         "Cumulative_Cases" : 28116, 
-        "Active_Cases" : 3633, 
-        "Recoveries" : 23683, 
+        "Active_Cases" : 3642, 
+        "Recoveries" : 23674, 
         "Deaths" : 800, 
         "ObjectId" : 1879
       }
@@ -22629,9 +22629,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 2026, 
-        "Active_Cases" : 349, 
-        "Recoveries" : 1641, 
+        "Cumulative_Cases" : 2025, 
+        "Active_Cases" : 351, 
+        "Recoveries" : 1638, 
         "Deaths" : 36, 
         "ObjectId" : 1880
       }
@@ -22641,9 +22641,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 120, 
-        "Cumulative_Cases" : 3211, 
-        "Active_Cases" : 1521, 
-        "Recoveries" : 1663, 
+        "Cumulative_Cases" : 3205, 
+        "Active_Cases" : 1517, 
+        "Recoveries" : 1661, 
         "Deaths" : 27, 
         "ObjectId" : 1881
       }
@@ -22665,9 +22665,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 4568, 
-        "Active_Cases" : 294, 
-        "Recoveries" : 4146, 
+        "Cumulative_Cases" : 4567, 
+        "Active_Cases" : 296, 
+        "Recoveries" : 4143, 
         "Deaths" : 128, 
         "ObjectId" : 1883
       }
@@ -22677,9 +22677,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 54, 
-        "Cumulative_Cases" : 16442, 
-        "Active_Cases" : 1276, 
-        "Recoveries" : 14604, 
+        "Cumulative_Cases" : 16450, 
+        "Active_Cases" : 1285, 
+        "Recoveries" : 14603, 
         "Deaths" : 562, 
         "ObjectId" : 1884
       }
@@ -22690,8 +22690,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 183, 
         "Cumulative_Cases" : 28299, 
-        "Active_Cases" : 3703, 
-        "Recoveries" : 23791, 
+        "Active_Cases" : 3712, 
+        "Recoveries" : 23782, 
         "Deaths" : 805, 
         "ObjectId" : 1885
       }
@@ -22701,9 +22701,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 2056, 
-        "Active_Cases" : 364, 
-        "Recoveries" : 1656, 
+        "Cumulative_Cases" : 2055, 
+        "Active_Cases" : 366, 
+        "Recoveries" : 1653, 
         "Deaths" : 36, 
         "ObjectId" : 1886
       }
@@ -22713,9 +22713,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 64, 
-        "Cumulative_Cases" : 3275, 
-        "Active_Cases" : 1536, 
-        "Recoveries" : 1712, 
+        "Cumulative_Cases" : 3269, 
+        "Active_Cases" : 1532, 
+        "Recoveries" : 1710, 
         "Deaths" : 27, 
         "ObjectId" : 1887
       }
@@ -22737,9 +22737,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4576, 
-        "Active_Cases" : 297, 
-        "Recoveries" : 4150, 
+        "Cumulative_Cases" : 4575, 
+        "Active_Cases" : 299, 
+        "Recoveries" : 4147, 
         "Deaths" : 129, 
         "ObjectId" : 1889
       }
@@ -22749,9 +22749,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 64, 
-        "Cumulative_Cases" : 16506, 
-        "Active_Cases" : 1302, 
-        "Recoveries" : 14638, 
+        "Cumulative_Cases" : 16514, 
+        "Active_Cases" : 1311, 
+        "Recoveries" : 14637, 
         "Deaths" : 566, 
         "ObjectId" : 1890
       }
@@ -22762,8 +22762,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 212, 
         "Cumulative_Cases" : 28511, 
-        "Active_Cases" : 3817, 
-        "Recoveries" : 23884, 
+        "Active_Cases" : 3826, 
+        "Recoveries" : 23875, 
         "Deaths" : 810, 
         "ObjectId" : 1891
       }
@@ -22773,9 +22773,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 2078, 
-        "Active_Cases" : 380, 
-        "Recoveries" : 1662, 
+        "Cumulative_Cases" : 2077, 
+        "Active_Cases" : 382, 
+        "Recoveries" : 1659, 
         "Deaths" : 36, 
         "ObjectId" : 1892
       }
@@ -22785,9 +22785,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 122, 
-        "Cumulative_Cases" : 3397, 
-        "Active_Cases" : 1625, 
-        "Recoveries" : 1745, 
+        "Cumulative_Cases" : 3391, 
+        "Active_Cases" : 1621, 
+        "Recoveries" : 1743, 
         "Deaths" : 27, 
         "ObjectId" : 1893
       }
@@ -22809,9 +22809,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4587, 
-        "Active_Cases" : 301, 
-        "Recoveries" : 4157, 
+        "Cumulative_Cases" : 4586, 
+        "Active_Cases" : 303, 
+        "Recoveries" : 4154, 
         "Deaths" : 129, 
         "ObjectId" : 1895
       }
@@ -22821,9 +22821,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 44, 
-        "Cumulative_Cases" : 16550, 
-        "Active_Cases" : 1313, 
-        "Recoveries" : 14668, 
+        "Cumulative_Cases" : 16558, 
+        "Active_Cases" : 1322, 
+        "Recoveries" : 14667, 
         "Deaths" : 569, 
         "ObjectId" : 1896
       }
@@ -22834,8 +22834,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 224, 
         "Cumulative_Cases" : 28735, 
-        "Active_Cases" : 3949, 
-        "Recoveries" : 23974, 
+        "Active_Cases" : 3958, 
+        "Recoveries" : 23965, 
         "Deaths" : 812, 
         "ObjectId" : 1897
       }
@@ -22845,9 +22845,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 2097, 
-        "Active_Cases" : 392, 
-        "Recoveries" : 1669, 
+        "Cumulative_Cases" : 2096, 
+        "Active_Cases" : 394, 
+        "Recoveries" : 1666, 
         "Deaths" : 36, 
         "ObjectId" : 1898
       }
@@ -22857,9 +22857,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 120, 
-        "Cumulative_Cases" : 3517, 
-        "Active_Cases" : 1713, 
-        "Recoveries" : 1777, 
+        "Cumulative_Cases" : 3511, 
+        "Active_Cases" : 1709, 
+        "Recoveries" : 1775, 
         "Deaths" : 27, 
         "ObjectId" : 1899
       }
@@ -22881,9 +22881,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 4590, 
-        "Active_Cases" : 297, 
-        "Recoveries" : 4164, 
+        "Cumulative_Cases" : 4589, 
+        "Active_Cases" : 299, 
+        "Recoveries" : 4161, 
         "Deaths" : 129, 
         "ObjectId" : 1901
       }
@@ -22893,9 +22893,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 57, 
-        "Cumulative_Cases" : 16607, 
-        "Active_Cases" : 1331, 
-        "Recoveries" : 14705, 
+        "Cumulative_Cases" : 16615, 
+        "Active_Cases" : 1340, 
+        "Recoveries" : 14704, 
         "Deaths" : 571, 
         "ObjectId" : 1902
       }
@@ -22906,8 +22906,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 131, 
         "Cumulative_Cases" : 28866, 
-        "Active_Cases" : 3990, 
-        "Recoveries" : 24058, 
+        "Active_Cases" : 3999, 
+        "Recoveries" : 24049, 
         "Deaths" : 818, 
         "ObjectId" : 1903
       }
@@ -22917,9 +22917,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 2107, 
-        "Active_Cases" : 401, 
-        "Recoveries" : 1670, 
+        "Cumulative_Cases" : 2106, 
+        "Active_Cases" : 403, 
+        "Recoveries" : 1667, 
         "Deaths" : 36, 
         "ObjectId" : 1904
       }
@@ -22929,9 +22929,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 70, 
-        "Cumulative_Cases" : 3587, 
-        "Active_Cases" : 1739, 
-        "Recoveries" : 1821, 
+        "Cumulative_Cases" : 3581, 
+        "Active_Cases" : 1735, 
+        "Recoveries" : 1819, 
         "Deaths" : 27, 
         "ObjectId" : 1905
       }
@@ -22953,9 +22953,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 4595, 
-        "Active_Cases" : 298, 
-        "Recoveries" : 4168, 
+        "Cumulative_Cases" : 4594, 
+        "Active_Cases" : 300, 
+        "Recoveries" : 4165, 
         "Deaths" : 129, 
         "ObjectId" : 1907
       }
@@ -22965,9 +22965,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 40, 
-        "Cumulative_Cases" : 16647, 
-        "Active_Cases" : 1338, 
-        "Recoveries" : 14735, 
+        "Cumulative_Cases" : 16655, 
+        "Active_Cases" : 1347, 
+        "Recoveries" : 14734, 
         "Deaths" : 574, 
         "ObjectId" : 1908
       }
@@ -22978,8 +22978,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 64, 
         "Cumulative_Cases" : 28930, 
-        "Active_Cases" : 3928, 
-        "Recoveries" : 24179, 
+        "Active_Cases" : 3937, 
+        "Recoveries" : 24170, 
         "Deaths" : 823, 
         "ObjectId" : 1909
       }
@@ -22989,9 +22989,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 2107, 
-        "Active_Cases" : 395, 
-        "Recoveries" : 1676, 
+        "Cumulative_Cases" : 2106, 
+        "Active_Cases" : 397, 
+        "Recoveries" : 1673, 
         "Deaths" : 36, 
         "ObjectId" : 1910
       }
@@ -23001,9 +23001,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 3597, 
-        "Active_Cases" : 1703, 
-        "Recoveries" : 1867, 
+        "Cumulative_Cases" : 3591, 
+        "Active_Cases" : 1700, 
+        "Recoveries" : 1864, 
         "Deaths" : 27, 
         "ObjectId" : 1911
       }
@@ -23025,9 +23025,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 4597, 
-        "Active_Cases" : 292, 
-        "Recoveries" : 4175, 
+        "Cumulative_Cases" : 4596, 
+        "Active_Cases" : 294, 
+        "Recoveries" : 4172, 
         "Deaths" : 130, 
         "ObjectId" : 1913
       }
@@ -23037,8 +23037,8 @@
         "Date" : 1611554400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 16685, 
-        "Active_Cases" : 1324, 
+        "Cumulative_Cases" : 16693, 
+        "Active_Cases" : 1332, 
         "Recoveries" : 14783, 
         "Deaths" : 578, 
         "ObjectId" : 1914
@@ -23050,8 +23050,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 88, 
         "Cumulative_Cases" : 29018, 
-        "Active_Cases" : 3903, 
-        "Recoveries" : 24286, 
+        "Active_Cases" : 3912, 
+        "Recoveries" : 24277, 
         "Deaths" : 829, 
         "ObjectId" : 1915
       }
@@ -23061,9 +23061,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 2110, 
-        "Active_Cases" : 394, 
-        "Recoveries" : 1680, 
+        "Cumulative_Cases" : 2109, 
+        "Active_Cases" : 396, 
+        "Recoveries" : 1677, 
         "Deaths" : 36, 
         "ObjectId" : 1916
       }
@@ -23073,9 +23073,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 41, 
-        "Cumulative_Cases" : 3638, 
-        "Active_Cases" : 1712, 
-        "Recoveries" : 1899, 
+        "Cumulative_Cases" : 3632, 
+        "Active_Cases" : 1709, 
+        "Recoveries" : 1896, 
         "Deaths" : 27, 
         "ObjectId" : 1917
       }
@@ -23097,9 +23097,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 4600, 
-        "Active_Cases" : 287, 
-        "Recoveries" : 4181, 
+        "Cumulative_Cases" : 4599, 
+        "Active_Cases" : 289, 
+        "Recoveries" : 4178, 
         "Deaths" : 132, 
         "ObjectId" : 1919
       }
@@ -23109,8 +23109,8 @@
         "Date" : 1611640800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 36, 
-        "Cumulative_Cases" : 16721, 
-        "Active_Cases" : 1306, 
+        "Cumulative_Cases" : 16729, 
+        "Active_Cases" : 1314, 
         "Recoveries" : 14833, 
         "Deaths" : 582, 
         "ObjectId" : 1920
@@ -23122,8 +23122,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 133, 
         "Cumulative_Cases" : 29151, 
-        "Active_Cases" : 3920, 
-        "Recoveries" : 24400, 
+        "Active_Cases" : 3929, 
+        "Recoveries" : 24391, 
         "Deaths" : 831, 
         "ObjectId" : 1921
       }
@@ -23133,9 +23133,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 2127, 
-        "Active_Cases" : 403, 
-        "Recoveries" : 1688, 
+        "Cumulative_Cases" : 2126, 
+        "Active_Cases" : 405, 
+        "Recoveries" : 1685, 
         "Deaths" : 36, 
         "ObjectId" : 1922
       }
@@ -23145,9 +23145,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 59, 
-        "Cumulative_Cases" : 3697, 
-        "Active_Cases" : 1724, 
-        "Recoveries" : 1946, 
+        "Cumulative_Cases" : 3691, 
+        "Active_Cases" : 1721, 
+        "Recoveries" : 1943, 
         "Deaths" : 27, 
         "ObjectId" : 1923
       }
@@ -23169,9 +23169,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 4610, 
-        "Active_Cases" : 295, 
-        "Recoveries" : 4183, 
+        "Cumulative_Cases" : 4609, 
+        "Active_Cases" : 297, 
+        "Recoveries" : 4180, 
         "Deaths" : 132, 
         "ObjectId" : 1925
       }
@@ -23181,8 +23181,8 @@
         "Date" : 1611727200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 29, 
-        "Cumulative_Cases" : 16750, 
-        "Active_Cases" : 1285, 
+        "Cumulative_Cases" : 16758, 
+        "Active_Cases" : 1293, 
         "Recoveries" : 14881, 
         "Deaths" : 584, 
         "ObjectId" : 1926
@@ -23194,8 +23194,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 167, 
         "Cumulative_Cases" : 29318, 
-        "Active_Cases" : 3985, 
-        "Recoveries" : 24499, 
+        "Active_Cases" : 3994, 
+        "Recoveries" : 24490, 
         "Deaths" : 834, 
         "ObjectId" : 1927
       }
@@ -23205,9 +23205,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 2147, 
-        "Active_Cases" : 419, 
-        "Recoveries" : 1692, 
+        "Cumulative_Cases" : 2146, 
+        "Active_Cases" : 421, 
+        "Recoveries" : 1689, 
         "Deaths" : 36, 
         "ObjectId" : 1928
       }
@@ -23217,9 +23217,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 78, 
-        "Cumulative_Cases" : 3775, 
-        "Active_Cases" : 1753, 
-        "Recoveries" : 1995, 
+        "Cumulative_Cases" : 3769, 
+        "Active_Cases" : 1750, 
+        "Recoveries" : 1992, 
         "Deaths" : 27, 
         "ObjectId" : 1929
       }
@@ -23241,9 +23241,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4621, 
-        "Active_Cases" : 301, 
-        "Recoveries" : 4188, 
+        "Cumulative_Cases" : 4620, 
+        "Active_Cases" : 303, 
+        "Recoveries" : 4185, 
         "Deaths" : 132, 
         "ObjectId" : 1931
       }
@@ -23253,8 +23253,8 @@
         "Date" : 1611813600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 16780, 
-        "Active_Cases" : 1285, 
+        "Cumulative_Cases" : 16788, 
+        "Active_Cases" : 1293, 
         "Recoveries" : 14908, 
         "Deaths" : 587, 
         "ObjectId" : 1932
@@ -23266,8 +23266,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 161, 
         "Cumulative_Cases" : 29479, 
-        "Active_Cases" : 3998, 
-        "Recoveries" : 24645, 
+        "Active_Cases" : 4007, 
+        "Recoveries" : 24636, 
         "Deaths" : 836, 
         "ObjectId" : 1933
       }
@@ -23277,9 +23277,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 2174, 
-        "Active_Cases" : 434, 
-        "Recoveries" : 1704, 
+        "Cumulative_Cases" : 2173, 
+        "Active_Cases" : 436, 
+        "Recoveries" : 1701, 
         "Deaths" : 36, 
         "ObjectId" : 1934
       }
@@ -23289,9 +23289,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 66, 
-        "Cumulative_Cases" : 3841, 
-        "Active_Cases" : 1758, 
-        "Recoveries" : 2056, 
+        "Cumulative_Cases" : 3835, 
+        "Active_Cases" : 1755, 
+        "Recoveries" : 2053, 
         "Deaths" : 27, 
         "ObjectId" : 1935
       }
@@ -23313,9 +23313,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 4631, 
-        "Active_Cases" : 288, 
-        "Recoveries" : 4210, 
+        "Cumulative_Cases" : 4630, 
+        "Active_Cases" : 290, 
+        "Recoveries" : 4207, 
         "Deaths" : 133, 
         "ObjectId" : 1937
       }
@@ -23325,8 +23325,8 @@
         "Date" : 1611900000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 44, 
-        "Cumulative_Cases" : 16824, 
-        "Active_Cases" : 1291, 
+        "Cumulative_Cases" : 16832, 
+        "Active_Cases" : 1299, 
         "Recoveries" : 14945, 
         "Deaths" : 588, 
         "ObjectId" : 1938
@@ -23338,8 +23338,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 104, 
         "Cumulative_Cases" : 29583, 
-        "Active_Cases" : 3976, 
-        "Recoveries" : 24766, 
+        "Active_Cases" : 3985, 
+        "Recoveries" : 24757, 
         "Deaths" : 841, 
         "ObjectId" : 1939
       }
@@ -23349,9 +23349,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 2197, 
-        "Active_Cases" : 440, 
-        "Recoveries" : 1720, 
+        "Cumulative_Cases" : 2196, 
+        "Active_Cases" : 442, 
+        "Recoveries" : 1717, 
         "Deaths" : 37, 
         "ObjectId" : 1940
       }
@@ -23361,9 +23361,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 45, 
-        "Cumulative_Cases" : 3886, 
-        "Active_Cases" : 1759, 
-        "Recoveries" : 2099, 
+        "Cumulative_Cases" : 3880, 
+        "Active_Cases" : 1756, 
+        "Recoveries" : 2096, 
         "Deaths" : 28, 
         "ObjectId" : 1941
       }
@@ -23385,9 +23385,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 4637, 
-        "Active_Cases" : 285, 
-        "Recoveries" : 4217, 
+        "Cumulative_Cases" : 4636, 
+        "Active_Cases" : 287, 
+        "Recoveries" : 4214, 
         "Deaths" : 135, 
         "ObjectId" : 1943
       }
@@ -23397,8 +23397,8 @@
         "Date" : 1611986400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 16852, 
-        "Active_Cases" : 1269, 
+        "Cumulative_Cases" : 16860, 
+        "Active_Cases" : 1277, 
         "Recoveries" : 14994, 
         "Deaths" : 589, 
         "ObjectId" : 1944
@@ -23410,8 +23410,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 89, 
         "Cumulative_Cases" : 29672, 
-        "Active_Cases" : 3940, 
-        "Recoveries" : 24889, 
+        "Active_Cases" : 3949, 
+        "Recoveries" : 24880, 
         "Deaths" : 843, 
         "ObjectId" : 1945
       }
@@ -23421,9 +23421,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 2221, 
-        "Active_Cases" : 459, 
-        "Recoveries" : 1725, 
+        "Cumulative_Cases" : 2220, 
+        "Active_Cases" : 461, 
+        "Recoveries" : 1722, 
         "Deaths" : 37, 
         "ObjectId" : 1946
       }
@@ -23433,9 +23433,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 39, 
-        "Cumulative_Cases" : 3925, 
-        "Active_Cases" : 1761, 
-        "Recoveries" : 2136, 
+        "Cumulative_Cases" : 3919, 
+        "Active_Cases" : 1758, 
+        "Recoveries" : 2133, 
         "Deaths" : 28, 
         "ObjectId" : 1947
       }
@@ -23457,9 +23457,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 4, 
-        "Cumulative_Cases" : 4641, 
-        "Active_Cases" : 283, 
-        "Recoveries" : 4221, 
+        "Cumulative_Cases" : 4640, 
+        "Active_Cases" : 285, 
+        "Recoveries" : 4218, 
         "Deaths" : 137, 
         "ObjectId" : 1949
       }
@@ -23469,8 +23469,8 @@
         "Date" : 1612072800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 16871, 
-        "Active_Cases" : 1222, 
+        "Cumulative_Cases" : 16879, 
+        "Active_Cases" : 1230, 
         "Recoveries" : 15060, 
         "Deaths" : 589, 
         "ObjectId" : 1950
@@ -23482,8 +23482,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 100, 
         "Cumulative_Cases" : 29772, 
-        "Active_Cases" : 3907, 
-        "Recoveries" : 25020, 
+        "Active_Cases" : 3916, 
+        "Recoveries" : 25011, 
         "Deaths" : 845, 
         "ObjectId" : 1951
       }
@@ -23493,9 +23493,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 32, 
-        "Cumulative_Cases" : 2253, 
-        "Active_Cases" : 485, 
-        "Recoveries" : 1731, 
+        "Cumulative_Cases" : 2252, 
+        "Active_Cases" : 487, 
+        "Recoveries" : 1728, 
         "Deaths" : 37, 
         "ObjectId" : 1952
       }
@@ -23505,9 +23505,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 3967, 
-        "Active_Cases" : 1746, 
-        "Recoveries" : 2193, 
+        "Cumulative_Cases" : 3961, 
+        "Active_Cases" : 1743, 
+        "Recoveries" : 2190, 
         "Deaths" : 28, 
         "ObjectId" : 1953
       }
@@ -23529,9 +23529,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 4643, 
-        "Active_Cases" : 274, 
-        "Recoveries" : 4232, 
+        "Cumulative_Cases" : 4642, 
+        "Active_Cases" : 276, 
+        "Recoveries" : 4229, 
         "Deaths" : 137, 
         "ObjectId" : 1955
       }
@@ -23541,8 +23541,8 @@
         "Date" : 1612159200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 16890, 
-        "Active_Cases" : 1190, 
+        "Cumulative_Cases" : 16898, 
+        "Active_Cases" : 1198, 
         "Recoveries" : 15109, 
         "Deaths" : 591, 
         "ObjectId" : 1956
@@ -23554,8 +23554,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 113, 
         "Cumulative_Cases" : 29885, 
-        "Active_Cases" : 3921, 
-        "Recoveries" : 25116, 
+        "Active_Cases" : 3930, 
+        "Recoveries" : 25107, 
         "Deaths" : 848, 
         "ObjectId" : 1957
       }
@@ -23565,9 +23565,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 2264, 
-        "Active_Cases" : 493, 
-        "Recoveries" : 1734, 
+        "Cumulative_Cases" : 2263, 
+        "Active_Cases" : 495, 
+        "Recoveries" : 1731, 
         "Deaths" : 37, 
         "ObjectId" : 1958
       }
@@ -23577,9 +23577,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 56, 
-        "Cumulative_Cases" : 4023, 
-        "Active_Cases" : 1759, 
-        "Recoveries" : 2235, 
+        "Cumulative_Cases" : 4017, 
+        "Active_Cases" : 1756, 
+        "Recoveries" : 2232, 
         "Deaths" : 29, 
         "ObjectId" : 1959
       }
@@ -23601,9 +23601,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 4650, 
-        "Active_Cases" : 277, 
-        "Recoveries" : 4236, 
+        "Cumulative_Cases" : 4649, 
+        "Active_Cases" : 279, 
+        "Recoveries" : 4233, 
         "Deaths" : 137, 
         "ObjectId" : 1961
       }
@@ -23613,8 +23613,8 @@
         "Date" : 1612245600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 16920, 
-        "Active_Cases" : 1180, 
+        "Cumulative_Cases" : 16928, 
+        "Active_Cases" : 1188, 
         "Recoveries" : 15147, 
         "Deaths" : 593, 
         "ObjectId" : 1962
@@ -23626,8 +23626,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 96, 
         "Cumulative_Cases" : 29981, 
-        "Active_Cases" : 3891, 
-        "Recoveries" : 25241, 
+        "Active_Cases" : 3900, 
+        "Recoveries" : 25232, 
         "Deaths" : 849, 
         "ObjectId" : 1963
       }
@@ -23637,9 +23637,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 2280, 
-        "Active_Cases" : 505, 
-        "Recoveries" : 1738, 
+        "Cumulative_Cases" : 2279, 
+        "Active_Cases" : 507, 
+        "Recoveries" : 1735, 
         "Deaths" : 37, 
         "ObjectId" : 1964
       }
@@ -23649,9 +23649,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 44, 
-        "Cumulative_Cases" : 4067, 
-        "Active_Cases" : 1753, 
-        "Recoveries" : 2285, 
+        "Cumulative_Cases" : 4061, 
+        "Active_Cases" : 1750, 
+        "Recoveries" : 2282, 
         "Deaths" : 29, 
         "ObjectId" : 1965
       }
@@ -23673,9 +23673,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 4, 
-        "Cumulative_Cases" : 4654, 
-        "Active_Cases" : 278, 
-        "Recoveries" : 4239, 
+        "Cumulative_Cases" : 4653, 
+        "Active_Cases" : 280, 
+        "Recoveries" : 4236, 
         "Deaths" : 137, 
         "ObjectId" : 1967
       }
@@ -23685,8 +23685,8 @@
         "Date" : 1612332000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 16948, 
-        "Active_Cases" : 1148, 
+        "Cumulative_Cases" : 16956, 
+        "Active_Cases" : 1156, 
         "Recoveries" : 15206, 
         "Deaths" : 594, 
         "ObjectId" : 1968
@@ -23698,8 +23698,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 101, 
         "Cumulative_Cases" : 30082, 
-        "Active_Cases" : 3897, 
-        "Recoveries" : 25329, 
+        "Active_Cases" : 3906, 
+        "Recoveries" : 25320, 
         "Deaths" : 856, 
         "ObjectId" : 1969
       }
@@ -23709,9 +23709,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 2294, 
-        "Active_Cases" : 513, 
-        "Recoveries" : 1744, 
+        "Cumulative_Cases" : 2293, 
+        "Active_Cases" : 515, 
+        "Recoveries" : 1741, 
         "Deaths" : 37, 
         "ObjectId" : 1970
       }
@@ -23721,9 +23721,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 4101, 
-        "Active_Cases" : 1755, 
-        "Recoveries" : 2316, 
+        "Cumulative_Cases" : 4095, 
+        "Active_Cases" : 1752, 
+        "Recoveries" : 2313, 
         "Deaths" : 30, 
         "ObjectId" : 1971
       }
@@ -23745,9 +23745,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 4667, 
-        "Active_Cases" : 282, 
-        "Recoveries" : 4247, 
+        "Cumulative_Cases" : 4666, 
+        "Active_Cases" : 284, 
+        "Recoveries" : 4244, 
         "Deaths" : 138, 
         "ObjectId" : 1973
       }
@@ -23757,8 +23757,8 @@
         "Date" : 1612418400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 32, 
-        "Cumulative_Cases" : 16980, 
-        "Active_Cases" : 1140, 
+        "Cumulative_Cases" : 16988, 
+        "Active_Cases" : 1148, 
         "Recoveries" : 15241, 
         "Deaths" : 599, 
         "ObjectId" : 1974
@@ -23770,8 +23770,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 86, 
         "Cumulative_Cases" : 30168, 
-        "Active_Cases" : 3815, 
-        "Recoveries" : 25493, 
+        "Active_Cases" : 3824, 
+        "Recoveries" : 25484, 
         "Deaths" : 860, 
         "ObjectId" : 1975
       }
@@ -23781,9 +23781,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 2299, 
-        "Active_Cases" : 510, 
-        "Recoveries" : 1752, 
+        "Cumulative_Cases" : 2298, 
+        "Active_Cases" : 512, 
+        "Recoveries" : 1749, 
         "Deaths" : 37, 
         "ObjectId" : 1976
       }
@@ -23793,9 +23793,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 4129, 
-        "Active_Cases" : 1745, 
-        "Recoveries" : 2352, 
+        "Cumulative_Cases" : 4123, 
+        "Active_Cases" : 1742, 
+        "Recoveries" : 2349, 
         "Deaths" : 32, 
         "ObjectId" : 1977
       }
@@ -23817,9 +23817,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 4672, 
-        "Active_Cases" : 281, 
-        "Recoveries" : 4253, 
+        "Cumulative_Cases" : 4671, 
+        "Active_Cases" : 283, 
+        "Recoveries" : 4250, 
         "Deaths" : 138, 
         "ObjectId" : 1979
       }
@@ -23829,8 +23829,8 @@
         "Date" : 1612504800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 39, 
-        "Cumulative_Cases" : 17019, 
-        "Active_Cases" : 1073, 
+        "Cumulative_Cases" : 17027, 
+        "Active_Cases" : 1081, 
         "Recoveries" : 15346, 
         "Deaths" : 600, 
         "ObjectId" : 1980
@@ -23842,8 +23842,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 78, 
         "Cumulative_Cases" : 30246, 
-        "Active_Cases" : 3783, 
-        "Recoveries" : 25601, 
+        "Active_Cases" : 3792, 
+        "Recoveries" : 25592, 
         "Deaths" : 862, 
         "ObjectId" : 1981
       }
@@ -23853,9 +23853,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 4, 
-        "Cumulative_Cases" : 2303, 
-        "Active_Cases" : 501, 
-        "Recoveries" : 1765, 
+        "Cumulative_Cases" : 2302, 
+        "Active_Cases" : 503, 
+        "Recoveries" : 1762, 
         "Deaths" : 37, 
         "ObjectId" : 1982
       }
@@ -23865,9 +23865,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 4157, 
-        "Active_Cases" : 1739, 
-        "Recoveries" : 2386, 
+        "Cumulative_Cases" : 4151, 
+        "Active_Cases" : 1736, 
+        "Recoveries" : 2383, 
         "Deaths" : 32, 
         "ObjectId" : 1983
       }
@@ -23889,9 +23889,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4680, 
-        "Active_Cases" : 283, 
-        "Recoveries" : 4259, 
+        "Cumulative_Cases" : 4679, 
+        "Active_Cases" : 285, 
+        "Recoveries" : 4256, 
         "Deaths" : 138, 
         "ObjectId" : 1985
       }
@@ -23901,8 +23901,8 @@
         "Date" : 1612591200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 17049, 
-        "Active_Cases" : 1061, 
+        "Cumulative_Cases" : 17057, 
+        "Active_Cases" : 1069, 
         "Recoveries" : 15386, 
         "Deaths" : 602, 
         "ObjectId" : 1986
@@ -23914,8 +23914,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 50, 
         "Cumulative_Cases" : 30296, 
-        "Active_Cases" : 2363, 
-        "Recoveries" : 27068, 
+        "Active_Cases" : 2372, 
+        "Recoveries" : 27059, 
         "Deaths" : 865, 
         "ObjectId" : 1987
       }
@@ -23925,9 +23925,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 2306, 
-        "Active_Cases" : 297, 
-        "Recoveries" : 1972, 
+        "Cumulative_Cases" : 2305, 
+        "Active_Cases" : 299, 
+        "Recoveries" : 1969, 
         "Deaths" : 37, 
         "ObjectId" : 1988
       }
@@ -23937,9 +23937,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4168, 
-        "Active_Cases" : 788, 
-        "Recoveries" : 3347, 
+        "Cumulative_Cases" : 4162, 
+        "Active_Cases" : 789, 
+        "Recoveries" : 3340, 
         "Deaths" : 33, 
         "ObjectId" : 1989
       }
@@ -23961,9 +23961,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 4685, 
-        "Active_Cases" : 177, 
-        "Recoveries" : 4369, 
+        "Cumulative_Cases" : 4684, 
+        "Active_Cases" : 179, 
+        "Recoveries" : 4366, 
         "Deaths" : 139, 
         "ObjectId" : 1991
       }
@@ -23973,9 +23973,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 17079, 
-        "Active_Cases" : 960, 
-        "Recoveries" : 15516, 
+        "Cumulative_Cases" : 17087, 
+        "Active_Cases" : 964, 
+        "Recoveries" : 15520, 
         "Deaths" : 603, 
         "ObjectId" : 1992
       }
@@ -23986,8 +23986,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 73, 
         "Cumulative_Cases" : 30369, 
-        "Active_Cases" : 2336, 
-        "Recoveries" : 27162, 
+        "Active_Cases" : 2345, 
+        "Recoveries" : 27153, 
         "Deaths" : 871, 
         "ObjectId" : 1993
       }
@@ -23997,9 +23997,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 2308, 
-        "Active_Cases" : 292, 
-        "Recoveries" : 1979, 
+        "Cumulative_Cases" : 2307, 
+        "Active_Cases" : 294, 
+        "Recoveries" : 1976, 
         "Deaths" : 37, 
         "ObjectId" : 1994
       }
@@ -24009,9 +24009,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4182, 
-        "Active_Cases" : 763, 
-        "Recoveries" : 3386, 
+        "Cumulative_Cases" : 4176, 
+        "Active_Cases" : 764, 
+        "Recoveries" : 3379, 
         "Deaths" : 33, 
         "ObjectId" : 1995
       }
@@ -24033,9 +24033,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 4691, 
-        "Active_Cases" : 177, 
-        "Recoveries" : 4374, 
+        "Cumulative_Cases" : 4690, 
+        "Active_Cases" : 179, 
+        "Recoveries" : 4371, 
         "Deaths" : 140, 
         "ObjectId" : 1997
       }
@@ -24045,9 +24045,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 17130, 
-        "Active_Cases" : 968, 
-        "Recoveries" : 15554, 
+        "Cumulative_Cases" : 17138, 
+        "Active_Cases" : 972, 
+        "Recoveries" : 15558, 
         "Deaths" : 608, 
         "ObjectId" : 1998
       }
@@ -24058,8 +24058,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 52, 
         "Cumulative_Cases" : 30421, 
-        "Active_Cases" : 2326, 
-        "Recoveries" : 27222, 
+        "Active_Cases" : 2335, 
+        "Recoveries" : 27213, 
         "Deaths" : 873, 
         "ObjectId" : 1999
       }
@@ -24069,9 +24069,9 @@
         "Date" : 1612850400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 2308, 
-        "Active_Cases" : 289, 
-        "Recoveries" : 1982, 
+        "Cumulative_Cases" : 2307, 
+        "Active_Cases" : 291, 
+        "Recoveries" : 1979, 
         "Deaths" : 37, 
         "ObjectId" : 2000
       }
