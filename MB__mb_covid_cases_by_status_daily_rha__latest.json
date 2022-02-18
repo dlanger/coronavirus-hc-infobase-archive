@@ -17816,9 +17816,9 @@
       "attributes" : {
         "Date" : 1605333600000, 
         "RHA" : "Northern", 
-        "Daily_Cases" : 31, 
-        "Cumulative_Cases" : 525, 
-        "Active_Cases" : 222, 
+        "Daily_Cases" : 30, 
+        "Cumulative_Cases" : 524, 
+        "Active_Cases" : 221, 
         "Recoveries" : 300, 
         "Deaths" : 3, 
         "ObjectId" : 1479
@@ -17852,9 +17852,9 @@
       "attributes" : {
         "Date" : 1605333600000, 
         "RHA" : "Winnipeg", 
-        "Daily_Cases" : 219, 
-        "Cumulative_Cases" : 6985, 
-        "Active_Cases" : 4588, 
+        "Daily_Cases" : 220, 
+        "Cumulative_Cases" : 6986, 
+        "Active_Cases" : 4589, 
         "Recoveries" : 2263, 
         "Deaths" : 134, 
         "ObjectId" : 1482
@@ -17889,8 +17889,8 @@
         "Date" : 1605420000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 32, 
-        "Cumulative_Cases" : 557, 
-        "Active_Cases" : 228, 
+        "Cumulative_Cases" : 556, 
+        "Active_Cases" : 227, 
         "Recoveries" : 326, 
         "Deaths" : 3, 
         "ObjectId" : 1485
@@ -17925,8 +17925,8 @@
         "Date" : 1605420000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 218, 
-        "Cumulative_Cases" : 7203, 
-        "Active_Cases" : 4732, 
+        "Cumulative_Cases" : 7204, 
+        "Active_Cases" : 4733, 
         "Recoveries" : 2332, 
         "Deaths" : 139, 
         "ObjectId" : 1488
@@ -17961,8 +17961,8 @@
         "Date" : 1605506400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 584, 
-        "Active_Cases" : 233, 
+        "Cumulative_Cases" : 583, 
+        "Active_Cases" : 232, 
         "Recoveries" : 348, 
         "Deaths" : 3, 
         "ObjectId" : 1491
@@ -17997,8 +17997,8 @@
         "Date" : 1605506400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 139, 
-        "Cumulative_Cases" : 7342, 
-        "Active_Cases" : 4812, 
+        "Cumulative_Cases" : 7343, 
+        "Active_Cases" : 4813, 
         "Recoveries" : 2386, 
         "Deaths" : 144, 
         "ObjectId" : 1494
@@ -18033,8 +18033,8 @@
         "Date" : 1605592800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 56, 
-        "Cumulative_Cases" : 640, 
-        "Active_Cases" : 280, 
+        "Cumulative_Cases" : 639, 
+        "Active_Cases" : 279, 
         "Recoveries" : 357, 
         "Deaths" : 3, 
         "ObjectId" : 1497
@@ -18069,8 +18069,8 @@
         "Date" : 1605592800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 249, 
-        "Cumulative_Cases" : 7591, 
-        "Active_Cases" : 4991, 
+        "Cumulative_Cases" : 7592, 
+        "Active_Cases" : 4992, 
         "Recoveries" : 2453, 
         "Deaths" : 147, 
         "ObjectId" : 1500
@@ -18105,8 +18105,8 @@
         "Date" : 1605679200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 678, 
-        "Active_Cases" : 300, 
+        "Cumulative_Cases" : 677, 
+        "Active_Cases" : 299, 
         "Recoveries" : 374, 
         "Deaths" : 4, 
         "ObjectId" : 1503
@@ -18141,8 +18141,8 @@
         "Date" : 1605679200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 259, 
-        "Cumulative_Cases" : 7850, 
-        "Active_Cases" : 5137, 
+        "Cumulative_Cases" : 7851, 
+        "Active_Cases" : 5138, 
         "Recoveries" : 2559, 
         "Deaths" : 154, 
         "ObjectId" : 1506
@@ -18177,8 +18177,8 @@
         "Date" : 1605765600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 25, 
-        "Cumulative_Cases" : 703, 
-        "Active_Cases" : 306, 
+        "Cumulative_Cases" : 702, 
+        "Active_Cases" : 305, 
         "Recoveries" : 393, 
         "Deaths" : 4, 
         "ObjectId" : 1509
@@ -18213,8 +18213,8 @@
         "Date" : 1605765600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 234, 
-        "Cumulative_Cases" : 8084, 
-        "Active_Cases" : 5246, 
+        "Cumulative_Cases" : 8085, 
+        "Active_Cases" : 5247, 
         "Recoveries" : 2680, 
         "Deaths" : 158, 
         "ObjectId" : 1512
@@ -18249,8 +18249,8 @@
         "Date" : 1605852000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 723, 
-        "Active_Cases" : 313, 
+        "Cumulative_Cases" : 722, 
+        "Active_Cases" : 312, 
         "Recoveries" : 405, 
         "Deaths" : 5, 
         "ObjectId" : 1515
@@ -18285,8 +18285,8 @@
         "Date" : 1605852000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 199, 
-        "Cumulative_Cases" : 8283, 
-        "Active_Cases" : 5332, 
+        "Cumulative_Cases" : 8284, 
+        "Active_Cases" : 5333, 
         "Recoveries" : 2785, 
         "Deaths" : 166, 
         "ObjectId" : 1518
@@ -18321,8 +18321,8 @@
         "Date" : 1605938400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 750, 
-        "Active_Cases" : 326, 
+        "Cumulative_Cases" : 749, 
+        "Active_Cases" : 325, 
         "Recoveries" : 419, 
         "Deaths" : 5, 
         "ObjectId" : 1521
@@ -18357,8 +18357,8 @@
         "Date" : 1605938400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 151, 
-        "Cumulative_Cases" : 8434, 
-        "Active_Cases" : 5393, 
+        "Cumulative_Cases" : 8435, 
+        "Active_Cases" : 5394, 
         "Recoveries" : 2864, 
         "Deaths" : 177, 
         "ObjectId" : 1524
@@ -18393,8 +18393,8 @@
         "Date" : 1606024800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 768, 
-        "Active_Cases" : 322, 
+        "Cumulative_Cases" : 767, 
+        "Active_Cases" : 321, 
         "Recoveries" : 441, 
         "Deaths" : 5, 
         "ObjectId" : 1527
@@ -18429,8 +18429,8 @@
         "Date" : 1606024800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 415, 
-        "Cumulative_Cases" : 8849, 
-        "Active_Cases" : 5675, 
+        "Cumulative_Cases" : 8850, 
+        "Active_Cases" : 5676, 
         "Recoveries" : 2993, 
         "Deaths" : 181, 
         "ObjectId" : 1530
@@ -18465,8 +18465,8 @@
         "Date" : 1606111200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 44, 
-        "Cumulative_Cases" : 812, 
-        "Active_Cases" : 324, 
+        "Cumulative_Cases" : 811, 
+        "Active_Cases" : 323, 
         "Recoveries" : 481, 
         "Deaths" : 7, 
         "ObjectId" : 1533
@@ -18501,8 +18501,8 @@
         "Date" : 1606111200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 218, 
-        "Cumulative_Cases" : 9067, 
-        "Active_Cases" : 5752, 
+        "Cumulative_Cases" : 9068, 
+        "Active_Cases" : 5753, 
         "Recoveries" : 3127, 
         "Deaths" : 188, 
         "ObjectId" : 1536
@@ -18537,8 +18537,8 @@
         "Date" : 1606197600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 831, 
-        "Active_Cases" : 309, 
+        "Cumulative_Cases" : 830, 
+        "Active_Cases" : 308, 
         "Recoveries" : 515, 
         "Deaths" : 7, 
         "ObjectId" : 1539
@@ -18573,8 +18573,8 @@
         "Date" : 1606197600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 215, 
-        "Cumulative_Cases" : 9282, 
-        "Active_Cases" : 5876, 
+        "Cumulative_Cases" : 9283, 
+        "Active_Cases" : 5877, 
         "Recoveries" : 3209, 
         "Deaths" : 197, 
         "ObjectId" : 1542
@@ -18609,8 +18609,8 @@
         "Date" : 1606284000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 858, 
-        "Active_Cases" : 315, 
+        "Cumulative_Cases" : 857, 
+        "Active_Cases" : 314, 
         "Recoveries" : 536, 
         "Deaths" : 7, 
         "ObjectId" : 1545
@@ -18645,8 +18645,8 @@
         "Date" : 1606284000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 203, 
-        "Cumulative_Cases" : 9485, 
-        "Active_Cases" : 5954, 
+        "Cumulative_Cases" : 9486, 
+        "Active_Cases" : 5955, 
         "Recoveries" : 3330, 
         "Deaths" : 201, 
         "ObjectId" : 1548
@@ -18681,8 +18681,8 @@
         "Date" : 1606370400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 35, 
-        "Cumulative_Cases" : 893, 
-        "Active_Cases" : 329, 
+        "Cumulative_Cases" : 892, 
+        "Active_Cases" : 328, 
         "Recoveries" : 557, 
         "Deaths" : 7, 
         "ObjectId" : 1551
@@ -18717,8 +18717,8 @@
         "Date" : 1606370400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 197, 
-        "Cumulative_Cases" : 9682, 
-        "Active_Cases" : 6037, 
+        "Cumulative_Cases" : 9683, 
+        "Active_Cases" : 6038, 
         "Recoveries" : 3438, 
         "Deaths" : 207, 
         "ObjectId" : 1554
@@ -18753,8 +18753,8 @@
         "Date" : 1606456800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 33, 
-        "Cumulative_Cases" : 926, 
-        "Active_Cases" : 325, 
+        "Cumulative_Cases" : 925, 
+        "Active_Cases" : 324, 
         "Recoveries" : 594, 
         "Deaths" : 7, 
         "ObjectId" : 1557
@@ -18789,8 +18789,8 @@
         "Date" : 1606456800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 314, 
-        "Cumulative_Cases" : 9996, 
-        "Active_Cases" : 6171, 
+        "Cumulative_Cases" : 9997, 
+        "Active_Cases" : 6172, 
         "Recoveries" : 3612, 
         "Deaths" : 213, 
         "ObjectId" : 1560
@@ -18825,8 +18825,8 @@
         "Date" : 1606543200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 944, 
-        "Active_Cases" : 315, 
+        "Cumulative_Cases" : 943, 
+        "Active_Cases" : 314, 
         "Recoveries" : 622, 
         "Deaths" : 7, 
         "ObjectId" : 1563
@@ -18861,8 +18861,8 @@
         "Date" : 1606543200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 225, 
-        "Cumulative_Cases" : 10221, 
-        "Active_Cases" : 6277, 
+        "Cumulative_Cases" : 10222, 
+        "Active_Cases" : 6278, 
         "Recoveries" : 3722, 
         "Deaths" : 222, 
         "ObjectId" : 1566
@@ -18897,8 +18897,8 @@
         "Date" : 1606629600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
-        "Cumulative_Cases" : 987, 
-        "Active_Cases" : 346, 
+        "Cumulative_Cases" : 986, 
+        "Active_Cases" : 345, 
         "Recoveries" : 634, 
         "Deaths" : 7, 
         "ObjectId" : 1569
@@ -18933,8 +18933,8 @@
         "Date" : 1606629600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 222, 
-        "Cumulative_Cases" : 10443, 
-        "Active_Cases" : 6303, 
+        "Cumulative_Cases" : 10444, 
+        "Active_Cases" : 6304, 
         "Recoveries" : 3910, 
         "Deaths" : 230, 
         "ObjectId" : 1572
@@ -18969,8 +18969,8 @@
         "Date" : 1606716000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 1010, 
-        "Active_Cases" : 352, 
+        "Cumulative_Cases" : 1009, 
+        "Active_Cases" : 351, 
         "Recoveries" : 650, 
         "Deaths" : 8, 
         "ObjectId" : 1575
@@ -19005,8 +19005,8 @@
         "Date" : 1606716000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 157, 
-        "Cumulative_Cases" : 10600, 
-        "Active_Cases" : 6196, 
+        "Cumulative_Cases" : 10601, 
+        "Active_Cases" : 6197, 
         "Recoveries" : 4166, 
         "Deaths" : 238, 
         "ObjectId" : 1578
@@ -19041,8 +19041,8 @@
         "Date" : 1606802400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 1032, 
-        "Active_Cases" : 357, 
+        "Cumulative_Cases" : 1031, 
+        "Active_Cases" : 356, 
         "Recoveries" : 667, 
         "Deaths" : 8, 
         "ObjectId" : 1581
@@ -19077,8 +19077,8 @@
         "Date" : 1606802400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 223, 
-        "Cumulative_Cases" : 10823, 
-        "Active_Cases" : 6276, 
+        "Cumulative_Cases" : 10824, 
+        "Active_Cases" : 6277, 
         "Recoveries" : 4294, 
         "Deaths" : 253, 
         "ObjectId" : 1584
@@ -19113,8 +19113,8 @@
         "Date" : 1606888800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 39, 
-        "Cumulative_Cases" : 1071, 
-        "Active_Cases" : 379, 
+        "Cumulative_Cases" : 1070, 
+        "Active_Cases" : 378, 
         "Recoveries" : 683, 
         "Deaths" : 9, 
         "ObjectId" : 1587
@@ -19149,8 +19149,8 @@
         "Date" : 1606888800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 217, 
-        "Cumulative_Cases" : 11040, 
-        "Active_Cases" : 6402, 
+        "Cumulative_Cases" : 11041, 
+        "Active_Cases" : 6403, 
         "Recoveries" : 4380, 
         "Deaths" : 258, 
         "ObjectId" : 1590
@@ -19185,8 +19185,8 @@
         "Date" : 1606975200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 1099, 
-        "Active_Cases" : 381, 
+        "Cumulative_Cases" : 1098, 
+        "Active_Cases" : 380, 
         "Recoveries" : 709, 
         "Deaths" : 9, 
         "ObjectId" : 1593
@@ -19221,8 +19221,8 @@
         "Date" : 1606975200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 210, 
-        "Cumulative_Cases" : 11250, 
-        "Active_Cases" : 6460, 
+        "Cumulative_Cases" : 11251, 
+        "Active_Cases" : 6461, 
         "Recoveries" : 4522, 
         "Deaths" : 268, 
         "ObjectId" : 1596
@@ -19257,8 +19257,8 @@
         "Date" : 1607061600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 1133, 
-        "Active_Cases" : 399, 
+        "Cumulative_Cases" : 1132, 
+        "Active_Cases" : 398, 
         "Recoveries" : 724, 
         "Deaths" : 10, 
         "ObjectId" : 1599
@@ -19293,8 +19293,8 @@
         "Date" : 1607061600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 251, 
-        "Cumulative_Cases" : 11501, 
-        "Active_Cases" : 6467, 
+        "Cumulative_Cases" : 11502, 
+        "Active_Cases" : 6468, 
         "Recoveries" : 4756, 
         "Deaths" : 278, 
         "ObjectId" : 1602
@@ -19329,8 +19329,8 @@
         "Date" : 1607148000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 25, 
-        "Cumulative_Cases" : 1158, 
-        "Active_Cases" : 400, 
+        "Cumulative_Cases" : 1157, 
+        "Active_Cases" : 399, 
         "Recoveries" : 748, 
         "Deaths" : 10, 
         "ObjectId" : 1605
@@ -19365,8 +19365,8 @@
         "Date" : 1607148000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 264, 
-        "Cumulative_Cases" : 11765, 
-        "Active_Cases" : 6587, 
+        "Cumulative_Cases" : 11766, 
+        "Active_Cases" : 6588, 
         "Recoveries" : 4887, 
         "Deaths" : 291, 
         "ObjectId" : 1608
@@ -19378,8 +19378,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 272, 
         "Cumulative_Cases" : 19147, 
-        "Active_Cases" : 5384, 
-        "Recoveries" : 13325, 
+        "Active_Cases" : 5385, 
+        "Recoveries" : 13324, 
         "Deaths" : 438, 
         "ObjectId" : 1609
       }
@@ -19401,9 +19401,9 @@
         "Date" : 1607234400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 1186, 
+        "Cumulative_Cases" : 1185, 
         "Active_Cases" : 371, 
-        "Recoveries" : 803, 
+        "Recoveries" : 802, 
         "Deaths" : 12, 
         "ObjectId" : 1611
       }
@@ -19437,8 +19437,8 @@
         "Date" : 1607234400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 176, 
-        "Cumulative_Cases" : 11941, 
-        "Active_Cases" : 4072, 
+        "Cumulative_Cases" : 11942, 
+        "Active_Cases" : 4073, 
         "Recoveries" : 7571, 
         "Deaths" : 298, 
         "ObjectId" : 1614
@@ -19450,8 +19450,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 260, 
         "Cumulative_Cases" : 19407, 
-        "Active_Cases" : 5311, 
-        "Recoveries" : 13649, 
+        "Active_Cases" : 5312, 
+        "Recoveries" : 13648, 
         "Deaths" : 447, 
         "ObjectId" : 1615
       }
@@ -19473,9 +19473,9 @@
         "Date" : 1607320800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 1210, 
+        "Cumulative_Cases" : 1209, 
         "Active_Cases" : 380, 
-        "Recoveries" : 818, 
+        "Recoveries" : 817, 
         "Deaths" : 12, 
         "ObjectId" : 1617
       }
@@ -19509,8 +19509,8 @@
         "Date" : 1607320800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 140, 
-        "Cumulative_Cases" : 12081, 
-        "Active_Cases" : 3992, 
+        "Cumulative_Cases" : 12082, 
+        "Active_Cases" : 3993, 
         "Recoveries" : 7784, 
         "Deaths" : 305, 
         "ObjectId" : 1620
@@ -19522,8 +19522,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 257, 
         "Cumulative_Cases" : 19664, 
-        "Active_Cases" : 5260, 
-        "Recoveries" : 13942, 
+        "Active_Cases" : 5261, 
+        "Recoveries" : 13941, 
         "Deaths" : 462, 
         "ObjectId" : 1621
       }
@@ -19545,9 +19545,9 @@
         "Date" : 1607407200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 1229, 
+        "Cumulative_Cases" : 1228, 
         "Active_Cases" : 382, 
-        "Recoveries" : 835, 
+        "Recoveries" : 834, 
         "Deaths" : 12, 
         "ObjectId" : 1623
       }
@@ -19581,8 +19581,8 @@
         "Date" : 1607407200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 176, 
-        "Cumulative_Cases" : 12257, 
-        "Active_Cases" : 3943, 
+        "Cumulative_Cases" : 12258, 
+        "Active_Cases" : 3944, 
         "Recoveries" : 7997, 
         "Deaths" : 317, 
         "ObjectId" : 1626
@@ -19594,8 +19594,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 309, 
         "Cumulative_Cases" : 19973, 
-        "Active_Cases" : 5303, 
-        "Recoveries" : 14198, 
+        "Active_Cases" : 5304, 
+        "Recoveries" : 14197, 
         "Deaths" : 472, 
         "ObjectId" : 1627
       }
@@ -19617,9 +19617,9 @@
         "Date" : 1607493600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 1271, 
+        "Cumulative_Cases" : 1270, 
         "Active_Cases" : 412, 
-        "Recoveries" : 847, 
+        "Recoveries" : 846, 
         "Deaths" : 12, 
         "ObjectId" : 1629
       }
@@ -19653,8 +19653,8 @@
         "Date" : 1607493600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 168, 
-        "Cumulative_Cases" : 12425, 
-        "Active_Cases" : 3935, 
+        "Cumulative_Cases" : 12426, 
+        "Active_Cases" : 3936, 
         "Recoveries" : 8166, 
         "Deaths" : 324, 
         "ObjectId" : 1632
@@ -19666,8 +19666,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 449, 
         "Cumulative_Cases" : 20422, 
-        "Active_Cases" : 5390, 
-        "Recoveries" : 14545, 
+        "Active_Cases" : 5391, 
+        "Recoveries" : 14544, 
         "Deaths" : 487, 
         "ObjectId" : 1633
       }
@@ -19689,9 +19689,9 @@
         "Date" : 1607580000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 145, 
-        "Cumulative_Cases" : 1416, 
+        "Cumulative_Cases" : 1415, 
         "Active_Cases" : 540, 
-        "Recoveries" : 863, 
+        "Recoveries" : 862, 
         "Deaths" : 13, 
         "ObjectId" : 1635
       }
@@ -19725,8 +19725,8 @@
         "Date" : 1607580000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 190, 
-        "Cumulative_Cases" : 12615, 
-        "Active_Cases" : 3888, 
+        "Cumulative_Cases" : 12616, 
+        "Active_Cases" : 3889, 
         "Recoveries" : 8393, 
         "Deaths" : 334, 
         "ObjectId" : 1638
@@ -19738,8 +19738,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 373, 
         "Cumulative_Cases" : 20795, 
-        "Active_Cases" : 5480, 
-        "Recoveries" : 14813, 
+        "Active_Cases" : 5481, 
+        "Recoveries" : 14812, 
         "Deaths" : 502, 
         "ObjectId" : 1639
       }
@@ -19761,9 +19761,9 @@
         "Date" : 1607666400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 37, 
-        "Cumulative_Cases" : 1453, 
+        "Cumulative_Cases" : 1452, 
         "Active_Cases" : 553, 
-        "Recoveries" : 887, 
+        "Recoveries" : 886, 
         "Deaths" : 13, 
         "ObjectId" : 1641
       }
@@ -19797,8 +19797,8 @@
         "Date" : 1607666400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 226, 
-        "Cumulative_Cases" : 12841, 
-        "Active_Cases" : 3951, 
+        "Cumulative_Cases" : 12842, 
+        "Active_Cases" : 3952, 
         "Recoveries" : 8542, 
         "Deaths" : 348, 
         "ObjectId" : 1644
@@ -19810,8 +19810,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 246, 
         "Cumulative_Cases" : 21041, 
-        "Active_Cases" : 5502, 
-        "Recoveries" : 15027, 
+        "Active_Cases" : 5503, 
+        "Recoveries" : 15026, 
         "Deaths" : 512, 
         "ObjectId" : 1645
       }
@@ -19833,9 +19833,9 @@
         "Date" : 1607752800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 39, 
-        "Cumulative_Cases" : 1492, 
+        "Cumulative_Cases" : 1491, 
         "Active_Cases" : 575, 
-        "Recoveries" : 903, 
+        "Recoveries" : 902, 
         "Deaths" : 14, 
         "ObjectId" : 1647
       }
@@ -19869,8 +19869,8 @@
         "Date" : 1607752800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 158, 
-        "Cumulative_Cases" : 12999, 
-        "Active_Cases" : 3961, 
+        "Cumulative_Cases" : 13000, 
+        "Active_Cases" : 3962, 
         "Recoveries" : 8682, 
         "Deaths" : 356, 
         "ObjectId" : 1650
@@ -19882,8 +19882,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 244, 
         "Cumulative_Cases" : 21285, 
-        "Active_Cases" : 5503, 
-        "Recoveries" : 15259, 
+        "Active_Cases" : 5504, 
+        "Recoveries" : 15258, 
         "Deaths" : 523, 
         "ObjectId" : 1651
       }
@@ -19905,9 +19905,9 @@
         "Date" : 1607839200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1512, 
+        "Cumulative_Cases" : 1511, 
         "Active_Cases" : 579, 
-        "Recoveries" : 919, 
+        "Recoveries" : 918, 
         "Deaths" : 14, 
         "ObjectId" : 1653
       }
@@ -19941,8 +19941,8 @@
         "Date" : 1607839200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 166, 
-        "Cumulative_Cases" : 13165, 
-        "Active_Cases" : 3945, 
+        "Cumulative_Cases" : 13166, 
+        "Active_Cases" : 3946, 
         "Recoveries" : 8854, 
         "Deaths" : 366, 
         "ObjectId" : 1656
@@ -19954,8 +19954,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 260, 
         "Cumulative_Cases" : 21545, 
-        "Active_Cases" : 5403, 
-        "Recoveries" : 15604, 
+        "Active_Cases" : 5405, 
+        "Recoveries" : 15602, 
         "Deaths" : 538, 
         "ObjectId" : 1657
       }
@@ -19977,9 +19977,9 @@
         "Date" : 1607925600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 1563, 
+        "Cumulative_Cases" : 1562, 
         "Active_Cases" : 612, 
-        "Recoveries" : 937, 
+        "Recoveries" : 936, 
         "Deaths" : 14, 
         "ObjectId" : 1659
       }
@@ -20013,9 +20013,9 @@
         "Date" : 1607925600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 115, 
-        "Cumulative_Cases" : 13280, 
-        "Active_Cases" : 3828, 
-        "Recoveries" : 9076, 
+        "Cumulative_Cases" : 13281, 
+        "Active_Cases" : 3830, 
+        "Recoveries" : 9075, 
         "Deaths" : 376, 
         "ObjectId" : 1662
       }
@@ -20026,8 +20026,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 285, 
         "Cumulative_Cases" : 21830, 
-        "Active_Cases" : 5426, 
-        "Recoveries" : 15852, 
+        "Active_Cases" : 5428, 
+        "Recoveries" : 15850, 
         "Deaths" : 552, 
         "ObjectId" : 1663
       }
@@ -20049,9 +20049,9 @@
         "Date" : 1608012000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
-        "Cumulative_Cases" : 1606, 
+        "Cumulative_Cases" : 1605, 
         "Active_Cases" : 640, 
-        "Recoveries" : 952, 
+        "Recoveries" : 951, 
         "Deaths" : 14, 
         "ObjectId" : 1665
       }
@@ -20085,9 +20085,9 @@
         "Date" : 1608012000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 160, 
-        "Cumulative_Cases" : 13440, 
-        "Active_Cases" : 3843, 
-        "Recoveries" : 9209, 
+        "Cumulative_Cases" : 13441, 
+        "Active_Cases" : 3845, 
+        "Recoveries" : 9208, 
         "Deaths" : 388, 
         "ObjectId" : 1668
       }
@@ -20098,8 +20098,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 224, 
         "Cumulative_Cases" : 22054, 
-        "Active_Cases" : 5407, 
-        "Recoveries" : 16078, 
+        "Active_Cases" : 5409, 
+        "Recoveries" : 16076, 
         "Deaths" : 569, 
         "ObjectId" : 1669
       }
@@ -20121,9 +20121,9 @@
         "Date" : 1608098400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 50, 
-        "Cumulative_Cases" : 1656, 
+        "Cumulative_Cases" : 1655, 
         "Active_Cases" : 669, 
-        "Recoveries" : 971, 
+        "Recoveries" : 970, 
         "Deaths" : 16, 
         "ObjectId" : 1671
       }
@@ -20157,9 +20157,9 @@
         "Date" : 1608098400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 113, 
-        "Cumulative_Cases" : 13553, 
-        "Active_Cases" : 3814, 
-        "Recoveries" : 9341, 
+        "Cumulative_Cases" : 13554, 
+        "Active_Cases" : 3816, 
+        "Recoveries" : 9340, 
         "Deaths" : 398, 
         "ObjectId" : 1674
       }
@@ -20170,8 +20170,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 348, 
         "Cumulative_Cases" : 22402, 
-        "Active_Cases" : 5155, 
-        "Recoveries" : 16667, 
+        "Active_Cases" : 5157, 
+        "Recoveries" : 16665, 
         "Deaths" : 580, 
         "ObjectId" : 1675
       }
@@ -20193,9 +20193,9 @@
         "Date" : 1608184800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 91, 
-        "Cumulative_Cases" : 1747, 
+        "Cumulative_Cases" : 1746, 
         "Active_Cases" : 738, 
-        "Recoveries" : 992, 
+        "Recoveries" : 991, 
         "Deaths" : 17, 
         "ObjectId" : 1677
       }
@@ -20229,9 +20229,9 @@
         "Date" : 1608184800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 136, 
-        "Cumulative_Cases" : 13689, 
-        "Active_Cases" : 3451, 
-        "Recoveries" : 9835, 
+        "Cumulative_Cases" : 13690, 
+        "Active_Cases" : 3453, 
+        "Recoveries" : 9834, 
         "Deaths" : 403, 
         "ObjectId" : 1680
       }
@@ -20242,8 +20242,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 240, 
         "Cumulative_Cases" : 22642, 
-        "Active_Cases" : 5231, 
-        "Recoveries" : 16827, 
+        "Active_Cases" : 5233, 
+        "Recoveries" : 16825, 
         "Deaths" : 584, 
         "ObjectId" : 1681
       }
@@ -20265,9 +20265,9 @@
         "Date" : 1608271200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 50, 
-        "Cumulative_Cases" : 1797, 
+        "Cumulative_Cases" : 1796, 
         "Active_Cases" : 769, 
-        "Recoveries" : 1011, 
+        "Recoveries" : 1010, 
         "Deaths" : 17, 
         "ObjectId" : 1683
       }
@@ -20301,9 +20301,9 @@
         "Date" : 1608271200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 111, 
-        "Cumulative_Cases" : 13800, 
-        "Active_Cases" : 3474, 
-        "Recoveries" : 9919, 
+        "Cumulative_Cases" : 13801, 
+        "Active_Cases" : 3476, 
+        "Recoveries" : 9918, 
         "Deaths" : 407, 
         "ObjectId" : 1686
       }
@@ -20314,8 +20314,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 223, 
         "Cumulative_Cases" : 22865, 
-        "Active_Cases" : 5298, 
-        "Recoveries" : 16973, 
+        "Active_Cases" : 5300, 
+        "Recoveries" : 16971, 
         "Deaths" : 594, 
         "ObjectId" : 1687
       }
@@ -20337,9 +20337,9 @@
         "Date" : 1608357600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 26, 
-        "Cumulative_Cases" : 1823, 
+        "Cumulative_Cases" : 1822, 
         "Active_Cases" : 781, 
-        "Recoveries" : 1025, 
+        "Recoveries" : 1024, 
         "Deaths" : 17, 
         "ObjectId" : 1689
       }
@@ -20373,9 +20373,9 @@
         "Date" : 1608357600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 130, 
-        "Cumulative_Cases" : 13930, 
-        "Active_Cases" : 3519, 
-        "Recoveries" : 9997, 
+        "Cumulative_Cases" : 13931, 
+        "Active_Cases" : 3521, 
+        "Recoveries" : 9996, 
         "Deaths" : 414, 
         "ObjectId" : 1692
       }
@@ -20386,8 +20386,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 168, 
         "Cumulative_Cases" : 23033, 
-        "Active_Cases" : 5329, 
-        "Recoveries" : 17104, 
+        "Active_Cases" : 5331, 
+        "Recoveries" : 17102, 
         "Deaths" : 600, 
         "ObjectId" : 1693
       }
@@ -20409,9 +20409,9 @@
         "Date" : 1608444000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 1846, 
+        "Cumulative_Cases" : 1845, 
         "Active_Cases" : 787, 
-        "Recoveries" : 1042, 
+        "Recoveries" : 1041, 
         "Deaths" : 17, 
         "ObjectId" : 1695
       }
@@ -20445,9 +20445,9 @@
         "Date" : 1608444000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 88, 
-        "Cumulative_Cases" : 14018, 
-        "Active_Cases" : 3525, 
-        "Recoveries" : 10074, 
+        "Cumulative_Cases" : 14019, 
+        "Active_Cases" : 3527, 
+        "Recoveries" : 10073, 
         "Deaths" : 419, 
         "ObjectId" : 1698
       }
@@ -20458,8 +20458,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 153, 
         "Cumulative_Cases" : 23186, 
-        "Active_Cases" : 4044, 
-        "Recoveries" : 18527, 
+        "Active_Cases" : 4048, 
+        "Recoveries" : 18523, 
         "Deaths" : 615, 
         "ObjectId" : 1699
       }
@@ -20481,9 +20481,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 1870, 
+        "Cumulative_Cases" : 1869, 
         "Active_Cases" : 782, 
-        "Recoveries" : 1071, 
+        "Recoveries" : 1070, 
         "Deaths" : 17, 
         "ObjectId" : 1701
       }
@@ -20517,9 +20517,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 91, 
-        "Cumulative_Cases" : 14109, 
-        "Active_Cases" : 2400, 
-        "Recoveries" : 11281, 
+        "Cumulative_Cases" : 14110, 
+        "Active_Cases" : 2404, 
+        "Recoveries" : 11278, 
         "Deaths" : 428, 
         "ObjectId" : 1704
       }
@@ -20530,8 +20530,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 202, 
         "Cumulative_Cases" : 23388, 
-        "Active_Cases" : 4072, 
-        "Recoveries" : 18692, 
+        "Active_Cases" : 4076, 
+        "Recoveries" : 18688, 
         "Deaths" : 624, 
         "ObjectId" : 1705
       }
@@ -20553,9 +20553,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 31, 
-        "Cumulative_Cases" : 1901, 
+        "Cumulative_Cases" : 1900, 
         "Active_Cases" : 791, 
-        "Recoveries" : 1093, 
+        "Recoveries" : 1092, 
         "Deaths" : 17, 
         "ObjectId" : 1707
       }
@@ -20589,9 +20589,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 121, 
-        "Cumulative_Cases" : 14230, 
-        "Active_Cases" : 2429, 
-        "Recoveries" : 11366, 
+        "Cumulative_Cases" : 14231, 
+        "Active_Cases" : 2433, 
+        "Recoveries" : 11363, 
         "Deaths" : 435, 
         "ObjectId" : 1710
       }
@@ -20602,8 +20602,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 241, 
         "Cumulative_Cases" : 23629, 
-        "Active_Cases" : 4143, 
-        "Recoveries" : 18848, 
+        "Active_Cases" : 4148, 
+        "Recoveries" : 18843, 
         "Deaths" : 638, 
         "ObjectId" : 1711
       }
@@ -20625,9 +20625,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 40, 
-        "Cumulative_Cases" : 1941, 
+        "Cumulative_Cases" : 1940, 
         "Active_Cases" : 815, 
-        "Recoveries" : 1108, 
+        "Recoveries" : 1107, 
         "Deaths" : 18, 
         "ObjectId" : 1713
       }
@@ -20661,9 +20661,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 116, 
-        "Cumulative_Cases" : 14346, 
-        "Active_Cases" : 2463, 
-        "Recoveries" : 11437, 
+        "Cumulative_Cases" : 14347, 
+        "Active_Cases" : 2468, 
+        "Recoveries" : 11433, 
         "Deaths" : 446, 
         "ObjectId" : 1716
       }
@@ -20674,8 +20674,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 176, 
         "Cumulative_Cases" : 23805, 
-        "Active_Cases" : 4140, 
-        "Recoveries" : 19014, 
+        "Active_Cases" : 4145, 
+        "Recoveries" : 19009, 
         "Deaths" : 651, 
         "ObjectId" : 1717
       }
@@ -20697,9 +20697,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 1968, 
+        "Cumulative_Cases" : 1967, 
         "Active_Cases" : 821, 
-        "Recoveries" : 1129, 
+        "Recoveries" : 1128, 
         "Deaths" : 18, 
         "ObjectId" : 1719
       }
@@ -20733,9 +20733,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 103, 
-        "Cumulative_Cases" : 14449, 
-        "Active_Cases" : 2467, 
-        "Recoveries" : 11526, 
+        "Cumulative_Cases" : 14450, 
+        "Active_Cases" : 2472, 
+        "Recoveries" : 11522, 
         "Deaths" : 456, 
         "ObjectId" : 1722
       }
@@ -20746,8 +20746,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 198, 
         "Cumulative_Cases" : 24003, 
-        "Active_Cases" : 4187, 
-        "Recoveries" : 19160, 
+        "Active_Cases" : 4192, 
+        "Recoveries" : 19155, 
         "Deaths" : 656, 
         "ObjectId" : 1723
       }
@@ -20769,9 +20769,9 @@
         "Date" : 1608876000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 1992, 
+        "Cumulative_Cases" : 1991, 
         "Active_Cases" : 827, 
-        "Recoveries" : 1145, 
+        "Recoveries" : 1144, 
         "Deaths" : 20, 
         "ObjectId" : 1725
       }
@@ -20805,9 +20805,9 @@
         "Date" : 1608876000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 84, 
-        "Cumulative_Cases" : 14533, 
-        "Active_Cases" : 2462, 
-        "Recoveries" : 11614, 
+        "Cumulative_Cases" : 14534, 
+        "Active_Cases" : 2467, 
+        "Recoveries" : 11610, 
         "Deaths" : 457, 
         "ObjectId" : 1728
       }
@@ -20818,8 +20818,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 146, 
         "Cumulative_Cases" : 24149, 
-        "Active_Cases" : 4187, 
-        "Recoveries" : 19294, 
+        "Active_Cases" : 4192, 
+        "Recoveries" : 19289, 
         "Deaths" : 668, 
         "ObjectId" : 1729
       }
@@ -20841,9 +20841,9 @@
         "Date" : 1608962400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 48, 
-        "Cumulative_Cases" : 2040, 
+        "Cumulative_Cases" : 2039, 
         "Active_Cases" : 859, 
-        "Recoveries" : 1160, 
+        "Recoveries" : 1159, 
         "Deaths" : 21, 
         "ObjectId" : 1731
       }
@@ -20877,9 +20877,9 @@
         "Date" : 1608962400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 54, 
-        "Cumulative_Cases" : 14587, 
-        "Active_Cases" : 2439, 
-        "Recoveries" : 11681, 
+        "Cumulative_Cases" : 14588, 
+        "Active_Cases" : 2444, 
+        "Recoveries" : 11677, 
         "Deaths" : 467, 
         "ObjectId" : 1734
       }
@@ -20890,8 +20890,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 116, 
         "Cumulative_Cases" : 24265, 
-        "Active_Cases" : 4164, 
-        "Recoveries" : 19428, 
+        "Active_Cases" : 4169, 
+        "Recoveries" : 19423, 
         "Deaths" : 673, 
         "ObjectId" : 1735
       }
@@ -20913,9 +20913,9 @@
         "Date" : 1609048800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 2060, 
+        "Cumulative_Cases" : 2059, 
         "Active_Cases" : 858, 
-        "Recoveries" : 1181, 
+        "Recoveries" : 1180, 
         "Deaths" : 21, 
         "ObjectId" : 1737
       }
@@ -20949,9 +20949,9 @@
         "Date" : 1609048800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 14638, 
-        "Active_Cases" : 2418, 
-        "Recoveries" : 11749, 
+        "Cumulative_Cases" : 14639, 
+        "Active_Cases" : 2423, 
+        "Recoveries" : 11745, 
         "Deaths" : 471, 
         "ObjectId" : 1740
       }
@@ -20962,8 +20962,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 124, 
         "Cumulative_Cases" : 24389, 
-        "Active_Cases" : 4139, 
-        "Recoveries" : 19572, 
+        "Active_Cases" : 4144, 
+        "Recoveries" : 19567, 
         "Deaths" : 678, 
         "ObjectId" : 1741
       }
@@ -20985,9 +20985,9 @@
         "Date" : 1609135200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 1, 
-        "Cumulative_Cases" : 2061, 
+        "Cumulative_Cases" : 2060, 
         "Active_Cases" : 847, 
-        "Recoveries" : 1193, 
+        "Recoveries" : 1192, 
         "Deaths" : 21, 
         "ObjectId" : 1743
       }
@@ -21021,9 +21021,9 @@
         "Date" : 1609135200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 90, 
-        "Cumulative_Cases" : 14728, 
-        "Active_Cases" : 2414, 
-        "Recoveries" : 11840, 
+        "Cumulative_Cases" : 14729, 
+        "Active_Cases" : 2419, 
+        "Recoveries" : 11836, 
         "Deaths" : 474, 
         "ObjectId" : 1746
       }
@@ -21034,8 +21034,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 125, 
         "Cumulative_Cases" : 24514, 
-        "Active_Cases" : 4176, 
-        "Recoveries" : 19657, 
+        "Active_Cases" : 4181, 
+        "Recoveries" : 19652, 
         "Deaths" : 681, 
         "ObjectId" : 1747
       }
@@ -21057,9 +21057,9 @@
         "Date" : 1609221600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 2069, 
+        "Cumulative_Cases" : 2068, 
         "Active_Cases" : 843, 
-        "Recoveries" : 1204, 
+        "Recoveries" : 1203, 
         "Deaths" : 22, 
         "ObjectId" : 1749
       }
@@ -21093,9 +21093,9 @@
         "Date" : 1609221600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 89, 
-        "Cumulative_Cases" : 14817, 
-        "Active_Cases" : 2457, 
-        "Recoveries" : 11885, 
+        "Cumulative_Cases" : 14818, 
+        "Active_Cases" : 2462, 
+        "Recoveries" : 11881, 
         "Deaths" : 475, 
         "ObjectId" : 1752
       }
@@ -21106,8 +21106,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 185, 
         "Cumulative_Cases" : 24699, 
-        "Active_Cases" : 4244, 
-        "Recoveries" : 19771, 
+        "Active_Cases" : 4249, 
+        "Recoveries" : 19766, 
         "Deaths" : 684, 
         "ObjectId" : 1753
       }
@@ -21129,9 +21129,9 @@
         "Date" : 1609308000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 2107, 
+        "Cumulative_Cases" : 2106, 
         "Active_Cases" : 868, 
-        "Recoveries" : 1217, 
+        "Recoveries" : 1216, 
         "Deaths" : 22, 
         "ObjectId" : 1755
       }
@@ -21165,9 +21165,9 @@
         "Date" : 1609308000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 93, 
-        "Cumulative_Cases" : 14910, 
-        "Active_Cases" : 2482, 
-        "Recoveries" : 11950, 
+        "Cumulative_Cases" : 14911, 
+        "Active_Cases" : 2487, 
+        "Recoveries" : 11946, 
         "Deaths" : 478, 
         "ObjectId" : 1758
       }
@@ -21178,8 +21178,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 154, 
         "Cumulative_Cases" : 24853, 
-        "Active_Cases" : 4278, 
-        "Recoveries" : 19884, 
+        "Active_Cases" : 4283, 
+        "Recoveries" : 19879, 
         "Deaths" : 691, 
         "ObjectId" : 1759
       }
@@ -21201,9 +21201,9 @@
         "Date" : 1609394400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 2130, 
+        "Cumulative_Cases" : 2129, 
         "Active_Cases" : 877, 
-        "Recoveries" : 1231, 
+        "Recoveries" : 1230, 
         "Deaths" : 22, 
         "ObjectId" : 1761
       }
@@ -21237,9 +21237,9 @@
         "Date" : 1609394400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 101, 
-        "Cumulative_Cases" : 15011, 
-        "Active_Cases" : 2512, 
-        "Recoveries" : 12014, 
+        "Cumulative_Cases" : 15012, 
+        "Active_Cases" : 2517, 
+        "Recoveries" : 12010, 
         "Deaths" : 485, 
         "ObjectId" : 1764
       }
@@ -21250,8 +21250,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 180, 
         "Cumulative_Cases" : 25033, 
-        "Active_Cases" : 4294, 
-        "Recoveries" : 20041, 
+        "Active_Cases" : 4299, 
+        "Recoveries" : 20036, 
         "Deaths" : 698, 
         "ObjectId" : 1765
       }
@@ -21273,9 +21273,9 @@
         "Date" : 1609480800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 2160, 
+        "Cumulative_Cases" : 2159, 
         "Active_Cases" : 892, 
-        "Recoveries" : 1246, 
+        "Recoveries" : 1245, 
         "Deaths" : 22, 
         "ObjectId" : 1767
       }
@@ -21309,9 +21309,9 @@
         "Date" : 1609480800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 115, 
-        "Cumulative_Cases" : 15126, 
-        "Active_Cases" : 2541, 
-        "Recoveries" : 12096, 
+        "Cumulative_Cases" : 15127, 
+        "Active_Cases" : 2546, 
+        "Recoveries" : 12092, 
         "Deaths" : 489, 
         "ObjectId" : 1770
       }
@@ -21322,8 +21322,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 94, 
         "Cumulative_Cases" : 25127, 
-        "Active_Cases" : 4215, 
-        "Recoveries" : 20211, 
+        "Active_Cases" : 4220, 
+        "Recoveries" : 20206, 
         "Deaths" : 701, 
         "ObjectId" : 1771
       }
@@ -21345,9 +21345,9 @@
         "Date" : 1609567200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 2171, 
+        "Cumulative_Cases" : 2170, 
         "Active_Cases" : 887, 
-        "Recoveries" : 1262, 
+        "Recoveries" : 1261, 
         "Deaths" : 22, 
         "ObjectId" : 1773
       }
@@ -21381,9 +21381,9 @@
         "Date" : 1609567200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 57, 
-        "Cumulative_Cases" : 15183, 
-        "Active_Cases" : 2520, 
-        "Recoveries" : 12171, 
+        "Cumulative_Cases" : 15184, 
+        "Active_Cases" : 2525, 
+        "Recoveries" : 12167, 
         "Deaths" : 492, 
         "ObjectId" : 1776
       }
@@ -21394,8 +21394,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 122, 
         "Cumulative_Cases" : 25249, 
-        "Active_Cases" : 4226, 
-        "Recoveries" : 20318, 
+        "Active_Cases" : 4231, 
+        "Recoveries" : 20313, 
         "Deaths" : 705, 
         "ObjectId" : 1777
       }
@@ -21417,9 +21417,9 @@
         "Date" : 1609653600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 2174, 
+        "Cumulative_Cases" : 2173, 
         "Active_Cases" : 872, 
-        "Recoveries" : 1280, 
+        "Recoveries" : 1279, 
         "Deaths" : 22, 
         "ObjectId" : 1779
       }
@@ -21453,9 +21453,9 @@
         "Date" : 1609653600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 86, 
-        "Cumulative_Cases" : 15269, 
-        "Active_Cases" : 2539, 
-        "Recoveries" : 12235, 
+        "Cumulative_Cases" : 15270, 
+        "Active_Cases" : 2544, 
+        "Recoveries" : 12231, 
         "Deaths" : 495, 
         "ObjectId" : 1782
       }
@@ -21466,8 +21466,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 131, 
         "Cumulative_Cases" : 25380, 
-        "Active_Cases" : 4258, 
-        "Recoveries" : 20408, 
+        "Active_Cases" : 4263, 
+        "Recoveries" : 20403, 
         "Deaths" : 714, 
         "ObjectId" : 1783
       }
@@ -21489,9 +21489,9 @@
         "Date" : 1609740000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 2190, 
+        "Cumulative_Cases" : 2189, 
         "Active_Cases" : 883, 
-        "Recoveries" : 1284, 
+        "Recoveries" : 1283, 
         "Deaths" : 23, 
         "ObjectId" : 1785
       }
@@ -21525,9 +21525,9 @@
         "Date" : 1609740000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 75, 
-        "Cumulative_Cases" : 15344, 
-        "Active_Cases" : 2556, 
-        "Recoveries" : 12286, 
+        "Cumulative_Cases" : 15345, 
+        "Active_Cases" : 2561, 
+        "Recoveries" : 12282, 
         "Deaths" : 502, 
         "ObjectId" : 1788
       }
@@ -21538,8 +21538,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 185, 
         "Cumulative_Cases" : 25565, 
-        "Active_Cases" : 4346, 
-        "Recoveries" : 20496, 
+        "Active_Cases" : 4351, 
+        "Recoveries" : 20491, 
         "Deaths" : 723, 
         "ObjectId" : 1789
       }
@@ -21561,9 +21561,9 @@
         "Date" : 1609826400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 50, 
-        "Cumulative_Cases" : 2240, 
+        "Cumulative_Cases" : 2239, 
         "Active_Cases" : 928, 
-        "Recoveries" : 1289, 
+        "Recoveries" : 1288, 
         "Deaths" : 23, 
         "ObjectId" : 1791
       }
@@ -21597,9 +21597,9 @@
         "Date" : 1609826400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 104, 
-        "Cumulative_Cases" : 15448, 
-        "Active_Cases" : 2606, 
-        "Recoveries" : 12334, 
+        "Cumulative_Cases" : 15449, 
+        "Active_Cases" : 2611, 
+        "Recoveries" : 12330, 
         "Deaths" : 508, 
         "ObjectId" : 1794
       }
@@ -21610,8 +21610,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 179, 
         "Cumulative_Cases" : 25744, 
-        "Active_Cases" : 4415, 
-        "Recoveries" : 20598, 
+        "Active_Cases" : 4420, 
+        "Recoveries" : 20593, 
         "Deaths" : 731, 
         "ObjectId" : 1795
       }
@@ -21633,9 +21633,9 @@
         "Date" : 1609912800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 37, 
-        "Cumulative_Cases" : 2277, 
+        "Cumulative_Cases" : 2276, 
         "Active_Cases" : 956, 
-        "Recoveries" : 1298, 
+        "Recoveries" : 1297, 
         "Deaths" : 23, 
         "ObjectId" : 1797
       }
@@ -21669,9 +21669,9 @@
         "Date" : 1609912800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 96, 
-        "Cumulative_Cases" : 15544, 
-        "Active_Cases" : 2629, 
-        "Recoveries" : 12402, 
+        "Cumulative_Cases" : 15545, 
+        "Active_Cases" : 2634, 
+        "Recoveries" : 12398, 
         "Deaths" : 513, 
         "ObjectId" : 1800
       }
@@ -21682,8 +21682,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 226, 
         "Cumulative_Cases" : 25970, 
-        "Active_Cases" : 4497, 
-        "Recoveries" : 20735, 
+        "Active_Cases" : 4502, 
+        "Recoveries" : 20730, 
         "Deaths" : 738, 
         "ObjectId" : 1801
       }
@@ -21705,9 +21705,9 @@
         "Date" : 1609999200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 71, 
-        "Cumulative_Cases" : 2348, 
+        "Cumulative_Cases" : 2347, 
         "Active_Cases" : 1019, 
-        "Recoveries" : 1306, 
+        "Recoveries" : 1305, 
         "Deaths" : 23, 
         "ObjectId" : 1803
       }
@@ -21741,9 +21741,9 @@
         "Date" : 1609999200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 101, 
-        "Cumulative_Cases" : 15645, 
-        "Active_Cases" : 2634, 
-        "Recoveries" : 12491, 
+        "Cumulative_Cases" : 15646, 
+        "Active_Cases" : 2639, 
+        "Recoveries" : 12487, 
         "Deaths" : 520, 
         "ObjectId" : 1806
       }
@@ -21754,8 +21754,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 200, 
         "Cumulative_Cases" : 26170, 
-        "Active_Cases" : 4572, 
-        "Recoveries" : 20854, 
+        "Active_Cases" : 4577, 
+        "Recoveries" : 20849, 
         "Deaths" : 744, 
         "ObjectId" : 1807
       }
@@ -21777,9 +21777,9 @@
         "Date" : 1610085600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 48, 
-        "Cumulative_Cases" : 2396, 
+        "Cumulative_Cases" : 2395, 
         "Active_Cases" : 1057, 
-        "Recoveries" : 1316, 
+        "Recoveries" : 1315, 
         "Deaths" : 23, 
         "ObjectId" : 1809
       }
@@ -21813,9 +21813,9 @@
         "Date" : 1610085600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 88, 
-        "Cumulative_Cases" : 15733, 
-        "Active_Cases" : 2648, 
-        "Recoveries" : 12560, 
+        "Cumulative_Cases" : 15734, 
+        "Active_Cases" : 2653, 
+        "Recoveries" : 12556, 
         "Deaths" : 525, 
         "ObjectId" : 1812
       }
@@ -21826,8 +21826,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 140, 
         "Cumulative_Cases" : 26310, 
-        "Active_Cases" : 4610, 
-        "Recoveries" : 20951, 
+        "Active_Cases" : 4615, 
+        "Recoveries" : 20946, 
         "Deaths" : 749, 
         "ObjectId" : 1813
       }
@@ -21849,9 +21849,9 @@
         "Date" : 1610172000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
-        "Cumulative_Cases" : 2439, 
+        "Cumulative_Cases" : 2438, 
         "Active_Cases" : 1089, 
-        "Recoveries" : 1327, 
+        "Recoveries" : 1326, 
         "Deaths" : 23, 
         "ObjectId" : 1815
       }
@@ -21885,9 +21885,9 @@
         "Date" : 1610172000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 66, 
-        "Cumulative_Cases" : 15799, 
-        "Active_Cases" : 2660, 
-        "Recoveries" : 12610, 
+        "Cumulative_Cases" : 15800, 
+        "Active_Cases" : 2665, 
+        "Recoveries" : 12606, 
         "Deaths" : 529, 
         "ObjectId" : 1818
       }
@@ -21898,8 +21898,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 135, 
         "Cumulative_Cases" : 26445, 
-        "Active_Cases" : 3464, 
-        "Recoveries" : 22229, 
+        "Active_Cases" : 3469, 
+        "Recoveries" : 22224, 
         "Deaths" : 752, 
         "ObjectId" : 1819
       }
@@ -21921,9 +21921,9 @@
         "Date" : 1610258400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 35, 
-        "Cumulative_Cases" : 2474, 
+        "Cumulative_Cases" : 2473, 
         "Active_Cases" : 1112, 
-        "Recoveries" : 1338, 
+        "Recoveries" : 1337, 
         "Deaths" : 24, 
         "ObjectId" : 1821
       }
@@ -21957,9 +21957,9 @@
         "Date" : 1610258400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 49, 
-        "Cumulative_Cases" : 15848, 
-        "Active_Cases" : 1547, 
-        "Recoveries" : 13770, 
+        "Cumulative_Cases" : 15849, 
+        "Active_Cases" : 1552, 
+        "Recoveries" : 13766, 
         "Deaths" : 531, 
         "ObjectId" : 1824
       }
@@ -21970,8 +21970,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 103, 
         "Cumulative_Cases" : 26548, 
-        "Active_Cases" : 3345, 
-        "Recoveries" : 22446, 
+        "Active_Cases" : 3350, 
+        "Recoveries" : 22441, 
         "Deaths" : 757, 
         "ObjectId" : 1825
       }
@@ -21993,9 +21993,9 @@
         "Date" : 1610344800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 2483, 
+        "Cumulative_Cases" : 2482, 
         "Active_Cases" : 1106, 
-        "Recoveries" : 1353, 
+        "Recoveries" : 1352, 
         "Deaths" : 24, 
         "ObjectId" : 1827
       }
@@ -22029,9 +22029,9 @@
         "Date" : 1610344800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 56, 
-        "Cumulative_Cases" : 15904, 
-        "Active_Cases" : 1441, 
-        "Recoveries" : 13928, 
+        "Cumulative_Cases" : 15905, 
+        "Active_Cases" : 1446, 
+        "Recoveries" : 13924, 
         "Deaths" : 535, 
         "ObjectId" : 1830
       }
@@ -22042,8 +22042,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 149, 
         "Cumulative_Cases" : 26697, 
-        "Active_Cases" : 3209, 
-        "Recoveries" : 22724, 
+        "Active_Cases" : 3214, 
+        "Recoveries" : 22719, 
         "Deaths" : 764, 
         "ObjectId" : 1831
       }
@@ -22065,9 +22065,9 @@
         "Date" : 1610431200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 71, 
-        "Cumulative_Cases" : 2554, 
+        "Cumulative_Cases" : 2553, 
         "Active_Cases" : 1153, 
-        "Recoveries" : 1376, 
+        "Recoveries" : 1375, 
         "Deaths" : 25, 
         "ObjectId" : 1833
       }
@@ -22101,9 +22101,9 @@
         "Date" : 1610431200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 54, 
-        "Cumulative_Cases" : 15958, 
-        "Active_Cases" : 1271, 
-        "Recoveries" : 14148, 
+        "Cumulative_Cases" : 15959, 
+        "Active_Cases" : 1276, 
+        "Recoveries" : 14144, 
         "Deaths" : 539, 
         "ObjectId" : 1836
       }
@@ -22114,8 +22114,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 257, 
         "Cumulative_Cases" : 26954, 
-        "Active_Cases" : 3228, 
-        "Recoveries" : 22961, 
+        "Active_Cases" : 3234, 
+        "Recoveries" : 22955, 
         "Deaths" : 765, 
         "ObjectId" : 1837
       }
@@ -22137,9 +22137,9 @@
         "Date" : 1610517600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 132, 
-        "Cumulative_Cases" : 2686, 
+        "Cumulative_Cases" : 2685, 
         "Active_Cases" : 1256, 
-        "Recoveries" : 1405, 
+        "Recoveries" : 1404, 
         "Deaths" : 25, 
         "ObjectId" : 1839
       }
@@ -22173,9 +22173,9 @@
         "Date" : 1610517600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 76, 
-        "Cumulative_Cases" : 16034, 
-        "Active_Cases" : 1184, 
-        "Recoveries" : 14310, 
+        "Cumulative_Cases" : 16035, 
+        "Active_Cases" : 1190, 
+        "Recoveries" : 14305, 
         "Deaths" : 540, 
         "ObjectId" : 1842
       }
@@ -22186,8 +22186,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 189, 
         "Cumulative_Cases" : 27143, 
-        "Active_Cases" : 3303, 
-        "Recoveries" : 23072, 
+        "Active_Cases" : 3309, 
+        "Recoveries" : 23066, 
         "Deaths" : 768, 
         "ObjectId" : 1843
       }
@@ -22209,9 +22209,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 86, 
-        "Cumulative_Cases" : 2772, 
+        "Cumulative_Cases" : 2771, 
         "Active_Cases" : 1310, 
-        "Recoveries" : 1436, 
+        "Recoveries" : 1435, 
         "Deaths" : 26, 
         "ObjectId" : 1845
       }
@@ -22245,9 +22245,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 65, 
-        "Cumulative_Cases" : 16099, 
-        "Active_Cases" : 1190, 
-        "Recoveries" : 14368, 
+        "Cumulative_Cases" : 16100, 
+        "Active_Cases" : 1196, 
+        "Recoveries" : 14363, 
         "Deaths" : 541, 
         "ObjectId" : 1848
       }
@@ -22258,8 +22258,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 179, 
         "Cumulative_Cases" : 27322, 
-        "Active_Cases" : 3392, 
-        "Recoveries" : 23156, 
+        "Active_Cases" : 3398, 
+        "Recoveries" : 23150, 
         "Deaths" : 774, 
         "ObjectId" : 1849
       }
@@ -22281,9 +22281,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 70, 
-        "Cumulative_Cases" : 2842, 
+        "Cumulative_Cases" : 2841, 
         "Active_Cases" : 1354, 
-        "Recoveries" : 1462, 
+        "Recoveries" : 1461, 
         "Deaths" : 26, 
         "ObjectId" : 1851
       }
@@ -22317,9 +22317,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 79, 
-        "Cumulative_Cases" : 16178, 
-        "Active_Cases" : 1225, 
-        "Recoveries" : 14407, 
+        "Cumulative_Cases" : 16179, 
+        "Active_Cases" : 1231, 
+        "Recoveries" : 14402, 
         "Deaths" : 546, 
         "ObjectId" : 1854
       }
@@ -22330,8 +22330,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 183, 
         "Cumulative_Cases" : 27505, 
-        "Active_Cases" : 3490, 
-        "Recoveries" : 23236, 
+        "Active_Cases" : 3497, 
+        "Recoveries" : 23229, 
         "Deaths" : 779, 
         "ObjectId" : 1855
       }
@@ -22353,9 +22353,9 @@
         "Date" : 1610776800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 87, 
-        "Cumulative_Cases" : 2929, 
-        "Active_Cases" : 1409, 
-        "Recoveries" : 1493, 
+        "Cumulative_Cases" : 2928, 
+        "Active_Cases" : 1410, 
+        "Recoveries" : 1491, 
         "Deaths" : 27, 
         "ObjectId" : 1857
       }
@@ -22389,9 +22389,9 @@
         "Date" : 1610776800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 66, 
-        "Cumulative_Cases" : 16244, 
-        "Active_Cases" : 1257, 
-        "Recoveries" : 14437, 
+        "Cumulative_Cases" : 16245, 
+        "Active_Cases" : 1263, 
+        "Recoveries" : 14432, 
         "Deaths" : 550, 
         "ObjectId" : 1860
       }
@@ -22402,8 +22402,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 121, 
         "Cumulative_Cases" : 27626, 
-        "Active_Cases" : 3515, 
-        "Recoveries" : 23326, 
+        "Active_Cases" : 3522, 
+        "Recoveries" : 23319, 
         "Deaths" : 785, 
         "ObjectId" : 1861
       }
@@ -22425,9 +22425,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 43, 
-        "Cumulative_Cases" : 2972, 
-        "Active_Cases" : 1416, 
-        "Recoveries" : 1529, 
+        "Cumulative_Cases" : 2971, 
+        "Active_Cases" : 1417, 
+        "Recoveries" : 1527, 
         "Deaths" : 27, 
         "ObjectId" : 1863
       }
@@ -22461,9 +22461,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 50, 
-        "Cumulative_Cases" : 16294, 
-        "Active_Cases" : 1267, 
-        "Recoveries" : 14472, 
+        "Cumulative_Cases" : 16295, 
+        "Active_Cases" : 1273, 
+        "Recoveries" : 14467, 
         "Deaths" : 555, 
         "ObjectId" : 1866
       }
@@ -22474,8 +22474,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 113, 
         "Cumulative_Cases" : 27739, 
-        "Active_Cases" : 3508, 
-        "Recoveries" : 23439, 
+        "Active_Cases" : 3515, 
+        "Recoveries" : 23432, 
         "Deaths" : 792, 
         "ObjectId" : 1867
       }
@@ -22497,9 +22497,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 3006, 
-        "Active_Cases" : 1408, 
-        "Recoveries" : 1571, 
+        "Cumulative_Cases" : 3005, 
+        "Active_Cases" : 1409, 
+        "Recoveries" : 1569, 
         "Deaths" : 27, 
         "ObjectId" : 1869
       }
@@ -22533,9 +22533,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 16345, 
-        "Active_Cases" : 1278, 
-        "Recoveries" : 14510, 
+        "Cumulative_Cases" : 16346, 
+        "Active_Cases" : 1284, 
+        "Recoveries" : 14505, 
         "Deaths" : 557, 
         "ObjectId" : 1872
       }
@@ -22546,8 +22546,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 161, 
         "Cumulative_Cases" : 27900, 
-        "Active_Cases" : 3594, 
-        "Recoveries" : 23507, 
+        "Active_Cases" : 3601, 
+        "Recoveries" : 23500, 
         "Deaths" : 799, 
         "ObjectId" : 1873
       }
@@ -22569,9 +22569,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 80, 
-        "Cumulative_Cases" : 3086, 
-        "Active_Cases" : 1457, 
-        "Recoveries" : 1602, 
+        "Cumulative_Cases" : 3085, 
+        "Active_Cases" : 1458, 
+        "Recoveries" : 1600, 
         "Deaths" : 27, 
         "ObjectId" : 1875
       }
@@ -22605,9 +22605,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 48, 
-        "Cumulative_Cases" : 16393, 
-        "Active_Cases" : 1300, 
-        "Recoveries" : 14531, 
+        "Cumulative_Cases" : 16394, 
+        "Active_Cases" : 1306, 
+        "Recoveries" : 14526, 
         "Deaths" : 562, 
         "ObjectId" : 1878
       }
@@ -22618,8 +22618,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 216, 
         "Cumulative_Cases" : 28116, 
-        "Active_Cases" : 3695, 
-        "Recoveries" : 23621, 
+        "Active_Cases" : 3702, 
+        "Recoveries" : 23614, 
         "Deaths" : 800, 
         "ObjectId" : 1879
       }
@@ -22641,9 +22641,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 120, 
-        "Cumulative_Cases" : 3206, 
-        "Active_Cases" : 1533, 
-        "Recoveries" : 1646, 
+        "Cumulative_Cases" : 3205, 
+        "Active_Cases" : 1534, 
+        "Recoveries" : 1644, 
         "Deaths" : 27, 
         "ObjectId" : 1881
       }
@@ -22677,9 +22677,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 54, 
-        "Cumulative_Cases" : 16447, 
-        "Active_Cases" : 1309, 
-        "Recoveries" : 14576, 
+        "Cumulative_Cases" : 16448, 
+        "Active_Cases" : 1315, 
+        "Recoveries" : 14571, 
         "Deaths" : 562, 
         "ObjectId" : 1884
       }
@@ -22690,8 +22690,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 183, 
         "Cumulative_Cases" : 28299, 
-        "Active_Cases" : 3765, 
-        "Recoveries" : 23729, 
+        "Active_Cases" : 3772, 
+        "Recoveries" : 23722, 
         "Deaths" : 805, 
         "ObjectId" : 1885
       }
@@ -22713,9 +22713,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 64, 
-        "Cumulative_Cases" : 3270, 
-        "Active_Cases" : 1548, 
-        "Recoveries" : 1695, 
+        "Cumulative_Cases" : 3269, 
+        "Active_Cases" : 1549, 
+        "Recoveries" : 1693, 
         "Deaths" : 27, 
         "ObjectId" : 1887
       }
@@ -22749,9 +22749,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 64, 
-        "Cumulative_Cases" : 16511, 
-        "Active_Cases" : 1335, 
-        "Recoveries" : 14610, 
+        "Cumulative_Cases" : 16512, 
+        "Active_Cases" : 1341, 
+        "Recoveries" : 14605, 
         "Deaths" : 566, 
         "ObjectId" : 1890
       }
@@ -22762,8 +22762,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 212, 
         "Cumulative_Cases" : 28511, 
-        "Active_Cases" : 3880, 
-        "Recoveries" : 23821, 
+        "Active_Cases" : 3887, 
+        "Recoveries" : 23814, 
         "Deaths" : 810, 
         "ObjectId" : 1891
       }
@@ -22785,9 +22785,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 122, 
-        "Cumulative_Cases" : 3392, 
-        "Active_Cases" : 1637, 
-        "Recoveries" : 1728, 
+        "Cumulative_Cases" : 3391, 
+        "Active_Cases" : 1638, 
+        "Recoveries" : 1726, 
         "Deaths" : 27, 
         "ObjectId" : 1893
       }
@@ -22821,9 +22821,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 45, 
-        "Cumulative_Cases" : 16556, 
-        "Active_Cases" : 1347, 
-        "Recoveries" : 14640, 
+        "Cumulative_Cases" : 16557, 
+        "Active_Cases" : 1353, 
+        "Recoveries" : 14635, 
         "Deaths" : 569, 
         "ObjectId" : 1896
       }
@@ -22834,8 +22834,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 224, 
         "Cumulative_Cases" : 28735, 
-        "Active_Cases" : 4012, 
-        "Recoveries" : 23911, 
+        "Active_Cases" : 4019, 
+        "Recoveries" : 23904, 
         "Deaths" : 812, 
         "ObjectId" : 1897
       }
@@ -22857,9 +22857,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 120, 
-        "Cumulative_Cases" : 3512, 
-        "Active_Cases" : 1725, 
-        "Recoveries" : 1760, 
+        "Cumulative_Cases" : 3511, 
+        "Active_Cases" : 1726, 
+        "Recoveries" : 1758, 
         "Deaths" : 27, 
         "ObjectId" : 1899
       }
@@ -22893,9 +22893,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 57, 
-        "Cumulative_Cases" : 16613, 
-        "Active_Cases" : 1365, 
-        "Recoveries" : 14677, 
+        "Cumulative_Cases" : 16614, 
+        "Active_Cases" : 1371, 
+        "Recoveries" : 14672, 
         "Deaths" : 571, 
         "ObjectId" : 1902
       }
@@ -22906,8 +22906,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 131, 
         "Cumulative_Cases" : 28866, 
-        "Active_Cases" : 4053, 
-        "Recoveries" : 23995, 
+        "Active_Cases" : 4060, 
+        "Recoveries" : 23988, 
         "Deaths" : 818, 
         "ObjectId" : 1903
       }
@@ -22929,9 +22929,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 70, 
-        "Cumulative_Cases" : 3582, 
-        "Active_Cases" : 1751, 
-        "Recoveries" : 1804, 
+        "Cumulative_Cases" : 3581, 
+        "Active_Cases" : 1752, 
+        "Recoveries" : 1802, 
         "Deaths" : 27, 
         "ObjectId" : 1905
       }
@@ -22965,9 +22965,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 40, 
-        "Cumulative_Cases" : 16653, 
-        "Active_Cases" : 1372, 
-        "Recoveries" : 14707, 
+        "Cumulative_Cases" : 16654, 
+        "Active_Cases" : 1378, 
+        "Recoveries" : 14702, 
         "Deaths" : 574, 
         "ObjectId" : 1908
       }
@@ -22978,8 +22978,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 64, 
         "Cumulative_Cases" : 28930, 
-        "Active_Cases" : 3991, 
-        "Recoveries" : 24116, 
+        "Active_Cases" : 3998, 
+        "Recoveries" : 24109, 
         "Deaths" : 823, 
         "ObjectId" : 1909
       }
@@ -23001,9 +23001,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 3592, 
-        "Active_Cases" : 1716, 
-        "Recoveries" : 1849, 
+        "Cumulative_Cases" : 3591, 
+        "Active_Cases" : 1717, 
+        "Recoveries" : 1847, 
         "Deaths" : 27, 
         "ObjectId" : 1911
       }
@@ -23037,9 +23037,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 16691, 
-        "Active_Cases" : 1357, 
-        "Recoveries" : 14756, 
+        "Cumulative_Cases" : 16692, 
+        "Active_Cases" : 1363, 
+        "Recoveries" : 14751, 
         "Deaths" : 578, 
         "ObjectId" : 1914
       }
@@ -23050,8 +23050,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 88, 
         "Cumulative_Cases" : 29018, 
-        "Active_Cases" : 3966, 
-        "Recoveries" : 24223, 
+        "Active_Cases" : 3973, 
+        "Recoveries" : 24216, 
         "Deaths" : 829, 
         "ObjectId" : 1915
       }
@@ -23073,9 +23073,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 41, 
-        "Cumulative_Cases" : 3633, 
-        "Active_Cases" : 1725, 
-        "Recoveries" : 1881, 
+        "Cumulative_Cases" : 3632, 
+        "Active_Cases" : 1726, 
+        "Recoveries" : 1879, 
         "Deaths" : 27, 
         "ObjectId" : 1917
       }
@@ -23109,9 +23109,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 36, 
-        "Cumulative_Cases" : 16727, 
-        "Active_Cases" : 1339, 
-        "Recoveries" : 14806, 
+        "Cumulative_Cases" : 16728, 
+        "Active_Cases" : 1345, 
+        "Recoveries" : 14801, 
         "Deaths" : 582, 
         "ObjectId" : 1920
       }
@@ -23122,8 +23122,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 133, 
         "Cumulative_Cases" : 29151, 
-        "Active_Cases" : 3983, 
-        "Recoveries" : 24337, 
+        "Active_Cases" : 3991, 
+        "Recoveries" : 24329, 
         "Deaths" : 831, 
         "ObjectId" : 1921
       }
@@ -23145,9 +23145,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 59, 
-        "Cumulative_Cases" : 3692, 
-        "Active_Cases" : 1737, 
-        "Recoveries" : 1928, 
+        "Cumulative_Cases" : 3691, 
+        "Active_Cases" : 1739, 
+        "Recoveries" : 1925, 
         "Deaths" : 27, 
         "ObjectId" : 1923
       }
@@ -23181,9 +23181,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 29, 
-        "Cumulative_Cases" : 16756, 
-        "Active_Cases" : 1318, 
-        "Recoveries" : 14854, 
+        "Cumulative_Cases" : 16757, 
+        "Active_Cases" : 1324, 
+        "Recoveries" : 14849, 
         "Deaths" : 584, 
         "ObjectId" : 1926
       }
@@ -23194,8 +23194,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 167, 
         "Cumulative_Cases" : 29318, 
-        "Active_Cases" : 4049, 
-        "Recoveries" : 24435, 
+        "Active_Cases" : 4057, 
+        "Recoveries" : 24427, 
         "Deaths" : 834, 
         "ObjectId" : 1927
       }
@@ -23217,9 +23217,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 78, 
-        "Cumulative_Cases" : 3770, 
-        "Active_Cases" : 1767, 
-        "Recoveries" : 1976, 
+        "Cumulative_Cases" : 3769, 
+        "Active_Cases" : 1769, 
+        "Recoveries" : 1973, 
         "Deaths" : 27, 
         "ObjectId" : 1929
       }
@@ -23253,9 +23253,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 16786, 
-        "Active_Cases" : 1318, 
-        "Recoveries" : 14881, 
+        "Cumulative_Cases" : 16787, 
+        "Active_Cases" : 1324, 
+        "Recoveries" : 14876, 
         "Deaths" : 587, 
         "ObjectId" : 1932
       }
@@ -23266,8 +23266,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 161, 
         "Cumulative_Cases" : 29479, 
-        "Active_Cases" : 4063, 
-        "Recoveries" : 24580, 
+        "Active_Cases" : 4071, 
+        "Recoveries" : 24572, 
         "Deaths" : 836, 
         "ObjectId" : 1933
       }
@@ -23289,9 +23289,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 66, 
-        "Cumulative_Cases" : 3836, 
-        "Active_Cases" : 1773, 
-        "Recoveries" : 2036, 
+        "Cumulative_Cases" : 3835, 
+        "Active_Cases" : 1775, 
+        "Recoveries" : 2033, 
         "Deaths" : 27, 
         "ObjectId" : 1935
       }
@@ -23325,9 +23325,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 44, 
-        "Cumulative_Cases" : 16830, 
-        "Active_Cases" : 1324, 
-        "Recoveries" : 14918, 
+        "Cumulative_Cases" : 16831, 
+        "Active_Cases" : 1330, 
+        "Recoveries" : 14913, 
         "Deaths" : 588, 
         "ObjectId" : 1938
       }
@@ -23338,8 +23338,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 104, 
         "Cumulative_Cases" : 29583, 
-        "Active_Cases" : 4042, 
-        "Recoveries" : 24700, 
+        "Active_Cases" : 4050, 
+        "Recoveries" : 24692, 
         "Deaths" : 841, 
         "ObjectId" : 1939
       }
@@ -23361,9 +23361,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 45, 
-        "Cumulative_Cases" : 3881, 
-        "Active_Cases" : 1775, 
-        "Recoveries" : 2078, 
+        "Cumulative_Cases" : 3880, 
+        "Active_Cases" : 1777, 
+        "Recoveries" : 2075, 
         "Deaths" : 28, 
         "ObjectId" : 1941
       }
@@ -23397,9 +23397,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 16858, 
-        "Active_Cases" : 1302, 
-        "Recoveries" : 14967, 
+        "Cumulative_Cases" : 16859, 
+        "Active_Cases" : 1308, 
+        "Recoveries" : 14962, 
         "Deaths" : 589, 
         "ObjectId" : 1944
       }
@@ -23410,8 +23410,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 89, 
         "Cumulative_Cases" : 29672, 
-        "Active_Cases" : 4006, 
-        "Recoveries" : 24823, 
+        "Active_Cases" : 4014, 
+        "Recoveries" : 24815, 
         "Deaths" : 843, 
         "ObjectId" : 1945
       }
@@ -23433,9 +23433,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 39, 
-        "Cumulative_Cases" : 3920, 
-        "Active_Cases" : 1777, 
-        "Recoveries" : 2115, 
+        "Cumulative_Cases" : 3919, 
+        "Active_Cases" : 1779, 
+        "Recoveries" : 2112, 
         "Deaths" : 28, 
         "ObjectId" : 1947
       }
@@ -23469,9 +23469,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 16877, 
-        "Active_Cases" : 1255, 
-        "Recoveries" : 15033, 
+        "Cumulative_Cases" : 16878, 
+        "Active_Cases" : 1261, 
+        "Recoveries" : 15028, 
         "Deaths" : 589, 
         "ObjectId" : 1950
       }
@@ -23482,8 +23482,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 100, 
         "Cumulative_Cases" : 29772, 
-        "Active_Cases" : 3974, 
-        "Recoveries" : 24953, 
+        "Active_Cases" : 3982, 
+        "Recoveries" : 24945, 
         "Deaths" : 845, 
         "ObjectId" : 1951
       }
@@ -23505,9 +23505,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 3962, 
-        "Active_Cases" : 1763, 
-        "Recoveries" : 2171, 
+        "Cumulative_Cases" : 3961, 
+        "Active_Cases" : 1765, 
+        "Recoveries" : 2168, 
         "Deaths" : 28, 
         "ObjectId" : 1953
       }
@@ -23541,9 +23541,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 16896, 
-        "Active_Cases" : 1223, 
-        "Recoveries" : 15082, 
+        "Cumulative_Cases" : 16897, 
+        "Active_Cases" : 1229, 
+        "Recoveries" : 15077, 
         "Deaths" : 591, 
         "ObjectId" : 1956
       }
@@ -23554,8 +23554,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 113, 
         "Cumulative_Cases" : 29885, 
-        "Active_Cases" : 3988, 
-        "Recoveries" : 25049, 
+        "Active_Cases" : 3996, 
+        "Recoveries" : 25041, 
         "Deaths" : 848, 
         "ObjectId" : 1957
       }
@@ -23577,9 +23577,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 56, 
-        "Cumulative_Cases" : 4018, 
-        "Active_Cases" : 1776, 
-        "Recoveries" : 2213, 
+        "Cumulative_Cases" : 4017, 
+        "Active_Cases" : 1778, 
+        "Recoveries" : 2210, 
         "Deaths" : 29, 
         "ObjectId" : 1959
       }
@@ -23613,9 +23613,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 16926, 
-        "Active_Cases" : 1213, 
-        "Recoveries" : 15120, 
+        "Cumulative_Cases" : 16927, 
+        "Active_Cases" : 1219, 
+        "Recoveries" : 15115, 
         "Deaths" : 593, 
         "ObjectId" : 1962
       }
@@ -23626,8 +23626,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 96, 
         "Cumulative_Cases" : 29981, 
-        "Active_Cases" : 3958, 
-        "Recoveries" : 25174, 
+        "Active_Cases" : 3967, 
+        "Recoveries" : 25165, 
         "Deaths" : 849, 
         "ObjectId" : 1963
       }
@@ -23649,9 +23649,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 44, 
-        "Cumulative_Cases" : 4062, 
-        "Active_Cases" : 1770, 
-        "Recoveries" : 2263, 
+        "Cumulative_Cases" : 4061, 
+        "Active_Cases" : 1772, 
+        "Recoveries" : 2260, 
         "Deaths" : 29, 
         "ObjectId" : 1965
       }
@@ -23685,9 +23685,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 16954, 
-        "Active_Cases" : 1181, 
-        "Recoveries" : 15179, 
+        "Cumulative_Cases" : 16955, 
+        "Active_Cases" : 1188, 
+        "Recoveries" : 15173, 
         "Deaths" : 594, 
         "ObjectId" : 1968
       }
@@ -23698,8 +23698,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 101, 
         "Cumulative_Cases" : 30082, 
-        "Active_Cases" : 3965, 
-        "Recoveries" : 25261, 
+        "Active_Cases" : 3974, 
+        "Recoveries" : 25252, 
         "Deaths" : 856, 
         "ObjectId" : 1969
       }
@@ -23721,9 +23721,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 4096, 
-        "Active_Cases" : 1773, 
-        "Recoveries" : 2293, 
+        "Cumulative_Cases" : 4095, 
+        "Active_Cases" : 1775, 
+        "Recoveries" : 2290, 
         "Deaths" : 30, 
         "ObjectId" : 1971
       }
@@ -23757,9 +23757,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 32, 
-        "Cumulative_Cases" : 16986, 
-        "Active_Cases" : 1173, 
-        "Recoveries" : 15214, 
+        "Cumulative_Cases" : 16987, 
+        "Active_Cases" : 1180, 
+        "Recoveries" : 15208, 
         "Deaths" : 599, 
         "ObjectId" : 1974
       }
@@ -23770,8 +23770,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 86, 
         "Cumulative_Cases" : 30168, 
-        "Active_Cases" : 3883, 
-        "Recoveries" : 25425, 
+        "Active_Cases" : 3892, 
+        "Recoveries" : 25416, 
         "Deaths" : 860, 
         "ObjectId" : 1975
       }
@@ -23793,9 +23793,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 4124, 
-        "Active_Cases" : 1763, 
-        "Recoveries" : 2329, 
+        "Cumulative_Cases" : 4123, 
+        "Active_Cases" : 1765, 
+        "Recoveries" : 2326, 
         "Deaths" : 32, 
         "ObjectId" : 1977
       }
@@ -23829,9 +23829,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 39, 
-        "Cumulative_Cases" : 17025, 
-        "Active_Cases" : 1106, 
-        "Recoveries" : 15319, 
+        "Cumulative_Cases" : 17026, 
+        "Active_Cases" : 1113, 
+        "Recoveries" : 15313, 
         "Deaths" : 600, 
         "ObjectId" : 1980
       }
@@ -23842,8 +23842,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 78, 
         "Cumulative_Cases" : 30246, 
-        "Active_Cases" : 3851, 
-        "Recoveries" : 25533, 
+        "Active_Cases" : 3860, 
+        "Recoveries" : 25524, 
         "Deaths" : 862, 
         "ObjectId" : 1981
       }
@@ -23865,9 +23865,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 4152, 
-        "Active_Cases" : 1757, 
-        "Recoveries" : 2363, 
+        "Cumulative_Cases" : 4151, 
+        "Active_Cases" : 1759, 
+        "Recoveries" : 2360, 
         "Deaths" : 32, 
         "ObjectId" : 1983
       }
@@ -23901,9 +23901,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 17055, 
-        "Active_Cases" : 1094, 
-        "Recoveries" : 15359, 
+        "Cumulative_Cases" : 17056, 
+        "Active_Cases" : 1101, 
+        "Recoveries" : 15353, 
         "Deaths" : 602, 
         "ObjectId" : 1986
       }
@@ -23914,8 +23914,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 50, 
         "Cumulative_Cases" : 30296, 
-        "Active_Cases" : 2449, 
-        "Recoveries" : 26982, 
+        "Active_Cases" : 2459, 
+        "Recoveries" : 26972, 
         "Deaths" : 865, 
         "ObjectId" : 1987
       }
@@ -23937,9 +23937,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4163, 
-        "Active_Cases" : 826, 
-        "Recoveries" : 3304, 
+        "Cumulative_Cases" : 4162, 
+        "Active_Cases" : 829, 
+        "Recoveries" : 3300, 
         "Deaths" : 33, 
         "ObjectId" : 1989
       }
@@ -23973,9 +23973,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 17085, 
-        "Active_Cases" : 989, 
-        "Recoveries" : 15493, 
+        "Cumulative_Cases" : 17086, 
+        "Active_Cases" : 996, 
+        "Recoveries" : 15487, 
         "Deaths" : 603, 
         "ObjectId" : 1992
       }
@@ -23986,8 +23986,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 73, 
         "Cumulative_Cases" : 30369, 
-        "Active_Cases" : 2423, 
-        "Recoveries" : 27075, 
+        "Active_Cases" : 2433, 
+        "Recoveries" : 27065, 
         "Deaths" : 871, 
         "ObjectId" : 1993
       }
@@ -24009,9 +24009,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Northern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4177, 
-        "Active_Cases" : 802, 
-        "Recoveries" : 3342, 
+        "Cumulative_Cases" : 4176, 
+        "Active_Cases" : 805, 
+        "Recoveries" : 3338, 
         "Deaths" : 33, 
         "ObjectId" : 1995
       }
@@ -24045,9 +24045,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Winnipeg", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 17136, 
-        "Active_Cases" : 997, 
-        "Recoveries" : 15531, 
+        "Cumulative_Cases" : 17137, 
+        "Active_Cases" : 1004, 
+        "Recoveries" : 15525, 
         "Deaths" : 608, 
         "ObjectId" : 1998
       }
@@ -24058,8 +24058,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 52, 
         "Cumulative_Cases" : 30421, 
-        "Active_Cases" : 2413, 
-        "Recoveries" : 27135, 
+        "Active_Cases" : 2423, 
+        "Recoveries" : 27125, 
         "Deaths" : 873, 
         "ObjectId" : 1999
       }
