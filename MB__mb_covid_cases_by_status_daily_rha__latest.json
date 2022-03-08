@@ -18812,10 +18812,10 @@
       "attributes" : {
         "Date" : 1606543200000, 
         "RHA" : "Interlake-Eastern", 
-        "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 1072, 
+        "Daily_Cases" : 16, 
+        "Cumulative_Cases" : 1073, 
         "Active_Cases" : 442, 
-        "Recoveries" : 613, 
+        "Recoveries" : 614, 
         "Deaths" : 17, 
         "ObjectId" : 1562
       }
@@ -18848,10 +18848,10 @@
       "attributes" : {
         "Date" : 1606543200000, 
         "RHA" : "Southern Health-Santé Sud", 
-        "Daily_Cases" : 74, 
-        "Cumulative_Cases" : 3244, 
+        "Daily_Cases" : 73, 
+        "Cumulative_Cases" : 3243, 
         "Active_Cases" : 1018, 
-        "Recoveries" : 2161, 
+        "Recoveries" : 2160, 
         "Deaths" : 65, 
         "ObjectId" : 1565
       }
@@ -18885,9 +18885,9 @@
         "Date" : 1606629600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 1094, 
+        "Cumulative_Cases" : 1095, 
         "Active_Cases" : 455, 
-        "Recoveries" : 622, 
+        "Recoveries" : 623, 
         "Deaths" : 17, 
         "ObjectId" : 1568
       }
@@ -18921,9 +18921,9 @@
         "Date" : 1606629600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 3295, 
+        "Cumulative_Cases" : 3294, 
         "Active_Cases" : 1013, 
-        "Recoveries" : 2215, 
+        "Recoveries" : 2214, 
         "Deaths" : 67, 
         "ObjectId" : 1571
       }
@@ -18957,9 +18957,9 @@
         "Date" : 1606716000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1108, 
+        "Cumulative_Cases" : 1109, 
         "Active_Cases" : 453, 
-        "Recoveries" : 638, 
+        "Recoveries" : 639, 
         "Deaths" : 17, 
         "ObjectId" : 1574
       }
@@ -18993,9 +18993,9 @@
         "Date" : 1606716000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 53, 
-        "Cumulative_Cases" : 3348, 
+        "Cumulative_Cases" : 3347, 
         "Active_Cases" : 963, 
-        "Recoveries" : 2311, 
+        "Recoveries" : 2310, 
         "Deaths" : 74, 
         "ObjectId" : 1577
       }
@@ -19029,9 +19029,9 @@
         "Date" : 1606802400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1122, 
+        "Cumulative_Cases" : 1123, 
         "Active_Cases" : 445, 
-        "Recoveries" : 660, 
+        "Recoveries" : 661, 
         "Deaths" : 17, 
         "ObjectId" : 1580
       }
@@ -19065,9 +19065,9 @@
         "Date" : 1606802400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 3372, 
+        "Cumulative_Cases" : 3371, 
         "Active_Cases" : 953, 
-        "Recoveries" : 2344, 
+        "Recoveries" : 2343, 
         "Deaths" : 75, 
         "ObjectId" : 1583
       }
@@ -19100,10 +19100,10 @@
       "attributes" : {
         "Date" : 1606888800000, 
         "RHA" : "Interlake-Eastern", 
-        "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1142, 
+        "Daily_Cases" : 22, 
+        "Cumulative_Cases" : 1145, 
         "Active_Cases" : 453, 
-        "Recoveries" : 672, 
+        "Recoveries" : 675, 
         "Deaths" : 17, 
         "ObjectId" : 1586
       }
@@ -19136,10 +19136,10 @@
       "attributes" : {
         "Date" : 1606888800000, 
         "RHA" : "Southern Health-Santé Sud", 
-        "Daily_Cases" : 62, 
-        "Cumulative_Cases" : 3434, 
+        "Daily_Cases" : 60, 
+        "Cumulative_Cases" : 3431, 
         "Active_Cases" : 936, 
-        "Recoveries" : 2420, 
+        "Recoveries" : 2417, 
         "Deaths" : 78, 
         "ObjectId" : 1589
       }
@@ -19173,9 +19173,9 @@
         "Date" : 1606975200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1155, 
+        "Cumulative_Cases" : 1158, 
         "Active_Cases" : 448, 
-        "Recoveries" : 689, 
+        "Recoveries" : 692, 
         "Deaths" : 18, 
         "ObjectId" : 1592
       }
@@ -19209,9 +19209,9 @@
         "Date" : 1606975200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 52, 
-        "Cumulative_Cases" : 3486, 
+        "Cumulative_Cases" : 3483, 
         "Active_Cases" : 912, 
-        "Recoveries" : 2493, 
+        "Recoveries" : 2490, 
         "Deaths" : 81, 
         "ObjectId" : 1595
       }
@@ -19245,9 +19245,9 @@
         "Date" : 1607061600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 1189, 
+        "Cumulative_Cases" : 1192, 
         "Active_Cases" : 468, 
-        "Recoveries" : 703, 
+        "Recoveries" : 706, 
         "Deaths" : 18, 
         "ObjectId" : 1598
       }
@@ -19281,9 +19281,9 @@
         "Date" : 1607061600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 66, 
-        "Cumulative_Cases" : 3552, 
+        "Cumulative_Cases" : 3549, 
         "Active_Cases" : 914, 
-        "Recoveries" : 2555, 
+        "Recoveries" : 2552, 
         "Deaths" : 83, 
         "ObjectId" : 1601
       }
@@ -19317,9 +19317,9 @@
         "Date" : 1607148000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 22, 
-        "Cumulative_Cases" : 1211, 
+        "Cumulative_Cases" : 1214, 
         "Active_Cases" : 487, 
-        "Recoveries" : 705, 
+        "Recoveries" : 708, 
         "Deaths" : 19, 
         "ObjectId" : 1604
       }
@@ -19353,9 +19353,9 @@
         "Date" : 1607148000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 37, 
-        "Cumulative_Cases" : 3589, 
+        "Cumulative_Cases" : 3586, 
         "Active_Cases" : 903, 
-        "Recoveries" : 2601, 
+        "Recoveries" : 2598, 
         "Deaths" : 85, 
         "ObjectId" : 1607
       }
@@ -19389,9 +19389,9 @@
         "Date" : 1607234400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 28, 
-        "Cumulative_Cases" : 1239, 
+        "Cumulative_Cases" : 1242, 
         "Active_Cases" : 277, 
-        "Recoveries" : 943, 
+        "Recoveries" : 946, 
         "Deaths" : 19, 
         "ObjectId" : 1610
       }
@@ -19425,9 +19425,9 @@
         "Date" : 1607234400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 3612, 
+        "Cumulative_Cases" : 3609, 
         "Active_Cases" : 490, 
-        "Recoveries" : 3036, 
+        "Recoveries" : 3033, 
         "Deaths" : 86, 
         "ObjectId" : 1613
       }
@@ -19461,9 +19461,9 @@
         "Date" : 1607320800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 36, 
-        "Cumulative_Cases" : 1275, 
+        "Cumulative_Cases" : 1278, 
         "Active_Cases" : 292, 
-        "Recoveries" : 964, 
+        "Recoveries" : 967, 
         "Deaths" : 19, 
         "ObjectId" : 1616
       }
@@ -19497,9 +19497,9 @@
         "Date" : 1607320800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 3646, 
+        "Cumulative_Cases" : 3643, 
         "Active_Cases" : 465, 
-        "Recoveries" : 3094, 
+        "Recoveries" : 3091, 
         "Deaths" : 87, 
         "ObjectId" : 1619
       }
@@ -19533,9 +19533,9 @@
         "Date" : 1607407200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 1298, 
+        "Cumulative_Cases" : 1301, 
         "Active_Cases" : 296, 
-        "Recoveries" : 983, 
+        "Recoveries" : 986, 
         "Deaths" : 19, 
         "ObjectId" : 1622
       }
@@ -19569,9 +19569,9 @@
         "Date" : 1607407200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 3669, 
+        "Cumulative_Cases" : 3666, 
         "Active_Cases" : 451, 
-        "Recoveries" : 3129, 
+        "Recoveries" : 3126, 
         "Deaths" : 89, 
         "ObjectId" : 1625
       }
@@ -19605,9 +19605,9 @@
         "Date" : 1607493600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 36, 
-        "Cumulative_Cases" : 1334, 
+        "Cumulative_Cases" : 1337, 
         "Active_Cases" : 312, 
-        "Recoveries" : 1003, 
+        "Recoveries" : 1006, 
         "Deaths" : 19, 
         "ObjectId" : 1628
       }
@@ -19641,9 +19641,9 @@
         "Date" : 1607493600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 51, 
-        "Cumulative_Cases" : 3720, 
+        "Cumulative_Cases" : 3717, 
         "Active_Cases" : 458, 
-        "Recoveries" : 3170, 
+        "Recoveries" : 3167, 
         "Deaths" : 92, 
         "ObjectId" : 1631
       }
@@ -19677,9 +19677,9 @@
         "Date" : 1607580000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 40, 
-        "Cumulative_Cases" : 1374, 
+        "Cumulative_Cases" : 1377, 
         "Active_Cases" : 332, 
-        "Recoveries" : 1022, 
+        "Recoveries" : 1025, 
         "Deaths" : 20, 
         "ObjectId" : 1634
       }
@@ -19713,9 +19713,9 @@
         "Date" : 1607580000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 3758, 
+        "Cumulative_Cases" : 3755, 
         "Active_Cases" : 434, 
-        "Recoveries" : 3229, 
+        "Recoveries" : 3226, 
         "Deaths" : 95, 
         "ObjectId" : 1637
       }
@@ -19749,9 +19749,9 @@
         "Date" : 1607666400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 52, 
-        "Cumulative_Cases" : 1426, 
+        "Cumulative_Cases" : 1429, 
         "Active_Cases" : 352, 
-        "Recoveries" : 1053, 
+        "Recoveries" : 1056, 
         "Deaths" : 21, 
         "ObjectId" : 1640
       }
@@ -19785,9 +19785,9 @@
         "Date" : 1607666400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 29, 
-        "Cumulative_Cases" : 3787, 
+        "Cumulative_Cases" : 3784, 
         "Active_Cases" : 427, 
-        "Recoveries" : 3265, 
+        "Recoveries" : 3262, 
         "Deaths" : 95, 
         "ObjectId" : 1643
       }
@@ -19821,9 +19821,9 @@
         "Date" : 1607752800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 1443, 
+        "Cumulative_Cases" : 1446, 
         "Active_Cases" : 341, 
-        "Recoveries" : 1081, 
+        "Recoveries" : 1084, 
         "Deaths" : 21, 
         "ObjectId" : 1646
       }
@@ -19857,9 +19857,9 @@
         "Date" : 1607752800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 3807, 
+        "Cumulative_Cases" : 3804, 
         "Active_Cases" : 431, 
-        "Recoveries" : 3281, 
+        "Recoveries" : 3278, 
         "Deaths" : 95, 
         "ObjectId" : 1649
       }
@@ -19893,9 +19893,9 @@
         "Date" : 1607839200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 1454, 
+        "Cumulative_Cases" : 1457, 
         "Active_Cases" : 338, 
-        "Recoveries" : 1095, 
+        "Recoveries" : 1098, 
         "Deaths" : 21, 
         "ObjectId" : 1652
       }
@@ -19929,9 +19929,9 @@
         "Date" : 1607839200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 34, 
-        "Cumulative_Cases" : 3841, 
+        "Cumulative_Cases" : 3838, 
         "Active_Cases" : 445, 
-        "Recoveries" : 3301, 
+        "Recoveries" : 3298, 
         "Deaths" : 95, 
         "ObjectId" : 1655
       }
@@ -19965,9 +19965,9 @@
         "Date" : 1607925600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 1471, 
+        "Cumulative_Cases" : 1474, 
         "Active_Cases" : 322, 
-        "Recoveries" : 1126, 
+        "Recoveries" : 1129, 
         "Deaths" : 23, 
         "ObjectId" : 1658
       }
@@ -20001,9 +20001,9 @@
         "Date" : 1607925600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 3860, 
+        "Cumulative_Cases" : 3857, 
         "Active_Cases" : 424, 
-        "Recoveries" : 3339, 
+        "Recoveries" : 3336, 
         "Deaths" : 97, 
         "ObjectId" : 1661
       }
@@ -20037,9 +20037,9 @@
         "Date" : 1608012000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 1494, 
+        "Cumulative_Cases" : 1497, 
         "Active_Cases" : 325, 
-        "Recoveries" : 1145, 
+        "Recoveries" : 1148, 
         "Deaths" : 24, 
         "ObjectId" : 1664
       }
@@ -20073,9 +20073,9 @@
         "Date" : 1608012000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 29, 
-        "Cumulative_Cases" : 3889, 
+        "Cumulative_Cases" : 3886, 
         "Active_Cases" : 413, 
-        "Recoveries" : 3378, 
+        "Recoveries" : 3375, 
         "Deaths" : 98, 
         "ObjectId" : 1667
       }
@@ -20109,9 +20109,9 @@
         "Date" : 1608098400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1514, 
+        "Cumulative_Cases" : 1517, 
         "Active_Cases" : 322, 
-        "Recoveries" : 1166, 
+        "Recoveries" : 1169, 
         "Deaths" : 26, 
         "ObjectId" : 1670
       }
@@ -20145,9 +20145,9 @@
         "Date" : 1608098400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 29, 
-        "Cumulative_Cases" : 3918, 
+        "Cumulative_Cases" : 3915, 
         "Active_Cases" : 411, 
-        "Recoveries" : 3406, 
+        "Recoveries" : 3403, 
         "Deaths" : 101, 
         "ObjectId" : 1673
       }
@@ -20181,9 +20181,9 @@
         "Date" : 1608184800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 1556, 
+        "Cumulative_Cases" : 1559, 
         "Active_Cases" : 345, 
-        "Recoveries" : 1184, 
+        "Recoveries" : 1187, 
         "Deaths" : 27, 
         "ObjectId" : 1676
       }
@@ -20217,9 +20217,9 @@
         "Date" : 1608184800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 47, 
-        "Cumulative_Cases" : 3965, 
+        "Cumulative_Cases" : 3962, 
         "Active_Cases" : 425, 
-        "Recoveries" : 3436, 
+        "Recoveries" : 3433, 
         "Deaths" : 104, 
         "ObjectId" : 1679
       }
@@ -20253,9 +20253,9 @@
         "Date" : 1608271200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 1586, 
+        "Cumulative_Cases" : 1589, 
         "Active_Cases" : 362, 
-        "Recoveries" : 1197, 
+        "Recoveries" : 1200, 
         "Deaths" : 27, 
         "ObjectId" : 1682
       }
@@ -20289,9 +20289,9 @@
         "Date" : 1608271200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 33, 
-        "Cumulative_Cases" : 3998, 
+        "Cumulative_Cases" : 3995, 
         "Active_Cases" : 437, 
-        "Recoveries" : 3457, 
+        "Recoveries" : 3454, 
         "Deaths" : 104, 
         "ObjectId" : 1685
       }
@@ -20325,9 +20325,9 @@
         "Date" : 1608357600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 1601, 
+        "Cumulative_Cases" : 1604, 
         "Active_Cases" : 368, 
-        "Recoveries" : 1206, 
+        "Recoveries" : 1209, 
         "Deaths" : 27, 
         "ObjectId" : 1688
       }
@@ -20361,9 +20361,9 @@
         "Date" : 1608357600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 38, 
-        "Cumulative_Cases" : 4036, 
+        "Cumulative_Cases" : 4033, 
         "Active_Cases" : 449, 
-        "Recoveries" : 3482, 
+        "Recoveries" : 3479, 
         "Deaths" : 105, 
         "ObjectId" : 1691
       }
@@ -20397,9 +20397,9 @@
         "Date" : 1608444000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1610, 
+        "Cumulative_Cases" : 1613, 
         "Active_Cases" : 369, 
-        "Recoveries" : 1214, 
+        "Recoveries" : 1217, 
         "Deaths" : 27, 
         "ObjectId" : 1694
       }
@@ -20433,9 +20433,9 @@
         "Date" : 1608444000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 42, 
-        "Cumulative_Cases" : 4078, 
+        "Cumulative_Cases" : 4075, 
         "Active_Cases" : 473, 
-        "Recoveries" : 3499, 
+        "Recoveries" : 3496, 
         "Deaths" : 106, 
         "ObjectId" : 1697
       }
@@ -20469,9 +20469,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1619, 
+        "Cumulative_Cases" : 1622, 
         "Active_Cases" : 333, 
-        "Recoveries" : 1257, 
+        "Recoveries" : 1260, 
         "Deaths" : 29, 
         "ObjectId" : 1700
       }
@@ -20505,9 +20505,9 @@
         "Date" : 1608530400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4095, 
+        "Cumulative_Cases" : 4092, 
         "Active_Cases" : 383, 
-        "Recoveries" : 3603, 
+        "Recoveries" : 3600, 
         "Deaths" : 109, 
         "ObjectId" : 1703
       }
@@ -20541,9 +20541,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 1633, 
+        "Cumulative_Cases" : 1636, 
         "Active_Cases" : 332, 
-        "Recoveries" : 1271, 
+        "Recoveries" : 1274, 
         "Deaths" : 30, 
         "ObjectId" : 1706
       }
@@ -20577,9 +20577,9 @@
         "Date" : 1608616800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 4119, 
+        "Cumulative_Cases" : 4116, 
         "Active_Cases" : 381, 
-        "Recoveries" : 3628, 
+        "Recoveries" : 3625, 
         "Deaths" : 110, 
         "ObjectId" : 1709
       }
@@ -20613,9 +20613,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 41, 
-        "Cumulative_Cases" : 1674, 
+        "Cumulative_Cases" : 1677, 
         "Active_Cases" : 355, 
-        "Recoveries" : 1289, 
+        "Recoveries" : 1292, 
         "Deaths" : 30, 
         "ObjectId" : 1712
       }
@@ -20649,9 +20649,9 @@
         "Date" : 1608703200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 41, 
-        "Cumulative_Cases" : 4160, 
+        "Cumulative_Cases" : 4157, 
         "Active_Cases" : 385, 
-        "Recoveries" : 3663, 
+        "Recoveries" : 3660, 
         "Deaths" : 112, 
         "ObjectId" : 1715
       }
@@ -20685,9 +20685,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 1695, 
+        "Cumulative_Cases" : 1698, 
         "Active_Cases" : 338, 
-        "Recoveries" : 1325, 
+        "Recoveries" : 1328, 
         "Deaths" : 32, 
         "ObjectId" : 1718
       }
@@ -20721,9 +20721,9 @@
         "Date" : 1608789600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4177, 
+        "Cumulative_Cases" : 4174, 
         "Active_Cases" : 385, 
-        "Recoveries" : 3679, 
+        "Recoveries" : 3676, 
         "Deaths" : 113, 
         "ObjectId" : 1721
       }
@@ -20757,9 +20757,9 @@
         "Date" : 1608876000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 55, 
-        "Cumulative_Cases" : 1750, 
+        "Cumulative_Cases" : 1753, 
         "Active_Cases" : 380, 
-        "Recoveries" : 1338, 
+        "Recoveries" : 1341, 
         "Deaths" : 32, 
         "ObjectId" : 1724
       }
@@ -20793,9 +20793,9 @@
         "Date" : 1608876000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 4204, 
+        "Cumulative_Cases" : 4201, 
         "Active_Cases" : 388, 
-        "Recoveries" : 3701, 
+        "Recoveries" : 3698, 
         "Deaths" : 115, 
         "ObjectId" : 1727
       }
@@ -20829,9 +20829,9 @@
         "Date" : 1608962400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1770, 
+        "Cumulative_Cases" : 1773, 
         "Active_Cases" : 384, 
-        "Recoveries" : 1353, 
+        "Recoveries" : 1356, 
         "Deaths" : 33, 
         "ObjectId" : 1730
       }
@@ -20865,9 +20865,9 @@
         "Date" : 1608962400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4218, 
+        "Cumulative_Cases" : 4215, 
         "Active_Cases" : 377, 
-        "Recoveries" : 3726, 
+        "Recoveries" : 3723, 
         "Deaths" : 115, 
         "ObjectId" : 1733
       }
@@ -20901,9 +20901,9 @@
         "Date" : 1609048800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1779, 
+        "Cumulative_Cases" : 1782, 
         "Active_Cases" : 385, 
-        "Recoveries" : 1361, 
+        "Recoveries" : 1364, 
         "Deaths" : 33, 
         "ObjectId" : 1736
       }
@@ -20937,9 +20937,9 @@
         "Date" : 1609048800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 4242, 
+        "Cumulative_Cases" : 4239, 
         "Active_Cases" : 381, 
-        "Recoveries" : 3746, 
+        "Recoveries" : 3743, 
         "Deaths" : 115, 
         "ObjectId" : 1739
       }
@@ -20973,9 +20973,9 @@
         "Date" : 1609135200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 1785, 
+        "Cumulative_Cases" : 1788, 
         "Active_Cases" : 384, 
-        "Recoveries" : 1368, 
+        "Recoveries" : 1371, 
         "Deaths" : 33, 
         "ObjectId" : 1742
       }
@@ -21009,9 +21009,9 @@
         "Date" : 1609135200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 4263, 
+        "Cumulative_Cases" : 4260, 
         "Active_Cases" : 377, 
-        "Recoveries" : 3770, 
+        "Recoveries" : 3767, 
         "Deaths" : 116, 
         "ObjectId" : 1745
       }
@@ -21045,9 +21045,9 @@
         "Date" : 1609221600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 1796, 
+        "Cumulative_Cases" : 1799, 
         "Active_Cases" : 386, 
-        "Recoveries" : 1377, 
+        "Recoveries" : 1380, 
         "Deaths" : 33, 
         "ObjectId" : 1748
       }
@@ -21081,9 +21081,9 @@
         "Date" : 1609221600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 4273, 
+        "Cumulative_Cases" : 4270, 
         "Active_Cases" : 372, 
-        "Recoveries" : 3785, 
+        "Recoveries" : 3782, 
         "Deaths" : 116, 
         "ObjectId" : 1751
       }
@@ -21117,9 +21117,9 @@
         "Date" : 1609308000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 1813, 
+        "Cumulative_Cases" : 1816, 
         "Active_Cases" : 394, 
-        "Recoveries" : 1386, 
+        "Recoveries" : 1389, 
         "Deaths" : 33, 
         "ObjectId" : 1754
       }
@@ -21153,9 +21153,9 @@
         "Date" : 1609308000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 4303, 
+        "Cumulative_Cases" : 4300, 
         "Active_Cases" : 378, 
-        "Recoveries" : 3809, 
+        "Recoveries" : 3806, 
         "Deaths" : 116, 
         "ObjectId" : 1757
       }
@@ -21189,9 +21189,9 @@
         "Date" : 1609394400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 1820, 
+        "Cumulative_Cases" : 1823, 
         "Active_Cases" : 395, 
-        "Recoveries" : 1392, 
+        "Recoveries" : 1395, 
         "Deaths" : 33, 
         "ObjectId" : 1760
       }
@@ -21225,9 +21225,9 @@
         "Date" : 1609394400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4320, 
+        "Cumulative_Cases" : 4317, 
         "Active_Cases" : 372, 
-        "Recoveries" : 3832, 
+        "Recoveries" : 3829, 
         "Deaths" : 116, 
         "ObjectId" : 1763
       }
@@ -21261,9 +21261,9 @@
         "Date" : 1609480800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 1829, 
+        "Cumulative_Cases" : 1832, 
         "Active_Cases" : 369, 
-        "Recoveries" : 1426, 
+        "Recoveries" : 1429, 
         "Deaths" : 34, 
         "ObjectId" : 1766
       }
@@ -21297,9 +21297,9 @@
         "Date" : 1609480800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 4338, 
+        "Cumulative_Cases" : 4335, 
         "Active_Cases" : 366, 
-        "Recoveries" : 3854, 
+        "Recoveries" : 3851, 
         "Deaths" : 118, 
         "ObjectId" : 1769
       }
@@ -21333,9 +21333,9 @@
         "Date" : 1609567200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 1832, 
+        "Cumulative_Cases" : 1835, 
         "Active_Cases" : 308, 
-        "Recoveries" : 1490, 
+        "Recoveries" : 1493, 
         "Deaths" : 34, 
         "ObjectId" : 1772
       }
@@ -21369,9 +21369,9 @@
         "Date" : 1609567200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 4353, 
+        "Cumulative_Cases" : 4350, 
         "Active_Cases" : 372, 
-        "Recoveries" : 3863, 
+        "Recoveries" : 3860, 
         "Deaths" : 118, 
         "ObjectId" : 1775
       }
@@ -21405,9 +21405,9 @@
         "Date" : 1609653600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 1840, 
+        "Cumulative_Cases" : 1843, 
         "Active_Cases" : 311, 
-        "Recoveries" : 1495, 
+        "Recoveries" : 1498, 
         "Deaths" : 34, 
         "ObjectId" : 1778
       }
@@ -21441,9 +21441,9 @@
         "Date" : 1609653600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 4371, 
+        "Cumulative_Cases" : 4368, 
         "Active_Cases" : 377, 
-        "Recoveries" : 3876, 
+        "Recoveries" : 3873, 
         "Deaths" : 118, 
         "ObjectId" : 1781
       }
@@ -21477,9 +21477,9 @@
         "Date" : 1609740000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 1860, 
+        "Cumulative_Cases" : 1863, 
         "Active_Cases" : 315, 
-        "Recoveries" : 1511, 
+        "Recoveries" : 1514, 
         "Deaths" : 34, 
         "ObjectId" : 1784
       }
@@ -21513,9 +21513,9 @@
         "Date" : 1609740000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4382, 
+        "Cumulative_Cases" : 4379, 
         "Active_Cases" : 370, 
-        "Recoveries" : 3893, 
+        "Recoveries" : 3890, 
         "Deaths" : 119, 
         "ObjectId" : 1787
       }
@@ -21549,9 +21549,9 @@
         "Date" : 1609826400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 1868, 
+        "Cumulative_Cases" : 1871, 
         "Active_Cases" : 315, 
-        "Recoveries" : 1518, 
+        "Recoveries" : 1521, 
         "Deaths" : 35, 
         "ObjectId" : 1790
       }
@@ -21585,9 +21585,9 @@
         "Date" : 1609826400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 12, 
-        "Cumulative_Cases" : 4394, 
+        "Cumulative_Cases" : 4391, 
         "Active_Cases" : 361, 
-        "Recoveries" : 3914, 
+        "Recoveries" : 3911, 
         "Deaths" : 119, 
         "ObjectId" : 1793
       }
@@ -21621,9 +21621,9 @@
         "Date" : 1609912800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1881, 
+        "Cumulative_Cases" : 1884, 
         "Active_Cases" : 325, 
-        "Recoveries" : 1521, 
+        "Recoveries" : 1524, 
         "Deaths" : 35, 
         "ObjectId" : 1796
       }
@@ -21657,9 +21657,9 @@
         "Date" : 1609912800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 4410, 
+        "Cumulative_Cases" : 4407, 
         "Active_Cases" : 360, 
-        "Recoveries" : 3930, 
+        "Recoveries" : 3927, 
         "Deaths" : 120, 
         "ObjectId" : 1799
       }
@@ -21693,9 +21693,9 @@
         "Date" : 1609999200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 1896, 
+        "Cumulative_Cases" : 1899, 
         "Active_Cases" : 330, 
-        "Recoveries" : 1531, 
+        "Recoveries" : 1534, 
         "Deaths" : 35, 
         "ObjectId" : 1802
       }
@@ -21729,9 +21729,9 @@
         "Date" : 1609999200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 4423, 
+        "Cumulative_Cases" : 4420, 
         "Active_Cases" : 354, 
-        "Recoveries" : 3949, 
+        "Recoveries" : 3946, 
         "Deaths" : 120, 
         "ObjectId" : 1805
       }
@@ -21765,9 +21765,9 @@
         "Date" : 1610085600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 1904, 
+        "Cumulative_Cases" : 1907, 
         "Active_Cases" : 327, 
-        "Recoveries" : 1542, 
+        "Recoveries" : 1545, 
         "Deaths" : 35, 
         "ObjectId" : 1808
       }
@@ -21801,9 +21801,9 @@
         "Date" : 1610085600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 4440, 
+        "Cumulative_Cases" : 4437, 
         "Active_Cases" : 359, 
-        "Recoveries" : 3960, 
+        "Recoveries" : 3957, 
         "Deaths" : 121, 
         "ObjectId" : 1811
       }
@@ -21837,9 +21837,9 @@
         "Date" : 1610172000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 1911, 
+        "Cumulative_Cases" : 1914, 
         "Active_Cases" : 328, 
-        "Recoveries" : 1548, 
+        "Recoveries" : 1551, 
         "Deaths" : 35, 
         "ObjectId" : 1814
       }
@@ -21873,9 +21873,9 @@
         "Date" : 1610172000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 15, 
-        "Cumulative_Cases" : 4455, 
+        "Cumulative_Cases" : 4452, 
         "Active_Cases" : 358, 
-        "Recoveries" : 3976, 
+        "Recoveries" : 3973, 
         "Deaths" : 121, 
         "ObjectId" : 1817
       }
@@ -21909,9 +21909,9 @@
         "Date" : 1610258400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 1921, 
+        "Cumulative_Cases" : 1924, 
         "Active_Cases" : 313, 
-        "Recoveries" : 1573, 
+        "Recoveries" : 1576, 
         "Deaths" : 35, 
         "ObjectId" : 1820
       }
@@ -21945,9 +21945,9 @@
         "Date" : 1610258400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4469, 
+        "Cumulative_Cases" : 4466, 
         "Active_Cases" : 325, 
-        "Recoveries" : 4023, 
+        "Recoveries" : 4020, 
         "Deaths" : 121, 
         "ObjectId" : 1823
       }
@@ -21981,9 +21981,9 @@
         "Date" : 1610344800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 1927, 
+        "Cumulative_Cases" : 1930, 
         "Active_Cases" : 317, 
-        "Recoveries" : 1575, 
+        "Recoveries" : 1578, 
         "Deaths" : 35, 
         "ObjectId" : 1826
       }
@@ -22017,9 +22017,9 @@
         "Date" : 1610344800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4477, 
+        "Cumulative_Cases" : 4474, 
         "Active_Cases" : 309, 
-        "Recoveries" : 4047, 
+        "Recoveries" : 4044, 
         "Deaths" : 121, 
         "ObjectId" : 1829
       }
@@ -22053,9 +22053,9 @@
         "Date" : 1610431200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 1932, 
+        "Cumulative_Cases" : 1935, 
         "Active_Cases" : 314, 
-        "Recoveries" : 1583, 
+        "Recoveries" : 1586, 
         "Deaths" : 35, 
         "ObjectId" : 1832
       }
@@ -22089,9 +22089,9 @@
         "Date" : 1610431200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4485, 
+        "Cumulative_Cases" : 4482, 
         "Active_Cases" : 300, 
-        "Recoveries" : 4064, 
+        "Recoveries" : 4061, 
         "Deaths" : 121, 
         "ObjectId" : 1835
       }
@@ -22125,9 +22125,9 @@
         "Date" : 1610517600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1945, 
+        "Cumulative_Cases" : 1948, 
         "Active_Cases" : 318, 
-        "Recoveries" : 1592, 
+        "Recoveries" : 1595, 
         "Deaths" : 35, 
         "ObjectId" : 1838
       }
@@ -22161,9 +22161,9 @@
         "Date" : 1610517600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4496, 
+        "Cumulative_Cases" : 4493, 
         "Active_Cases" : 292, 
-        "Recoveries" : 4083, 
+        "Recoveries" : 4080, 
         "Deaths" : 121, 
         "ObjectId" : 1841
       }
@@ -22197,9 +22197,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 1952, 
+        "Cumulative_Cases" : 1955, 
         "Active_Cases" : 320, 
-        "Recoveries" : 1597, 
+        "Recoveries" : 1600, 
         "Deaths" : 35, 
         "ObjectId" : 1844
       }
@@ -22233,9 +22233,9 @@
         "Date" : 1610604000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 4510, 
+        "Cumulative_Cases" : 4507, 
         "Active_Cases" : 301, 
-        "Recoveries" : 4087, 
+        "Recoveries" : 4084, 
         "Deaths" : 122, 
         "ObjectId" : 1847
       }
@@ -22269,9 +22269,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 1963, 
+        "Cumulative_Cases" : 1966, 
         "Active_Cases" : 326, 
-        "Recoveries" : 1602, 
+        "Recoveries" : 1605, 
         "Deaths" : 35, 
         "ObjectId" : 1850
       }
@@ -22305,9 +22305,9 @@
         "Date" : 1610690400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4521, 
+        "Cumulative_Cases" : 4518, 
         "Active_Cases" : 303, 
-        "Recoveries" : 4095, 
+        "Recoveries" : 4092, 
         "Deaths" : 123, 
         "ObjectId" : 1853
       }
@@ -22341,9 +22341,9 @@
         "Date" : 1610776800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1976, 
+        "Cumulative_Cases" : 1979, 
         "Active_Cases" : 334, 
-        "Recoveries" : 1607, 
+        "Recoveries" : 1610, 
         "Deaths" : 35, 
         "ObjectId" : 1856
       }
@@ -22377,9 +22377,9 @@
         "Date" : 1610776800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 4530, 
+        "Cumulative_Cases" : 4527, 
         "Active_Cases" : 307, 
-        "Recoveries" : 4100, 
+        "Recoveries" : 4097, 
         "Deaths" : 123, 
         "ObjectId" : 1859
       }
@@ -22413,9 +22413,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 1989, 
+        "Cumulative_Cases" : 1992, 
         "Active_Cases" : 343, 
-        "Recoveries" : 1611, 
+        "Recoveries" : 1614, 
         "Deaths" : 35, 
         "ObjectId" : 1862
       }
@@ -22449,9 +22449,9 @@
         "Date" : 1610863200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4538, 
+        "Cumulative_Cases" : 4535, 
         "Active_Cases" : 312, 
-        "Recoveries" : 4102, 
+        "Recoveries" : 4099, 
         "Deaths" : 124, 
         "ObjectId" : 1865
       }
@@ -22485,9 +22485,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 12, 
-        "Cumulative_Cases" : 2001, 
+        "Cumulative_Cases" : 2004, 
         "Active_Cases" : 350, 
-        "Recoveries" : 1615, 
+        "Recoveries" : 1618, 
         "Deaths" : 36, 
         "ObjectId" : 1868
       }
@@ -22521,9 +22521,9 @@
         "Date" : 1610949600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 4545, 
+        "Cumulative_Cases" : 4542, 
         "Active_Cases" : 303, 
-        "Recoveries" : 4116, 
+        "Recoveries" : 4113, 
         "Deaths" : 126, 
         "ObjectId" : 1871
       }
@@ -22557,9 +22557,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 18, 
-        "Cumulative_Cases" : 2019, 
+        "Cumulative_Cases" : 2022, 
         "Active_Cases" : 362, 
-        "Recoveries" : 1621, 
+        "Recoveries" : 1624, 
         "Deaths" : 36, 
         "ObjectId" : 1874
       }
@@ -22593,9 +22593,9 @@
         "Date" : 1611036000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 4554, 
+        "Cumulative_Cases" : 4551, 
         "Active_Cases" : 305, 
-        "Recoveries" : 4121, 
+        "Recoveries" : 4118, 
         "Deaths" : 128, 
         "ObjectId" : 1877
       }
@@ -22629,9 +22629,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 2028, 
+        "Cumulative_Cases" : 2031, 
         "Active_Cases" : 368, 
-        "Recoveries" : 1624, 
+        "Recoveries" : 1627, 
         "Deaths" : 36, 
         "ObjectId" : 1880
       }
@@ -22665,9 +22665,9 @@
         "Date" : 1611122400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 4567, 
+        "Cumulative_Cases" : 4564, 
         "Active_Cases" : 307, 
-        "Recoveries" : 4132, 
+        "Recoveries" : 4129, 
         "Deaths" : 128, 
         "ObjectId" : 1883
       }
@@ -22701,9 +22701,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 30, 
-        "Cumulative_Cases" : 2058, 
+        "Cumulative_Cases" : 2061, 
         "Active_Cases" : 383, 
-        "Recoveries" : 1639, 
+        "Recoveries" : 1642, 
         "Deaths" : 36, 
         "ObjectId" : 1886
       }
@@ -22737,9 +22737,9 @@
         "Date" : 1611208800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4575, 
+        "Cumulative_Cases" : 4572, 
         "Active_Cases" : 310, 
-        "Recoveries" : 4136, 
+        "Recoveries" : 4133, 
         "Deaths" : 129, 
         "ObjectId" : 1889
       }
@@ -22773,9 +22773,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 21, 
-        "Cumulative_Cases" : 2079, 
+        "Cumulative_Cases" : 2082, 
         "Active_Cases" : 399, 
-        "Recoveries" : 1644, 
+        "Recoveries" : 1647, 
         "Deaths" : 36, 
         "ObjectId" : 1892
       }
@@ -22809,9 +22809,9 @@
         "Date" : 1611295200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4586, 
+        "Cumulative_Cases" : 4583, 
         "Active_Cases" : 314, 
-        "Recoveries" : 4143, 
+        "Recoveries" : 4140, 
         "Deaths" : 129, 
         "ObjectId" : 1895
       }
@@ -22845,9 +22845,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 19, 
-        "Cumulative_Cases" : 2098, 
+        "Cumulative_Cases" : 2101, 
         "Active_Cases" : 411, 
-        "Recoveries" : 1651, 
+        "Recoveries" : 1654, 
         "Deaths" : 36, 
         "ObjectId" : 1898
       }
@@ -22881,9 +22881,9 @@
         "Date" : 1611381600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 4589, 
+        "Cumulative_Cases" : 4586, 
         "Active_Cases" : 310, 
-        "Recoveries" : 4150, 
+        "Recoveries" : 4147, 
         "Deaths" : 129, 
         "ObjectId" : 1901
       }
@@ -22917,9 +22917,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 2108, 
+        "Cumulative_Cases" : 2111, 
         "Active_Cases" : 420, 
-        "Recoveries" : 1652, 
+        "Recoveries" : 1655, 
         "Deaths" : 36, 
         "ObjectId" : 1904
       }
@@ -22953,9 +22953,9 @@
         "Date" : 1611468000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 4594, 
+        "Cumulative_Cases" : 4591, 
         "Active_Cases" : 311, 
-        "Recoveries" : 4154, 
+        "Recoveries" : 4151, 
         "Deaths" : 129, 
         "ObjectId" : 1907
       }
@@ -22989,9 +22989,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 2108, 
+        "Cumulative_Cases" : 2111, 
         "Active_Cases" : 414, 
-        "Recoveries" : 1658, 
+        "Recoveries" : 1661, 
         "Deaths" : 36, 
         "ObjectId" : 1910
       }
@@ -23025,9 +23025,9 @@
         "Date" : 1611554400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 4596, 
+        "Cumulative_Cases" : 4593, 
         "Active_Cases" : 305, 
-        "Recoveries" : 4161, 
+        "Recoveries" : 4158, 
         "Deaths" : 130, 
         "ObjectId" : 1913
       }
@@ -23061,9 +23061,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 2111, 
+        "Cumulative_Cases" : 2114, 
         "Active_Cases" : 413, 
-        "Recoveries" : 1662, 
+        "Recoveries" : 1665, 
         "Deaths" : 36, 
         "ObjectId" : 1916
       }
@@ -23097,9 +23097,9 @@
         "Date" : 1611640800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 4599, 
+        "Cumulative_Cases" : 4596, 
         "Active_Cases" : 300, 
-        "Recoveries" : 4167, 
+        "Recoveries" : 4164, 
         "Deaths" : 132, 
         "ObjectId" : 1919
       }
@@ -23133,9 +23133,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 17, 
-        "Cumulative_Cases" : 2128, 
+        "Cumulative_Cases" : 2131, 
         "Active_Cases" : 422, 
-        "Recoveries" : 1670, 
+        "Recoveries" : 1673, 
         "Deaths" : 36, 
         "ObjectId" : 1922
       }
@@ -23169,9 +23169,9 @@
         "Date" : 1611727200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 9, 
-        "Cumulative_Cases" : 4608, 
+        "Cumulative_Cases" : 4605, 
         "Active_Cases" : 307, 
-        "Recoveries" : 4169, 
+        "Recoveries" : 4166, 
         "Deaths" : 132, 
         "ObjectId" : 1925
       }
@@ -23205,9 +23205,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 20, 
-        "Cumulative_Cases" : 2148, 
+        "Cumulative_Cases" : 2151, 
         "Active_Cases" : 438, 
-        "Recoveries" : 1674, 
+        "Recoveries" : 1677, 
         "Deaths" : 36, 
         "ObjectId" : 1928
       }
@@ -23241,9 +23241,9 @@
         "Date" : 1611813600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 4619, 
+        "Cumulative_Cases" : 4616, 
         "Active_Cases" : 313, 
-        "Recoveries" : 4174, 
+        "Recoveries" : 4171, 
         "Deaths" : 132, 
         "ObjectId" : 1931
       }
@@ -23277,9 +23277,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 27, 
-        "Cumulative_Cases" : 2175, 
+        "Cumulative_Cases" : 2178, 
         "Active_Cases" : 453, 
-        "Recoveries" : 1686, 
+        "Recoveries" : 1689, 
         "Deaths" : 36, 
         "ObjectId" : 1934
       }
@@ -23313,9 +23313,9 @@
         "Date" : 1611900000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 10, 
-        "Cumulative_Cases" : 4629, 
+        "Cumulative_Cases" : 4626, 
         "Active_Cases" : 300, 
-        "Recoveries" : 4196, 
+        "Recoveries" : 4193, 
         "Deaths" : 133, 
         "ObjectId" : 1937
       }
@@ -23349,9 +23349,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 23, 
-        "Cumulative_Cases" : 2198, 
+        "Cumulative_Cases" : 2201, 
         "Active_Cases" : 459, 
-        "Recoveries" : 1702, 
+        "Recoveries" : 1705, 
         "Deaths" : 37, 
         "ObjectId" : 1940
       }
@@ -23385,9 +23385,9 @@
         "Date" : 1611986400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 4635, 
+        "Cumulative_Cases" : 4632, 
         "Active_Cases" : 297, 
-        "Recoveries" : 4203, 
+        "Recoveries" : 4200, 
         "Deaths" : 135, 
         "ObjectId" : 1943
       }
@@ -23421,9 +23421,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 24, 
-        "Cumulative_Cases" : 2222, 
+        "Cumulative_Cases" : 2225, 
         "Active_Cases" : 478, 
-        "Recoveries" : 1707, 
+        "Recoveries" : 1710, 
         "Deaths" : 37, 
         "ObjectId" : 1946
       }
@@ -23457,9 +23457,9 @@
         "Date" : 1612072800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 4, 
-        "Cumulative_Cases" : 4639, 
+        "Cumulative_Cases" : 4636, 
         "Active_Cases" : 295, 
-        "Recoveries" : 4207, 
+        "Recoveries" : 4204, 
         "Deaths" : 137, 
         "ObjectId" : 1949
       }
@@ -23493,9 +23493,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 32, 
-        "Cumulative_Cases" : 2254, 
+        "Cumulative_Cases" : 2257, 
         "Active_Cases" : 504, 
-        "Recoveries" : 1713, 
+        "Recoveries" : 1716, 
         "Deaths" : 37, 
         "ObjectId" : 1952
       }
@@ -23529,9 +23529,9 @@
         "Date" : 1612159200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 4641, 
+        "Cumulative_Cases" : 4638, 
         "Active_Cases" : 286, 
-        "Recoveries" : 4218, 
+        "Recoveries" : 4215, 
         "Deaths" : 137, 
         "ObjectId" : 1955
       }
@@ -23565,9 +23565,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 11, 
-        "Cumulative_Cases" : 2265, 
+        "Cumulative_Cases" : 2268, 
         "Active_Cases" : 512, 
-        "Recoveries" : 1716, 
+        "Recoveries" : 1719, 
         "Deaths" : 37, 
         "ObjectId" : 1958
       }
@@ -23601,9 +23601,9 @@
         "Date" : 1612245600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 7, 
-        "Cumulative_Cases" : 4648, 
+        "Cumulative_Cases" : 4645, 
         "Active_Cases" : 289, 
-        "Recoveries" : 4222, 
+        "Recoveries" : 4219, 
         "Deaths" : 137, 
         "ObjectId" : 1961
       }
@@ -23637,9 +23637,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 16, 
-        "Cumulative_Cases" : 2281, 
+        "Cumulative_Cases" : 2284, 
         "Active_Cases" : 524, 
-        "Recoveries" : 1720, 
+        "Recoveries" : 1723, 
         "Deaths" : 37, 
         "ObjectId" : 1964
       }
@@ -23673,9 +23673,9 @@
         "Date" : 1612332000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 4, 
-        "Cumulative_Cases" : 4652, 
+        "Cumulative_Cases" : 4649, 
         "Active_Cases" : 290, 
-        "Recoveries" : 4225, 
+        "Recoveries" : 4222, 
         "Deaths" : 137, 
         "ObjectId" : 1967
       }
@@ -23709,9 +23709,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 14, 
-        "Cumulative_Cases" : 2295, 
+        "Cumulative_Cases" : 2298, 
         "Active_Cases" : 532, 
-        "Recoveries" : 1726, 
+        "Recoveries" : 1729, 
         "Deaths" : 37, 
         "ObjectId" : 1970
       }
@@ -23745,9 +23745,9 @@
         "Date" : 1612418400000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 13, 
-        "Cumulative_Cases" : 4665, 
+        "Cumulative_Cases" : 4662, 
         "Active_Cases" : 294, 
-        "Recoveries" : 4233, 
+        "Recoveries" : 4230, 
         "Deaths" : 138, 
         "ObjectId" : 1973
       }
@@ -23781,9 +23781,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 2300, 
+        "Cumulative_Cases" : 2303, 
         "Active_Cases" : 529, 
-        "Recoveries" : 1734, 
+        "Recoveries" : 1737, 
         "Deaths" : 37, 
         "ObjectId" : 1976
       }
@@ -23817,9 +23817,9 @@
         "Date" : 1612504800000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 4670, 
+        "Cumulative_Cases" : 4667, 
         "Active_Cases" : 293, 
-        "Recoveries" : 4239, 
+        "Recoveries" : 4236, 
         "Deaths" : 138, 
         "ObjectId" : 1979
       }
@@ -23853,9 +23853,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 4, 
-        "Cumulative_Cases" : 2304, 
+        "Cumulative_Cases" : 2307, 
         "Active_Cases" : 520, 
-        "Recoveries" : 1747, 
+        "Recoveries" : 1750, 
         "Deaths" : 37, 
         "ObjectId" : 1982
       }
@@ -23889,9 +23889,9 @@
         "Date" : 1612591200000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 8, 
-        "Cumulative_Cases" : 4678, 
+        "Cumulative_Cases" : 4675, 
         "Active_Cases" : 295, 
-        "Recoveries" : 4245, 
+        "Recoveries" : 4242, 
         "Deaths" : 138, 
         "ObjectId" : 1985
       }
@@ -23914,8 +23914,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 50, 
         "Cumulative_Cases" : 30296, 
-        "Active_Cases" : 2534, 
-        "Recoveries" : 26897, 
+        "Active_Cases" : 2535, 
+        "Recoveries" : 26896, 
         "Deaths" : 865, 
         "ObjectId" : 1987
       }
@@ -23925,9 +23925,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 3, 
-        "Cumulative_Cases" : 2307, 
+        "Cumulative_Cases" : 2310, 
         "Active_Cases" : 316, 
-        "Recoveries" : 1954, 
+        "Recoveries" : 1957, 
         "Deaths" : 37, 
         "ObjectId" : 1988
       }
@@ -23938,8 +23938,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 11, 
         "Cumulative_Cases" : 4163, 
-        "Active_Cases" : 861, 
-        "Recoveries" : 3269, 
+        "Active_Cases" : 862, 
+        "Recoveries" : 3268, 
         "Deaths" : 33, 
         "ObjectId" : 1989
       }
@@ -23961,9 +23961,9 @@
         "Date" : 1612677600000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 5, 
-        "Cumulative_Cases" : 4683, 
+        "Cumulative_Cases" : 4680, 
         "Active_Cases" : 191, 
-        "Recoveries" : 4353, 
+        "Recoveries" : 4350, 
         "Deaths" : 139, 
         "ObjectId" : 1991
       }
@@ -23986,8 +23986,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 73, 
         "Cumulative_Cases" : 30369, 
-        "Active_Cases" : 2508, 
-        "Recoveries" : 26990, 
+        "Active_Cases" : 2509, 
+        "Recoveries" : 26989, 
         "Deaths" : 871, 
         "ObjectId" : 1993
       }
@@ -23997,9 +23997,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 2, 
-        "Cumulative_Cases" : 2309, 
+        "Cumulative_Cases" : 2312, 
         "Active_Cases" : 311, 
-        "Recoveries" : 1961, 
+        "Recoveries" : 1964, 
         "Deaths" : 37, 
         "ObjectId" : 1994
       }
@@ -24010,8 +24010,8 @@
         "RHA" : "Northern", 
         "Daily_Cases" : 14, 
         "Cumulative_Cases" : 4177, 
-        "Active_Cases" : 837, 
-        "Recoveries" : 3307, 
+        "Active_Cases" : 838, 
+        "Recoveries" : 3306, 
         "Deaths" : 33, 
         "ObjectId" : 1995
       }
@@ -24033,9 +24033,9 @@
         "Date" : 1612764000000, 
         "RHA" : "Southern Health-Santé Sud", 
         "Daily_Cases" : 6, 
-        "Cumulative_Cases" : 4689, 
+        "Cumulative_Cases" : 4686, 
         "Active_Cases" : 191, 
-        "Recoveries" : 4358, 
+        "Recoveries" : 4355, 
         "Deaths" : 140, 
         "ObjectId" : 1997
       }
@@ -24058,8 +24058,8 @@
         "RHA" : "All", 
         "Daily_Cases" : 52, 
         "Cumulative_Cases" : 30421, 
-        "Active_Cases" : 2498, 
-        "Recoveries" : 27050, 
+        "Active_Cases" : 2499, 
+        "Recoveries" : 27049, 
         "Deaths" : 873, 
         "ObjectId" : 1999
       }
@@ -24069,9 +24069,9 @@
         "Date" : 1612850400000, 
         "RHA" : "Interlake-Eastern", 
         "Daily_Cases" : 0, 
-        "Cumulative_Cases" : 2309, 
+        "Cumulative_Cases" : 2312, 
         "Active_Cases" : 308, 
-        "Recoveries" : 1964, 
+        "Recoveries" : 1967, 
         "Deaths" : 37, 
         "ObjectId" : 2000
       }
