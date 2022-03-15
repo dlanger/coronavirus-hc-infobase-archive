@@ -1,104 +1,12 @@
+
 {
-  "objectIdFieldName" : "ObjectId", 
-  "uniqueIdField" : 
+  "error" : 
   {
-    "name" : "ObjectId", 
-    "isSystemMaintained" : true
-  }, 
-  "globalIdFieldName" : "GlobalID", 
-  "geometryType" : "esriGeometryPoint", 
-  "spatialReference" : {
-    "wkid" : 102100, 
-    "latestWkid" : 3857
-  }, 
-  "fields" : [
-    {
-      "name" : "under_19", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "Under 20", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "_20_39", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "20 - 39", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "_40_49", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "40 - 49", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "_50_59", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "50 - 59", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "_60_69", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "60 - 69", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "_70_100", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "70+", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "percent_female", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "Percent Female", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "percent_male", 
-      "type" : "esriFieldTypeDouble", 
-      "alias" : "Percent Male", 
-      "sqlType" : "sqlTypeOther", 
-      "domain" : null, 
-      "defaultValue" : null
-    }, 
-    {
-      "name" : "date_updated", 
-      "type" : "esriFieldTypeDate", 
-      "alias" : "Date Updated", 
-      "sqlType" : "sqlTypeOther", 
-      "length" : 255, 
-      "domain" : null, 
-      "defaultValue" : null
-    }
-  ], 
-  "features" : [
-    {
-      "attributes" : {
-        "under_19" : 5999, 
-        "_20_39" : 10306, 
-        "_40_49" : 4374, 
-        "_50_59" : 3975, 
-        "_60_69" : 2329, 
-        "_70_100" : 2382, 
-        "percent_female" : 53, 
-        "percent_male" : 47, 
-        "date_updated" : 1647021790668
-      }
-    }
-  ]
+    "code" : 499, 
+    "message" : "Token Required", 
+    "messageCode" : "GWM_0003", 
+    "details" : [
+      "Token Required"
+    ]
+  }
 }
