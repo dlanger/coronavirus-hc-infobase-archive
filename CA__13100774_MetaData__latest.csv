@@ -10,11 +10,11 @@
 "6","Death",,""
 
 "Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic Region","[1]","2","1","",6,
 "1","Quebec Region","[2]","3","1","",,
 "1","Ontario and Nunavut Region","","4","1","",,
 "1","Prairies and Northwest Territories Region","","5","1","",7,
 "1","British Columbia and Yukon Region","","6","1","",,
-"1","Atlantic Region","[1]","2","1","",6,
 "1","Canada","[11124]","1","","",,
 "2","Male","","2","1","",,
 "2","Female","","3","1","",,
@@ -72,9 +72,9 @@ Description,Symbol
 2,"Given that the COVID-19 pandemic is rapidly evolving, these data are considered preliminary. The data published by Statistics Canada only account for those where a detailed case report was provided by the provincial or territorial jurisdiction to the Public Health Agency of Canada (PHAC). Statistics Canada’s detailed preliminary confirmed cases will not match the total case reporting done at the provincial and territorial levels which are reported daily by each jurisdiction and compiled by the PHAC.  The discrepancy is due to delays associated with the submission of the detailed information, its capture and coding. Hence, Statistics Canada’s file on detailed case reporting is a subset of the total counts reported by the health authorities across Canada."
 3,"Confirmed cases are laboratory confirmed cases for which a case report form has been received by the Public Health Agency of Canada (PHAC) from provincial or territorial partners."
 4,"Routine updates on health outcome status are not uniformly made across Canada, and therefore the data may underestimate the number of hospitalizations, admissions to intensive care units and deaths."
-5,"On February 11th 2022, no updates were made except for the addition of new cases."
-7,"Prairies Region (Alberta, Saskatchewan and Manitoba)."
+5,"On March 18th 2022, no updates were made except for the addition of new cases."
 6,"Atlantic region  (New Brunswick, Nova Scotia, Prince Edward Island and Newfoundland and Labrador)."
+7,"Prairies Region (Alberta, Saskatchewan and Manitoba)."
 8,"All responses not specified as "male" or "female" were reclassified as "not stated"."
 9,"Travel exposure indicates cases that had travelled outside of Canada in the 14 days prior to illness onset. Community exposure indicates cases that had contact with a domestic COVID-19 case, had contact with a travel related COVID-19 case, or had contact with an unknown source. Not stated indicates confirmation on exposure setting is pending, or case information is missing."
 10,"ICU = Intensive care unit."
