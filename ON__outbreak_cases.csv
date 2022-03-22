@@ -492,7 +492,7 @@
 "2020-05-17","4 Workplace","WORKPLACE - FOOD PROCESSING",23
 "2020-05-17","4 Workplace","WORKPLACE - OTHER",20
 "2020-05-18","1 Congregate Care","HOSPITAL",5
-"2020-05-18","1 Congregate Care","LONG-TERM CARE HOME",102
+"2020-05-18","1 Congregate Care","LONG-TERM CARE HOME",103
 "2020-05-18","1 Congregate Care","RETIREMENT HOME",19
 "2020-05-18","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",4
 "2020-05-18","2 Congregate Living","SHELTER",3
@@ -4827,7 +4827,7 @@
 "2021-03-29","3 Education","SCHOOL - ELEMENTARY/SECONDARY",1
 "2021-03-29","3 Education","SCHOOL - POST-SECONDARY",6
 "2021-03-29","3 Education","SCHOOL - SECONDARY",4
-"2021-03-29","4 Workplace","MEDICAL/HEALTH SERVICE",4
+"2021-03-29","4 Workplace","MEDICAL/HEALTH SERVICE",3
 "2021-03-29","4 Workplace","RETAIL",21
 "2021-03-29","4 Workplace","WORKPLACE - FARM",14
 "2021-03-29","4 Workplace","WORKPLACE - FOOD PROCESSING",14
@@ -5046,7 +5046,7 @@
 "2021-04-08","4 Workplace","MEDICAL/HEALTH SERVICE",5
 "2021-04-08","4 Workplace","RETAIL",19
 "2021-04-08","4 Workplace","WORKPLACE - FARM",7
-"2021-04-08","4 Workplace","WORKPLACE - FOOD PROCESSING",21
+"2021-04-08","4 Workplace","WORKPLACE - FOOD PROCESSING",20
 "2021-04-08","4 Workplace","WORKPLACE - OTHER",136
 "2021-04-08","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",7
 "2021-04-08","5 Recreational","OTHER RECREATION",10
@@ -5069,7 +5069,7 @@
 "2021-04-09","4 Workplace","RETAIL",21
 "2021-04-09","4 Workplace","WORKPLACE - FARM",1
 "2021-04-09","4 Workplace","WORKPLACE - FOOD PROCESSING",21
-"2021-04-09","4 Workplace","WORKPLACE - OTHER",110
+"2021-04-09","4 Workplace","WORKPLACE - OTHER",109
 "2021-04-09","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",17
 "2021-04-09","5 Recreational","OTHER RECREATION",15
 "2021-04-09","5 Recreational","RECREATIONAL FITNESS",6
@@ -5188,7 +5188,7 @@
 "2021-04-15","4 Workplace","RETAIL",23
 "2021-04-15","4 Workplace","WORKPLACE - FARM",4
 "2021-04-15","4 Workplace","WORKPLACE - FOOD PROCESSING",27
-"2021-04-15","4 Workplace","WORKPLACE - OTHER",201
+"2021-04-15","4 Workplace","WORKPLACE - OTHER",200
 "2021-04-15","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",10
 "2021-04-15","5 Recreational","OTHER RECREATION",22
 "2021-04-15","5 Recreational","RECREATIONAL FITNESS",3
@@ -5375,7 +5375,7 @@
 "2021-04-25","4 Workplace","RETAIL",22
 "2021-04-25","4 Workplace","WORKPLACE - FARM",18
 "2021-04-25","4 Workplace","WORKPLACE - FOOD PROCESSING",22
-"2021-04-25","4 Workplace","WORKPLACE - OTHER",139
+"2021-04-25","4 Workplace","WORKPLACE - OTHER",138
 "2021-04-25","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",10
 "2021-04-25","5 Recreational","OTHER RECREATION",9
 "2021-04-25","5 Recreational","RECREATIONAL FITNESS",2
@@ -5452,7 +5452,7 @@
 "2021-04-29","4 Workplace","RETAIL",19
 "2021-04-29","4 Workplace","WORKPLACE - FARM",9
 "2021-04-29","4 Workplace","WORKPLACE - FOOD PROCESSING",46
-"2021-04-29","4 Workplace","WORKPLACE - OTHER",166
+"2021-04-29","4 Workplace","WORKPLACE - OTHER",165
 "2021-04-29","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",15
 "2021-04-29","5 Recreational","OTHER RECREATION",7
 "2021-04-29","5 Recreational","PERSONAL SERVICE SETTINGS",1
@@ -8588,8 +8588,7 @@
 "2021-12-16","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",28
 "2021-12-16","5 Recreational","OTHER RECREATION",5
 "2021-12-16","5 Recreational","PERSONAL SERVICE SETTINGS",1
-"2021-12-16","5 Recreational","RECREATIONAL FITNESS",19
-"2021-12-16","6 Other/Unknown","UNKNOWN",1
+"2021-12-16","5 Recreational","RECREATIONAL FITNESS",20
 "2021-12-17","1 Congregate Care","HOSPITAL",12
 "2021-12-17","1 Congregate Care","LONG-TERM CARE HOME",12
 "2021-12-17","1 Congregate Care","RETIREMENT HOME",9
@@ -8604,8 +8603,7 @@
 "2021-12-17","4 Workplace","WORKPLACE - OTHER",38
 "2021-12-17","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",20
 "2021-12-17","5 Recreational","OTHER RECREATION",8
-"2021-12-17","5 Recreational","RECREATIONAL FITNESS",37
-"2021-12-17","6 Other/Unknown","UNKNOWN",1
+"2021-12-17","5 Recreational","RECREATIONAL FITNESS",38
 "2021-12-18","1 Congregate Care","HOSPITAL",9
 "2021-12-18","1 Congregate Care","LONG-TERM CARE HOME",21
 "2021-12-18","2 Congregate Living","CONGREGATE OTHER",5
@@ -8622,8 +8620,7 @@
 "2021-12-18","4 Workplace","WORKPLACE - OTHER",25
 "2021-12-18","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",12
 "2021-12-18","5 Recreational","OTHER RECREATION",4
-"2021-12-18","5 Recreational","RECREATIONAL FITNESS",22
-"2021-12-18","6 Other/Unknown","UNKNOWN",3
+"2021-12-18","5 Recreational","RECREATIONAL FITNESS",25
 "2021-12-19","1 Congregate Care","HOSPITAL",6
 "2021-12-19","1 Congregate Care","LONG-TERM CARE HOME",14
 "2021-12-19","1 Congregate Care","RETIREMENT HOME",2
@@ -8640,8 +8637,7 @@
 "2021-12-19","4 Workplace","WORKPLACE - OTHER",18
 "2021-12-19","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",29
 "2021-12-19","5 Recreational","OTHER RECREATION",4
-"2021-12-19","5 Recreational","RECREATIONAL FITNESS",9
-"2021-12-19","6 Other/Unknown","UNKNOWN",2
+"2021-12-19","5 Recreational","RECREATIONAL FITNESS",11
 "2021-12-20","1 Congregate Care","HOSPITAL",10
 "2021-12-20","1 Congregate Care","LONG-TERM CARE HOME",20
 "2021-12-20","1 Congregate Care","RETIREMENT HOME",10
@@ -8678,8 +8674,7 @@
 "2021-12-21","4 Workplace","WORKPLACE - FOOD PROCESSING",1
 "2021-12-21","4 Workplace","WORKPLACE - OTHER",27
 "2021-12-21","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",14
-"2021-12-21","5 Recreational","RECREATIONAL FITNESS",29
-"2021-12-21","6 Other/Unknown","UNKNOWN",1
+"2021-12-21","5 Recreational","RECREATIONAL FITNESS",30
 "2021-12-22","1 Congregate Care","HOSPITAL",21
 "2021-12-22","1 Congregate Care","LONG-TERM CARE HOME",61
 "2021-12-22","1 Congregate Care","RETIREMENT HOME",10
@@ -8695,7 +8690,7 @@
 "2021-12-22","4 Workplace","RETAIL",2
 "2021-12-22","4 Workplace","WORKPLACE - FARM",3
 "2021-12-22","4 Workplace","WORKPLACE - FOOD PROCESSING",1
-"2021-12-22","4 Workplace","WORKPLACE - OTHER",34
+"2021-12-22","4 Workplace","WORKPLACE - OTHER",35
 "2021-12-22","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",5
 "2021-12-22","5 Recreational","OTHER RECREATION",2
 "2021-12-22","5 Recreational","RECREATIONAL FITNESS",12
@@ -8765,7 +8760,7 @@
 "2021-12-26","6 Other/Unknown","UNKNOWN",1
 "2021-12-27","1 Congregate Care","HOSPITAL",49
 "2021-12-27","1 Congregate Care","LONG-TERM CARE HOME",167
-"2021-12-27","1 Congregate Care","RETIREMENT HOME",35
+"2021-12-27","1 Congregate Care","RETIREMENT HOME",36
 "2021-12-27","2 Congregate Living","CONGREGATE OTHER",2
 "2021-12-27","2 Congregate Living","CORRECTIONAL FACILITY",16
 "2021-12-27","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",23
@@ -8797,7 +8792,7 @@
 "2021-12-28","5 Recreational","RECREATIONAL FITNESS",2
 "2021-12-29","1 Congregate Care","HOSPITAL",49
 "2021-12-29","1 Congregate Care","LONG-TERM CARE HOME",286
-"2021-12-29","1 Congregate Care","RETIREMENT HOME",65
+"2021-12-29","1 Congregate Care","RETIREMENT HOME",66
 "2021-12-29","2 Congregate Living","CONGREGATE OTHER",9
 "2021-12-29","2 Congregate Living","CORRECTIONAL FACILITY",26
 "2021-12-29","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",49
@@ -8865,7 +8860,7 @@
 "2022-01-02","5 Recreational","OTHER RECREATION",19
 "2022-01-03","1 Congregate Care","HOSPITAL",117
 "2022-01-03","1 Congregate Care","LONG-TERM CARE HOME",386
-"2022-01-03","1 Congregate Care","RETIREMENT HOME",141
+"2022-01-03","1 Congregate Care","RETIREMENT HOME",142
 "2022-01-03","2 Congregate Living","CONGREGATE OTHER",8
 "2022-01-03","2 Congregate Living","CORRECTIONAL FACILITY",20
 "2022-01-03","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",53
@@ -8876,8 +8871,8 @@
 "2022-01-03","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",2
 "2022-01-03","5 Recreational","OTHER RECREATION",3
 "2022-01-04","1 Congregate Care","HOSPITAL",107
-"2022-01-04","1 Congregate Care","LONG-TERM CARE HOME",527
-"2022-01-04","1 Congregate Care","RETIREMENT HOME",223
+"2022-01-04","1 Congregate Care","LONG-TERM CARE HOME",528
+"2022-01-04","1 Congregate Care","RETIREMENT HOME",224
 "2022-01-04","2 Congregate Living","CONGREGATE OTHER",19
 "2022-01-04","2 Congregate Living","CORRECTIONAL FACILITY",52
 "2022-01-04","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",105
@@ -8889,8 +8884,8 @@
 "2022-01-04","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",1
 "2022-01-04","5 Recreational","OTHER RECREATION",32
 "2022-01-05","1 Congregate Care","HOSPITAL",160
-"2022-01-05","1 Congregate Care","LONG-TERM CARE HOME",587
-"2022-01-05","1 Congregate Care","RETIREMENT HOME",235
+"2022-01-05","1 Congregate Care","LONG-TERM CARE HOME",586
+"2022-01-05","1 Congregate Care","RETIREMENT HOME",236
 "2022-01-05","2 Congregate Living","CONGREGATE OTHER",24
 "2022-01-05","2 Congregate Living","CORRECTIONAL FACILITY",53
 "2022-01-05","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",118
@@ -8901,7 +8896,7 @@
 "2022-01-05","4 Workplace","WORKPLACE - OTHER",3
 "2022-01-05","5 Recreational","OTHER RECREATION",15
 "2022-01-06","1 Congregate Care","HOSPITAL",172
-"2022-01-06","1 Congregate Care","LONG-TERM CARE HOME",846
+"2022-01-06","1 Congregate Care","LONG-TERM CARE HOME",847
 "2022-01-06","1 Congregate Care","RETIREMENT HOME",267
 "2022-01-06","2 Congregate Living","CONGREGATE OTHER",21
 "2022-01-06","2 Congregate Living","CORRECTIONAL FACILITY",101
@@ -8916,7 +8911,7 @@
 "2022-01-06","5 Recreational","BAR/RESTAURANT/NIGHTCLUB",1
 "2022-01-06","5 Recreational","OTHER RECREATION",2
 "2022-01-07","1 Congregate Care","HOSPITAL",184
-"2022-01-07","1 Congregate Care","LONG-TERM CARE HOME",810
+"2022-01-07","1 Congregate Care","LONG-TERM CARE HOME",811
 "2022-01-07","1 Congregate Care","RETIREMENT HOME",204
 "2022-01-07","2 Congregate Living","CONGREGATE OTHER",33
 "2022-01-07","2 Congregate Living","CORRECTIONAL FACILITY",72
@@ -8927,7 +8922,7 @@
 "2022-01-07","4 Workplace","WORKPLACE - FARM",3
 "2022-01-07","4 Workplace","WORKPLACE - OTHER",2
 "2022-01-07","5 Recreational","OTHER RECREATION",13
-"2022-01-08","1 Congregate Care","HOSPITAL",169
+"2022-01-08","1 Congregate Care","HOSPITAL",170
 "2022-01-08","1 Congregate Care","LONG-TERM CARE HOME",728
 "2022-01-08","1 Congregate Care","RETIREMENT HOME",271
 "2022-01-08","2 Congregate Living","CONGREGATE OTHER",29
@@ -8976,7 +8971,7 @@
 "2022-01-11","4 Workplace","WORKPLACE - OTHER",6
 "2022-01-11","5 Recreational","OTHER RECREATION",4
 "2022-01-12","1 Congregate Care","HOSPITAL",187
-"2022-01-12","1 Congregate Care","LONG-TERM CARE HOME",965
+"2022-01-12","1 Congregate Care","LONG-TERM CARE HOME",966
 "2022-01-12","1 Congregate Care","RETIREMENT HOME",306
 "2022-01-12","2 Congregate Living","CONGREGATE OTHER",35
 "2022-01-12","2 Congregate Living","CORRECTIONAL FACILITY",59
@@ -8989,7 +8984,7 @@
 "2022-01-13","1 Congregate Care","HOSPITAL",169
 "2022-01-13","1 Congregate Care","LONG-TERM CARE HOME",832
 "2022-01-13","1 Congregate Care","RETIREMENT HOME",294
-"2022-01-13","2 Congregate Living","CONGREGATE OTHER",51
+"2022-01-13","2 Congregate Living","CONGREGATE OTHER",52
 "2022-01-13","2 Congregate Living","CORRECTIONAL FACILITY",71
 "2022-01-13","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",135
 "2022-01-13","2 Congregate Living","SHELTER",73
@@ -8998,7 +8993,7 @@
 "2022-01-13","4 Workplace","WORKPLACE - OTHER",2
 "2022-01-13","5 Recreational","OTHER RECREATION",5
 "2022-01-14","1 Congregate Care","HOSPITAL",181
-"2022-01-14","1 Congregate Care","LONG-TERM CARE HOME",704
+"2022-01-14","1 Congregate Care","LONG-TERM CARE HOME",705
 "2022-01-14","1 Congregate Care","RETIREMENT HOME",249
 "2022-01-14","2 Congregate Living","CONGREGATE OTHER",19
 "2022-01-14","2 Congregate Living","CORRECTIONAL FACILITY",59
@@ -9071,7 +9066,7 @@
 "2022-01-20","1 Congregate Care","LONG-TERM CARE HOME",653
 "2022-01-20","1 Congregate Care","RETIREMENT HOME",256
 "2022-01-20","2 Congregate Living","CONGREGATE OTHER",28
-"2022-01-20","2 Congregate Living","CORRECTIONAL FACILITY",62
+"2022-01-20","2 Congregate Living","CORRECTIONAL FACILITY",63
 "2022-01-20","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",92
 "2022-01-20","2 Congregate Living","SHELTER",76
 "2022-01-20","2 Congregate Living","SHORT-TERM ACCOMMODATIONS",1
@@ -9082,7 +9077,7 @@
 "2022-01-21","1 Congregate Care","LONG-TERM CARE HOME",569
 "2022-01-21","1 Congregate Care","RETIREMENT HOME",177
 "2022-01-21","2 Congregate Living","CONGREGATE OTHER",7
-"2022-01-21","2 Congregate Living","CORRECTIONAL FACILITY",117
+"2022-01-21","2 Congregate Living","CORRECTIONAL FACILITY",119
 "2022-01-21","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",50
 "2022-01-21","2 Congregate Living","SHELTER",46
 "2022-01-21","3 Education","SCHOOL - SECONDARY",1
@@ -9142,7 +9137,7 @@
 "2022-01-27","1 Congregate Care","LONG-TERM CARE HOME",517
 "2022-01-27","1 Congregate Care","RETIREMENT HOME",190
 "2022-01-27","2 Congregate Living","CONGREGATE OTHER",27
-"2022-01-27","2 Congregate Living","CORRECTIONAL FACILITY",69
+"2022-01-27","2 Congregate Living","CORRECTIONAL FACILITY",72
 "2022-01-27","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",57
 "2022-01-27","2 Congregate Living","SHELTER",23
 "2022-01-27","3 Education","CHILD CARE",5
@@ -9207,7 +9202,7 @@
 "2022-02-02","1 Congregate Care","LONG-TERM CARE HOME",361
 "2022-02-02","1 Congregate Care","RETIREMENT HOME",178
 "2022-02-02","2 Congregate Living","CONGREGATE OTHER",12
-"2022-02-02","2 Congregate Living","CORRECTIONAL FACILITY",61
+"2022-02-02","2 Congregate Living","CORRECTIONAL FACILITY",82
 "2022-02-02","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",44
 "2022-02-02","2 Congregate Living","SHELTER",16
 "2022-02-02","3 Education","CHILD CARE",3
@@ -9219,7 +9214,7 @@
 "2022-02-03","1 Congregate Care","LONG-TERM CARE HOME",236
 "2022-02-03","1 Congregate Care","RETIREMENT HOME",89
 "2022-02-03","2 Congregate Living","CONGREGATE OTHER",11
-"2022-02-03","2 Congregate Living","CORRECTIONAL FACILITY",59
+"2022-02-03","2 Congregate Living","CORRECTIONAL FACILITY",61
 "2022-02-03","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",27
 "2022-02-03","2 Congregate Living","SHELTER",9
 "2022-02-03","3 Education","CHILD CARE",4
@@ -9230,7 +9225,7 @@
 "2022-02-04","1 Congregate Care","LONG-TERM CARE HOME",189
 "2022-02-04","1 Congregate Care","RETIREMENT HOME",127
 "2022-02-04","2 Congregate Living","CONGREGATE OTHER",5
-"2022-02-04","2 Congregate Living","CORRECTIONAL FACILITY",25
+"2022-02-04","2 Congregate Living","CORRECTIONAL FACILITY",26
 "2022-02-04","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",41
 "2022-02-04","2 Congregate Living","SHELTER",16
 "2022-02-04","4 Workplace","WORKPLACE - FARM",5
@@ -9264,7 +9259,7 @@
 "2022-02-08","1 Congregate Care","LONG-TERM CARE HOME",175
 "2022-02-08","1 Congregate Care","RETIREMENT HOME",74
 "2022-02-08","2 Congregate Living","CONGREGATE OTHER",47
-"2022-02-08","2 Congregate Living","CORRECTIONAL FACILITY",14
+"2022-02-08","2 Congregate Living","CORRECTIONAL FACILITY",15
 "2022-02-08","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",47
 "2022-02-08","2 Congregate Living","SHELTER",16
 "2022-02-08","4 Workplace","WORKPLACE - OTHER",1
@@ -9272,7 +9267,7 @@
 "2022-02-09","1 Congregate Care","LONG-TERM CARE HOME",163
 "2022-02-09","1 Congregate Care","RETIREMENT HOME",45
 "2022-02-09","2 Congregate Living","CONGREGATE OTHER",9
-"2022-02-09","2 Congregate Living","CORRECTIONAL FACILITY",63
+"2022-02-09","2 Congregate Living","CORRECTIONAL FACILITY",70
 "2022-02-09","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",11
 "2022-02-09","2 Congregate Living","SHELTER",7
 "2022-02-09","4 Workplace","WORKPLACE - OTHER",4
@@ -9280,7 +9275,7 @@
 "2022-02-10","1 Congregate Care","LONG-TERM CARE HOME",130
 "2022-02-10","1 Congregate Care","RETIREMENT HOME",45
 "2022-02-10","2 Congregate Living","CONGREGATE OTHER",28
-"2022-02-10","2 Congregate Living","CORRECTIONAL FACILITY",35
+"2022-02-10","2 Congregate Living","CORRECTIONAL FACILITY",36
 "2022-02-10","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",20
 "2022-02-10","2 Congregate Living","SHELTER",14
 "2022-02-10","3 Education","CHILD CARE",1
@@ -9288,7 +9283,7 @@
 "2022-02-11","1 Congregate Care","LONG-TERM CARE HOME",122
 "2022-02-11","1 Congregate Care","RETIREMENT HOME",41
 "2022-02-11","2 Congregate Living","CONGREGATE OTHER",34
-"2022-02-11","2 Congregate Living","CORRECTIONAL FACILITY",33
+"2022-02-11","2 Congregate Living","CORRECTIONAL FACILITY",34
 "2022-02-11","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",20
 "2022-02-11","2 Congregate Living","SHELTER",23
 "2022-02-11","4 Workplace","WORKPLACE - FARM",3
@@ -9296,7 +9291,7 @@
 "2022-02-12","1 Congregate Care","LONG-TERM CARE HOME",58
 "2022-02-12","1 Congregate Care","RETIREMENT HOME",56
 "2022-02-12","2 Congregate Living","CONGREGATE OTHER",4
-"2022-02-12","2 Congregate Living","CORRECTIONAL FACILITY",10
+"2022-02-12","2 Congregate Living","CORRECTIONAL FACILITY",11
 "2022-02-12","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",14
 "2022-02-12","2 Congregate Living","SHELTER",4
 "2022-02-12","4 Workplace","WORKPLACE - FARM",1
@@ -9311,7 +9306,7 @@
 "2022-02-14","1 Congregate Care","LONG-TERM CARE HOME",51
 "2022-02-14","1 Congregate Care","RETIREMENT HOME",23
 "2022-02-14","2 Congregate Living","CONGREGATE OTHER",9
-"2022-02-14","2 Congregate Living","CORRECTIONAL FACILITY",14
+"2022-02-14","2 Congregate Living","CORRECTIONAL FACILITY",15
 "2022-02-14","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",6
 "2022-02-14","2 Congregate Living","SHELTER",5
 "2022-02-14","4 Workplace","WORKPLACE - OTHER",1
@@ -9327,7 +9322,7 @@
 "2022-02-16","1 Congregate Care","LONG-TERM CARE HOME",46
 "2022-02-16","1 Congregate Care","RETIREMENT HOME",78
 "2022-02-16","2 Congregate Living","CONGREGATE OTHER",25
-"2022-02-16","2 Congregate Living","CORRECTIONAL FACILITY",26
+"2022-02-16","2 Congregate Living","CORRECTIONAL FACILITY",29
 "2022-02-16","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",14
 "2022-02-16","2 Congregate Living","SHELTER",2
 "2022-02-16","4 Workplace","WORKPLACE - FARM",1
@@ -9335,7 +9330,7 @@
 "2022-02-17","1 Congregate Care","LONG-TERM CARE HOME",116
 "2022-02-17","1 Congregate Care","RETIREMENT HOME",65
 "2022-02-17","2 Congregate Living","CONGREGATE OTHER",3
-"2022-02-17","2 Congregate Living","CORRECTIONAL FACILITY",29
+"2022-02-17","2 Congregate Living","CORRECTIONAL FACILITY",30
 "2022-02-17","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",29
 "2022-02-17","2 Congregate Living","SHELTER",5
 "2022-02-17","4 Workplace","WORKPLACE - OTHER",1
@@ -9425,21 +9420,21 @@
 "2022-02-28","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",7
 "2022-02-28","3 Education","SCHOOL - ELEMENTARY",1
 "2022-03-01","1 Congregate Care","HOSPITAL",15
-"2022-03-01","1 Congregate Care","LONG-TERM CARE HOME",49
+"2022-03-01","1 Congregate Care","LONG-TERM CARE HOME",48
 "2022-03-01","1 Congregate Care","RETIREMENT HOME",18
 "2022-03-01","2 Congregate Living","CONGREGATE OTHER",8
 "2022-03-01","2 Congregate Living","CORRECTIONAL FACILITY",11
 "2022-03-01","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",24
 "2022-03-01","3 Education","CHILD CARE",1
 "2022-03-02","1 Congregate Care","HOSPITAL",12
-"2022-03-02","1 Congregate Care","LONG-TERM CARE HOME",62
+"2022-03-02","1 Congregate Care","LONG-TERM CARE HOME",59
 "2022-03-02","1 Congregate Care","RETIREMENT HOME",31
 "2022-03-02","2 Congregate Living","CONGREGATE OTHER",14
 "2022-03-02","2 Congregate Living","CORRECTIONAL FACILITY",8
 "2022-03-02","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",16
 "2022-03-02","2 Congregate Living","SHELTER",2
 "2022-03-03","1 Congregate Care","HOSPITAL",17
-"2022-03-03","1 Congregate Care","LONG-TERM CARE HOME",52
+"2022-03-03","1 Congregate Care","LONG-TERM CARE HOME",44
 "2022-03-03","1 Congregate Care","RETIREMENT HOME",45
 "2022-03-03","2 Congregate Living","CONGREGATE OTHER",2
 "2022-03-03","2 Congregate Living","CORRECTIONAL FACILITY",8
@@ -9447,7 +9442,7 @@
 "2022-03-03","2 Congregate Living","SHELTER",3
 "2022-03-03","4 Workplace","WORKPLACE - OTHER",1
 "2022-03-04","1 Congregate Care","HOSPITAL",6
-"2022-03-04","1 Congregate Care","LONG-TERM CARE HOME",59
+"2022-03-04","1 Congregate Care","LONG-TERM CARE HOME",56
 "2022-03-04","1 Congregate Care","RETIREMENT HOME",26
 "2022-03-04","2 Congregate Living","CONGREGATE OTHER",2
 "2022-03-04","2 Congregate Living","CORRECTIONAL FACILITY",4
@@ -9468,30 +9463,30 @@
 "2022-03-06","2 Congregate Living","CORRECTIONAL FACILITY",20
 "2022-03-06","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",17
 "2022-03-07","1 Congregate Care","HOSPITAL",25
-"2022-03-07","1 Congregate Care","LONG-TERM CARE HOME",32
+"2022-03-07","1 Congregate Care","LONG-TERM CARE HOME",29
 "2022-03-07","1 Congregate Care","RETIREMENT HOME",25
 "2022-03-07","2 Congregate Living","CONGREGATE OTHER",2
 "2022-03-07","2 Congregate Living","CORRECTIONAL FACILITY",3
 "2022-03-07","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",14
 "2022-03-07","4 Workplace","MEDICAL/HEALTH SERVICE",1
 "2022-03-08","1 Congregate Care","HOSPITAL",11
-"2022-03-08","1 Congregate Care","LONG-TERM CARE HOME",41
+"2022-03-08","1 Congregate Care","LONG-TERM CARE HOME",40
 "2022-03-08","1 Congregate Care","RETIREMENT HOME",23
 "2022-03-08","2 Congregate Living","CONGREGATE OTHER",3
-"2022-03-08","2 Congregate Living","CORRECTIONAL FACILITY",1
+"2022-03-08","2 Congregate Living","CORRECTIONAL FACILITY",2
 "2022-03-08","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",14
 "2022-03-08","2 Congregate Living","SHELTER",1
 "2022-03-09","1 Congregate Care","HOSPITAL",6
 "2022-03-09","1 Congregate Care","LONG-TERM CARE HOME",42
 "2022-03-09","1 Congregate Care","RETIREMENT HOME",12
 "2022-03-09","2 Congregate Living","CONGREGATE OTHER",3
-"2022-03-09","2 Congregate Living","CORRECTIONAL FACILITY",7
+"2022-03-09","2 Congregate Living","CORRECTIONAL FACILITY",8
 "2022-03-09","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",12
 "2022-03-09","2 Congregate Living","SHELTER",1
 "2022-03-09","4 Workplace","MEDICAL/HEALTH SERVICE",1
 "2022-03-09","4 Workplace","WORKPLACE - OTHER",1
 "2022-03-10","1 Congregate Care","HOSPITAL",15
-"2022-03-10","1 Congregate Care","LONG-TERM CARE HOME",40
+"2022-03-10","1 Congregate Care","LONG-TERM CARE HOME",39
 "2022-03-10","1 Congregate Care","RETIREMENT HOME",39
 "2022-03-10","2 Congregate Living","CONGREGATE OTHER",9
 "2022-03-10","2 Congregate Living","CORRECTIONAL FACILITY",11
@@ -9508,21 +9503,21 @@
 "2022-03-11","2 Congregate Living","SHELTER",1
 "2022-03-11","4 Workplace","MEDICAL/HEALTH SERVICE",6
 "2022-03-12","1 Congregate Care","HOSPITAL",8
-"2022-03-12","1 Congregate Care","LONG-TERM CARE HOME",23
+"2022-03-12","1 Congregate Care","LONG-TERM CARE HOME",22
 "2022-03-12","1 Congregate Care","RETIREMENT HOME",16
 "2022-03-12","2 Congregate Living","CONGREGATE OTHER",3
 "2022-03-12","2 Congregate Living","CORRECTIONAL FACILITY",1
 "2022-03-12","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",10
 "2022-03-12","2 Congregate Living","SHELTER",2
 "2022-03-12","4 Workplace","WORKPLACE - OTHER",2
-"2022-03-13","1 Congregate Care","HOSPITAL",11
+"2022-03-13","1 Congregate Care","HOSPITAL",12
 "2022-03-13","1 Congregate Care","LONG-TERM CARE HOME",22
 "2022-03-13","1 Congregate Care","RETIREMENT HOME",7
 "2022-03-13","2 Congregate Living","CONGREGATE OTHER",2
 "2022-03-13","2 Congregate Living","CORRECTIONAL FACILITY",1
 "2022-03-13","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",4
 "2022-03-13","4 Workplace","WORKPLACE - OTHER",1
-"2022-03-14","1 Congregate Care","HOSPITAL",14
+"2022-03-14","1 Congregate Care","HOSPITAL",16
 "2022-03-14","1 Congregate Care","LONG-TERM CARE HOME",40
 "2022-03-14","1 Congregate Care","RETIREMENT HOME",13
 "2022-03-14","2 Congregate Living","CONGREGATE OTHER",1
@@ -9535,30 +9530,35 @@
 "2022-03-15","2 Congregate Living","CORRECTIONAL FACILITY",5
 "2022-03-15","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",17
 "2022-03-15","4 Workplace","WORKPLACE - OTHER",2
-"2022-03-16","1 Congregate Care","HOSPITAL",5
+"2022-03-16","1 Congregate Care","HOSPITAL",7
 "2022-03-16","1 Congregate Care","LONG-TERM CARE HOME",47
 "2022-03-16","1 Congregate Care","RETIREMENT HOME",15
-"2022-03-16","2 Congregate Living","CONGREGATE OTHER",1
+"2022-03-16","2 Congregate Living","CONGREGATE OTHER",2
 "2022-03-16","2 Congregate Living","CORRECTIONAL FACILITY",4
-"2022-03-16","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",8
-"2022-03-16","2 Congregate Living","SHELTER",2
+"2022-03-16","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",10
+"2022-03-16","2 Congregate Living","SHELTER",3
 "2022-03-16","4 Workplace","WORKPLACE - OTHER",1
-"2022-03-17","1 Congregate Care","HOSPITAL",9
+"2022-03-17","1 Congregate Care","HOSPITAL",8
 "2022-03-17","1 Congregate Care","LONG-TERM CARE HOME",61
-"2022-03-17","1 Congregate Care","RETIREMENT HOME",54
+"2022-03-17","1 Congregate Care","RETIREMENT HOME",55
 "2022-03-17","2 Congregate Living","CORRECTIONAL FACILITY",4
-"2022-03-17","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",13
-"2022-03-18","1 Congregate Care","HOSPITAL",5
+"2022-03-17","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",15
+"2022-03-18","1 Congregate Care","HOSPITAL",8
 "2022-03-18","1 Congregate Care","LONG-TERM CARE HOME",38
 "2022-03-18","1 Congregate Care","RETIREMENT HOME",8
 "2022-03-18","2 Congregate Living","CONGREGATE OTHER",1
-"2022-03-18","2 Congregate Living","CORRECTIONAL FACILITY",5
-"2022-03-18","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",1
-"2022-03-19","1 Congregate Care","HOSPITAL",1
-"2022-03-19","1 Congregate Care","LONG-TERM CARE HOME",16
+"2022-03-18","2 Congregate Living","CORRECTIONAL FACILITY",8
+"2022-03-18","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",4
+"2022-03-19","1 Congregate Care","HOSPITAL",2
+"2022-03-19","1 Congregate Care","LONG-TERM CARE HOME",25
 "2022-03-19","1 Congregate Care","RETIREMENT HOME",18
-"2022-03-19","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",3
-"2022-03-20","1 Congregate Care","HOSPITAL",1
-"2022-03-20","1 Congregate Care","LONG-TERM CARE HOME",1
-"2022-03-20","1 Congregate Care","RETIREMENT HOME",1
-"2022-03-20","2 Congregate Living","CORRECTIONAL FACILITY",1
+"2022-03-19","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",6
+"2022-03-20","1 Congregate Care","HOSPITAL",2
+"2022-03-20","1 Congregate Care","LONG-TERM CARE HOME",21
+"2022-03-20","1 Congregate Care","RETIREMENT HOME",4
+"2022-03-20","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",2
+"2022-03-21","1 Congregate Care","LONG-TERM CARE HOME",4
+"2022-03-21","1 Congregate Care","RETIREMENT HOME",9
+"2022-03-21","2 Congregate Living","CONGREGATE OTHER",1
+"2022-03-21","2 Congregate Living","CORRECTIONAL FACILITY",7
+"2022-03-21","2 Congregate Living","GROUP HOME/SUPPORTIVE HOUSING",5
