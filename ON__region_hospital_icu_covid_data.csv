@@ -770,6 +770,7 @@ date,oh_region,icu_current_covid,icu_current_covid_vented,hospitalizations,icu_c
 2022-05-11,CENTRAL,42,27,348,47,29,5,2
 2022-05-12,CENTRAL,42,21,301,46,22,4,1
 2022-05-13,CENTRAL,40,19,358,43,20,3,1
+2022-05-14,CENTRAL,34,21,342,37,23,3,2
 2020-04-02,EAST,38,31,99,0,0,0,0
 2020-04-03,EAST,47,39,101,0,0,0,0
 2020-04-04,EAST,45,36,113,0,0,0,0
@@ -1541,6 +1542,7 @@ date,oh_region,icu_current_covid,icu_current_covid_vented,hospitalizations,icu_c
 2022-05-11,EAST,33,8,345,47,16,14,8
 2022-05-12,EAST,35,12,330,49,21,14,9
 2022-05-13,EAST,36,13,308,50,21,14,8
+2022-05-14,EAST,32,11,290,46,19,14,8
 2020-04-02,NORTH,0,0,4,0,0,0,0
 2020-04-03,NORTH,3,1,8,0,0,0,0
 2020-04-04,NORTH,3,1,11,0,0,0,0
@@ -2312,6 +2314,7 @@ date,oh_region,icu_current_covid,icu_current_covid_vented,hospitalizations,icu_c
 2022-05-11,NORTH,12,5,168,13,6,1,1
 2022-05-12,NORTH,12,3,193,13,4,1,1
 2022-05-13,NORTH,14,4,175,15,4,1,0
+2022-05-14,NORTH,13,4,165,14,4,1,0
 2020-04-02,TORONTO,27,17,58,0,0,0,0
 2020-04-03,TORONTO,37,18,62,0,0,0,0
 2020-04-04,TORONTO,34,23,77,0,0,0,0
@@ -3083,6 +3086,7 @@ date,oh_region,icu_current_covid,icu_current_covid_vented,hospitalizations,icu_c
 2022-05-11,TORONTO,15,7,168,18,9,3,2
 2022-05-12,TORONTO,14,7,161,18,11,4,4
 2022-05-13,TORONTO,14,7,158,17,10,3,3
+2022-05-14,TORONTO,14,7,169,18,10,4,3
 2020-04-02,WEST,51,25,133,0,0,0,0
 2020-04-03,WEST,50,30,134,0,0,0,0
 2020-04-04,WEST,43,32,131,0,0,0,0
@@ -3854,3 +3858,4 @@ date,oh_region,icu_current_covid,icu_current_covid_vented,hospitalizations,icu_c
 2022-05-11,WEST,38,16,499,51,21,13,5
 2022-05-12,WEST,33,14,466,49,17,16,3
 2022-05-13,WEST,31,13,454,43,16,12,3
+2022-05-14,WEST,30,10,426,41,14,11,4
