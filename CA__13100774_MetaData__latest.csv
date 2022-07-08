@@ -20,6 +20,8 @@
 "2","Female","","3","1","",,
 "2","Not stated, gender","","4","1","",8,
 "2","Total, all genders","","1","","",,
+"3","80 years and over","","9","1","",,
+"3","Not stated, age group","","10","1","",,
 "3","0 to 19 years","","2","1","",,
 "3","20 to 29 years","","3","1","",,
 "3","30 to 39 years","","4","1","",,
@@ -27,8 +29,6 @@
 "3","50 to 59 years","","6","1","",,
 "3","60 to 69 years","","7","1","",,
 "3","70 to 79 years","","8","1","",,
-"3","80 years and over","","9","1","",,
-"3","Not stated, age group","","10","1","",,
 "3","Total, all age groups","","1","","",,
 "4","Community exposures","","2","1","",9,
 "4","Travel exposures","","3","1","",9,
@@ -72,7 +72,7 @@ Description,Symbol
 2,"Given that the COVID-19 pandemic is rapidly evolving, these data are considered preliminary. The data published by Statistics Canada only account for those where a detailed case report was provided by the provincial or territorial jurisdiction to the Public Health Agency of Canada (PHAC). Statistics Canada’s detailed preliminary confirmed cases will not match the total case reporting done at the provincial and territorial levels which are reported daily by each jurisdiction and compiled by the PHAC.  The discrepancy is due to delays associated with the submission of the detailed information, its capture and coding. Hence, Statistics Canada’s file on detailed case reporting is a subset of the total counts reported by the health authorities across Canada."
 3,"Confirmed cases are laboratory confirmed cases for which a case report form has been received by the Public Health Agency of Canada (PHAC) from provincial or territorial partners."
 4,"Routine updates on health outcome status are not uniformly made across Canada, and therefore the data may underestimate the number of hospitalizations, admissions to intensive care units and deaths."
-5,"On June 10th 2022, updates were made to the death variable. No new cases were added for the Quebec region."
+5,"On July 8th 2022, no new cases were added for the Quebec region."
 6,"Atlantic region  (New Brunswick, Nova Scotia, Prince Edward Island and Newfoundland and Labrador)."
 7,"Prairies Region (Alberta, Saskatchewan and Manitoba)."
 8,"All responses not specified as "male" or "female" were reclassified as "not stated"."
