@@ -1,4 +1,4 @@
-"report_date","previous_day_total_doses_administered","previous_day_at_least_one","previous_day_fully_vaccinated","previous_day_3doses","total_doses_administered","total_individuals_at_least_one","total_individuals_partially_vaccinated","total_doses_in_fully_vaccinated_individuals","total_individuals_fully_vaccinated","total_individuals_3doses"
+report_date,previous_day_total_doses_administered,previous_day_at_least_one,previous_day_fully_vaccinated,previous_day_3doses,total_doses_administered,total_individuals_at_least_one,total_individuals_partially_vaccinated,total_doses_in_fully_vaccinated_individuals,total_individuals_fully_vaccinated,total_individuals_3doses
 2020-12-24,,,,,10756,,,,,
 2020-12-30,7847,,,,18603,,,,,
 2020-12-31,4899,,,,23502,,,,,
@@ -703,9 +703,3 @@
 2022-11-30,28864,864,944,1927,37262009,12836290,,,12353118,7707095
 2022-12-01,29944,770,909,14812,37291953,12837060,,,12354027,7721907
 2022-12-02,25741,750,881,1923,37317694,12837810,,,12354908,7723830
-2022-12-04,,,,,37359010,12839112,,,12356451,7727560
-2022-12-05,6911,187,161,737,37365921,12839299,,,12356612,7728297
-2022-12-06,0,0,0,0,37365921,12839299,,,12356612,7728297
-2022-12-07,46106,1335,1326,3259,37412027,12840634,,,12357938,7731556
-2022-12-08,0,0,0,0,37412027,12840634,,,12357938,7731556
-2022-12-09,47671,1512,1402,3600,37459698,12842146,,,12359340,7735156
