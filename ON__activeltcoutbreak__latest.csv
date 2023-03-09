@@ -90126,3 +90126,477 @@
 2023-02-22,2253,"PEEL","Woodhall Park Care Community",2928,"Brampton",147,<5,11,0
 2023-02-22,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,12,<5,13
 2023-02-22,2270,"YORK REGION","York Region Newmarket Health Centre",M534,"Newmarket",132,<5,<5,<5
+2023-02-23,3895,"TORONTO","Bendale Acres",M504,"Scarborough",302,<5,8,0
+2023-02-23,2236,"HALTON","Billings Court Manor",2938,"Burlington",160,6,6,<5
+2023-02-23,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,<5,21,0
+2023-02-23,2265,"WATERLOO","Cambridge Country Manor",2651,"Cambridge",79,<5,18,<5
+2023-02-23,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,15,13,<5
+2023-02-23,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,14,12,<5
+2023-02-23,2244,"MIDDLESEX-LONDON","Chartwell London Long Term Care Residence",2919,"London",95,5,<5,<5
+2023-02-23,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,33,18,18
+2023-02-23,3895,"TORONTO","Chartwell Westbury Long Term Care Residence",2943,"Etobicoke",187,11,28,<5
+2023-02-23,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,<5
+2023-02-23,2244,"MIDDLESEX-LONDON","Chelsey Park",2655,"London",87,38,12,14
+2023-02-23,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,29,<5,7
+2023-02-23,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,24,9,<5
+2023-02-23,2253,"PEEL","Extendicare Brampton",2847,"Brampton",150,10,7,<5
+2023-02-23,2236,"HALTON","Extendicare Halton Hills",2892,"Georgetown",130,<5,25,<5
+2023-02-23,2251,"OTTAWA","Extendicare New Orchard Lodge",2302,"Ottawa",111,<5,<5,0
+2023-02-23,2233,"GREY-BRUCE","Georgian Heights",2638,"Owen Sound",40,<5,0,5
+2023-02-23,2258,"EASTERN ONTARIO","Glen-Stor-Dun Lodge",M529,"Cornwall",132,9,9,7
+2023-02-23,2227,"BRANT","Hardy Terrace",2720,"Brantford",101,6,<5,9
+2023-02-23,3895,"TORONTO","Hawthorne Place Care Centre",2586,"North York",269,9,54,<5
+2023-02-23,2268,"WINDSOR-ESSEX","Heron Terrace Long Term Care Community",2898,"Windsor",140,9,29,<5
+2023-02-23,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,29,12,13
+2023-02-23,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,10,44,0
+2023-02-23,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,19,<5,8
+2023-02-23,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,26,9,9
+2023-02-23,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,46,<5,15
+2023-02-23,2236,"HALTON","Maple Villa Long Term Care Centre",2408,"Burlington",93,5,<5,<5
+2023-02-23,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,5,<5,<5
+2023-02-23,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,7,<5,5
+2023-02-23,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,13,13,10
+2023-02-23,2230,"DURHAM","Port Perry Place",2629,"Port Perry",107,<5,13,0
+2023-02-23,3895,"TORONTO","Providence Healthcare",3006,"Scarborough",288,<5,5,0
+2023-02-23,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,5,9,<5
+2023-02-23,2237,"HAMILTON","Regina Gardens",2922,"Hamilton",128,<5,<5,<5
+2023-02-23,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,28,6,5
+2023-02-23,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,<5,7,0
+2023-02-23,2265,"WATERLOO","St. Andrew's Terrace Long Term Care Community",2926,"Cambridge",128,10,8,11
+2023-02-23,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,5,<5,0
+2023-02-23,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,<5,6,<5
+2023-02-23,2251,"OTTAWA","The Perley and Rideau Veterans' Health Centre",3025,"Ottawa",450,<5,29,0
+2023-02-23,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,<5,21,<5
+2023-02-23,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,34,10,7
+2023-02-23,2270,"YORK REGION","Union Villa",3018,"Unionville",160,5,0,0
+2023-02-23,2253,"PEEL","Villa Forum",2855,"Mississauga",160,<5,17,<5
+2023-02-23,2242,"LAMBTON","Vision Nursing Home",2659,"Sarnia",146,21,16,20
+2023-02-23,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,7,41,<5
+2023-02-23,2253,"PEEL","Woodhall Park Care Community",2928,"Brampton",147,<5,11,0
+2023-02-23,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,13,<5,13
+2023-02-23,2270,"YORK REGION","York Region Newmarket Health Centre",M534,"Newmarket",132,<5,<5,<5
+2023-02-24,3895,"TORONTO","Bendale Acres",M504,"Scarborough",302,<5,8,0
+2023-02-24,2236,"HALTON","Billings Court Manor",2938,"Burlington",160,<5,6,<5
+2023-02-24,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,<5,21,0
+2023-02-24,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,9,13,<5
+2023-02-24,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,14,12,<5
+2023-02-24,2244,"MIDDLESEX-LONDON","Chartwell London Long Term Care Residence",2919,"London",95,5,<5,<5
+2023-02-24,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,33,18,18
+2023-02-24,3895,"TORONTO","Chartwell Westbury Long Term Care Residence",2943,"Etobicoke",187,11,28,<5
+2023-02-24,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,<5
+2023-02-24,2244,"MIDDLESEX-LONDON","Chelsey Park",2655,"London",87,38,12,14
+2023-02-24,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-02-24,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,24,9,<5
+2023-02-24,3895,"TORONTO","Ehatare Nursing Home",2804,"Scarborough",32,28,0,7
+2023-02-24,2253,"PEEL","Extendicare Brampton",2847,"Brampton",150,10,7,<5
+2023-02-24,2236,"HALTON","Extendicare Halton Hills",2892,"Georgetown",130,<5,25,<5
+2023-02-24,2233,"GREY-BRUCE","Georgian Heights",2638,"Owen Sound",40,<5,0,<5
+2023-02-24,2258,"EASTERN ONTARIO","Glen-Stor-Dun Lodge",M529,"Cornwall",132,9,9,7
+2023-02-24,2227,"BRANT","Hardy Terrace",2720,"Brantford",101,6,<5,9
+2023-02-24,3895,"TORONTO","Hawthorne Place Care Centre",2586,"North York",269,9,54,<5
+2023-02-24,2268,"WINDSOR-ESSEX","Heron Terrace Long Term Care Community",2898,"Windsor",140,9,29,<5
+2023-02-24,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,29,12,13
+2023-02-24,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,10,44,0
+2023-02-24,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,19,<5,8
+2023-02-24,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,27,9,7
+2023-02-24,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,46,<5,15
+2023-02-24,2236,"HALTON","Maple Villa Long Term Care Centre",2408,"Burlington",93,5,<5,<5
+2023-02-24,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,5,<5,<5
+2023-02-24,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,6,<5,<5
+2023-02-24,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,13,13,10
+2023-02-24,2230,"DURHAM","Port Perry Place",2629,"Port Perry",107,<5,13,0
+2023-02-24,3895,"TORONTO","Providence Healthcare",3006,"Scarborough",288,<5,5,0
+2023-02-24,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,5,9,<5
+2023-02-24,2237,"HAMILTON","Regina Gardens",2922,"Hamilton",128,<5,<5,<5
+2023-02-24,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,28,6,5
+2023-02-24,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,<5,7,0
+2023-02-24,2265,"WATERLOO","St. Andrew's Terrace Long Term Care Community",2926,"Cambridge",128,10,8,11
+2023-02-24,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,9,<5,0
+2023-02-24,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,<5,6,<5
+2023-02-24,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,<5,21,<5
+2023-02-24,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,34,10,7
+2023-02-24,2270,"YORK REGION","Union Villa",3018,"Unionville",160,5,0,0
+2023-02-24,2253,"PEEL","Villa Forum",2855,"Mississauga",160,<5,17,<5
+2023-02-24,2242,"LAMBTON","Vision Nursing Home",2659,"Sarnia",146,22,16,20
+2023-02-24,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,9,41,<5
+2023-02-24,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,12,<5,14
+2023-02-27,2236,"HALTON","Billings Court Manor",2938,"Burlington",160,<5,6,<5
+2023-02-27,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,9,21,0
+2023-02-27,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,0
+2023-02-27,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,9,13,<5
+2023-02-27,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,13,12,<5
+2023-02-27,2244,"MIDDLESEX-LONDON","Chartwell London Long Term Care Residence",2919,"London",95,<5,<5,0
+2023-02-27,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,37,18,20
+2023-02-27,3895,"TORONTO","Chartwell Westbury Long Term Care Residence",2943,"Etobicoke",187,11,28,<5
+2023-02-27,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,0
+2023-02-27,2244,"MIDDLESEX-LONDON","Chelsey Park",2655,"London",87,19,12,<5
+2023-02-27,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-02-27,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,7,9,<5
+2023-02-27,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-02-27,3895,"TORONTO","Ehatare Nursing Home",2804,"Scarborough",32,28,0,7
+2023-02-27,2253,"PEEL","Extendicare Brampton",2847,"Brampton",150,10,7,<5
+2023-02-27,2236,"HALTON","Extendicare Halton Hills",2892,"Georgetown",130,<5,25,<5
+2023-02-27,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,13,<5,<5
+2023-02-27,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,0
+2023-02-27,2233,"GREY-BRUCE","Georgian Heights",2638,"Owen Sound",40,<5,0,0
+2023-02-27,2258,"EASTERN ONTARIO","Glen-Stor-Dun Lodge",M529,"Cornwall",132,<5,9,<5
+2023-02-27,2227,"BRANT","Hardy Terrace",2720,"Brantford",101,6,<5,9
+2023-02-27,3895,"TORONTO","Hawthorne Place Care Centre",2586,"North York",269,8,54,<5
+2023-02-27,2268,"WINDSOR-ESSEX","Heron Terrace Long Term Care Community",2898,"Windsor",140,9,29,<5
+2023-02-27,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,29,12,13
+2023-02-27,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,20,44,<5
+2023-02-27,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,26,<5,8
+2023-02-27,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,16,9,16
+2023-02-27,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,46,<5,15
+2023-02-27,2236,"HALTON","Maple Villa Long Term Care Centre",2408,"Burlington",93,5,<5,<5
+2023-02-27,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,5,<5,<5
+2023-02-27,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,8,<5,<5
+2023-02-27,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,8,<5,6
+2023-02-27,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,15,13,12
+2023-02-27,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,5,9,<5
+2023-02-27,2237,"HAMILTON","Regina Gardens",2922,"Hamilton",128,<5,<5,<5
+2023-02-27,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,27,6,<5
+2023-02-27,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,<5,7,0
+2023-02-27,2265,"WATERLOO","St. Andrew's Terrace Long Term Care Community",2926,"Cambridge",128,5,8,<5
+2023-02-27,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,10,<5,0
+2023-02-27,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,8,7,<5
+2023-02-27,2266,"WELLINGTON-DUFFERIN-GUELPH","The Elliott Long Term Care Residence",M633,"Guelph",85,<5,0,0
+2023-02-27,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,<5,21,<5
+2023-02-27,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,24,13,8
+2023-02-27,2270,"YORK REGION","Union Villa",3018,"Unionville",160,5,0,0
+2023-02-27,2242,"LAMBTON","Vision Nursing Home",2659,"Sarnia",146,<5,17,20
+2023-02-27,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,11,41,5
+2023-02-27,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,7,<5,8
+2023-02-28,2236,"HALTON","Billings Court Manor",2938,"Burlington",160,<5,6,<5
+2023-02-28,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,12,21,0
+2023-02-28,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,0
+2023-02-28,2253,"PEEL","Cawthra Gardens",2912,"Mississauga",192,<5,17,<5
+2023-02-28,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-02-28,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,13,12,<5
+2023-02-28,2244,"MIDDLESEX-LONDON","Chartwell London Long Term Care Residence",2919,"London",95,<5,<5,0
+2023-02-28,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,46,18,22
+2023-02-28,3895,"TORONTO","Chartwell Westbury Long Term Care Residence",2943,"Etobicoke",187,11,28,<5
+2023-02-28,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,0
+2023-02-28,2244,"MIDDLESEX-LONDON","Chelsey Park",2655,"London",87,19,12,<5
+2023-02-28,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,5,18,6
+2023-02-28,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-02-28,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,7,9,<5
+2023-02-28,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-02-28,3895,"TORONTO","Ehatare Nursing Home",2804,"Scarborough",32,28,0,7
+2023-02-28,2253,"PEEL","Extendicare Brampton",2847,"Brampton",150,10,7,<5
+2023-02-28,2236,"HALTON","Extendicare Halton Hills",2892,"Georgetown",130,<5,25,<5
+2023-02-28,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,18,<5,<5
+2023-02-28,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,<5
+2023-02-28,3895,"TORONTO","Hawthorne Place Care Centre",2586,"North York",269,7,54,<5
+2023-02-28,2268,"WINDSOR-ESSEX","Heron Terrace Long Term Care Community",2898,"Windsor",140,9,29,<5
+2023-02-28,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,11,12,13
+2023-02-28,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,<5,14,<5
+2023-02-28,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,18,44,<5
+2023-02-28,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,32,<5,8
+2023-02-28,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,10,9,7
+2023-02-28,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,46,<5,15
+2023-02-28,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,5,<5,<5
+2023-02-28,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,10,<5,<5
+2023-02-28,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,10,<5,6
+2023-02-28,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,15,14,13
+2023-02-28,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,16,9,<5
+2023-02-28,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,<5,<5,0
+2023-02-28,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,20,6,0
+2023-02-28,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,<5,18,<5
+2023-02-28,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,7,7,0
+2023-02-28,2265,"WATERLOO","St. Andrew's Terrace Long Term Care Community",2926,"Cambridge",128,<5,8,<5
+2023-02-28,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,10,<5,0
+2023-02-28,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,8,7,<5
+2023-02-28,2266,"WELLINGTON-DUFFERIN-GUELPH","The Elliott Long Term Care Residence",M633,"Guelph",85,<5,0,<5
+2023-02-28,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,<5,21,<5
+2023-02-28,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,19,13,<5
+2023-02-28,2270,"YORK REGION","Union Villa",3018,"Unionville",160,5,0,0
+2023-02-28,2242,"LAMBTON","Vision Nursing Home",2659,"Sarnia",146,<5,17,20
+2023-02-28,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,15,41,5
+2023-02-28,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,7,<5,8
+2023-03-01,2236,"HALTON","Billings Court Manor",2938,"Burlington",160,<5,6,<5
+2023-03-01,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,14,22,<5
+2023-03-01,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,0
+2023-03-01,2253,"PEEL","Cawthra Gardens",2912,"Mississauga",192,<5,17,6
+2023-03-01,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-03-01,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,10,13,<5
+2023-03-01,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,40,18,22
+2023-03-01,3895,"TORONTO","Chartwell Westbury Long Term Care Residence",2943,"Etobicoke",187,11,28,<5
+2023-03-01,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,0
+2023-03-01,2244,"MIDDLESEX-LONDON","Chelsey Park",2655,"London",87,19,12,<5
+2023-03-01,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,5,18,6
+2023-03-01,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-03-01,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,7,9,<5
+2023-03-01,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-03-01,2253,"PEEL","Extendicare Brampton",2847,"Brampton",150,10,7,<5
+2023-03-01,2236,"HALTON","Extendicare Halton Hills",2892,"Georgetown",130,<5,25,<5
+2023-03-01,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,19,<5,5
+2023-03-01,2251,"OTTAWA","Extendicare Medex",2579,"Ottawa",193,9,5,<5
+2023-03-01,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,<5
+2023-03-01,3895,"TORONTO","Hawthorne Place Care Centre",2586,"North York",269,6,54,<5
+2023-03-01,2237,"HAMILTON","Heritage Green Nursing Home",2776,"Stoney Creek",167,8,10,<5
+2023-03-01,2268,"WINDSOR-ESSEX","Heron Terrace Long Term Care Community",2898,"Windsor",140,9,29,<5
+2023-03-01,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,11,12,13
+2023-03-01,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,<5,14,<5
+2023-03-01,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,18,44,<5
+2023-03-01,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,32,<5,8
+2023-03-01,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,11,9,8
+2023-03-01,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,13,5,9
+2023-03-01,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,5,<5,<5
+2023-03-01,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,10,<5,<5
+2023-03-01,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,10,<5,6
+2023-03-01,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,15,14,13
+2023-03-01,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,16,9,<5
+2023-03-01,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,6,<5,0
+2023-03-01,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,16,6,0
+2023-03-01,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,<5,18,<5
+2023-03-01,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,8,7,0
+2023-03-01,2265,"WATERLOO","St. Andrew's Terrace Long Term Care Community",2926,"Cambridge",128,<5,8,<5
+2023-03-01,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,5,<5,0
+2023-03-01,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,6,7,<5
+2023-03-01,2266,"WELLINGTON-DUFFERIN-GUELPH","The Elliott Long Term Care Residence",M633,"Guelph",85,<5,0,<5
+2023-03-01,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,<5,21,<5
+2023-03-01,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,15,13,<5
+2023-03-01,2236,"HALTON","The Village of Tansley Woods",2854,"Burlington",144,<5,11,<5
+2023-03-01,2270,"YORK REGION","Union Villa",3018,"Unionville",160,5,0,0
+2023-03-01,3895,"TORONTO","Villa Colombo Homes for the Aged",3020,"Toronto",391,<5,38,<5
+2023-03-01,2242,"LAMBTON","Vision Nursing Home",2659,"Sarnia",146,<5,17,20
+2023-03-01,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,16,41,<5
+2023-03-01,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,7,<5,7
+2023-03-02,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,18,22,<5
+2023-03-02,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,<5
+2023-03-02,2253,"PEEL","Cawthra Gardens",2912,"Mississauga",192,<5,17,6
+2023-03-02,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-03-02,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,11,13,<5
+2023-03-02,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,31,19,11
+2023-03-02,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,0
+2023-03-02,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,5,18,6
+2023-03-02,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-03-02,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,<5,9,0
+2023-03-02,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-03-02,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,19,<5,5
+2023-03-02,2251,"OTTAWA","Extendicare Medex",2579,"Ottawa",193,21,5,<5
+2023-03-02,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,<5
+2023-03-02,2237,"HAMILTON","Heritage Green Nursing Home",2776,"Stoney Creek",167,8,10,<5
+2023-03-02,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,6,12,13
+2023-03-02,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,<5,14,<5
+2023-03-02,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,28,44,<5
+2023-03-02,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,30,<5,10
+2023-03-02,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,10,9,7
+2023-03-02,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,13,5,9
+2023-03-02,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,5,<5,<5
+2023-03-02,2240,"CHATHAM-KENT","Meadow Park Nursing Home (Chatham)",2685,"Chatham",99,6,0,<5
+2023-03-02,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,17,<5,8
+2023-03-02,3895,"TORONTO","Mon Sheong Scarborough Long Term Care Centre",2944,"Scarborough",160,<5,<5,0
+2023-03-02,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,6,<5,<5
+2023-03-02,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,15,14,13
+2023-03-02,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,16,9,<5
+2023-03-02,2270,"YORK REGION","River Glen Haven Nursing Home",1021,"Sutton West",119,<5,36,<5
+2023-03-02,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,6,<5,0
+2023-03-02,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,16,6,0
+2023-03-02,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,6,18,5
+2023-03-02,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,8,7,0
+2023-03-02,2237,"HAMILTON","St. Joseph's Villa, Dundas",2975,"Dundas",425,<5,16,0
+2023-03-02,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,6,<5,0
+2023-03-02,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,6,8,<5
+2023-03-02,2266,"WELLINGTON-DUFFERIN-GUELPH","The Elliott Long Term Care Residence",M633,"Guelph",85,<5,0,<5
+2023-03-02,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,6,21,<5
+2023-03-02,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,11,13,<5
+2023-03-02,2236,"HALTON","The Village of Tansley Woods",2854,"Burlington",144,<5,11,<5
+2023-03-02,2270,"YORK REGION","Union Villa",3018,"Unionville",160,5,0,0
+2023-03-02,3895,"TORONTO","Villa Colombo Homes for the Aged",3020,"Toronto",391,<5,38,<5
+2023-03-02,2242,"LAMBTON","Vision Nursing Home",2659,"Sarnia",146,<5,17,20
+2023-03-02,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,16,41,<5
+2023-03-02,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,9,<5,<5
+2023-03-03,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,18,22,<5
+2023-03-03,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,<5
+2023-03-03,2253,"PEEL","Cawthra Gardens",2912,"Mississauga",192,<5,17,5
+2023-03-03,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-03-03,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,8,13,<5
+2023-03-03,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,32,19,7
+2023-03-03,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,<5,15,0
+2023-03-03,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,5,18,6
+2023-03-03,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-03-03,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,<5,9,0
+2023-03-03,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-03-03,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,19,<5,5
+2023-03-03,2251,"OTTAWA","Extendicare Medex",2579,"Ottawa",193,20,5,5
+2023-03-03,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,<5
+2023-03-03,2265,"WATERLOO","Forest Heights",2707,"Kitchener",240,5,56,<5
+2023-03-03,2265,"WATERLOO","Golden Years Nursing Home",1033,"Cambridge",88,<5,<5,<5
+2023-03-03,2237,"HAMILTON","Heritage Green Nursing Home",2776,"Stoney Creek",167,8,10,<5
+2023-03-03,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,5,12,13
+2023-03-03,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,<5,14,<5
+2023-03-03,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,28,44,<5
+2023-03-03,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,25,<5,8
+2023-03-03,2246,"NIAGARA","Linhaven",M551,"St Catherines",248,7,9,5
+2023-03-03,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,13,5,9
+2023-03-03,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,<5,<5,<5
+2023-03-03,2240,"CHATHAM-KENT","Meadow Park Nursing Home (Chatham)",2685,"Chatham",99,6,0,<5
+2023-03-03,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,17,<5,8
+2023-03-03,3895,"TORONTO","Mon Sheong Scarborough Long Term Care Centre",2944,"Scarborough",160,<5,<5,0
+2023-03-03,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,6,<5,<5
+2023-03-03,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,16,14,13
+2023-03-03,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,21,9,<5
+2023-03-03,2270,"YORK REGION","River Glen Haven Nursing Home",1021,"Sutton West",119,<5,36,<5
+2023-03-03,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,6,<5,0
+2023-03-03,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,16,6,0
+2023-03-03,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,10,18,6
+2023-03-03,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,11,7,0
+2023-03-03,2237,"HAMILTON","St. Joseph's Villa, Dundas",2975,"Dundas",425,<5,16,0
+2023-03-03,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,6,<5,0
+2023-03-03,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,6,8,<5
+2023-03-03,2266,"WELLINGTON-DUFFERIN-GUELPH","The Elliott Long Term Care Residence",M633,"Guelph",85,<5,0,<5
+2023-03-03,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,6,21,<5
+2023-03-03,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,11,13,<5
+2023-03-03,2236,"HALTON","The Village of Tansley Woods",2854,"Burlington",144,<5,11,<5
+2023-03-03,3895,"TORONTO","Villa Colombo Homes for the Aged",3020,"Toronto",391,<5,38,<5
+2023-03-03,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,16,41,<5
+2023-03-03,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,9,<5,<5
+2023-03-06,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,14,23,<5
+2023-03-06,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,<5
+2023-03-06,2253,"PEEL","Cawthra Gardens",2912,"Mississauga",192,<5,17,<5
+2023-03-06,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-03-06,2258,"EASTERN ONTARIO","Centre d'Accueil Roger Seguin",2988,"Clarence Creek",113,<5,13,<5
+2023-03-06,2270,"YORK REGION","Chartwell Aurora Long Term Care Residence",2630,"Aurora",235,11,21,<5
+2023-03-06,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,32,19,7
+2023-03-06,2270,"YORK REGION","Chartwell Woodhaven Long Term Care Residence",2888,"Markham",192,0,15,0
+2023-03-06,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,6,18,<5
+2023-03-06,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,9,<5,0
+2023-03-06,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,<5,9,0
+2023-03-06,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-03-06,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,19,<5,5
+2023-03-06,2251,"OTTAWA","Extendicare Medex",2579,"Ottawa",193,28,5,7
+2023-03-06,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,<5
+2023-03-06,2265,"WATERLOO","Forest Heights",2707,"Kitchener",240,5,56,<5
+2023-03-06,2265,"WATERLOO","Golden Years Nursing Home",1033,"Cambridge",88,<5,<5,<5
+2023-03-06,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,<5,12,13
+2023-03-06,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,<5,14,<5
+2023-03-06,2268,"WINDSOR-ESSEX","Huron Lodge Long Term Care Home",M631,"Windsor",224,<5,11,0
+2023-03-06,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,29,44,<5
+2023-03-06,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,23,<5,6
+2023-03-06,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,13,5,9
+2023-03-06,2236,"HALTON","Maple Villa Long Term Care Centre",2408,"Burlington",93,<5,<5,0
+2023-03-06,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,<5,<5,<5
+2023-03-06,2240,"CHATHAM-KENT","Meadow Park Nursing Home (Chatham)",2685,"Chatham",99,7,0,5
+2023-03-06,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,17,<5,8
+2023-03-06,3895,"TORONTO","Mon Sheong Scarborough Long Term Care Centre",2944,"Scarborough",160,<5,<5,0
+2023-03-06,2270,"YORK REGION","Mon Sheong Stouffville Long-Term Care Centre",3055,"Stouffville",320,<5,<5,0
+2023-03-06,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,6,<5,<5
+2023-03-06,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,16,14,13
+2023-03-06,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,13,9,<5
+2023-03-06,2270,"YORK REGION","River Glen Haven Nursing Home",1021,"Sutton West",119,5,36,0
+2023-03-06,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,8,<5,0
+2023-03-06,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,0,6,0
+2023-03-06,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,10,18,6
+2023-03-06,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,7,8,<5
+2023-03-06,2266,"WELLINGTON-DUFFERIN-GUELPH","St. Joseph's Health Centre, Guelph",3011,"Guelph",240,<5,<5,<5
+2023-03-06,2237,"HAMILTON","St. Joseph's Villa, Dundas",2975,"Dundas",425,<5,16,0
+2023-03-06,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,<5,<5,0
+2023-03-06,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,<5,8,<5
+2023-03-06,2260,"SIMCOE-MUSKOKA","The Pines",M564,"Bracebridge",160,<5,6,<5
+2023-03-06,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,6,21,<5
+2023-03-06,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,<5,13,<5
+2023-03-06,2236,"HALTON","The Village of Tansley Woods",2854,"Burlington",144,6,11,<5
+2023-03-06,3895,"TORONTO","Villa Colombo Homes for the Aged",3020,"Toronto",391,<5,38,<5
+2023-03-06,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,16,41,<5
+2023-03-06,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,6,5,<5
+2023-03-07,5183,"HURON PERTH","Blue Water Rest Home",2987,"Zurich",65,16,<5,5
+2023-03-07,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,20,23,6
+2023-03-07,2251,"OTTAWA","Carlingview Manor",2420,"Ottawa",303,<5,61,0
+2023-03-07,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,<5
+2023-03-07,2253,"PEEL","Cawthra Gardens",2912,"Mississauga",192,<5,17,<5
+2023-03-07,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-03-07,2270,"YORK REGION","Chartwell Aurora Long Term Care Residence",2630,"Aurora",235,11,21,<5
+2023-03-07,2268,"WINDSOR-ESSEX","Chartwell Royal Oak Long Term Care Residence",2939,"Kingsville",160,<5,<5,<5
+2023-03-07,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,13,19,<5
+2023-03-07,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,5,18,<5
+2023-03-07,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,8,<5,0
+2023-03-07,2266,"WELLINGTON-DUFFERIN-GUELPH","Dufferin Oaks",M516,"Shelburne",160,<5,9,0
+2023-03-07,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-03-07,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,19,<5,5
+2023-03-07,2251,"OTTAWA","Extendicare Medex",2579,"Ottawa",193,28,5,7
+2023-03-07,2251,"OTTAWA","Extendicare West End Villa",2709,"Ottawa",242,<5,21,<5
+2023-03-07,2265,"WATERLOO","Forest Heights",2707,"Kitchener",240,5,56,<5
+2023-03-07,2260,"SIMCOE-MUSKOKA","Georgian Manor Home for the Aged",M527,"Penetanguishene",146,9,<5,6
+2023-03-07,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,<5,12,16
+2023-03-07,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,9,14,<5
+2023-03-07,2243,"LEEDS,GRENVILLE,LANARK","Hilltop Manor Nursing Home (Merrickville)",2645,"Merrickville",60,8,0,0
+2023-03-07,2268,"WINDSOR-ESSEX","Huron Lodge Long Term Care Home",M631,"Windsor",224,6,11,0
+2023-03-07,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,28,44,<5
+2023-03-07,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,23,<5,6
+2023-03-07,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,13,5,9
+2023-03-07,2236,"HALTON","Maple Villa Long Term Care Centre",2408,"Burlington",93,7,<5,0
+2023-03-07,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,<5,<5,<5
+2023-03-07,2240,"CHATHAM-KENT","Meadow Park Nursing Home (Chatham)",2685,"Chatham",99,7,0,5
+2023-03-07,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,18,<5,8
+2023-03-07,3895,"TORONTO","Mon Sheong Scarborough Long Term Care Centre",2944,"Scarborough",160,<5,<5,0
+2023-03-07,2270,"YORK REGION","Mon Sheong Stouffville Long-Term Care Centre",3055,"Stouffville",320,<5,<5,0
+2023-03-07,2230,"DURHAM","Orchard Villa",2693,"Pickering",233,<5,70,0
+2023-03-07,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,5,<5,<5
+2023-03-07,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,16,14,13
+2023-03-07,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,13,9,<5
+2023-03-07,2270,"YORK REGION","River Glen Haven Nursing Home",1021,"Sutton West",119,5,36,<5
+2023-03-07,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,8,<5,0
+2023-03-07,4913,"SOUTHWESTERN","Secord Trails Care Community",2628,"Ingersoll",80,0,6,0
+2023-03-07,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,10,18,6
+2023-03-07,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,8,8,5
+2023-03-07,2266,"WELLINGTON-DUFFERIN-GUELPH","St. Joseph's Health Centre, Guelph",3011,"Guelph",240,<5,<5,<5
+2023-03-07,2237,"HAMILTON","St. Joseph's Villa, Dundas",2975,"Dundas",425,5,16,<5
+2023-03-07,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,<5,<5,0
+2023-03-07,2268,"WINDSOR-ESSEX","Sun Parlor Home for Senior Citizens",M579,"Leamington",206,<5,8,0
+2023-03-07,2260,"SIMCOE-MUSKOKA","The Pines",M564,"Bracebridge",160,<5,6,<5
+2023-03-07,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,6,21,<5
+2023-03-07,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,<5,13,<5
+2023-03-07,2236,"HALTON","The Village of Tansley Woods",2854,"Burlington",144,6,11,<5
+2023-03-07,3895,"TORONTO","Villa Colombo Homes for the Aged",3020,"Toronto",391,<5,38,<5
+2023-03-07,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,11,41,<5
+2023-03-07,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,<5,5,<5
+2023-03-08,5183,"HURON PERTH","Blue Water Rest Home",2987,"Zurich",65,15,<5,7
+2023-03-08,2260,"SIMCOE-MUSKOKA","Bradford Valley Care Community",2905,"Bradford",246,20,23,6
+2023-03-08,2243,"LEEDS,GRENVILLE,LANARK","Broadview Nursing Centre",2684,"Smiths Falls",75,19,0,19
+2023-03-08,2251,"OTTAWA","Carlingview Manor",2420,"Ottawa",303,<5,61,0
+2023-03-08,2247,"NORTH BAY-PARRY SOUND","Cassellholme",M509,"North Bay",240,<5,<5,<5
+2023-03-08,3895,"TORONTO","Cedarvale Terrace",2591,"Toronto",218,<5,13,0
+2023-03-08,2270,"YORK REGION","Chartwell Aurora Long Term Care Residence",2630,"Aurora",235,12,21,<5
+2023-03-08,2268,"WINDSOR-ESSEX","Chartwell Royal Oak Long Term Care Residence",2939,"Kingsville",160,<5,<5,<5
+2023-03-08,2236,"HALTON","Chartwell Waterford Long Term Care Residence",2908,"Oakville",168,14,19,7
+2023-03-08,2268,"WINDSOR-ESSEX","Country Village Homes - Woodslee",2576,"South Woodslee",104,<5,18,<5
+2023-03-08,2244,"MIDDLESEX-LONDON","Dearness Home for Senior Citizens",M514,"London",243,7,<5,0
+2023-03-08,2270,"YORK REGION","Eagle Terrace",2240,"Newmarket",70,<5,<5,<5
+2023-03-08,2237,"HAMILTON","Extendicare Hamilton",2858,"Hamilton",160,19,<5,<5
+2023-03-08,2251,"OTTAWA","Extendicare Medex",2579,"Ottawa",193,28,5,7
+2023-03-08,2265,"WATERLOO","Forest Heights",2707,"Kitchener",240,6,56,<5
+2023-03-08,2260,"SIMCOE-MUSKOKA","Georgian Manor Home for the Aged",M527,"Penetanguishene",146,9,<5,6
+2023-03-08,2230,"DURHAM","Hillsdale Estates",M539,"Oshawa",300,<5,12,<5
+2023-03-08,2230,"DURHAM","Hillsdale Terraces",M630,"Oshawa",200,13,14,<5
+2023-03-08,2243,"LEEDS,GRENVILLE,LANARK","Hilltop Manor Nursing Home (Merrickville)",2645,"Merrickville",60,8,0,0
+2023-03-08,2268,"WINDSOR-ESSEX","Huron Lodge Long Term Care Home",M631,"Windsor",224,8,11,0
+2023-03-08,3895,"TORONTO","Ivan Franko Home (Etobicoke)",C530,"Toronto",85,<5,<5,0
+2023-03-08,3895,"TORONTO","Kennedy Lodge",2654,"Scarborough",289,20,44,<5
+2023-03-08,2260,"SIMCOE-MUSKOKA","Leacock Care Centre",2835,"Orillia",145,10,<5,6
+2023-03-08,2253,"PEEL","Malton Village Long Term Care Centre",M618,"Mississauga",160,<5,5,<5
+2023-03-08,2236,"HALTON","Maple Villa Long Term Care Centre",2408,"Burlington",93,7,<5,5
+2023-03-08,2244,"MIDDLESEX-LONDON","McGarrell Place",2964,"London",157,<5,<5,<5
+2023-03-08,2240,"CHATHAM-KENT","Meadow Park Nursing Home (Chatham)",2685,"Chatham",99,7,0,5
+2023-03-08,2260,"SIMCOE-MUSKOKA","Mill Creek Care Centre",2981,"Barrie",160,17,<5,6
+2023-03-08,3895,"TORONTO","Mon Sheong Scarborough Long Term Care Centre",2944,"Scarborough",160,<5,<5,0
+2023-03-08,2270,"YORK REGION","Mon Sheong Stouffville Long-Term Care Centre",3055,"Stouffville",320,<5,<5,0
+2023-03-08,2230,"DURHAM","Orchard Villa",2693,"Pickering",233,<5,70,0
+2023-03-08,2241,"KINGSTON FRONTENAC L & A","Pine Meadow Nursing Home",2796,"Northbrook",64,5,<5,<5
+2023-03-08,2261,"SUDBURY","Pioneer Manor",M566,"Sudbury",433,16,14,13
+2023-03-08,2241,"KINGSTON FRONTENAC L & A","Providence Manor",3005,"Kingston",243,<5,9,<5
+2023-03-08,2270,"YORK REGION","River Glen Haven Nursing Home",1021,"Sutton West",119,5,36,<5
+2023-03-08,2240,"CHATHAM-KENT","Riverview Gardens",M626,"Chatham",320,8,<5,0
+2023-03-08,2266,"WELLINGTON-DUFFERIN-GUELPH","Shelburne Long Term Care Home",2762,"Shelburne",60,22,18,12
+2023-03-08,2253,"PEEL","Sheridan Villa",M572,"Mississauga",142,8,8,5
+2023-03-08,2266,"WELLINGTON-DUFFERIN-GUELPH","St. Joseph's Health Centre, Guelph",3011,"Guelph",240,<5,<5,<5
+2023-03-08,2237,"HAMILTON","St. Joseph's Villa, Dundas",2975,"Dundas",425,5,16,<5
+2023-03-08,2243,"LEEDS,GRENVILLE,LANARK","St. Lawrence Lodge",M576,"Brockville",224,<5,<5,0
+2023-03-08,2260,"SIMCOE-MUSKOKA","The Pines",M564,"Bracebridge",160,7,6,<5
+2023-03-08,2253,"PEEL","The Village of Erin Meadows",2881,"Mississauga",180,7,21,<5
+2023-03-08,2266,"WELLINGTON-DUFFERIN-GUELPH","The Village of Riverside Glen",2915,"Guelph",192,<5,13,<5
+2023-03-08,2236,"HALTON","The Village of Tansley Woods",2854,"Burlington",144,6,11,<5
+2023-03-08,3895,"TORONTO","Villa Colombo Homes for the Aged",3020,"Toronto",391,<5,38,<5
+2023-03-08,3895,"TORONTO","Weston Terrace Care Community",2874,"Toronto",224,8,41,<5
+2023-03-08,2270,"YORK REGION","York Region Maple Health Centre",M605,"Maple",100,<5,5,<5
