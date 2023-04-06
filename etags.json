@@ -1,6 +1,6 @@
 {
-    "https://health-infobase.canada.ca/src/data/covidLive/covid19.csv": "\"2867c9df3666d91:0\"",
-    "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-casesovertime.csv": "\"800b1d33666d91:0\"",
+    "https://health-infobase.canada.ca/src/data/covidLive/covid19.csv": "\"80c29cdf3666d91:0\"",
+    "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-casesovertime.csv": "\"ecd810d43666d91:0\"",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-agegroups2.csv": "\"561f7ed43666d91:0\"",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-probableexposure.csv": "\"f69eecd43666d91:0\"",
     "https://health-infobase.canada.ca/src/data/covidLive/covid19-epiSummary-symptoms.csv": "\"b26756d53666d91:0\"",
@@ -56,8 +56,8 @@
     "https://data.ontario.ca/dataset/752ce2b7-c15a-4965-a3dc-397bf405e7cc/resource/2a362139-b782-43b1-b3cb-078a2ef19524/download/vaccines_by_age_phu.csv": "\"1680211230.233141-24922680-899224878\"",
     "https://data.ontario.ca/dataset/752ce2b7-c15a-4965-a3dc-397bf405e7cc/resource/c08620e0-a055-4d35-8cec-875a459642c3/download/cases_by_age_vac_status.csv": "\"1672941947.0-57051-968430905\"",
     "https://data.ontario.ca/dataset/8f3a449b-bde5-4631-ada6-8bd94dbc7d15/resource/e760480e-1f95-4634-a923-98161cfb02fa/download/region_hospital_icu_covid_data.csv": "\"1680210869.630067-224988-873993535\"",
-    "https://data.ontario.ca/dataset/5472ffc1-88e2-48ca-bc9f-4aa249c1298d/resource/d5d8f478-765c-4246-b8a7-c3b13a4a1a41/download/outbreak_cases.csv": "\"1680193114.585005-643354-1102386584\"",
-    "https://data.ontario.ca/dataset/5472ffc1-88e2-48ca-bc9f-4aa249c1298d/resource/36048cc1-3c47-48ff-a49f-8c7840e32cc2/download/ongoing_outbreaks_phu.csv": "\"1680193481.3959653-3759533-1020138915\"",
+    "https://data.ontario.ca/dataset/5472ffc1-88e2-48ca-bc9f-4aa249c1298d/resource/d5d8f478-765c-4246-b8a7-c3b13a4a1a41/download/outbreak_cases.csv": "\"1680798315.5936816-632394-1102386584\"",
+    "https://data.ontario.ca/dataset/5472ffc1-88e2-48ca-bc9f-4aa249c1298d/resource/36048cc1-3c47-48ff-a49f-8c7840e32cc2/download/ongoing_outbreaks_phu.csv": "\"1680798674.5570588-3759533-1020138915\"",
     "https://data.ontario.ca/dataset/5472ffc1-88e2-48ca-bc9f-4aa249c1298d/resource/66d15cce-bfee-4f91-9e6e-0ea79ec52b3d/download/ongoing_outbreaks.csv": "\"1680193540.1564388-719316-1463817928\"",
     "https://data.ontario.ca/dataset/ab5f4a2b-7219-4dc7-9e4d-aa4036c5bf36/resource/05214a0d-d8d9-4ea4-8d2a-f6e3833ba471/download/percent_positive_by_agegrp.csv": "\"1680205494.0255387-133228-1101010370\""
 }
