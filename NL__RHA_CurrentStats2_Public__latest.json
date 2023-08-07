@@ -1,11 +1,1 @@
-
-{
-  "error" : 
-  {
-    "code" : 400, 
-    "message" : "Invalid URL", 
-    "details" : [
-      "Invalid URL"
-    ]
-  }
-}
+{"error":{"code":503,"message":"An error occurred.","details":[]}}
