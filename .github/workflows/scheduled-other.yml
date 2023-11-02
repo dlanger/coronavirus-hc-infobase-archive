@@ -1,101 +1,101 @@
-name: Fetch git-lfs tables
+# name: Fetch git-lfs tables
 
-on:
-  push:
-  repository_dispatch:
-  schedule:
-    - cron:  '15 18 * * *'
+# on:
+#   push:
+#   repository_dispatch:
+#   schedule:
+#     - cron:  '15 18 * * *'
 
-jobs:
-  scheduled-generic:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        include:
-          - url: "https://data.ontario.ca/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/455fd63b-603d-4608-8216-7d8647f43350/download/conposcovidloc.csv" 
-            filename: "ON__conposcovidloc__latest.csv"
-    steps:
-    - name: Create temp directory
-      run: |
-        mkdir -p tmp/cache-generic
-    - name: Download file to temp directory
-      run: |
-        curl "${{matrix.url}}" > "tmp/${{matrix.filename}}"
-        echo "FILE_HASH=$(md5sum tmp/${{matrix.filename}} | cut -d" " -f1)" >> $GITHUB_ENV
-    - name: Check cache
-      uses: actions/cache@v2
-      id: table-cache-check
-      with:
-        path: tmp/cache
-        key: generic-file-${{ env.FILE_HASH }}
-    - name: Check out this repo if hash of zip file isn't known
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      uses: actions/checkout@v2
-      with:
-        lfs: true
-        path: repo
-    - name: Move data files
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      run: |-
-        mv "tmp/${{matrix.filename}}" "repo/${{matrix.filename}}"
-    - name: Commit and push if it changed
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      run: |-
-        cd repo
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0   
-        sleep $[ ( $RANDOM % 10 )  + 1 ]s
-        git pull --rebase
-        git push
+# jobs:
+#   scheduled-generic:
+#     runs-on: ubuntu-latest
+#     strategy:
+#       matrix:
+#         include:
+#           - url: "https://data.ontario.ca/dataset/f4112442-bdc8-45d2-be3c-12efae72fb27/resource/455fd63b-603d-4608-8216-7d8647f43350/download/conposcovidloc.csv" 
+#             filename: "ON__conposcovidloc__latest.csv"
+#     steps:
+#     - name: Create temp directory
+#       run: |
+#         mkdir -p tmp/cache-generic
+#     - name: Download file to temp directory
+#       run: |
+#         curl "${{matrix.url}}" > "tmp/${{matrix.filename}}"
+#         echo "FILE_HASH=$(md5sum tmp/${{matrix.filename}} | cut -d" " -f1)" >> $GITHUB_ENV
+#     - name: Check cache
+#       uses: actions/cache@v2
+#       id: table-cache-check
+#       with:
+#         path: tmp/cache
+#         key: generic-file-${{ env.FILE_HASH }}
+#     - name: Check out this repo if hash of zip file isn't known
+#       if: steps.table-cache-check.outputs.cache-hit != 'true'
+#       uses: actions/checkout@v2
+#       with:
+#         lfs: true
+#         path: repo
+#     - name: Move data files
+#       if: steps.table-cache-check.outputs.cache-hit != 'true'
+#       run: |-
+#         mv "tmp/${{matrix.filename}}" "repo/${{matrix.filename}}"
+#     - name: Commit and push if it changed
+#       if: steps.table-cache-check.outputs.cache-hit != 'true'
+#       run: |-
+#         cd repo
+#         git config user.name "Automated"
+#         git config user.email "actions@users.noreply.github.com"
+#         git add -A
+#         timestamp=$(date -u)
+#         git commit -m "Latest data: ${timestamp}" || exit 0   
+#         sleep $[ ( $RANDOM % 10 )  + 1 ]s
+#         git pull --rebase
+#         git push
 
-  scheduled-statscan:
-    if: ${{ always() }}
-    needs: [scheduled-generic]
-    concurrency: statscan-tables
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        table: ["13100781","13100775","13100774"] # Don't forget to add LFS files into .gitattributes
-    env:
-      TABLE_NUMBER: ${{ matrix.table }}
-    steps:
-    - name: Create temp directory
-      run: |
-        mkdir -p tmp/cache
-    - name: Download table to temp directory
-      run: |
-        curl "https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip" > "tmp/table-$TABLE_NUMBER.zip"
-        echo "TABLE_HASH=$(md5sum tmp/table-$TABLE_NUMBER.zip | cut -d" " -f1)" >> $GITHUB_ENV
-    - name: Check cache
-      uses: actions/cache@v2
-      id: table-cache-check
-      with:
-        path: tmp/cache
-        key: statscan-table-${{ env.TABLE_NUMBER }}--${{ env.TABLE_HASH }}
-    - name: Check out this repo if hash of zip file isn't known
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      uses: actions/checkout@v2
-      with:
-        lfs: true
-        path: repo
-    - name: Unzip data tables
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      run: |-
-        unzip "tmp/table-$TABLE_NUMBER.zip"
-        mv "${TABLE_NUMBER}.csv" "repo/CA__${TABLE_NUMBER}__latest.csv"
-        mv "${TABLE_NUMBER}_MetaData.csv" "repo/CA__${TABLE_NUMBER}_MetaData__latest.csv"
-    - name: Commit and push if it changed
-      if: steps.table-cache-check.outputs.cache-hit != 'true'
-      run: |-
-        cd repo
-        git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
-        git add -A
-        timestamp=$(date -u)
-        git commit -m "Latest data: ${timestamp}" || exit 0
-        sleep $[ ( $RANDOM % 10 )  + 1 ]s
-        git pull --rebase
-        git push
+#   scheduled-statscan:
+#     if: ${{ always() }}
+#     needs: [scheduled-generic]
+#     concurrency: statscan-tables
+#     runs-on: ubuntu-latest
+#     strategy:
+#       matrix:
+#         table: ["13100781","13100775","13100774"] # Don't forget to add LFS files into .gitattributes
+#     env:
+#       TABLE_NUMBER: ${{ matrix.table }}
+#     steps:
+#     - name: Create temp directory
+#       run: |
+#         mkdir -p tmp/cache
+#     - name: Download table to temp directory
+#       run: |
+#         curl "https://www150.statcan.gc.ca/n1/tbl/csv/$TABLE_NUMBER-eng.zip" > "tmp/table-$TABLE_NUMBER.zip"
+#         echo "TABLE_HASH=$(md5sum tmp/table-$TABLE_NUMBER.zip | cut -d" " -f1)" >> $GITHUB_ENV
+#     - name: Check cache
+#       uses: actions/cache@v2
+#       id: table-cache-check
+#       with:
+#         path: tmp/cache
+#         key: statscan-table-${{ env.TABLE_NUMBER }}--${{ env.TABLE_HASH }}
+#     - name: Check out this repo if hash of zip file isn't known
+#       if: steps.table-cache-check.outputs.cache-hit != 'true'
+#       uses: actions/checkout@v2
+#       with:
+#         lfs: true
+#         path: repo
+#     - name: Unzip data tables
+#       if: steps.table-cache-check.outputs.cache-hit != 'true'
+#       run: |-
+#         unzip "tmp/table-$TABLE_NUMBER.zip"
+#         mv "${TABLE_NUMBER}.csv" "repo/CA__${TABLE_NUMBER}__latest.csv"
+#         mv "${TABLE_NUMBER}_MetaData.csv" "repo/CA__${TABLE_NUMBER}_MetaData__latest.csv"
+#     - name: Commit and push if it changed
+#       if: steps.table-cache-check.outputs.cache-hit != 'true'
+#       run: |-
+#         cd repo
+#         git config user.name "Automated"
+#         git config user.email "actions@users.noreply.github.com"
+#         git add -A
+#         timestamp=$(date -u)
+#         git commit -m "Latest data: ${timestamp}" || exit 0
+#         sleep $[ ( $RANDOM % 10 )  + 1 ]s
+#         git pull --rebase
+#         git push
